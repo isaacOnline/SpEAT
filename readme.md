@@ -57,7 +57,8 @@ finetuning` checkpoints. The Whisper models will be automatically downloaded whe
 ## Extracting Embeddings
 Scripts for extracting embeddings are available in the `embedding_extraction` directory (`extract_whisper.py`, 
 `hubert.py`, `wav2vec2.py`, and `wavlm.py`). If you want to extract embeddings for a new dataset, you can add the dataset
-to these files. Embedding extraction was generally the most time consuming part of running this project.
+to these files. Embedding extraction was generally the most time consuming part of running this project. When extracting
+embeddings for Whisper, you'll need to make sure you're using the `extract-embeddings` branch of my Whisper fork.
 
 ## Carrying Out SpEATs and Other Experiments
 Once embeddings have been extracted, you can run the scripts in `plots/eats` to carry out the embedding 
