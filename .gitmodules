@@ -14,3 +14,9 @@
 	path = whisper
 	url = https://github.com/isaacOnline/whisper
 	branch = extract-embeddings
+[submodule "fairseq"]
+	path = fairseq
+	url = https://github.com/facebookresearch/fairseq
+[submodule "unilm"]
+	path = unilm
+	url = https://github.com/microsoft/unilm
