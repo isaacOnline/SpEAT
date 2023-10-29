@@ -1,0 +1,1223 @@
+Using learning rate: 1e-05
+Using sequence aggregation method: mean
+Using optimizer: adam
+Using cpu device
+DimensionPredictor(
+  (softmax): Softmax(dim=0)
+  (first_projection): Linear(in_features=1280, out_features=256, bias=True)
+  (second_projection): Linear(in_features=256, out_features=1, bias=True)
+)
+loss: 0.165721  [    0/ 1575]
+loss: 0.029733  [  160/ 1575]
+loss: 0.033627  [  320/ 1575]
+loss: 0.037616  [  480/ 1575]
+loss: 0.030339  [  640/ 1575]
+loss: 0.032301  [  800/ 1575]
+loss: 0.024923  [  960/ 1575]
+loss: 0.026519  [ 1120/ 1575]
+loss: 0.031780  [ 1280/ 1575]
+loss: 0.038267  [ 1440/ 1575]
+Test Error: 
+MSE: 311.068269
+RMSE: 17.637128
+MAE: 3.983591
+R^2: 0.027496140869074814
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.030117  [    0/ 1575]
+loss: 0.035852  [  160/ 1575]
+loss: 0.030502  [  320/ 1575]
+loss: 0.025602  [  480/ 1575]
+loss: 0.036163  [  640/ 1575]
+loss: 0.023003  [  800/ 1575]
+loss: 0.035618  [  960/ 1575]
+loss: 0.028927  [ 1120/ 1575]
+loss: 0.026406  [ 1280/ 1575]
+loss: 0.031440  [ 1440/ 1575]
+Test Error: 
+MSE: 295.376431
+RMSE: 17.186519
+MAE: 3.944836
+R^2: 0.07655409540629565
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.026409  [    0/ 1575]
+loss: 0.029376  [  160/ 1575]
+loss: 0.035069  [  320/ 1575]
+loss: 0.029352  [  480/ 1575]
+loss: 0.027194  [  640/ 1575]
+loss: 0.031310  [  800/ 1575]
+loss: 0.033074  [  960/ 1575]
+loss: 0.028389  [ 1120/ 1575]
+loss: 0.028339  [ 1280/ 1575]
+loss: 0.024253  [ 1440/ 1575]
+Test Error: 
+MSE: 288.742630
+RMSE: 16.992429
+MAE: 3.911261
+R^2: 0.09729358452073034
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.027659  [    0/ 1575]
+loss: 0.030557  [  160/ 1575]
+loss: 0.024863  [  320/ 1575]
+loss: 0.022205  [  480/ 1575]
+loss: 0.027874  [  640/ 1575]
+loss: 0.027768  [  800/ 1575]
+loss: 0.024204  [  960/ 1575]
+loss: 0.024410  [ 1120/ 1575]
+loss: 0.034214  [ 1280/ 1575]
+loss: 0.030631  [ 1440/ 1575]
+Test Error: 
+MSE: 286.849781
+RMSE: 16.936640
+MAE: 3.883077
+R^2: 0.10321126602614017
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.035581  [    0/ 1575]
+loss: 0.024158  [  160/ 1575]
+loss: 0.029833  [  320/ 1575]
+loss: 0.027269  [  480/ 1575]
+loss: 0.023441  [  640/ 1575]
+loss: 0.024881  [  800/ 1575]
+loss: 0.021981  [  960/ 1575]
+loss: 0.022085  [ 1120/ 1575]
+loss: 0.019868  [ 1280/ 1575]
+loss: 0.032208  [ 1440/ 1575]
+Test Error: 
+MSE: 260.069638
+RMSE: 16.126675
+MAE: 3.818758
+R^2: 0.1869349860251921
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.021301  [    0/ 1575]
+loss: 0.026751  [  160/ 1575]
+loss: 0.026407  [  320/ 1575]
+loss: 0.027417  [  480/ 1575]
+loss: 0.020283  [  640/ 1575]
+loss: 0.020222  [  800/ 1575]
+loss: 0.030787  [  960/ 1575]
+loss: 0.024293  [ 1120/ 1575]
+loss: 0.026674  [ 1280/ 1575]
+loss: 0.019036  [ 1440/ 1575]
+Test Error: 
+MSE: 248.564488
+RMSE: 15.765928
+MAE: 3.773088
+R^2: 0.2229039489633844
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.024406  [    0/ 1575]
+loss: 0.021846  [  160/ 1575]
+loss: 0.025375  [  320/ 1575]
+loss: 0.022877  [  480/ 1575]
+loss: 0.022057  [  640/ 1575]
+loss: 0.022087  [  800/ 1575]
+loss: 0.023358  [  960/ 1575]
+loss: 0.020818  [ 1120/ 1575]
+loss: 0.028521  [ 1280/ 1575]
+loss: 0.024926  [ 1440/ 1575]
+Test Error: 
+MSE: 248.918847
+RMSE: 15.777162
+MAE: 3.740034
+R^2: 0.2217961027911316
+loss: 0.025879  [    0/ 1575]
+loss: 0.022674  [  160/ 1575]
+loss: 0.022948  [  320/ 1575]
+loss: 0.020349  [  480/ 1575]
+loss: 0.025110  [  640/ 1575]
+loss: 0.026274  [  800/ 1575]
+loss: 0.022678  [  960/ 1575]
+loss: 0.020962  [ 1120/ 1575]
+loss: 0.022902  [ 1280/ 1575]
+loss: 0.019007  [ 1440/ 1575]
+Test Error: 
+MSE: 240.082302
+RMSE: 15.494589
+MAE: 3.698333
+R^2: 0.24942210902501516
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.022864  [    0/ 1575]
+loss: 0.020347  [  160/ 1575]
+loss: 0.023656  [  320/ 1575]
+loss: 0.020625  [  480/ 1575]
+loss: 0.018537  [  640/ 1575]
+loss: 0.021433  [  800/ 1575]
+loss: 0.020630  [  960/ 1575]
+loss: 0.026358  [ 1120/ 1575]
+loss: 0.019904  [ 1280/ 1575]
+loss: 0.021309  [ 1440/ 1575]
+Test Error: 
+MSE: 221.302613
+RMSE: 14.876243
+MAE: 3.638228
+R^2: 0.3081337239277907
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.025010  [    0/ 1575]
+loss: 0.020769  [  160/ 1575]
+loss: 0.020840  [  320/ 1575]
+loss: 0.021767  [  480/ 1575]
+loss: 0.022205  [  640/ 1575]
+loss: 0.014208  [  800/ 1575]
+loss: 0.021181  [  960/ 1575]
+loss: 0.018717  [ 1120/ 1575]
+loss: 0.020748  [ 1280/ 1575]
+loss: 0.016965  [ 1440/ 1575]
+Test Error: 
+MSE: 208.111573
+RMSE: 14.426073
+MAE: 3.595708
+R^2: 0.3493733437786405
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.021496  [    0/ 1575]
+loss: 0.019492  [  160/ 1575]
+loss: 0.021391  [  320/ 1575]
+loss: 0.023860  [  480/ 1575]
+loss: 0.020136  [  640/ 1575]
+loss: 0.017957  [  800/ 1575]
+loss: 0.019922  [  960/ 1575]
+loss: 0.022756  [ 1120/ 1575]
+loss: 0.022370  [ 1280/ 1575]
+loss: 0.019132  [ 1440/ 1575]
+Test Error: 
+MSE: 212.476508
+RMSE: 14.576574
+MAE: 3.572858
+R^2: 0.3357270899509963
+loss: 0.022399  [    0/ 1575]
+loss: 0.015672  [  160/ 1575]
+loss: 0.029037  [  320/ 1575]
+loss: 0.021751  [  480/ 1575]
+loss: 0.016474  [  640/ 1575]
+loss: 0.015720  [  800/ 1575]
+loss: 0.025640  [  960/ 1575]
+loss: 0.027660  [ 1120/ 1575]
+loss: 0.021441  [ 1280/ 1575]
+loss: 0.015504  [ 1440/ 1575]
+Test Error: 
+MSE: 215.458603
+RMSE: 14.678508
+MAE: 3.544321
+R^2: 0.3264040597016865
+loss: 0.021126  [    0/ 1575]
+loss: 0.020141  [  160/ 1575]
+loss: 0.017960  [  320/ 1575]
+loss: 0.019506  [  480/ 1575]
+loss: 0.021968  [  640/ 1575]
+loss: 0.018089  [  800/ 1575]
+loss: 0.019690  [  960/ 1575]
+loss: 0.021330  [ 1120/ 1575]
+loss: 0.017416  [ 1280/ 1575]
+loss: 0.016690  [ 1440/ 1575]
+Test Error: 
+MSE: 181.571450
+RMSE: 13.474845
+MAE: 3.463592
+R^2: 0.4323466784064566
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.020344  [    0/ 1575]
+loss: 0.022052  [  160/ 1575]
+loss: 0.015205  [  320/ 1575]
+loss: 0.013251  [  480/ 1575]
+loss: 0.014807  [  640/ 1575]
+loss: 0.017546  [  800/ 1575]
+loss: 0.017860  [  960/ 1575]
+loss: 0.015761  [ 1120/ 1575]
+loss: 0.017757  [ 1280/ 1575]
+loss: 0.016233  [ 1440/ 1575]
+Test Error: 
+MSE: 178.382120
+RMSE: 13.355977
+MAE: 3.432243
+R^2: 0.4423175965569245
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.015934  [    0/ 1575]
+loss: 0.013043  [  160/ 1575]
+loss: 0.017519  [  320/ 1575]
+loss: 0.020906  [  480/ 1575]
+loss: 0.023934  [  640/ 1575]
+loss: 0.020237  [  800/ 1575]
+loss: 0.018693  [  960/ 1575]
+loss: 0.019160  [ 1120/ 1575]
+loss: 0.018882  [ 1280/ 1575]
+loss: 0.012461  [ 1440/ 1575]
+Test Error: 
+MSE: 168.125855
+RMSE: 12.966335
+MAE: 3.384517
+R^2: 0.4743821249354294
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.014315  [    0/ 1575]
+loss: 0.012216  [  160/ 1575]
+loss: 0.017287  [  320/ 1575]
+loss: 0.014296  [  480/ 1575]
+loss: 0.013357  [  640/ 1575]
+loss: 0.017082  [  800/ 1575]
+loss: 0.015410  [  960/ 1575]
+loss: 0.015273  [ 1120/ 1575]
+loss: 0.015928  [ 1280/ 1575]
+loss: 0.018038  [ 1440/ 1575]
+Test Error: 
+MSE: 168.983688
+RMSE: 12.999373
+MAE: 3.352681
+R^2: 0.4717002513839894
+loss: 0.014237  [    0/ 1575]
+loss: 0.022272  [  160/ 1575]
+loss: 0.019564  [  320/ 1575]
+loss: 0.014511  [  480/ 1575]
+loss: 0.013922  [  640/ 1575]
+loss: 0.015817  [  800/ 1575]
+loss: 0.016579  [  960/ 1575]
+loss: 0.012287  [ 1120/ 1575]
+loss: 0.015296  [ 1280/ 1575]
+loss: 0.022015  [ 1440/ 1575]
+Test Error: 
+MSE: 160.615679
+RMSE: 12.673424
+MAE: 3.324133
+R^2: 0.49786145595069287
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.011001  [    0/ 1575]
+loss: 0.020068  [  160/ 1575]
+loss: 0.014815  [  320/ 1575]
+loss: 0.012217  [  480/ 1575]
+loss: 0.016524  [  640/ 1575]
+loss: 0.017880  [  800/ 1575]
+loss: 0.015857  [  960/ 1575]
+loss: 0.014065  [ 1120/ 1575]
+loss: 0.021398  [ 1280/ 1575]
+loss: 0.014441  [ 1440/ 1575]
+Test Error: 
+MSE: 152.743599
+RMSE: 12.358948
+MAE: 3.281841
+R^2: 0.5224722213317001
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.017795  [    0/ 1575]
+loss: 0.017387  [  160/ 1575]
+loss: 0.012933  [  320/ 1575]
+loss: 0.015103  [  480/ 1575]
+loss: 0.014200  [  640/ 1575]
+loss: 0.014733  [  800/ 1575]
+loss: 0.016137  [  960/ 1575]
+loss: 0.018406  [ 1120/ 1575]
+loss: 0.013608  [ 1280/ 1575]
+loss: 0.015629  [ 1440/ 1575]
+Test Error: 
+MSE: 146.366107
+RMSE: 12.098186
+MAE: 3.232580
+R^2: 0.5424104020957912
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.023825  [    0/ 1575]
+loss: 0.009975  [  160/ 1575]
+loss: 0.014200  [  320/ 1575]
+loss: 0.014365  [  480/ 1575]
+loss: 0.012286  [  640/ 1575]
+loss: 0.007443  [  800/ 1575]
+loss: 0.014625  [  960/ 1575]
+loss: 0.011064  [ 1120/ 1575]
+loss: 0.011514  [ 1280/ 1575]
+loss: 0.019779  [ 1440/ 1575]
+Test Error: 
+MSE: 145.334496
+RMSE: 12.055476
+MAE: 3.222122
+R^2: 0.5456355642648336
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.016195  [    0/ 1575]
+loss: 0.012859  [  160/ 1575]
+loss: 0.018289  [  320/ 1575]
+loss: 0.013934  [  480/ 1575]
+loss: 0.012540  [  640/ 1575]
+loss: 0.013783  [  800/ 1575]
+loss: 0.014185  [  960/ 1575]
+loss: 0.017948  [ 1120/ 1575]
+loss: 0.012643  [ 1280/ 1575]
+loss: 0.009125  [ 1440/ 1575]
+Test Error: 
+MSE: 133.936951
+RMSE: 11.573113
+MAE: 3.165084
+R^2: 0.5812681188349849
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.012158  [    0/ 1575]
+loss: 0.011888  [  160/ 1575]
+loss: 0.015837  [  320/ 1575]
+loss: 0.014906  [  480/ 1575]
+loss: 0.007302  [  640/ 1575]
+loss: 0.019549  [  800/ 1575]
+loss: 0.013041  [  960/ 1575]
+loss: 0.013284  [ 1120/ 1575]
+loss: 0.013946  [ 1280/ 1575]
+loss: 0.015889  [ 1440/ 1575]
+Test Error: 
+MSE: 135.578307
+RMSE: 11.643810
+MAE: 3.130732
+R^2: 0.5761366893995656
+loss: 0.009529  [    0/ 1575]
+loss: 0.010496  [  160/ 1575]
+loss: 0.010778  [  320/ 1575]
+loss: 0.013270  [  480/ 1575]
+loss: 0.015147  [  640/ 1575]
+loss: 0.009832  [  800/ 1575]
+loss: 0.015192  [  960/ 1575]
+loss: 0.016134  [ 1120/ 1575]
+loss: 0.017972  [ 1280/ 1575]
+loss: 0.016440  [ 1440/ 1575]
+Test Error: 
+MSE: 125.383897
+RMSE: 11.197495
+MAE: 3.100733
+R^2: 0.608007837199118
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.010842  [    0/ 1575]
+loss: 0.012198  [  160/ 1575]
+loss: 0.012931  [  320/ 1575]
+loss: 0.008682  [  480/ 1575]
+loss: 0.012538  [  640/ 1575]
+loss: 0.011489  [  800/ 1575]
+loss: 0.013658  [  960/ 1575]
+loss: 0.007654  [ 1120/ 1575]
+loss: 0.014340  [ 1280/ 1575]
+loss: 0.018013  [ 1440/ 1575]
+Test Error: 
+MSE: 120.007335
+RMSE: 10.954786
+MAE: 3.055525
+R^2: 0.6248167736620429
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.015194  [    0/ 1575]
+loss: 0.016087  [  160/ 1575]
+loss: 0.018674  [  320/ 1575]
+loss: 0.011799  [  480/ 1575]
+loss: 0.010090  [  640/ 1575]
+loss: 0.011927  [  800/ 1575]
+loss: 0.013981  [  960/ 1575]
+loss: 0.011257  [ 1120/ 1575]
+loss: 0.010041  [ 1280/ 1575]
+loss: 0.011705  [ 1440/ 1575]
+Test Error: 
+MSE: 119.192074
+RMSE: 10.917512
+MAE: 3.045550
+R^2: 0.6273655559684594
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.015426  [    0/ 1575]
+loss: 0.013377  [  160/ 1575]
+loss: 0.015657  [  320/ 1575]
+loss: 0.006950  [  480/ 1575]
+loss: 0.011710  [  640/ 1575]
+loss: 0.015119  [  800/ 1575]
+loss: 0.011392  [  960/ 1575]
+loss: 0.012366  [ 1120/ 1575]
+loss: 0.008975  [ 1280/ 1575]
+loss: 0.007224  [ 1440/ 1575]
+Test Error: 
+MSE: 113.037010
+RMSE: 10.631886
+MAE: 3.003684
+R^2: 0.6466083519547087
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.011328  [    0/ 1575]
+loss: 0.013022  [  160/ 1575]
+loss: 0.009169  [  320/ 1575]
+loss: 0.011674  [  480/ 1575]
+loss: 0.012644  [  640/ 1575]
+loss: 0.008189  [  800/ 1575]
+loss: 0.009843  [  960/ 1575]
+loss: 0.010235  [ 1120/ 1575]
+loss: 0.009232  [ 1280/ 1575]
+loss: 0.008486  [ 1440/ 1575]
+Test Error: 
+MSE: 109.662221
+RMSE: 10.471973
+MAE: 2.959760
+R^2: 0.6571590742740272
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.010506  [    0/ 1575]
+loss: 0.011903  [  160/ 1575]
+loss: 0.016849  [  320/ 1575]
+loss: 0.008264  [  480/ 1575]
+loss: 0.008469  [  640/ 1575]
+loss: 0.008819  [  800/ 1575]
+loss: 0.007824  [  960/ 1575]
+loss: 0.006940  [ 1120/ 1575]
+loss: 0.014956  [ 1280/ 1575]
+loss: 0.012763  [ 1440/ 1575]
+Test Error: 
+MSE: 108.214769
+RMSE: 10.402633
+MAE: 2.931396
+R^2: 0.6616842953732971
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.008678  [    0/ 1575]
+loss: 0.007601  [  160/ 1575]
+loss: 0.009501  [  320/ 1575]
+loss: 0.010617  [  480/ 1575]
+loss: 0.009778  [  640/ 1575]
+loss: 0.006485  [  800/ 1575]
+loss: 0.012124  [  960/ 1575]
+loss: 0.012308  [ 1120/ 1575]
+loss: 0.010644  [ 1280/ 1575]
+loss: 0.012289  [ 1440/ 1575]
+Test Error: 
+MSE: 101.561617
+RMSE: 10.077778
+MAE: 2.899089
+R^2: 0.6824842842241527
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.011405  [    0/ 1575]
+loss: 0.011599  [  160/ 1575]
+loss: 0.012963  [  320/ 1575]
+loss: 0.009798  [  480/ 1575]
+loss: 0.009847  [  640/ 1575]
+loss: 0.010987  [  800/ 1575]
+loss: 0.011293  [  960/ 1575]
+loss: 0.012187  [ 1120/ 1575]
+loss: 0.011569  [ 1280/ 1575]
+loss: 0.007711  [ 1440/ 1575]
+Test Error: 
+MSE: 98.295076
+RMSE: 9.914387
+MAE: 2.871776
+R^2: 0.6926965861426081
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.010143  [    0/ 1575]
+loss: 0.010196  [  160/ 1575]
+loss: 0.011300  [  320/ 1575]
+loss: 0.009424  [  480/ 1575]
+loss: 0.009698  [  640/ 1575]
+loss: 0.010117  [  800/ 1575]
+loss: 0.006557  [  960/ 1575]
+loss: 0.011732  [ 1120/ 1575]
+loss: 0.009185  [ 1280/ 1575]
+loss: 0.005048  [ 1440/ 1575]
+Test Error: 
+MSE: 104.695311
+RMSE: 10.232073
+MAE: 2.908771
+R^2: 0.6726873042855245
+loss: 0.006307  [    0/ 1575]
+loss: 0.007173  [  160/ 1575]
+loss: 0.009406  [  320/ 1575]
+loss: 0.012248  [  480/ 1575]
+loss: 0.011365  [  640/ 1575]
+loss: 0.008376  [  800/ 1575]
+loss: 0.012746  [  960/ 1575]
+loss: 0.007807  [ 1120/ 1575]
+loss: 0.008419  [ 1280/ 1575]
+loss: 0.007920  [ 1440/ 1575]
+Test Error: 
+MSE: 100.170318
+RMSE: 10.008512
+MAE: 2.838266
+R^2: 0.6868339524109351
+loss: 0.010084  [    0/ 1575]
+loss: 0.010133  [  160/ 1575]
+loss: 0.012898  [  320/ 1575]
+loss: 0.007803  [  480/ 1575]
+loss: 0.009903  [  640/ 1575]
+loss: 0.006904  [  800/ 1575]
+loss: 0.009099  [  960/ 1575]
+loss: 0.008070  [ 1120/ 1575]
+loss: 0.007636  [ 1280/ 1575]
+loss: 0.006840  [ 1440/ 1575]
+Test Error: 
+MSE: 91.913124
+RMSE: 9.587133
+MAE: 2.788609
+R^2: 0.7126487127963363
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.008018  [    0/ 1575]
+loss: 0.006369  [  160/ 1575]
+loss: 0.008189  [  320/ 1575]
+loss: 0.012393  [  480/ 1575]
+loss: 0.006769  [  640/ 1575]
+loss: 0.007601  [  800/ 1575]
+loss: 0.009423  [  960/ 1575]
+loss: 0.007755  [ 1120/ 1575]
+loss: 0.011939  [ 1280/ 1575]
+loss: 0.007087  [ 1440/ 1575]
+Test Error: 
+MSE: 87.516254
+RMSE: 9.355012
+MAE: 2.768035
+R^2: 0.7263948031755179
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.008370  [    0/ 1575]
+loss: 0.009922  [  160/ 1575]
+loss: 0.007695  [  320/ 1575]
+loss: 0.005155  [  480/ 1575]
+loss: 0.008978  [  640/ 1575]
+loss: 0.011135  [  800/ 1575]
+loss: 0.009601  [  960/ 1575]
+loss: 0.010756  [ 1120/ 1575]
+loss: 0.009452  [ 1280/ 1575]
+loss: 0.011498  [ 1440/ 1575]
+Test Error: 
+MSE: 85.215879
+RMSE: 9.231245
+MAE: 2.745107
+R^2: 0.7335865494289169
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.009101  [    0/ 1575]
+loss: 0.008755  [  160/ 1575]
+loss: 0.005418  [  320/ 1575]
+loss: 0.006157  [  480/ 1575]
+loss: 0.006297  [  640/ 1575]
+loss: 0.012364  [  800/ 1575]
+loss: 0.004197  [  960/ 1575]
+loss: 0.008120  [ 1120/ 1575]
+loss: 0.006090  [ 1280/ 1575]
+loss: 0.009428  [ 1440/ 1575]
+Test Error: 
+MSE: 83.050278
+RMSE: 9.113193
+MAE: 2.722440
+R^2: 0.740356943778012
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.005940  [    0/ 1575]
+loss: 0.008509  [  160/ 1575]
+loss: 0.008664  [  320/ 1575]
+loss: 0.006509  [  480/ 1575]
+loss: 0.007932  [  640/ 1575]
+loss: 0.008860  [  800/ 1575]
+loss: 0.008381  [  960/ 1575]
+loss: 0.007199  [ 1120/ 1575]
+loss: 0.010882  [ 1280/ 1575]
+loss: 0.008836  [ 1440/ 1575]
+Test Error: 
+MSE: 81.481954
+RMSE: 9.026735
+MAE: 2.691083
+R^2: 0.745260053029107
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.010081  [    0/ 1575]
+loss: 0.010088  [  160/ 1575]
+loss: 0.005307  [  320/ 1575]
+loss: 0.006945  [  480/ 1575]
+loss: 0.005315  [  640/ 1575]
+loss: 0.006139  [  800/ 1575]
+loss: 0.006714  [  960/ 1575]
+loss: 0.008201  [ 1120/ 1575]
+loss: 0.009222  [ 1280/ 1575]
+loss: 0.006601  [ 1440/ 1575]
+Test Error: 
+MSE: 99.173835
+RMSE: 9.958606
+MAE: 2.818294
+R^2: 0.6899492922656134
+loss: 0.009978  [    0/ 1575]
+loss: 0.005697  [  160/ 1575]
+loss: 0.009105  [  320/ 1575]
+loss: 0.006296  [  480/ 1575]
+loss: 0.006571  [  640/ 1575]
+loss: 0.008086  [  800/ 1575]
+loss: 0.005936  [  960/ 1575]
+loss: 0.007390  [ 1120/ 1575]
+loss: 0.005716  [ 1280/ 1575]
+loss: 0.009252  [ 1440/ 1575]
+Test Error: 
+MSE: 89.110711
+RMSE: 9.439847
+MAE: 2.741304
+R^2: 0.7214099950202919
+loss: 0.007792  [    0/ 1575]
+loss: 0.007627  [  160/ 1575]
+loss: 0.008663  [  320/ 1575]
+loss: 0.009879  [  480/ 1575]
+loss: 0.006659  [  640/ 1575]
+loss: 0.007865  [  800/ 1575]
+loss: 0.005671  [  960/ 1575]
+loss: 0.004996  [ 1120/ 1575]
+loss: 0.005557  [ 1280/ 1575]
+loss: 0.007563  [ 1440/ 1575]
+Test Error: 
+MSE: 76.884601
+RMSE: 8.768386
+MAE: 2.664986
+R^2: 0.7596329203477795
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.005294  [    0/ 1575]
+loss: 0.005370  [  160/ 1575]
+loss: 0.007185  [  320/ 1575]
+loss: 0.005240  [  480/ 1575]
+loss: 0.004183  [  640/ 1575]
+loss: 0.009114  [  800/ 1575]
+loss: 0.008583  [  960/ 1575]
+loss: 0.006982  [ 1120/ 1575]
+loss: 0.008367  [ 1280/ 1575]
+loss: 0.005751  [ 1440/ 1575]
+Test Error: 
+MSE: 73.832059
+RMSE: 8.592558
+MAE: 2.612033
+R^2: 0.7691761910657853
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.003576  [    0/ 1575]
+loss: 0.006166  [  160/ 1575]
+loss: 0.005696  [  320/ 1575]
+loss: 0.005414  [  480/ 1575]
+loss: 0.005849  [  640/ 1575]
+loss: 0.005741  [  800/ 1575]
+loss: 0.006761  [  960/ 1575]
+loss: 0.010832  [ 1120/ 1575]
+loss: 0.006025  [ 1280/ 1575]
+loss: 0.009271  [ 1440/ 1575]
+Test Error: 
+MSE: 73.332616
+RMSE: 8.563447
+MAE: 2.603450
+R^2: 0.7707376186665965
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.007899  [    0/ 1575]
+loss: 0.003683  [  160/ 1575]
+loss: 0.006739  [  320/ 1575]
+loss: 0.007954  [  480/ 1575]
+loss: 0.006801  [  640/ 1575]
+loss: 0.004739  [  800/ 1575]
+loss: 0.008091  [  960/ 1575]
+loss: 0.005170  [ 1120/ 1575]
+loss: 0.004513  [ 1280/ 1575]
+loss: 0.009287  [ 1440/ 1575]
+Test Error: 
+MSE: 82.731538
+RMSE: 9.095688
+MAE: 2.689430
+R^2: 0.7413534337430339
+loss: 0.008956  [    0/ 1575]
+loss: 0.007750  [  160/ 1575]
+loss: 0.006436  [  320/ 1575]
+loss: 0.004522  [  480/ 1575]
+loss: 0.006110  [  640/ 1575]
+loss: 0.008123  [  800/ 1575]
+loss: 0.005687  [  960/ 1575]
+loss: 0.004840  [ 1120/ 1575]
+loss: 0.003318  [ 1280/ 1575]
+loss: 0.007402  [ 1440/ 1575]
+Test Error: 
+MSE: 72.474078
+RMSE: 8.513171
+MAE: 2.594386
+R^2: 0.7734216972240073
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.004293  [    0/ 1575]
+loss: 0.004946  [  160/ 1575]
+loss: 0.006981  [  320/ 1575]
+loss: 0.005389  [  480/ 1575]
+loss: 0.006995  [  640/ 1575]
+loss: 0.007748  [  800/ 1575]
+loss: 0.005996  [  960/ 1575]
+loss: 0.006722  [ 1120/ 1575]
+loss: 0.010797  [ 1280/ 1575]
+loss: 0.009934  [ 1440/ 1575]
+Test Error: 
+MSE: 70.211579
+RMSE: 8.379235
+MAE: 2.573400
+R^2: 0.7804950290939181
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.012255  [    0/ 1575]
+loss: 0.005998  [  160/ 1575]
+loss: 0.008857  [  320/ 1575]
+loss: 0.005515  [  480/ 1575]
+loss: 0.005877  [  640/ 1575]
+loss: 0.004756  [  800/ 1575]
+loss: 0.004653  [  960/ 1575]
+loss: 0.011276  [ 1120/ 1575]
+loss: 0.005980  [ 1280/ 1575]
+loss: 0.006342  [ 1440/ 1575]
+Test Error: 
+MSE: 67.084834
+RMSE: 8.190533
+MAE: 2.553708
+R^2: 0.7902702838668733
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.004620  [    0/ 1575]
+loss: 0.006482  [  160/ 1575]
+loss: 0.005805  [  320/ 1575]
+loss: 0.005853  [  480/ 1575]
+loss: 0.006608  [  640/ 1575]
+loss: 0.005036  [  800/ 1575]
+loss: 0.005574  [  960/ 1575]
+loss: 0.006430  [ 1120/ 1575]
+loss: 0.004640  [ 1280/ 1575]
+loss: 0.003639  [ 1440/ 1575]
+Test Error: 
+MSE: 64.970894
+RMSE: 8.060452
+MAE: 2.525300
+R^2: 0.7968791703876926
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.007634  [    0/ 1575]
+loss: 0.003396  [  160/ 1575]
+loss: 0.004684  [  320/ 1575]
+loss: 0.006898  [  480/ 1575]
+loss: 0.004444  [  640/ 1575]
+loss: 0.008929  [  800/ 1575]
+loss: 0.006367  [  960/ 1575]
+loss: 0.007618  [ 1120/ 1575]
+loss: 0.003464  [ 1280/ 1575]
+loss: 0.006837  [ 1440/ 1575]
+Test Error: 
+MSE: 63.845757
+RMSE: 7.990354
+MAE: 2.514765
+R^2: 0.8003967269730653
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.007704  [    0/ 1575]
+loss: 0.004299  [  160/ 1575]
+loss: 0.006466  [  320/ 1575]
+loss: 0.005510  [  480/ 1575]
+loss: 0.006368  [  640/ 1575]
+loss: 0.006551  [  800/ 1575]
+loss: 0.007959  [  960/ 1575]
+loss: 0.005121  [ 1120/ 1575]
+loss: 0.006169  [ 1280/ 1575]
+loss: 0.005633  [ 1440/ 1575]
+Test Error: 
+MSE: 63.168438
+RMSE: 7.947857
+MAE: 2.507017
+R^2: 0.8025142509656708
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.004109  [    0/ 1575]
+loss: 0.006592  [  160/ 1575]
+loss: 0.005145  [  320/ 1575]
+loss: 0.006069  [  480/ 1575]
+loss: 0.004496  [  640/ 1575]
+loss: 0.004553  [  800/ 1575]
+loss: 0.006867  [  960/ 1575]
+loss: 0.007139  [ 1120/ 1575]
+loss: 0.003976  [ 1280/ 1575]
+loss: 0.005871  [ 1440/ 1575]
+Test Error: 
+MSE: 63.880877
+RMSE: 7.992551
+MAE: 2.514394
+R^2: 0.8002869274794004
+loss: 0.005163  [    0/ 1575]
+loss: 0.004316  [  160/ 1575]
+loss: 0.003623  [  320/ 1575]
+loss: 0.003386  [  480/ 1575]
+loss: 0.006590  [  640/ 1575]
+loss: 0.004633  [  800/ 1575]
+loss: 0.005214  [  960/ 1575]
+loss: 0.008211  [ 1120/ 1575]
+loss: 0.006127  [ 1280/ 1575]
+loss: 0.008781  [ 1440/ 1575]
+Test Error: 
+MSE: 60.528841
+RMSE: 7.780028
+MAE: 2.477602
+R^2: 0.8107665185689888
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.005779  [    0/ 1575]
+loss: 0.006726  [  160/ 1575]
+loss: 0.006554  [  320/ 1575]
+loss: 0.007666  [  480/ 1575]
+loss: 0.008866  [  640/ 1575]
+loss: 0.004864  [  800/ 1575]
+loss: 0.005095  [  960/ 1575]
+loss: 0.004677  [ 1120/ 1575]
+loss: 0.006892  [ 1280/ 1575]
+loss: 0.009246  [ 1440/ 1575]
+Test Error: 
+MSE: 70.399980
+RMSE: 8.390470
+MAE: 2.586978
+R^2: 0.7799060225741468
+loss: 0.009622  [    0/ 1575]
+loss: 0.005065  [  160/ 1575]
+loss: 0.009216  [  320/ 1575]
+loss: 0.004478  [  480/ 1575]
+loss: 0.007906  [  640/ 1575]
+loss: 0.003849  [  800/ 1575]
+loss: 0.004520  [  960/ 1575]
+loss: 0.004569  [ 1120/ 1575]
+loss: 0.004757  [ 1280/ 1575]
+loss: 0.004606  [ 1440/ 1575]
+Test Error: 
+MSE: 60.532503
+RMSE: 7.780264
+MAE: 2.479362
+R^2: 0.8107550703324298
+loss: 0.006756  [    0/ 1575]
+loss: 0.004636  [  160/ 1575]
+loss: 0.004876  [  320/ 1575]
+loss: 0.003597  [  480/ 1575]
+loss: 0.004676  [  640/ 1575]
+loss: 0.004916  [  800/ 1575]
+loss: 0.006777  [  960/ 1575]
+loss: 0.004229  [ 1120/ 1575]
+loss: 0.004465  [ 1280/ 1575]
+loss: 0.005050  [ 1440/ 1575]
+Test Error: 
+MSE: 58.703945
+RMSE: 7.661850
+MAE: 2.461029
+R^2: 0.816471755617711
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.002962  [    0/ 1575]
+loss: 0.006225  [  160/ 1575]
+loss: 0.007573  [  320/ 1575]
+loss: 0.006260  [  480/ 1575]
+loss: 0.004511  [  640/ 1575]
+loss: 0.003126  [  800/ 1575]
+loss: 0.008733  [  960/ 1575]
+loss: 0.005059  [ 1120/ 1575]
+loss: 0.005986  [ 1280/ 1575]
+loss: 0.005052  [ 1440/ 1575]
+Test Error: 
+MSE: 62.486379
+RMSE: 7.904833
+MAE: 2.498658
+R^2: 0.8046465962706879
+loss: 0.004218  [    0/ 1575]
+loss: 0.005256  [  160/ 1575]
+loss: 0.005120  [  320/ 1575]
+loss: 0.004556  [  480/ 1575]
+loss: 0.005192  [  640/ 1575]
+loss: 0.006105  [  800/ 1575]
+loss: 0.007996  [  960/ 1575]
+loss: 0.005514  [ 1120/ 1575]
+loss: 0.007917  [ 1280/ 1575]
+loss: 0.005833  [ 1440/ 1575]
+Test Error: 
+MSE: 65.965458
+RMSE: 8.121912
+MAE: 2.533195
+R^2: 0.7937698298522271
+loss: 0.008177  [    0/ 1575]
+loss: 0.006541  [  160/ 1575]
+loss: 0.003150  [  320/ 1575]
+loss: 0.005198  [  480/ 1575]
+loss: 0.008185  [  640/ 1575]
+loss: 0.004883  [  800/ 1575]
+loss: 0.006018  [  960/ 1575]
+loss: 0.003791  [ 1120/ 1575]
+loss: 0.004569  [ 1280/ 1575]
+loss: 0.007679  [ 1440/ 1575]
+Test Error: 
+MSE: 57.915737
+RMSE: 7.610239
+MAE: 2.452233
+R^2: 0.8189359591219152
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.006055  [    0/ 1575]
+loss: 0.005733  [  160/ 1575]
+loss: 0.006374  [  320/ 1575]
+loss: 0.004408  [  480/ 1575]
+loss: 0.005018  [  640/ 1575]
+loss: 0.003186  [  800/ 1575]
+loss: 0.005665  [  960/ 1575]
+loss: 0.007544  [ 1120/ 1575]
+loss: 0.005197  [ 1280/ 1575]
+loss: 0.005028  [ 1440/ 1575]
+Test Error: 
+MSE: 54.772978
+RMSE: 7.400877
+MAE: 2.416372
+R^2: 0.8287612804671718
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.003556  [    0/ 1575]
+loss: 0.004192  [  160/ 1575]
+loss: 0.004781  [  320/ 1575]
+loss: 0.007923  [  480/ 1575]
+loss: 0.007020  [  640/ 1575]
+loss: 0.003590  [  800/ 1575]
+loss: 0.005795  [  960/ 1575]
+loss: 0.004819  [ 1120/ 1575]
+loss: 0.005166  [ 1280/ 1575]
+loss: 0.004132  [ 1440/ 1575]
+Test Error: 
+MSE: 54.929974
+RMSE: 7.411476
+MAE: 2.418743
+R^2: 0.8282704562573482
+loss: 0.006808  [    0/ 1575]
+loss: 0.005560  [  160/ 1575]
+loss: 0.005983  [  320/ 1575]
+loss: 0.006592  [  480/ 1575]
+loss: 0.004807  [  640/ 1575]
+loss: 0.006970  [  800/ 1575]
+loss: 0.005662  [  960/ 1575]
+loss: 0.002689  [ 1120/ 1575]
+loss: 0.003611  [ 1280/ 1575]
+loss: 0.009178  [ 1440/ 1575]
+Test Error: 
+MSE: 58.340336
+RMSE: 7.638085
+MAE: 2.454701
+R^2: 0.8176085196066817
+loss: 0.003383  [    0/ 1575]
+loss: 0.006586  [  160/ 1575]
+loss: 0.004805  [  320/ 1575]
+loss: 0.004313  [  480/ 1575]
+loss: 0.004455  [  640/ 1575]
+loss: 0.006399  [  800/ 1575]
+loss: 0.008854  [  960/ 1575]
+loss: 0.006309  [ 1120/ 1575]
+loss: 0.002141  [ 1280/ 1575]
+loss: 0.004160  [ 1440/ 1575]
+Test Error: 
+MSE: 54.212077
+RMSE: 7.362885
+MAE: 2.410455
+R^2: 0.830514842563786
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.002914  [    0/ 1575]
+loss: 0.004779  [  160/ 1575]
+loss: 0.006062  [  320/ 1575]
+loss: 0.004086  [  480/ 1575]
+loss: 0.003164  [  640/ 1575]
+loss: 0.004010  [  800/ 1575]
+loss: 0.002634  [  960/ 1575]
+loss: 0.007714  [ 1120/ 1575]
+loss: 0.005554  [ 1280/ 1575]
+loss: 0.004261  [ 1440/ 1575]
+Test Error: 
+MSE: 55.622340
+RMSE: 7.458039
+MAE: 2.423986
+R^2: 0.8261058892492986
+loss: 0.004132  [    0/ 1575]
+loss: 0.005503  [  160/ 1575]
+loss: 0.004304  [  320/ 1575]
+loss: 0.005105  [  480/ 1575]
+loss: 0.006470  [  640/ 1575]
+loss: 0.005767  [  800/ 1575]
+loss: 0.004138  [  960/ 1575]
+loss: 0.003603  [ 1120/ 1575]
+loss: 0.005679  [ 1280/ 1575]
+loss: 0.002120  [ 1440/ 1575]
+Test Error: 
+MSE: 56.393443
+RMSE: 7.509557
+MAE: 2.431812
+R^2: 0.8236951608656865
+loss: 0.002757  [    0/ 1575]
+loss: 0.008509  [  160/ 1575]
+loss: 0.005461  [  320/ 1575]
+loss: 0.003790  [  480/ 1575]
+loss: 0.008148  [  640/ 1575]
+loss: 0.007604  [  800/ 1575]
+loss: 0.004734  [  960/ 1575]
+loss: 0.004474  [ 1120/ 1575]
+loss: 0.006928  [ 1280/ 1575]
+loss: 0.005626  [ 1440/ 1575]
+Test Error: 
+MSE: 58.164504
+RMSE: 7.626566
+MAE: 2.451128
+R^2: 0.8181582303923892
+loss: 0.007672  [    0/ 1575]
+loss: 0.006670  [  160/ 1575]
+loss: 0.003760  [  320/ 1575]
+loss: 0.005108  [  480/ 1575]
+loss: 0.003446  [  640/ 1575]
+loss: 0.003699  [  800/ 1575]
+loss: 0.003332  [  960/ 1575]
+loss: 0.001824  [ 1120/ 1575]
+loss: 0.003578  [ 1280/ 1575]
+loss: 0.004485  [ 1440/ 1575]
+Test Error: 
+MSE: 55.837572
+RMSE: 7.472454
+MAE: 2.427358
+R^2: 0.8254330009861651
+loss: 0.004204  [    0/ 1575]
+loss: 0.004318  [  160/ 1575]
+loss: 0.003180  [  320/ 1575]
+loss: 0.003198  [  480/ 1575]
+loss: 0.005251  [  640/ 1575]
+loss: 0.007401  [  800/ 1575]
+loss: 0.002668  [  960/ 1575]
+loss: 0.004523  [ 1120/ 1575]
+loss: 0.004015  [ 1280/ 1575]
+loss: 0.004284  [ 1440/ 1575]
+Test Error: 
+MSE: 50.837850
+RMSE: 7.130067
+MAE: 2.370754
+R^2: 0.8410638102533737
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.004052  [    0/ 1575]
+loss: 0.007474  [  160/ 1575]
+loss: 0.005267  [  320/ 1575]
+loss: 0.006080  [  480/ 1575]
+loss: 0.004470  [  640/ 1575]
+loss: 0.004668  [  800/ 1575]
+loss: 0.008471  [  960/ 1575]
+loss: 0.003426  [ 1120/ 1575]
+loss: 0.003100  [ 1280/ 1575]
+loss: 0.005367  [ 1440/ 1575]
+Test Error: 
+MSE: 51.364172
+RMSE: 7.166880
+MAE: 2.375293
+R^2: 0.8394183509217961
+loss: 0.004330  [    0/ 1575]
+loss: 0.005607  [  160/ 1575]
+loss: 0.007601  [  320/ 1575]
+loss: 0.006375  [  480/ 1575]
+loss: 0.003067  [  640/ 1575]
+loss: 0.003861  [  800/ 1575]
+loss: 0.005313  [  960/ 1575]
+loss: 0.002173  [ 1120/ 1575]
+loss: 0.003286  [ 1280/ 1575]
+loss: 0.005659  [ 1440/ 1575]
+Test Error: 
+MSE: 49.404404
+RMSE: 7.028827
+MAE: 2.354711
+R^2: 0.8455452440341029
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.003820  [    0/ 1575]
+loss: 0.004377  [  160/ 1575]
+loss: 0.004389  [  320/ 1575]
+loss: 0.004099  [  480/ 1575]
+loss: 0.003104  [  640/ 1575]
+loss: 0.004550  [  800/ 1575]
+loss: 0.004541  [  960/ 1575]
+loss: 0.003004  [ 1120/ 1575]
+loss: 0.004118  [ 1280/ 1575]
+loss: 0.003346  [ 1440/ 1575]
+Test Error: 
+MSE: 54.996126
+RMSE: 7.415937
+MAE: 2.415246
+R^2: 0.8280636438166606
+loss: 0.004380  [    0/ 1575]
+loss: 0.005690  [  160/ 1575]
+loss: 0.005606  [  320/ 1575]
+loss: 0.005375  [  480/ 1575]
+loss: 0.006410  [  640/ 1575]
+loss: 0.004938  [  800/ 1575]
+loss: 0.005837  [  960/ 1575]
+loss: 0.006665  [ 1120/ 1575]
+loss: 0.004183  [ 1280/ 1575]
+loss: 0.003662  [ 1440/ 1575]
+Test Error: 
+MSE: 57.029326
+RMSE: 7.551776
+MAE: 2.437490
+R^2: 0.821707178600291
+loss: 0.004403  [    0/ 1575]
+loss: 0.006749  [  160/ 1575]
+loss: 0.004076  [  320/ 1575]
+loss: 0.005603  [  480/ 1575]
+loss: 0.004372  [  640/ 1575]
+loss: 0.004231  [  800/ 1575]
+loss: 0.002074  [  960/ 1575]
+loss: 0.006485  [ 1120/ 1575]
+loss: 0.004193  [ 1280/ 1575]
+loss: 0.006814  [ 1440/ 1575]
+Test Error: 
+MSE: 49.145192
+RMSE: 7.010363
+MAE: 2.349107
+R^2: 0.8463556292371622
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.004371  [    0/ 1575]
+loss: 0.005051  [  160/ 1575]
+loss: 0.002256  [  320/ 1575]
+loss: 0.004673  [  480/ 1575]
+loss: 0.005051  [  640/ 1575]
+loss: 0.004212  [  800/ 1575]
+loss: 0.005153  [  960/ 1575]
+loss: 0.002086  [ 1120/ 1575]
+loss: 0.006551  [ 1280/ 1575]
+loss: 0.005138  [ 1440/ 1575]
+Test Error: 
+MSE: 68.792924
+RMSE: 8.294150
+MAE: 2.602887
+R^2: 0.7849302192246993
+loss: 0.004930  [    0/ 1575]
+loss: 0.004411  [  160/ 1575]
+loss: 0.005053  [  320/ 1575]
+loss: 0.004423  [  480/ 1575]
+loss: 0.004300  [  640/ 1575]
+loss: 0.003276  [  800/ 1575]
+loss: 0.005846  [  960/ 1575]
+loss: 0.005439  [ 1120/ 1575]
+loss: 0.004387  [ 1280/ 1575]
+loss: 0.005756  [ 1440/ 1575]
+Test Error: 
+MSE: 46.980912
+RMSE: 6.854262
+MAE: 2.325086
+R^2: 0.8531218938135122
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.001964  [    0/ 1575]
+loss: 0.005020  [  160/ 1575]
+loss: 0.003151  [  320/ 1575]
+loss: 0.008895  [  480/ 1575]
+loss: 0.005024  [  640/ 1575]
+loss: 0.005158  [  800/ 1575]
+loss: 0.004783  [  960/ 1575]
+loss: 0.003765  [ 1120/ 1575]
+loss: 0.005443  [ 1280/ 1575]
+loss: 0.006152  [ 1440/ 1575]
+Test Error: 
+MSE: 86.341802
+RMSE: 9.292029
+MAE: 2.747950
+R^2: 0.7300665349906804
+loss: 0.005418  [    0/ 1575]
+loss: 0.005523  [  160/ 1575]
+loss: 0.004336  [  320/ 1575]
+loss: 0.004310  [  480/ 1575]
+loss: 0.005190  [  640/ 1575]
+loss: 0.005780  [  800/ 1575]
+loss: 0.005266  [  960/ 1575]
+loss: 0.005216  [ 1120/ 1575]
+loss: 0.002474  [ 1280/ 1575]
+loss: 0.003631  [ 1440/ 1575]
+Test Error: 
+MSE: 46.322961
+RMSE: 6.806097
+MAE: 2.315622
+R^2: 0.8551788689508871
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1666033476_BEST.pt
+loss: 0.003290  [    0/ 1575]
+loss: 0.002574  [  160/ 1575]
+loss: 0.005109  [  320/ 1575]
+loss: 0.004466  [  480/ 1575]
+loss: 0.003000  [  640/ 1575]
+loss: 0.004602  [  800/ 1575]
+loss: 0.004119  [  960/ 1575]
+loss: 0.004293  [ 1120/ 1575]
+loss: 0.006030  [ 1280/ 1575]
+loss: 0.005124  [ 1440/ 1575]
+Test Error: 
+MSE: 47.619864
+RMSE: 6.900715
+MAE: 2.329909
+R^2: 0.8511243151161774
+loss: 0.004069  [    0/ 1575]
+loss: 0.003796  [  160/ 1575]
+loss: 0.003847  [  320/ 1575]
+loss: 0.004829  [  480/ 1575]
+loss: 0.005393  [  640/ 1575]
+loss: 0.002604  [  800/ 1575]
+loss: 0.005395  [  960/ 1575]
+loss: 0.006866  [ 1120/ 1575]
+loss: 0.003328  [ 1280/ 1575]
+loss: 0.003862  [ 1440/ 1575]
+Test Error: 
+MSE: 49.945422
+RMSE: 7.067207
+MAE: 2.356105
+R^2: 0.8438538415376733
+loss: 0.005947  [    0/ 1575]
+loss: 0.005725  [  160/ 1575]
+loss: 0.004386  [  320/ 1575]
+loss: 0.008481  [  480/ 1575]
+loss: 0.006404  [  640/ 1575]
+loss: 0.004518  [  800/ 1575]
+loss: 0.003336  [  960/ 1575]
+loss: 0.004030  [ 1120/ 1575]
+loss: 0.005574  [ 1280/ 1575]
+loss: 0.004768  [ 1440/ 1575]

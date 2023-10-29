@@ -1,0 +1,684 @@
+data/EU_Emotion_Stimulus_Set
+Original/Afraid/OV3E.wav	29184
+Fixed - amplified volume/Afraid/fix__OV3H.wav	28416
+Original/Afraid/OV3G.wav	40704
+Fixed - amplified volume/Afraid/fix__OV3F.wav	31104
+Original/Afraid/OV3A.wav	32256
+Original/Ashamed/OV13D.wav	33408
+Original/Ashamed/OV13F.wav	39936
+Original/Ashamed/OV13G.wav	34944
+Original/Ashamed/OV13A.wav	34176
+Original/Ashamed/OV13B.wav	36096
+Original/Bored/OV8E.wav	41088
+Original/Bored/OV8C.wav	36096
+Original/Bored/OV8B.wav	38784
+Original/Bored/OV8A.wav	34176
+Original/Bored/OV8D.wav	41088
+Original/Disappointed/OV9C.wav	38784
+Original/Disappointed/OV9A.wav	33408
+Original/Disappointed/OV9D.wav	40704
+Original/Disappointed/OV9B.wav	37248
+Original/Disgusted/OV5C.wav	45696
+Fixed - amplified volume/Disgusted/fix__OV5G.wav	41856
+Fixed - amplified volume/Disgusted/fix__OV5H.wav	38784
+Original/Disgusted/OV5D.wav	41856
+Original/Disgusted/OV5A.wav	53376
+Original/Disgusted/OV5F.wav	34176
+Original/Disgusted/OV5B.wav	39168
+Original/Excited/OV7D.wav	29568
+Fixed - amplified volume/Excited/fix__OV7C.wav	29184
+Original/Excited/OV7E.wav	34944
+Original/Excited/OV7B.wav	30336
+Original/Happy/OV1G.wav	31488
+Fixed - amplified volume/Happy/fix__OV1H.wav	29952
+Fixed - amplified volume/Happy/fix__OV1C.wav	40704
+Original/Happy/OV1E.wav	27648
+Original/Happy/OV1D.wav	30336
+Original/Happy/OV1B.wav	37248
+Original/Hurt/OV10C.wav	30336
+Original/Hurt/OV10D.wav	31104
+Original/Hurt/OV10A.wav	38784
+Fixed - amplified volume/Hurt/fix__OV10B.wav	34944
+Original/Jealous/OV11D.wav	39936
+Original/Jealous/OV11E.wav	32256
+Original/Jealous/OV11B.wav	35328
+Original/Joking/OV12H.wav	30336
+Original/Joking/OV12C.wav	38784
+Original/Joking/OV12A.wav	25344
+Original/Disgusted - Low Intensity/OV6A.wav	37248
+Original/Afraid/HV3G.wav	24960
+Original/Afraid/HV3H.wav	31104
+Original/Afraid/HV3E.wav	24960
+Fixed - amplified volume/Afraid/fix__HV3F.wav	23808
+Original/Ashamed/HV13C.wav	27648
+Original/Ashamed/HV13F.wav	28800
+Original/Ashamed/HV13E.wav	28416
+Original/Bored/HV8C.wav	34176
+Original/Bored/HV8B.wav	34944
+Original/Disappointed/HV9A.wav	32256
+Original/Disappointed/HV9B.wav	26880
+Fixed - amplified volume/Disgusted/fix__HV5A.wav	50304
+Original/Excited/HV7C.wav	26496
+Original/Excited/HV7A.wav	49536
+Fixed - amplified volume/Excited/fix__HV7B.wav	27264
+Original/Happy/HV1H.wav	31104
+Original/Happy/HV1C.wav	35712
+Original/Happy/HV1A.wav	35712
+Original/Happy/HV1E.wav	33024
+Original/Hurt/HV10B.wav	31104
+Original/Hurt/HV10E.wav	38400
+Original/Jealous/HV11B.wav	26496
+Original/Joking/HV12H.wav	28800
+Original/Joking/HV12E.wav	23808
+Original/Joking/HV12A.wav	24960
+Original/Kind/HV24F.wav	24960
+Original/Neutral/HV14F.wav	22272
+Original/Neutral/HV14A.wav	33024
+Original/Disgusted - Low Intensity/HV6A.wav	45696
+Original/Happy - Low Intensity/HV2G.wav	30336
+Original/Happy - Low Intensity/HV2E.wav	32256
+Original/Afraid/NV3C 1.wav	37248
+Original/Afraid/NV3A 1.wav	38016
+Original/Afraid/NV3H 1.wav	29568
+Original/Afraid/NV3F 1.wav	35328
+Original/Ashamed/NV13G 1.wav	35328
+Original/Ashamed/NV13E 1.wav	37248
+Original/Ashamed/NV13F 1.wav	53376
+Original/Ashamed/NV13B 1.wav	43776
+Fixed - amplified volume/Bored/fix__NV8E 1.wav	48384
+Original/Bored/NV8D 1.wav	41856
+Original/Bored/NV8B 1.wav	39168
+Fixed - amplified volume/Disappointed/fix__NV9C 1.wav	37632
+Original/Disappointed/NV9D 1.wav	59136
+Original/Disappointed/NV9B 1.wav	38784
+Original/Disappointed/NV9A 1.wav	40704
+Original/Disgusted/NV5F 1.wav	33024
+Original/Disgusted/NV5A 1.wav	57216
+Original/Disgusted/NV5B 1.wav	43776
+Original/Excited/NV7F 1.wav	37248
+Original/Excited/NV7G 1.wav	36096
+Fixed - amplified volume/Excited/fix__NV7C 1.wav	31104
+Original/Excited/NV7D 1.wav	33024
+Original/Excited/NV7B 1.wav	31488
+Original/Happy/NV1C 1.wav	42624
+Original/Happy/NV1E 1.wav	38784
+Original/Happy/NV1I 1.wav	37248
+Fixed - amplified volume/Happy/fix__NV1G 1.wav	45312
+Original/Happy/NV1B 1.wav	38784
+Original/Hurt/NV10C 1.wav	33408
+Original/Hurt/NV10D 1.wav	39936
+Original/Hurt/NV10E 1.wav	48384
+Original/Hurt/NV10A 1.wav	33024
+Original/Hurt/NV10B 1.wav	39936
+Original/Jealous/NV11C 1.wav	39936
+Original/Jealous/NV11D 1.wav	53376
+Original/Jealous/NV11E 1.wav	41088
+Original/Jealous/NV11B 1.wav	39936
+Original/Jealous/NV11A 1.wav	49536
+Original/Joking/NV12H 1.wav	44544
+Original/Joking/NV12F 1.wav	43776
+Original/Joking/NV12A 1.wav	31104
+Original/Disgusted - Low Intensity/NV6A 1.wav	43776
+Original/Afraid/CV3C.wav	32256
+Fixed - amplified volume/Afraid/fix__CV3H.wav	26496
+Original/Afraid/CV3A.wav	29184
+Original/Afraid/CV3F.wav	21504
+Original/Ashamed/CV13F.wav	34944
+Fixed - amplified volume/Ashamed/fix__CV13B.wav	34176
+Original/Bored/CV8E.wav	35328
+Original/Bored/CV8C.wav	35328
+Original/Bored/CV8A.wav	37248
+Original/Bored/CV8B.wav	38784
+Original/Bored/CV8D.wav	36096
+Original/Disappointed/CV9C.wav	33024
+Original/Disappointed/CV9A.wav	36096
+Original/Disappointed/CV9D.wav	38016
+Original/Disappointed/CV9B.wav	37248
+Original/Disgusted/CV5H.wav	33024
+Original/Disgusted/CV5D.wav	41856
+Original/Disgusted/CV5F.wav	36096
+Original/Excited/CV7C.wav	29184
+Original/Excited/CV7E.wav	36096
+Original/Excited/CV7B.wav	35328
+Original/Happy/CV1I.wav	37248
+Original/Happy/CV1G.wav	34176
+Fixed - amplified volume/Happy/fix__CV1F.wav	28416
+Fixed - amplified volume/Happy/fix__CV1D.wav	28416
+Original/Happy/CV1B.wav	34176
+Original/Hurt/CV10C.wav	29568
+Original/Hurt/CV10D.wav	27648
+Original/Hurt/CV10A.wav	33024
+Original/Hurt/CV10B.wav	34176
+Original/Jealous/CV11B.wav	30336
+Original/Jealous/CV11A.wav	36096
+Original/Joking/CV12C.wav	33024
+Original/Joking/CV12B.wav	34176
+Original/Joking/CV12F.wav	31104
+Original/Joking/CV12G.wav	41088
+Original/Neutral/CV14F.wav	31488
+Original/Disgusted - Low Intensity/CV6B.wav	29568
+Original/Disgusted - Low Intensity/CV6A.wav	35328
+Original/Afraid/KV3H.wav	28416
+Original/Afraid/KV3C.wav	33792
+Fixed - amplified volume/Afraid/fix__KV3D.wav	32256
+Original/Afraid/KV3F.wav	30336
+Original/Afraid/KV3A.wav	39168
+Original/Afraid/KV3B.wav	23040
+Fixed - amplified volume/Ashamed/fix__KV13D.wav	28416
+Original/Ashamed/KV13E.wav	33792
+Original/Ashamed/KV13B.wav	52224
+Original/Ashamed/KV13A.wav	39168
+Original/Bored/KV8E.wav	72960
+Original/Bored/KV8C.wav	39168
+Original/Bored/KV8D.wav	41856
+Fixed - amplified volume/Bored/fix__KV8A.wav	42624
+Original/Bored/KV8B.wav	51840
+Original/Disgusted/KV5D.wav	39168
+Original/Disgusted/KV5G.wav	36864
+Fixed - amplified volume/Disgusted/fix__KV5E.wav	41856
+Original/Disgusted/KV5C.wav	38400
+Original/Disgusted/KV5F.wav	44928
+Original/Disgusted/KV5B.wav	51072
+Original/Disgusted/KV5A.wav	87168
+Original/Excited/KV7D.wav	34176
+Original/Excited/KV7G.wav	25728
+Original/Excited/KV7A.wav	44928
+Original/Excited/KV7B.wav	26880
+Original/Happy/KV1H.wav	34176
+Fixed - amplified volume/Happy/fix__KV1C.wav	33792
+Original/Happy/KV1F.wav	44160
+Original/Happy/KV1B.wav	37632
+Original/Happy/KV1A.wav	50304
+Fixed - amplified volume/Hurt/fix__KV10C.wav	31104
+Original/Hurt/KV10D.wav	32256
+Original/Hurt/KV10B.wav	39168
+Original/Hurt/KV10A.wav	47616
+Original/Jealous/KV11D.wav	44160
+Original/Jealous/KV11E.wav	26496
+Original/Jealous/KV11B.wav	39168
+Original/Jealous/KV11A.wav	43008
+Original/Joking/KV12C.wav	40320
+Original/Joking/KV12G.wav	49152
+Original/Joking/KV12B.wav	42240
+Original/Joking/KV12E.wav	33792
+Original/Disgusted - Low Intensity/KV6G.wav	38400
+Original/Disgusted - Low Intensity/KV6B.wav	41088
+Original/Happy - Low Intensity/KV2C.wav	37632
+Original/Afraid/EV3D.wav	37248
+Original/Afraid/EV3E.wav	34176
+Original/Afraid/EV3B.wav	37248
+Original/Afraid/EV3G.wav	44544
+Original/Ashamed/EV13C.wav	39936
+Original/Ashamed/EV13E.wav	45696
+Original/Ashamed/EV13A.wav	64128
+Fixed - amplified volume/Bored/fix__EV8C.wav	36864
+Original/Bored/EV8E.wav	54144
+Original/Bored/EV8A.wav	34944
+Original/Bored/EV8B.wav	47616
+Original/Disappointed/EV9C.wav	33408
+Original/Disappointed/EV9D.wav	61824
+Original/Disappointed/EV9A.wav	52608
+Original/Disappointed/EV9B.wav	41088
+Original/Disgusted/EV5H.wav	35328
+Original/Disgusted/EV5D.wav	43776
+Fixed - amplified volume/Disgusted/fix__EV5F.wav	49536
+Original/Disgusted/EV5A.wav	70656
+Original/Disgusted/EV5B.wav	46848
+Original/Excited/EV7G.wav	45696
+Original/Excited/EV7D.wav	36864
+Original/Excited/EV7C.wav	38784
+Original/Excited/EV7F.wav	32256
+Original/Excited/EV7B.wav	44544
+Original/Happy/EV1G.wav	39936
+Original/Happy/EV1B.wav	38016
+Fixed - amplified volume/Happy/fix__EV1C.wav	46464
+Original/Hurt/EV10C.wav	40704
+Original/Hurt/EV10D.wav	43776
+Original/Hurt/EV10B.wav	41088
+Original/Jealous/EV11D.wav	50688
+Fixed - amplified volume/Jealous/fix__EV11C.wav	52224
+Original/Jealous/EV11B.wav	39936
+Original/Jealous/EV11A.wav	48384
+Fixed - amplified volume/Joking/fix__EV12H.wav	54912
+Original/Joking/EV12C.wav	30336
+Original/Joking/EV12D.wav	43776
+Original/Joking/EV12E.wav	46464
+Original/Happy - Low Intensity/EV2B.wav	43008
+Original/Afraid/BV3G.wav	21120
+Fixed - amplified volume/Afraid/fix__BV3B.wav	23808
+Original/Angry/BV17E.wav	24960
+Original/Angry/BV17F.wav	33792
+Original/Angry/BV17I.wav	38400
+Original/Bored/BV8E.wav	34944
+Original/Bored/BV8F.wav	19584
+Original/Disgusted/BV5B.wav	29568
+Original/Disgusted/BV5I.wav	37632
+Original/Excited/BV7D.wav	24960
+Original/Excited/BV7C.wav	26880
+Original/Excited/BV7A.wav	42240
+Original/Excited/BV7E.wav	33792
+Original/Excited/BV7H.wav	27648
+Original/Frustrated/BV23C.wav	30336
+Original/Frustrated/BV23A.wav	21120
+Original/Frustrated/BV23E.wav	35712
+Original/Happy/BV1F.wav	24960
+Original/Happy/BV1H.wav	21120
+Original/Happy/BV1A.wav	35712
+Original/Neutral/BV14D.wav	18432
+Original/Neutral/BV14C.wav	18432
+Original/Neutral/BV14H.wav	20352
+Original/Neutral/BV14A.wav	16128
+Original/Sad/BV15D.wav	20352
+Original/Sad/BV15E.wav	20352
+Original/Sad/BV15H.wav	16896
+Fixed - amplified volume/Sad/fix__BV15F.wav	24576
+Original/Surprised/BV19G.wav	34176
+Original/Surprised/BV19E.wav	27648
+Fixed - amplified volume/Surprised/fix__BV19F.wav	23040
+Original/Surprised/BV19H.wav	26496
+Original/Unfriendly/BV25C.wav	26496
+Original/Unfriendly/BV25D.wav	16896
+Original/Unfriendly/BV25J.wav	21504
+Original/Unfriendly/BV25E.wav	23808
+Fixed - amplified volume/Unfriendly/fix__BV25H.wav	21120
+Original/Unfriendly/BV25I.wav	22272
+Original/Afraid/QV3B.wav	35328
+Original/Ashamed/QV13D.wav	34944
+Original/Ashamed/QV13C.wav	40704
+Fixed - amplified volume/Ashamed/fix__QV13E.wav	41856
+Original/Ashamed/QV13F.wav	39936
+Original/Ashamed/QV13A.wav	35328
+Original/Bored/QV8E.wav	46848
+Original/Bored/QV8C.wav	37248
+Original/Bored/QV8D.wav	47616
+Original/Bored/QV8A.wav	46848
+Original/Bored/QV8B.wav	38016
+Fixed - amplified volume/Disappointed/fix__QV9C.wav	41472
+Original/Disappointed/QV9D.wav	54528
+Fixed - amplified volume/Disappointed/fix__QV9B.wav	52224
+Original/Disappointed/QV9A.wav	39936
+Original/Disgusted/QV5B.wav	46848
+Original/Excited/QV7C.wav	27264
+Original/Excited/QV7B.wav	30336
+Original/Excited/QV7E.wav	41088
+Original/Happy/QV1H.wav	24576
+Original/Happy/QV1F.wav	27264
+Fixed - amplified volume/Happy/fix__QV1E.wav	29184
+Fixed - amplified volume/Happy/fix__QV1D.wav	26496
+Original/Hurt/QV10C.wav	30336
+Fixed - amplified volume/Hurt/fix__QV10D.wav	35712
+Original/Hurt/QV10A.wav	37248
+Original/Hurt/QV10B.wav	37248
+Original/Jealous/QV11C.wav	36096
+Fixed - amplified volume/Jealous/fix__QV11E.wav	33024
+Fixed - amplified volume/Jealous/fix__QV11D.wav	49152
+Original/Jealous/QV11B.wav	43008
+Original/Jealous/QV11A.wav	43776
+Original/Joking/QV12F.wav	34176
+Original/Joking/QV12D.wav	33408
+Original/Joking/QV12G.wav	38016
+Original/Joking/QV12E.wav	34176
+Original/Joking/QV12A.wav	26496
+Original/Disgusted - Low Intensity/QV6A.wav	54528
+Original/Angry/FV17C.wav	27648
+Original/Angry/FV17G.wav	28416
+Original/Frustrated/FV23A.wav	32256
+Original/Interested/FV21D.wav	23424
+Original/Interested/FV21B.wav	29184
+Original/Kind/FV24C.wav	25344
+Original/Kind/FV24E.wav	32256
+Original/Kind/FV24A.wav	24576
+Original/Neutral/FV14F.wav	24576
+Original/Neutral/FV14G.wav	24576
+Original/Neutral/FV14B.wav	23808
+Original/Proud/FV28D.wav	25728
+Original/Proud/FV27C.wav	26496
+Original/Proud/FV29D.wav	40704
+Fixed - amplified volume/Proud/fix__FV27B.wav	21504
+Original/Sad/FV15D.wav	27264
+Fixed - amplified volume/Sad/fix__FV15E.wav	30336
+Fixed - amplified volume/Sad/fix__FV15F.wav	41856
+Fixed - amplified volume/Sad/fix__FV15B.wav	30336
+Original/Sneaky/FV26C.wav	36864
+Original/Sneaky/FV26E.wav	41856
+Original/Sneaky/FV26A.wav	51456
+Original/Sneaky/FV26B.wav	38784
+Original/Surprised/FV19B.wav	31104
+Fixed - amplified volume/Surprised/fix__FV19F.wav	24576
+Original/Surprised/FV19E.wav	24576
+Original/Unfriendly/FV25C.wav	27648
+Original/Unfriendly/FV25F.wav	29184
+Original/Unfriendly/FV25E.wav	33024
+Original/Unfriendly/FV25A.wav	28416
+Original/Worried/FV22B.wav	46464
+Original/Worried/FV22C.wav	34944
+Original/Angry - Low Intensity/FV18E.wav	27264
+Original/Angry - Low Intensity/FV18A.wav	31488
+Original/Angry - Low Intensity/FV18H.wav	23424
+Original/Angry - Low Intensity/FV18B.wav	25728
+Original/Surprised - Low Intensity/FV20A.wav	25728
+Original/Angry/JV17H.wav	27648
+Original/Angry/JV17G.wav	27648
+Original/Angry/JV17E.wav	29568
+Fixed - amplified volume/Angry/fix__JV17C.wav	44928
+Original/Angry/JV17A.wav	33792
+Original/Frustrated/JV23B.wav	30336
+Original/Frustrated/JV23C.wav	36864
+Original/Frustrated/JV23A.wav	37632
+Original/Interested/JV21G.wav	33024
+Original/Interested/JV21F.wav	26496
+Original/Interested/JV21H.wav	29568
+Original/Interested/JV21E.wav	26880
+Original/Interested/JV21B.wav	26880
+Original/Interested/JV21A.wav	23808
+Original/Kind/JV24F.wav	31104
+Original/Kind/JV24H.wav	37632
+Original/Kind/JV24G.wav	28800
+Original/Kind/JV24A.wav	26496
+Original/Neutral/JV14B.wav	29568
+Original/Neutral/JV14G.wav	27648
+Original/Proud/JV27D.wav	33792
+Original/Proud/JV28D.wav	28800
+Original/Sad/JV15D.wav	22272
+Original/Sad/JV15E.wav	26496
+Original/Sad/JV15A.wav	35712
+Fixed - amplified volume/Sad/fix__JV15C.wav	34560
+Original/Sad/JV15B.wav	49536
+Original/Sneaky/JV26F.wav	27648
+Original/Sneaky/JV26A.wav	40320
+Original/Surprised/JV19B.wav	33792
+Original/Unfriendly/JV25D.wav	28800
+Fixed - amplified volume/Worried/fix__JV22B.wav	43008
+Original/Worried/JV22C.wav	32256
+Original/Worried/JV22A.wav	30336
+Original/Sad - Low Intensity/JV16A.wav	37632
+Fixed - amplified volume/Angry/fix__GV17G.wav	28416
+Fixed - amplified volume/Angry/fix__GV17E.wav	26496
+Original/Angry/GV17F.wav	34944
+Original/Angry/GV17D.wav	28800
+Original/Angry/GV17A.wav	33792
+Fixed - amplified volume/Frustrated/fix__GV23D.wav	41088
+Original/Frustrated/GV23B.wav	31488
+Original/Frustrated/GV23A.wav	27648
+Fixed - amplified volume/Interested/fix__GV21D.wav	27648
+Original/Interested/GV21C.wav	26496
+Original/Interested/GV21A.wav	29568
+Original/Kind/GV24H.wav	35712
+Original/Kind/GV24B.wav	23808
+Original/Kind/GV24G.wav	26496
+Original/Neutral/GV14B.wav	25728
+Fixed - amplified volume/Neutral/fix__GV14C.wav	25728
+Original/Neutral/GV14F.wav	32256
+Original/Neutral/GV14A.wav	31104
+Original/Proud/GV28D.wav	28416
+Original/Proud/GV27D.wav	31104
+Original/Proud/GV27A.wav	36480
+Original/Proud/GV27C.wav	33792
+Fixed - amplified volume/Sad/fix__GV15C.wav	35712
+Original/Sad/GV15G.wav	26496
+Fixed - amplified volume/Sad/fix__GV15A.wav	35712
+Original/Sneaky/GV26F.wav	33792
+Fixed - amplified volume/Surprised/fix__GV19F.wav	24960
+Original/Surprised/GV19A.wav	43008
+Original/Unfriendly/GV25A.wav	33024
+Fixed - amplified volume/Unfriendly/fix__GV25D.wav	30336
+Original/Unfriendly/GV25B.wav	29568
+Original/Worried/GV22B.wav	39168
+Original/Worried/GV22D.wav	28800
+Original/Worried/GV22A.wav	28800
+Original/Angry - Low Intensity/GV18G.wav	23808
+Original/Sad - Low Intensity/GV16E.wav	29568
+Original/Surprised - Low Intensity/GV20E.wav	27648
+Fixed - amplified volume/Angry/fix__DV17G.wav	38016
+Original/Angry/DV17A.wav	36864
+Original/Angry/DV17H.wav	26496
+Fixed - amplified volume/Angry/fix__DV17D.wav	34176
+Original/Angry/DV17F.wav	39168
+Original/Angry/DV17B.wav	32256
+Original/Frustrated/DV23B.wav	36096
+Original/Frustrated/DV23D.wav	33024
+Original/Frustrated/DV23A.wav	36096
+Original/Interested/DV21C.wav	29184
+Original/Interested/DV21A.wav	30336
+Original/Interested/DV21B.wav	32256
+Original/Kind/DV24B.wav	30336
+Fixed - amplified volume/Kind/fix__DV24G.wav	27264
+Original/Neutral/DV24D.wav	26496
+Original/Neutral/DV14E.wav	29184
+Original/Neutral/DV14G.wav	29184
+Original/Neutral/DV14F.wav	30336
+Original/Neutral/DV14B.wav	33024
+Fixed - amplified volume/Proud/fix__DV27C.wav	44544
+Original/Proud/DV29D.wav	34944
+Original/Proud/DV27A.wav	36096
+Original/Proud/DV27B.wav	37248
+Original/Proud/DV28B.wav	35478
+Original/Sad/DV15G.wav	33408
+Original/Sneaky/DV26B.wav	39168
+Fixed - amplified volume/Sneaky/fix__DV26A.wav	47616
+Original/Surprised/DV19E.wav	30336
+Original/Surprised/DV19F.wav	31104
+Original/Surprised/DV19B.wav	38784
+Original/Unfriendly/DV25B.wav	42624
+Original/Worried/DV22B.wav	59904
+Original/Worried/DV22A.wav	36096
+Fixed - amplified volume/Worried/fix__DV22C.wav	34944
+Original/Worried/DV22D.wav	37248
+Original/Angry - Low Intensity/DV18C.wav	29568
+Fixed - amplified volume/Angry - Low Intensity/fix__DV18E.wav	29184
+Original/Surprised - Low Intensity/DV20A.wav	29184
+Original/Angry/MV17C.wav	35328
+Original/Angry/MV17H.wav	29184
+Fixed - amplified volume/Angry/fix__MV17E.wav	29952
+Original/Angry/MV17A.wav	31488
+Fixed - amplified volume/Frustrated/fix__MV23C.wav	31104
+Fixed - amplified volume/Frustrated/fix__MV23D.wav	34176
+Original/Frustrated/MV23A.wav	31104
+Original/Frustrated/MV23B.wav	19968
+Original/Interested/MV21G.wav	32256
+Original/Interested/MV21D.wav	25344
+Original/Interested/MV21C.wav	25344
+Original/Interested/MV21B.wav	31488
+Original/Interested/MV21A.wav	25728
+Original/Kind/MV24B.wav	29568
+Original/Kind/MV24I.wav	27264
+Original/Kind/MV24E.wav	41088
+Original/Kind/MV24G.wav	29568
+Original/Kind/MV24A.wav	28416
+Original/Neutral/MV14C.wav	31104
+Original/Neutral/MV14A.wav	22656
+Original/Proud/MV27B.wav	29184
+Original/Proud/MV27A.wav	34176
+Original/Sad/MV15D.wav	30336
+Fixed - amplified volume/Sad/fix__MV15G.wav	30336
+Fixed - amplified volume/Sad/fix__MV15E.wav	28416
+Original/Sad/MV15C.wav	31360
+Original/Sad/MV15F.wav	36864
+Original/Sneaky/MV26B.wav	39168
+Original/Sneaky/MV26A.wav	39168
+Fixed - amplified volume/Surprised/fix__MV19D.wav	31872
+Original/Surprised/MV19C.wav	24576
+Fixed - amplified volume/Surprised/fix__MV19E.wav	27264
+Original/Surprised/MV19B.wav	31488
+Fixed - amplified volume/Surprised/fix__MV19F.wav	29184
+Fixed - amplified volume/Unfriendly/fix__MV25C.wav	27264
+Original/Unfriendly/MV25B.wav	27648
+Original/Unfriendly/MV25E.wav	22656
+Original/Unfriendly/MV25A.wav	29568
+Original/Worried/MV22B.wav	46464
+Original/Worried/MV22A.wav	36096
+Original/Worried/MV22C.wav	28416
+Original/Sad - Low Intensity/MV16B.wav	40704
+Original/Surprised - Low Intensity/MV20B.wav	33024
+Fixed - amplified volume/Angry/fix__PV17C.wav	44544
+Fixed - amplified volume/Angry/fix__PV17F.wav	48384
+Original/Angry/PV17D.wav	33408
+Original/Angry/PV17A.wav	44544
+Original/Excited/PV7C.wav	33024
+Fixed - amplified volume/Excited/fix__PV7E.wav	32256
+Original/Frustrated/PV23D.wav	51456
+Fixed - amplified volume/Frustrated/fix__PV23C.wav	38016
+Original/Frustrated/PV23B.wav	46464
+Original/Interested/PV21G.wav	38016
+Original/Interested/PV21C.wav	28416
+Original/Interested/PV21E.wav	26496
+Fixed - amplified volume/Joking/fix__PV12G.wav	43776
+Original/Kind/PV24D.wav	26496
+Original/Kind/PV24H.wav	35328
+Original/Kind/PV24G.wav	24576
+Original/Neutral/PV14E.wav	25344
+Original/Neutral/PV14D.wav	24576
+Original/Proud/PV27C.wav	43008
+Original/Proud/PV27A.wav	36096
+Original/Sad/PV15B.wav	52224
+Original/Sad/PV15C.wav	34176
+Original/Sneaky/PV26C.wav	37248
+Original/Sneaky/PV26E.wav	31104
+Original/Sneaky/PV26B.wav	44928
+Original/Surprised/PV19C.wav	34944
+Original/Surprised/PV19A.wav	43776
+Original/Unfriendly/PV25D.wav	33024
+Original/Unfriendly/PV25G.wav	43776
+Original/Unfriendly/PV25B.wav	46848
+Original/Unfriendly/PV25A.wav	31488
+Fixed - amplified volume/Worried/fix__PV22D.wav	36096
+Original/Worried/PV22A.wav	29184
+Original/Worried/PV22C.wav	34944
+Original/Worried/PV22B.wav	54144
+Original/Angry - Low Intensity/PV18E.wav	39936
+Original/Surprised - Low Intensity/PV20A.wav	41856
+Original/Surprised - Low Intensity/PV20F.wav	32256
+Original/Angry/LV17D.wav	29184
+Original/Angry/LV17F.wav	31104
+Original/Angry/LV17A.wav	33408
+Fixed - amplified volume/Bored/fix__LV8D.wav	33024
+Original/Excited/LV7D.wav	27264
+Original/Frustrated/LV23D.wav	31488
+Original/Frustrated/LV23B.wav	46848
+Original/Frustrated/LV23A.wav	32256
+Original/Happy/LV1F.wav	29568
+Original/Happy/LV1E.wav	28416
+Original/Happy/LV1H.wav	25344
+Original/Happy/LV1C.wav	38784
+Original/Interested/LV21B.wav	31488
+Original/Interested/LV21D.wav	33408
+Fixed - amplified volume/Interested/fix__LV21A.wav	33024
+Original/Kind/LV24E.wav	33408
+Original/Kind/LV24I.wav	26496
+Original/Neutral/LV14F.wav	29184
+Original/Neutral/LV14C.wav	27648
+Original/Proud/LV29D.wav	36864
+Original/Proud/LV27A.wav	32256
+Original/Proud/LV27B.wav	35328
+Original/Sad/LV15A.wav	33024
+Original/Sneaky/LV26D.wav	31104
+Fixed - amplified volume/Sneaky/fix__LV26E.wav	34176
+Original/Sneaky/LV26C.wav	36864
+Original/Sneaky/LV26A.wav	42624
+Original/Surprised/LV19D.wav	28416
+Fixed - amplified volume/Surprised/fix__LV19E.wav	29184
+Original/Unfriendly/LV25F.wav	33408
+Original/Unfriendly/LV25G.wav	29568
+Original/Unfriendly/LV25C.wav	33408
+Original/Unfriendly/LV25E.wav	30336
+Original/Unfriendly/LV25B.wav	29184
+Original/Worried/LV22A.wav	29568
+Original/Worried/LV22B.wav	43776
+Original/Worried/LV22D.wav	27648
+Original/Sad - Low Intensity/LV16F.wav	33024
+Original/Surprised - Low Intensity/LV20A.wav	43008
+Original/Surprised - Low Intensity/LV20B.wav	39936
+Original/Angry/IV17B 1.wav	31104
+Original/Frustrated/IV23C 1.wav	32256
+Original/Frustrated/IV23A 1.wav	31104
+Fixed - amplified volume/Interested/fix__IV21C 1.wav	29184
+Original/Interested/IV21D 1.wav	27648
+Original/Interested/IV21E 1.wav	26496
+Original/Kind/IV24C 1.wav	26496
+Original/Kind/IV24D 1.wav	28800
+Original/Kind/IV24H 1.wav	36480
+Original/Kind/IV24A 1.wav	31104
+Original/Kind/IV24G 1.wav	24960
+Original/Neutral/IV14B 1.wav	30336
+Original/Neutral/IV14D 1.wav	28800
+Original/Neutral/IV14G 1.wav	27648
+Fixed - amplified volume/Neutral/fix__IV14F 1.wav	29184
+Original/Neutral/IV14A 1.wav	24192
+Original/Proud/IV27D 1.wav	28800
+Original/Proud/IV27C 1.wav	33024
+Fixed - amplified volume/Proud/fix__IV29D 1.wav	36480
+Original/Proud/IV27B 1.wav	33792
+Original/Sad/IV15D 1.wav	24192
+Original/Sad/IV15F 1.wav	34176
+Original/Sad/IV15C 1.wav	39168
+Original/Sad/IV15B 1.wav	33792
+Original/Surprised/IV19F 1.wav	28416
+Original/Unfriendly/IV25A 1.wav	31104
+Original/Sad - Low Intensity/IV16D 1.wav	32256
+Original/Sad - Low Intensity/IV16E 1.wav	30336
+Original/Sad - Low Intensity/IV16B 1.wav	37632
+Original/Surprised - Low Intensity/IV20A 1.wav	31104
+Original/Surprised - Low Intensity/IV20E 1.wav	26496
+Original/Angry/SV17C.wav	33408
+Original/Angry/SV17G.wav	33024
+Original/Bored/SV8C.wav	33792
+Original/Frustrated/SV23D.wav	29568
+Original/Frustrated/SV23A.wav	22656
+Fixed - amplified volume/Happy/fix__SV1H.wav	27264
+Original/Happy/SV1C.wav	49536
+Original/Happy/SV1D.wav	29184
+Original/Interested/SV21F.wav	29568
+Original/Interested/SV21G.wav	36096
+Original/Interested/SV21E.wav	31104
+Fixed - amplified volume/Kind/fix__SV24F.wav	29184
+Fixed - amplified volume/Kind/fix__SV24C.wav	29184
+Original/Kind/SV24B.wav	31488
+Original/Kind/SV24E.wav	29568
+Original/Neutral/SV14A.wav	20736
+Original/Proud/SV27D.wav	34944
+Original/Proud/SV28D.wav	31488
+Fixed - amplified volume/Proud/fix__SV27C.wav	39552
+Fixed - amplified volume/Proud/fix__SV29D.wav	34944
+Original/Proud/SV27A.wav	32256
+Original/Proud/SV27B.wav	27264
+Original/Sad/SV15E.wav	44928
+Original/Sad/SV15F.wav	55296
+Original/Sneaky/SV26F.wav	30336
+Original/Sneaky/SV26D.wav	29184
+Original/Sneaky/SV26B.wav	39168
+Fixed - amplified volume/Surprised/fix__SV19E.wav	27264
+Original/Unfriendly/SV25F.wav	24576
+Original/Unfriendly/SV25B.wav	38016
+Original/Unfriendly/SV25E.wav	33024
+Fixed - amplified volume/Worried/fix__SV22D.wav	34176
+Original/Worried/SV22B.wav	46464
+Original/Angry - Low Intensity/SV18D.wav	28416
+Original/Angry - Low Intensity/SV18B.wav	26496
+Original/Sad - Low Intensity/SV16D.wav	27264
+Original/Sad - Low Intensity/SV16B.wav	45696
+Original/Surprised - Low Intensity/SV20E.wav	26496
+Original/Surprised - Low Intensity/SV20A.wav	33408
+Original/Ashamed/AV13D.wav	42624
+Original/Ashamed/AV13I.wav	39168
+Original/Ashamed/AV13H.wav	53376
+Original/Disappointed/AV9E.wav	41088
+Original/Disappointed/AV9A.wav	38784
+Original/Interested/AV21D.wav	27648
+Original/Interested/AV21H.wav	38016
+Fixed - amplified volume/Interested/fix__AV21A.wav	34176
+Original/Jealous/AV11A.wav	38016
+Original/Joking/AV12G.wav	34944
+Original/Joking/AV12E.wav	39168
+Original/Joking/AV12A.wav	36864
+Original/Kind/AV24E.wav	38784
+Original/Kind/AV24B.wav	34176
+Original/Kind/AV24A.wav	36864
+Original/Proud/AV28D.wav	38016
+Original/Proud/AV27C.wav	48768
+Original/Proud/AV27F.wav	34944
+Original/Sneaky/AV26C.wav	33408
+Original/Sneaky/AV26A.wav	50304
+Original/Worried/AV22E.wav	31488
+Original/Worried/AV22F.wav	46464
+Original/Worried/AV22C.wav	45696
+Original/Worried/AV22D.wav	36864

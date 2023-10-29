@@ -1,0 +1,811 @@
+model_name,dataset_name,optimizer_name,learning_rate,sequence_aggregation,dimension_name,total_num_batches,start_time,best_r2,best_mse,best_rmse,best_mae,best_weights,best_model_path,final_model_path
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0001,max,valence,20000,1661369619,0.3545433634408355,0.1887059533547348,0.434402984974476,0.3428888102984952,"[0.07659172 0.07799099 0.07836834 0.07842059 0.07837421 0.0779613
+ 0.07774882 0.07715665 0.07562072 0.07436352 0.07504722 0.07576425
+ 0.07659172]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661369619_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661369619_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0001,max,intensity,20000,1661374913,0.4758883108886592,0.1040859307924274,0.3226235124606193,0.2483036244105465,"[0.07611187 0.07848322 0.07880125 0.07887246 0.07898841 0.07883262
+ 0.07736021 0.07680345 0.07652566 0.07350087 0.074564   0.07504418
+ 0.07611187]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661374913_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661374913_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0001,max,arousal,20000,1661380580,0.2555386821785421,0.1224703139861578,0.3499575888392161,0.2820971337603739,"[0.07503998 0.07950629 0.07965536 0.07980608 0.08048174 0.08007631
+ 0.07839954 0.07645312 0.07577967 0.07388505 0.07347517 0.0724017
+ 0.07503998]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661380580_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661380580_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0001,min,valence,20000,1661386294,0.3715533688597127,0.1837329015533778,0.4286407604899209,0.3506532284461307,"[0.07642509 0.07748587 0.07767393 0.07783084 0.07777639 0.07756262
+ 0.07768466 0.07756552 0.07678951 0.07494432 0.07571644 0.07611971
+ 0.07642509]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661386294_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661386294_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0001,min,intensity,20000,1661392261,0.4885566112889338,0.1015700704021422,0.3187005968023001,0.2526008751514814,"[0.07560558 0.07932844 0.07928207 0.07947436 0.07958254 0.07878859
+ 0.07771167 0.07647739 0.07491651 0.07472914 0.07466803 0.07383003
+ 0.07560558]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661392261_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661392261_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0001,min,arousal,20000,1661399274,0.1974090705252189,0.132033136957147,0.3633636428664087,0.293076019612406,"[0.07534999 0.07950296 0.07940798 0.07968492 0.07964998 0.07856781
+ 0.07760534 0.07665449 0.07539791 0.07409361 0.07473378 0.07400125
+ 0.07534999]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661399274_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661399274_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1661404253,0.3473287664853594,0.1908152157272017,0.4368240100168508,0.3721270667593663,"[0.07732835 0.07627492 0.07613669 0.07646358 0.07645127 0.07650302
+ 0.07677325 0.07825352 0.07718447 0.07641957 0.07718201 0.07770098
+ 0.07732835]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661404253_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661404253_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0001,mean,intensity,20000,1661409533,0.436236978840723,0.1119604848027888,0.3346049682876644,0.2759758854185077,"[0.0771473  0.0767154  0.07673381 0.07671533 0.07676709 0.07667055
+ 0.07670012 0.07714465 0.07699399 0.0767285  0.07725488 0.07728114
+ 0.0771473 ]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661409533_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661409533_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0001,mean,arousal,20000,1661414680,0.2327239327350603,0.1262235372376161,0.3552795198679711,0.2892778020411157,"[0.07702072 0.07671202 0.0767339  0.07670931 0.07677631 0.07660396
+ 0.07663785 0.07741529 0.07701254 0.07715321 0.07714146 0.07706259
+ 0.07702072]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661414680_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661414680_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.005,max,valence,20000,1661420105,0.412619175046122,0.1717268864816328,0.4143994286695299,0.3242106530046398,"[0.07232937 0.08643442 0.08779208 0.08802921 0.08869338 0.08648197
+ 0.08371411 0.07422442 0.06462173 0.06116752 0.06714112 0.06704118
+ 0.07232937]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661420105_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661420105_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.005,max,intensity,20000,1661425398,0.5046118326722475,0.0983815846337859,0.3136583884320423,0.2491468879913453,"[0.05425471 0.1428885  0.12540141 0.10534306 0.10284556 0.08864547
+ 0.07229783 0.05284428 0.05057657 0.05568941 0.05267309 0.04228537
+ 0.05425471]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661425398_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661425398_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.005,max,arousal,20000,1661430784,0.1888678122128041,0.1334382476893196,0.3652920033196999,0.2893904193567769,"[0.07358716 0.08115592 0.0814314  0.08137222 0.08161239 0.08108295
+ 0.08021417 0.07842579 0.07459471 0.06981721 0.07158086 0.07153809
+ 0.07358716]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661430784_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661430784_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.005,min,valence,20000,1661436561,0.380029306663742,0.1812548730797513,0.425740382251615,0.3167003799111838,"[0.06599835 0.10065606 0.10056976 0.09800846 0.09490544 0.08976985
+ 0.08363549 0.06508224 0.05265523 0.06173392 0.06280499 0.05818182
+ 0.06599835]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661436561_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661436561_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.005,min,intensity,20000,1661442419,0.41667668617059,0.1158450600020086,0.3403601915647725,0.2834017759600025,"[0.07371134 0.08120967 0.08125272 0.0812311  0.08117785 0.08079975
+ 0.07961888 0.07755914 0.07189406 0.0716628  0.07326335 0.07290804
+ 0.07371134]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661442419_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661442419_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.005,min,arousal,20000,1661448091,0.2455111533675406,0.1241199290468602,0.3523065838823626,0.2664104162372961,"[0.07347774 0.0815405  0.08159479 0.08146077 0.08128019 0.08098757
+ 0.08016631 0.07776552 0.07124231 0.07149512 0.07293519 0.07257621
+ 0.07347774]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661448091_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661448091_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.005,mean,valence,20000,1661455868,0.3143538766555709,0.2004557673454625,0.4477228689105153,0.383004636675845,"[0.07353974 0.080056   0.07926105 0.08066058 0.08078023 0.07996336
+ 0.08094063 0.08287036 0.07999012 0.06371049 0.07022645 0.0744612
+ 0.07353974]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661455868_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661455868_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.005,mean,intensity,20000,1661460637,0.4010832737697747,0.1189418328420134,0.3448794468245584,0.2859198395262592,"[0.07307836 0.07960252 0.07947545 0.07964114 0.08011041 0.08005896
+ 0.07924163 0.08088746 0.07990065 0.07093363 0.07085377 0.07313775
+ 0.07307836]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661460637_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661460637_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.005,mean,arousal,20000,1661465675,0.2289486035156821,0.12684461148799,0.356152511556482,0.290577142363332,"[0.07313946 0.07973178 0.07975115 0.07984414 0.08008973 0.07982334
+ 0.07921669 0.08065231 0.08014024 0.07068659 0.07099707 0.07278807
+ 0.07313946]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661465675_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661465675_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.001,max,valence,20000,1661471465,0.432282974301003,0.1659779704820243,0.4074039401896162,0.3078809128274342,"[0.04901331 0.11836565 0.13241053 0.12333976 0.11222409 0.08980074
+ 0.07607892 0.05948137 0.05068586 0.04884035 0.04462769 0.04611853
+ 0.04901331]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661471465_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661471465_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.001,max,intensity,20000,1661476862,0.5008239857765603,0.099133831870449,0.3148552554277108,0.2514990467411392,"[0.04894439 0.12227434 0.15409535 0.12280373 0.11520914 0.07916977
+ 0.06160969 0.05618716 0.0598558  0.05534811 0.04011343 0.03544473
+ 0.04894439]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661476862_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661476862_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.001,max,arousal,20000,1661482796,0.2836777684663549,0.1178411913568763,0.3432800480029044,0.2705921348517898,"[0.0763211  0.07789131 0.07804115 0.077968   0.07792879 0.07775177
+ 0.07775962 0.07767348 0.07674395 0.07460054 0.07543709 0.07556209
+ 0.0763211 ]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661482796_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661482796_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.001,min,valence,20000,1661488239,0.4002705807776266,0.1753371263057199,0.4187327623983105,0.327026886734879,"[0.06358871 0.0990958  0.10015339 0.10083292 0.09896104 0.09074861
+ 0.08520256 0.06801999 0.05865566 0.05309265 0.05911546 0.05894449
+ 0.06358871]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661488239_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661488239_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.001,min,intensity,20000,1661493549,0.4712264386911743,0.1050117550336941,0.3240551728235397,0.263735255938724,"[0.07604161 0.0782475  0.07824708 0.07831189 0.07833589 0.0781476
+ 0.07762226 0.07746855 0.07574853 0.07487024 0.07555013 0.07536708
+ 0.07604161]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661493549_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661493549_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.001,min,arousal,20000,1661499301,0.2759852275938904,0.1191066807428917,0.3451183575860486,0.2723264336529197,"[0.06670006 0.09160032 0.09313398 0.09353876 0.09504577 0.09034935
+ 0.08105004 0.06995031 0.0650772  0.06090159 0.06391229 0.06204011
+ 0.06670006]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661499301_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661499301_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1661505022,0.3930502149406846,0.1774480752706164,0.4212458608349955,0.3552939246178301,"[0.07630227 0.07738119 0.07717015 0.0772815  0.0772948  0.07720198
+ 0.07729649 0.07853881 0.07776427 0.0751183  0.07586446 0.07648344
+ 0.07630227]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661505022_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661505022_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.001,mean,intensity,20000,1661510471,0.4065442590303034,0.117857308787895,0.3433035228305924,0.2760032746362661,"[0.0761981  0.07745075 0.07730725 0.07734711 0.07749018 0.07727206
+ 0.07716382 0.07795813 0.07761921 0.07584748 0.07578076 0.07636704
+ 0.0761981 ]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661510471_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661510471_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.001,mean,arousal,20000,1661515647,0.2138421324936112,0.1293297563907632,0.3596244657844669,0.2851518927921413,"[0.07560316 0.07739676 0.07732158 0.07738332 0.07803518 0.07743932
+ 0.07664739 0.078734   0.07792032 0.07726464 0.07495376 0.07569744
+ 0.07560316]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661515647_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661515647_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0005,max,valence,20000,1661521604,0.3923665182021117,0.1776479611150717,0.4214830496177417,0.3348798320796011,"[0.07440845 0.08199032 0.08271016 0.08231068 0.08243166 0.08063135
+ 0.08039727 0.07611459 0.07190209 0.06946762 0.07187345 0.07135393
+ 0.07440845]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661521604_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661521604_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0005,max,intensity,20000,1661527005,0.4509548511184665,0.1090375898032317,0.3302084035926882,0.2579311307037882,"[0.06561485 0.09114015 0.09433386 0.09720439 0.10238507 0.09833517
+ 0.08247174 0.06987427 0.06737053 0.0576394  0.05475339 0.05326235
+ 0.06561485]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661527005_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661527005_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0005,max,arousal,20000,1661532485,0.2348404787982844,0.125875347137306,0.3547891587088112,0.2845130881864001,"[0.06671274 0.09274565 0.0968309  0.09626864 0.09781958 0.09536163
+ 0.08527455 0.06926173 0.06622704 0.05964545 0.05626883 0.05087054
+ 0.06671274]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661532485_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661532485_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0005,min,valence,20000,1661538557,0.4274427448601829,0.1673930618442492,0.4091369719840157,0.3246067080179335,"[0.06929713 0.09036086 0.09090612 0.09094549 0.09049297 0.08576789
+ 0.08411431 0.07433792 0.06427534 0.05931383 0.06566203 0.06522909
+ 0.06929713]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661538557_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661538557_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0005,min,intensity,20000,1661545308,0.4779147556156061,0.1036834891182847,0.3219992067044339,0.2602971868409219,"[0.07470485 0.08098958 0.08089466 0.08086561 0.08104603 0.07999806
+ 0.07894915 0.07669256 0.07214127 0.07218657 0.07379117 0.07303564
+ 0.07470485]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661545308_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661545308_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0005,min,arousal,20000,1661551767,0.29535583792433,0.1159200481100308,0.3404703336709835,0.2698149143137621,"[0.06617211 0.0896908  0.08956544 0.09218292 0.09661128 0.09623289
+ 0.08169497 0.07263916 0.06608236 0.0637034  0.06150488 0.05774767
+ 0.06617211]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661551767_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661551767_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0005,mean,valence,20000,1661557893,0.3359199289160721,0.1941507079171318,0.4406253600476621,0.3755617233676107,"[0.07670012 0.07706205 0.07694858 0.07702055 0.0770111  0.0769735
+ 0.07705097 0.07789051 0.07737619 0.07603786 0.07646842 0.07676011
+ 0.07670012]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661557893_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661557893_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1661565376,0.3679289214117849,0.184792546419207,0.4298750358176281,0.3636402393032735,"[0.07751279 0.07617091 0.0761072  0.07638461 0.07637142 0.0764574
+ 0.07672889 0.0776858  0.07708139 0.07670795 0.07747791 0.07780096
+ 0.07751279]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661565376_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661565376_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1661565382,0.9117282177691935,28.234901342629865,5.313652354325588,4.302405211625885,"[0.07259354 0.07497335 0.07571225 0.07745481 0.07848716 0.08231295
+ 0.08407442 0.08627069 0.0752697  0.07254974 0.07475757 0.0729503
+ 0.07259354]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661565382_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661565382_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,1e-05,mean,intensity,20000,1661571982,0.4479798595126487,0.1096284080902961,0.331101809252526,0.2735494389926939,"[0.07729146 0.07655974 0.07660755 0.07658761 0.07664648 0.07657511
+ 0.07660934 0.07692049 0.07690328 0.07700185 0.07752039 0.07748517
+ 0.07729146]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661571982_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661571982_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.0001,mean,arousal,20000,1661573512,0.942592583392537,17.40353543766903,4.171754479552821,3.346903487285237,"[0.07587055 0.07936382 0.08352934 0.08362427 0.07930129 0.07942878
+ 0.07618794 0.08101918 0.07525241 0.06834094 0.06933594 0.07287502
+ 0.07587055]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661573512_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661573512_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,1e-05,mean,arousal,20000,1661579053,0.2306645268066794,0.1265623272924329,0.355755994035846,0.2895874018367866,"[0.0771995  0.07656859 0.0766362  0.07663988 0.07669199 0.07655606
+ 0.07660665 0.07710588 0.07684805 0.07721831 0.07744261 0.07728674
+ 0.0771995 ]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661579053_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661579053_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,1e-05,max,valence,20000,1661585963,0.2874618903245682,0.2083179189304965,0.4564185786430001,0.368714764653262,"[0.07768571 0.07600063 0.07628464 0.07656265 0.0765937  0.07687104
+ 0.07691912 0.07738558 0.07696766 0.07669862 0.076855   0.07748981
+ 0.07768571]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661585963_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661585963_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.0001,max,valence,20000,1661581835,0.9230325381375416,24.61906440947237,4.96176021281484,4.009027695178526,"[0.07621336 0.07737394 0.07781447 0.07807531 0.07837857 0.07854065
+ 0.07769995 0.07738859 0.07557011 0.07563078 0.07586548 0.07523542
+ 0.07621336]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661581835_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661581835_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,1e-05,max,intensity,20000,1661593235,0.4143839445895317,0.1163003868845965,0.3410284253322537,0.269511006110793,"[0.07740465 0.07658029 0.07668493 0.07677975 0.07681116 0.07687084
+ 0.07654386 0.07687876 0.07700758 0.07643727 0.07709701 0.07749922
+ 0.07740465]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661593235_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661593235_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,1e-05,max,arousal,20000,1661600681,0.2004506817811361,0.1315327656462156,0.3626744623573814,0.297228035956907,"[0.07724753 0.07660569 0.07663783 0.07672024 0.07678805 0.07673734
+ 0.07660896 0.07716417 0.07703409 0.07679152 0.07710606 0.07731089
+ 0.07724753]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661600681_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661600681_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.0001,max,arousal,20000,1661599166,0.9505948303251058,14.97758777616365,3.87008885894932,3.121897859039442,"[0.075846   0.07913949 0.07909088 0.07865551 0.07858454 0.07806299
+ 0.07741444 0.07551081 0.07609043 0.07603756 0.07616167 0.07355966
+ 0.075846  ]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661599166_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661599166_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,1e-05,min,valence,20000,1661607856,0.347434884781423,0.1907841909408833,0.4367884968046701,0.362521557006515,"[0.07754847 0.07598135 0.0763114  0.07655837 0.07654786 0.076854
+ 0.0769418  0.07740801 0.07729916 0.07636933 0.07709579 0.07753597
+ 0.07754847]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661607856_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661607856_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.0001,min,valence,20000,1661610257,0.9245868439971092,24.1218990470872,4.911404997257628,4.025499918054144,"[0.07579845 0.07803404 0.07863799 0.07961224 0.0800907  0.07860807
+ 0.07815232 0.07700454 0.07540796 0.07401997 0.0736189  0.07521635
+ 0.07579845]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661610257_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661610257_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,1e-05,min,intensity,20000,1661615066,0.3842419859817976,0.1222864274228497,0.3496947632190818,0.2734664050716853,"[0.0773359  0.07640682 0.07658485 0.07675137 0.07684506 0.07695122
+ 0.07682461 0.0770234  0.07695347 0.07668707 0.07712236 0.0771779
+ 0.0773359 ]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661615066_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661615066_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,1e-05,min,arousal,20000,1661622283,0.1419395455164466,0.1411583527096149,0.3757104639341509,0.3132543218838167,"[0.07722972 0.07649366 0.07662836 0.07679427 0.07686114 0.07694516
+ 0.07670382 0.07691734 0.07719983 0.07687332 0.07707521 0.07704837
+ 0.07722972]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661622283_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661622283_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.0001,min,arousal,20000,1661620753,0.941351931520295,17.779649363366385,4.216592150465395,3.188211358036527,"[0.07596386 0.07879132 0.07862208 0.07896097 0.07872548 0.07800418
+ 0.07764214 0.07499793 0.07553826 0.07561558 0.07535227 0.07582215
+ 0.07596386]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661620753_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661620753_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1661631664,0.9154327361757892,27.04996195329372,5.200957791916189,4.194352938917283,"[0.05560148 0.07693923 0.07661515 0.08504386 0.08548172 0.09740403
+ 0.11713575 0.10904612 0.05259674 0.05778167 0.06717529 0.0635775
+ 0.05560148]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661631664_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661631664_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.001,mean,arousal,20000,1661639191,0.9495892313973576,15.282443448294268,3.9092765888709216,3.086439002843984,"[0.05344347 0.09342429 0.17516358 0.09895053 0.1031796  0.09760799
+ 0.05693378 0.09893138 0.04479884 0.03806819 0.03733274 0.04872217
+ 0.05344347]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661639191_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661639191_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.001,max,valence,20000,1661646548,0.941785323613983,18.62073703411276,4.315175203176895,3.428030849065376,"[0.06800563 0.09053445 0.09309057 0.09110028 0.09245834 0.08658037
+ 0.08047484 0.07412588 0.0691425  0.0647419  0.06545903 0.05628053
+ 0.06800563]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661646548_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661646548_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.001,max,arousal,20000,1661654036,0.9652767354954492,10.526646207555457,3.2444793430619123,2.550878628202242,"[0.06406152 0.09769379 0.09843269 0.09467318 0.09182924 0.08200575
+ 0.08047397 0.07055374 0.0711572  0.06779014 0.0635635  0.05370383
+ 0.06406152]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661654036_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661654036_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.001,min,valence,20000,1661661419,0.9379814537487516,19.837455306370845,4.453925830811605,3.6716756559799375,"[0.06142662 0.09442478 0.09760123 0.10032937 0.11116623 0.08476504
+ 0.08518412 0.07623994 0.07125932 0.05654282 0.04683484 0.05279901
+ 0.06142662]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661661419_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661661419_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.001,min,arousal,20000,1661668873,0.962111105165479,11.48633335054097,3.3891493550064995,2.677241914309114,"[0.06667642 0.09182291 0.09175984 0.09204195 0.09233437 0.08374237
+ 0.08554571 0.06718266 0.07204176 0.06823714 0.0606113  0.06132711
+ 0.06667642]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661668873_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661668873_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1661676075,0.9083665401188152,29.31017856492473,5.413887564858059,4.354961953544388,"[0.07569977 0.07501337 0.0749135  0.0762729  0.07720688 0.07925986
+ 0.07952034 0.08040065 0.07819381 0.07605021 0.07652196 0.07524693
+ 0.07569977]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661676075_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661676075_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,1e-05,mean,arousal,20000,1661683285,0.941095899803633,17.85726750606319,4.225786022275996,3.3756176156495936,"[0.0772887  0.07671469 0.07756222 0.07876596 0.07747237 0.0774667
+ 0.077331   0.07744641 0.07623493 0.07447787 0.07536955 0.07658085
+ 0.0772887 ]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661683285_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661683285_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,1e-05,max,valence,20000,1661690532,0.9146395383577768,27.30367680497992,5.225292030593115,4.264630938609669,"[0.07737006 0.07583829 0.07644704 0.07693084 0.0772469  0.07757002
+ 0.07750981 0.07760901 0.07631813 0.0761993  0.07665524 0.07693527
+ 0.07737006]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661690532_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661690532_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,1e-05,max,arousal,20000,1661697661,0.9443557608656268,16.869013533545832,4.10719046716193,3.248872900007875,"[0.07736211 0.07645237 0.07696768 0.07700941 0.07719339 0.07687115
+ 0.07698935 0.07643735 0.07655296 0.07660188 0.07687512 0.07732507
+ 0.07736211]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661697661_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661697661_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,1e-05,min,valence,20000,1661704820,0.91681724716536,26.60710773408126,5.158207802529989,4.168368161657512,"[0.07734887 0.07603299 0.07670988 0.07755059 0.07809702 0.07752924
+ 0.0777709  0.07763282 0.07623298 0.07533749 0.07563354 0.07677485
+ 0.07734887]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661704820_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661704820_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0005,mean,intensity,20000,1661743801,0.4262579045286043,0.1139422784925744,0.3375533713245572,0.2767656052788789,"[0.0765797  0.07702374 0.07689704 0.07687922 0.07712955 0.0769975
+ 0.07706603 0.07790519 0.07751602 0.07608943 0.07644418 0.0768927
+ 0.0765797 ]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661743801_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661743801_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.0005,mean,valence,20000,1661743801,0.9131323822645768,27.78576068868561,5.271220037968972,4.2499449496694295,"[0.06396584 0.07647271 0.07799894 0.08106487 0.08192922 0.08929419
+ 0.09863293 0.09903064 0.0625353  0.06522687 0.07108546 0.0687971
+ 0.06396584]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661743801_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661743801_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,0.0005,mean,arousal,20000,1661749873,0.2273438611656,0.1271086054589012,0.3565229381945868,0.2901736467171319,"[0.07669053 0.0770812  0.0770355  0.07702922 0.07706696 0.07695357
+ 0.07694484 0.0774943  0.07720257 0.07654718 0.07652268 0.07674094
+ 0.07669053]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661749873_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661749873_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.0005,mean,arousal,20000,1661751055,0.9466107305389684,16.185400736801903,4.023108342662661,3.2054622523998697,"[0.06101856 0.08874553 0.15070154 0.0957567  0.09234963 0.0940821
+ 0.06409001 0.09493227 0.0521228  0.04507769 0.04372905 0.05637556
+ 0.06101856]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661751055_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661751055_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,5e-05,mean,valence,20000,1661756919,0.3733175265544921,0.1832171317234537,0.4280387035344511,0.3616535190806528,"[0.0774027  0.07629658 0.07619438 0.07645448 0.07642038 0.07650473
+ 0.07674342 0.07782418 0.07715699 0.07657759 0.07737458 0.07764732
+ 0.0774027 ]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661756919_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661756919_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.0005,max,valence,20000,1661759309,0.937463929332248,20.002992361056968,4.472470498623436,3.5500579376431065,"[0.06324972 0.09317559 0.0971685  0.10060102 0.10582231 0.09016176
+ 0.08117497 0.07405134 0.06886681 0.0621037  0.05644481 0.04392975
+ 0.06324972]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661759309_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661759309_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,5e-05,mean,intensity,20000,1661764356,0.4323161584504982,0.1127391399029612,0.3357664960995382,0.2771833397746387,"[0.07722456 0.07661151 0.07664756 0.07662261 0.07669959 0.07660355
+ 0.07659955 0.07707986 0.07703041 0.07685301 0.07737985 0.07742329
+ 0.07722456]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661764356_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661764356_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,5e-05,mean,arousal,20000,1661771251,0.2337211632892014,0.1260594842020068,0.3550485659765532,0.2921765464325721,"[0.07715454 0.07666969 0.07673001 0.07670901 0.07673706 0.07660634
+ 0.07664865 0.07716849 0.07687557 0.07710914 0.07727136 0.0771656
+ 0.07715454]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661771251_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661771251_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.0005,max,arousal,20000,1661769193,0.9614334087303488,11.691782656950624,3.4193248832116883,2.724436618664236,"[0.06707236 0.09354534 0.09321455 0.08963919 0.0878657  0.08256362
+ 0.08401392 0.07425366 0.07319747 0.06926234 0.06617201 0.05212742
+ 0.06707236]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661769193_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661769193_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,5e-05,max,valence,20000,1661777874,0.2982465522318183,0.2051649109799313,0.4529513340083362,0.3611809877744759,"[0.07727066 0.07669549 0.07706141 0.07726607 0.0772192  0.07731456
+ 0.077185   0.07722546 0.07660153 0.07598024 0.07611778 0.07679185
+ 0.07727066]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661777874_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661777874_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.0005,min,valence,20000,1661779003,0.9419682496335504,18.562225718435624,4.308390153924737,3.4963354486299387,"[0.06456823 0.09020284 0.09217212 0.09443145 0.10185184 0.0874355
+ 0.08481274 0.0753359  0.06994259 0.0586574  0.05582458 0.06019657
+ 0.06456823]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661779003_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661779003_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,5e-05,max,intensity,20000,1661784635,0.4496285893733643,0.1093009786783156,0.3306069852231129,0.2619266467228643,"[0.07709727 0.0772073  0.07741756 0.07752258 0.07756404 0.07752338
+ 0.07684189 0.07649655 0.07662582 0.07543686 0.07629904 0.07687047
+ 0.07709727]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661784635_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661784635_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,0.0005,min,arousal,20000,1661788422,0.9596384899686614,12.23592719650302,3.4979890217813745,2.7185773795143087,"[0.06476208 0.09214418 0.09214534 0.09301046 0.09994493 0.08272778
+ 0.08373126 0.06887845 0.07141536 0.06615303 0.06205244 0.05827257
+ 0.06476208]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661788422_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661788422_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,5e-05,max,arousal,20000,1661791661,0.1996793937014103,0.1316596491941402,0.3628493477934613,0.2994996957683039,"[0.07723246 0.07667154 0.07676119 0.0769125  0.07704172 0.07689749
+ 0.07656412 0.07719564 0.07694932 0.07652675 0.07683753 0.07717726
+ 0.07723246]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661791661_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661791661_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,5e-05,min,valence,20000,1661802009,0.3661703482247692,0.1853066835602688,0.4304726281196852,0.3598965098722091,"[0.07712343 0.07655468 0.07687726 0.07710365 0.07707113 0.0771696
+ 0.07713783 0.07733209 0.07714989 0.07577501 0.07661127 0.0769707
+ 0.07712343]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661802009_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_base_ls960_1661802009_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,5e-05,min,intensity,20000,1661811168,0.4334809737325354,0.1125078134789357,0.335421844069428,0.2629691284287077,"[0.07693734 0.07701147 0.07715407 0.07733307 0.07738142 0.07717668
+ 0.07697528 0.07696088 0.0767251  0.07630613 0.07664117 0.07645999
+ 0.07693734]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661811168_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_intensity_hubert_base_ls960_1661811168_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,5e-05,mean,valence,20000,1661811182,0.9110544430084132,28.450417144135315,5.333893244538675,4.315238933830186,"[0.07321575 0.07486277 0.07544775 0.07715054 0.0782021  0.08164001
+ 0.08318146 0.08462367 0.07585629 0.07356407 0.07540296 0.07363686
+ 0.07321575]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661811182_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661811182_FINAL.pt
+hubert_base_ls960,EU_Emotion_Stimulus_Set,adam,5e-05,min,arousal,20000,1661818679,0.1954212645725996,0.1323601481978025,0.3638133425230616,0.2986565028788535,"[0.07687454 0.07700786 0.07709415 0.07726596 0.07737109 0.07726915
+ 0.07687274 0.07677928 0.07695848 0.07651294 0.07666574 0.07645357
+ 0.07687454]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661818679_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_arousal_hubert_base_ls960_1661818679_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,5e-05,mean,arousal,20000,1661835817,0.9424712847638972,17.44030812501199,4.176159494680728,3.343260476081692,"[0.07659813 0.07825519 0.08083119 0.08182908 0.07860526 0.0786443
+ 0.0766755  0.07948665 0.07568346 0.07056424 0.07183157 0.07439722
+ 0.07659813]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661835817_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661835817_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,5e-05,max,valence,20000,1661841127,0.9170040963967384,26.547341527026315,5.152411234269477,4.181022380166531,"[0.07696321 0.07633126 0.07692443 0.07740322 0.07776231 0.07804567
+ 0.07761629 0.07741632 0.07601081 0.07588948 0.07633364 0.07634021
+ 0.07696321]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661841127_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661841127_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,5e-05,max,arousal,20000,1661964881,0.9474453194780346,15.932388163944966,3.99153957314029,3.12296460242103,"[0.07701154 0.07711826 0.07750414 0.07739998 0.07753071 0.07714015
+ 0.07713549 0.07625873 0.07632978 0.07637746 0.07665475 0.07652744
+ 0.07701154]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661964881_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661964881_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,5e-05,min,valence,20000,1661970796,0.9199132113739072,25.616822483466475,5.06130640086791,4.112721058240849,"[0.07694693 0.07661731 0.07729983 0.07819339 0.07869843 0.0779467
+ 0.07790182 0.07729163 0.07584184 0.07494026 0.07503446 0.07634044
+ 0.07694693]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661970796_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_base_ls960_1661970796_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,5e-05,min,arousal,20000,1661977346,0.9338388145742856,20.05731320445668,4.478539181971804,3.454933504700183,"[0.07702063 0.07712634 0.07729241 0.07759192 0.07766499 0.07743204
+ 0.07750931 0.07587896 0.07615933 0.07618819 0.07621844 0.07689683
+ 0.07702063]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661977346_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661977346_FINAL.pt
+hubert_base_ls960,morgan_emotional_speech_set,adam,1e-05,min,arousal,20000,1661984665,0.9335328200682756,20.150077981967787,4.488883823621167,3.4745159920115123,"[0.07740502 0.07652277 0.07682896 0.07712729 0.07729378 0.07710976
+ 0.07731293 0.07615604 0.07643058 0.07646752 0.07661093 0.07732938
+ 0.07740502]",dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661984665_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_arousal_hubert_base_ls960_1661984665_FINAL.pt
+hubert_base_ls960,azure_speech,adam,0.0001,mean,valence,20000,1662008396,0.5288461538461539,0.6797385620915033,,,"[0.10559227 0.04115864 0.05281687 0.04044586 0.04270765 0.04799996
+ 0.03930579 0.05782954 0.09095845 0.1399214  0.14020227 0.09546898
+ 0.10559227]",dimension_models/model_objects/azure_speech_valence_hubert_base_ls960_1662008396_BEST.pt,dimension_models/model_objects/azure_speech_valence_hubert_base_ls960_1662008396_FINAL.pt
+wavlm_base_plus,azure_speech,adam,0.0001,mean,valence,20000,1662012871,0.5,0.6666666666666666,,,"[0.07688982 0.07674754 0.07679199 0.07650764 0.07665232 0.07678797
+ 0.07690367 0.07712504 0.07711309 0.07708792 0.07708407 0.07726794
+ 0.07704095]",dimension_models/model_objects/azure_speech_valence_wavlm_base_plus_1662012871_BEST.pt,dimension_models/model_objects/azure_speech_valence_wavlm_base_plus_1662012871_FINAL.pt
+hubert_base_ls960,azure_speech,adam,0.001,mean,valence,20000,1662017475,0.6314102564102564,0.7294117647058824,,,"[0.08927274 0.03578425 0.04840279 0.03428635 0.03414162 0.04308996
+ 0.03179726 0.05306635 0.09650699 0.16164827 0.19662012 0.0861105
+ 0.08927274]",dimension_models/model_objects/azure_speech_valence_hubert_base_ls960_1662017475_BEST.pt,dimension_models/model_objects/azure_speech_valence_hubert_base_ls960_1662017475_FINAL.pt
+hubert_base_ls960,IADS2007,adam,0.0001,mean,pleasure,20000,1662008402,-0.1458445303288946,2.718221379699876,1.6487029385853218,1.334663413275507,"[0.07715742 0.07685967 0.07703871 0.07701252 0.0769573  0.07683002
+ 0.07653663 0.07666344 0.07684457 0.07700104 0.07707436 0.07686695
+ 0.07715742]",dimension_models/model_objects/IADS2007_pleasure_hubert_base_ls960_1662008402_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_hubert_base_ls960_1662008402_FINAL.pt
+wavlm_base_plus,azure_speech,adam,0.001,mean,valence,20000,1662022297,0.5032051282051282,0.6680942184154176,,,"[0.04436854 0.049422   0.04860577 0.02952848 0.04692833 0.04179636
+ 0.051155   0.06444527 0.0924505  0.14738888 0.15426348 0.16572894
+ 0.06391844]",dimension_models/model_objects/azure_speech_valence_wavlm_base_plus_1662022297_BEST.pt,dimension_models/model_objects/azure_speech_valence_wavlm_base_plus_1662022297_FINAL.pt
+hubert_base_ls960,azure_speech,adam,1e-05,mean,valence,20000,1662026577,0.5,0.6666666666666666,,,"[0.07694069 0.07692318 0.07692426 0.07690047 0.07690142 0.07691033
+ 0.0769199  0.07691841 0.07691048 0.0769238  0.07695102 0.07693524
+ 0.07694069]",dimension_models/model_objects/azure_speech_valence_hubert_base_ls960_1662026577_BEST.pt,dimension_models/model_objects/azure_speech_valence_hubert_base_ls960_1662026577_FINAL.pt
+wavlm_base_plus,azure_speech,adam,1e-05,mean,valence,20000,1662030818,0.5,0.6666666666666666,,,"[0.07692447 0.07691713 0.07693224 0.07691834 0.07691753 0.07691721
+ 0.07691689 0.07692827 0.07692204 0.07691848 0.0769164  0.07693919
+ 0.07693186]",dimension_models/model_objects/azure_speech_valence_wavlm_base_plus_1662030818_BEST.pt,dimension_models/model_objects/azure_speech_valence_wavlm_base_plus_1662030818_FINAL.pt
+hubert_base_ls960,IADS2007,adam,0.0001,mean,arousal,20000,1662025361,-0.3831562202439935,1.8645775742621185,1.365495358564839,1.1750586203137925,"[0.07731246 0.07692061 0.07713324 0.07717489 0.07674889 0.07658638
+ 0.07634842 0.07569324 0.076887   0.07696747 0.07762069 0.0772943
+ 0.07731246]",dimension_models/model_objects/IADS2007_arousal_hubert_base_ls960_1662025361_BEST.pt,dimension_models/model_objects/IADS2007_arousal_hubert_base_ls960_1662025361_FINAL.pt
+hubert_base_ls960,IADS2007,adam,0.0001,mean,arousal,20000,1662035076,-0.3831562202439935,1.8645775742621185,1.365495358564839,1.1750586203137925,"[0.07731246 0.07692061 0.07713324 0.07717489 0.07674889 0.07658638
+ 0.07634842 0.07569324 0.076887   0.07696747 0.07762069 0.0772943
+ 0.07731246]",dimension_models/model_objects/IADS2007_arousal_hubert_base_ls960_1662035076_BEST.pt,dimension_models/model_objects/IADS2007_arousal_hubert_base_ls960_1662035076_FINAL.pt
+hubert_base_ls960,IADS2007,adam,0.0001,mean,dominance,20000,1662042472,0.041654047166414,1.1126156925909725,1.054805997608552,0.9120826666063532,"[0.07747169 0.07685976 0.07716054 0.07711872 0.07719733 0.07661523
+ 0.07592422 0.07658211 0.07652007 0.07696963 0.077179   0.07693
+ 0.07747169]",dimension_models/model_objects/IADS2007_dominance_hubert_base_ls960_1662042472_BEST.pt,dimension_models/model_objects/IADS2007_dominance_hubert_base_ls960_1662042472_FINAL.pt
+wavlm_base_plus,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1662081826,0.9203467558186011,25.478147537586565,5.0475882892314585,3.895636326537147,"[0.07608151 0.06864508 0.07864149 0.08391146 0.08949285 0.09683355
+ 0.08230273 0.07808581 0.06782959 0.07027112 0.07007893 0.06890531
+ 0.06892068]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_base_plus_1662081826_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_base_plus_1662081826_FINAL.pt
+wavlm_base_plus,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1662122581,0.4206397525392127,0.1693819873256529,0.4115604297374238,0.3426888385749318,"[0.07606736 0.07327586 0.0743856  0.07667508 0.07807375 0.07854495
+ 0.08151071 0.07932626 0.07667162 0.0764962  0.0766338  0.07689491
+ 0.07544388]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_base_plus_1662122581_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_base_plus_1662122581_FINAL.pt
+wavlm_base_plus,IADS2007,adam,0.0001,mean,pleasure,20000,1662127512,-0.1543614172569218,2.738425502967458,1.6548188731602798,1.2975959695645083,"[0.07690521 0.07691187 0.07689861 0.07688632 0.07685366 0.07675924
+ 0.0769925  0.07702977 0.07699894 0.0770149  0.07703138 0.07682291
+ 0.07689463]",dimension_models/model_objects/IADS2007_pleasure_wavlm_base_plus_1662127512_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_wavlm_base_plus_1662127512_FINAL.pt
+wavlm_large,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1662162141,0.9060339289236988,30.05629522078433,5.482362193506038,4.397515573869757,"[0.04125531 0.04256215 0.04149186 0.04206615 0.04111909 0.04166101
+ 0.04159084 0.04119103 0.0408839  0.04062467 0.04317318 0.04374031
+ 0.04190835 0.04115599 0.04149919 0.039315   0.03899884 0.03896038
+ 0.0386491  0.03840352 0.03772774 0.03739188 0.0373275  0.03386535
+ 0.03343761]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_large_1662162141_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_large_1662162141_FINAL.pt
+wavlm_base,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1662262874,0.9219492828095832,24.96555800618944,4.996554613550164,4.036927700703335,"[0.07571819 0.07495428 0.07322362 0.07870434 0.08604174 0.09022166
+ 0.08979057 0.08527026 0.07233327 0.07130179 0.06348862 0.06602555
+ 0.072926  ]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_base_1662262874_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_base_1662262874_FINAL.pt
+wavlm_large,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1662267816,-0.0551052936700613,0.3084709941058696,0.5554016511551524,0.419367254913603,"[0.04011728 0.04022853 0.04013992 0.04011822 0.04016158 0.04029126
+ 0.04014986 0.04018845 0.04005553 0.04003242 0.04002178 0.04003081
+ 0.04006461 0.04002906 0.03996447 0.04001484 0.03997199 0.0399094
+ 0.03987755 0.03984135 0.0398211  0.039758   0.03975661 0.0397484
+ 0.03970695]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_large_1662267816_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_large_1662267816_FINAL.pt
+wavlm_base,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1662278003,0.4000745617771349,0.1753944344969574,0.4188011873156014,0.3559628779215235,"[0.0761848  0.074835   0.07448585 0.07616316 0.07699516 0.07750919
+ 0.0791653  0.07834106 0.07748452 0.07728101 0.0766758  0.07736371
+ 0.07751544]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_base_1662278003_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_base_1662278003_FINAL.pt
+wavlm_large,IADS2007,adam,0.0001,mean,pleasure,20000,1662335307,0.4103634637192058,1.398760998327226,1.1826922669601023,0.9105535851795006,"[0.04003566 0.04003695 0.04004178 0.04003821 0.04001883 0.04001079
+ 0.04002641 0.04000407 0.04003247 0.04002126 0.0400739  0.04006992
+ 0.0400417  0.04008849 0.0400472  0.04005001 0.0400113  0.04000739
+ 0.04003942 0.03990329 0.03988004 0.03985932 0.039877   0.03990691
+ 0.03987771]",dimension_models/model_objects/IADS2007_pleasure_wavlm_large_1662335307_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_wavlm_large_1662335307_FINAL.pt
+wavlm_base,IADS2007,adam,0.0001,mean,pleasure,20000,1662367401,-0.3717760271122985,3.254185734940953,1.803936178178417,1.3566806950899435,"[0.07677595 0.07651439 0.07703432 0.07695518 0.07708316 0.07645918
+ 0.07707735 0.07673806 0.07658558 0.07704103 0.07725366 0.07715795
+ 0.07732429]",dimension_models/model_objects/IADS2007_pleasure_wavlm_base_1662367401_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_wavlm_base_1662367401_FINAL.pt
+wavlm_base_plus,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1662425602,0.4117421024268722,0.1719833077737883,0.4147087023125851,0.349420276438341,"[0.07602961 0.07451904 0.07571221 0.07649095 0.07705919 0.07737789
+ 0.0791736  0.07853603 0.07737987 0.07714494 0.07723655 0.07745825
+ 0.07588184]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_base_plus_1662425602_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_base_plus_1662425602_FINAL.pt
+wavlm_base,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1662430778,0.4040951853883576,0.17421896341391,0.4173954520762175,0.3580639390648696,"[0.07621291 0.07536234 0.07557313 0.0760248  0.0766129  0.0769874
+ 0.07816178 0.07792164 0.07767579 0.07738893 0.07713388 0.07729258
+ 0.0776519 ]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_base_1662430778_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_base_1662430778_FINAL.pt
+wavlm_large,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1662436683,0.0095676149550989,0.2895631973816881,0.5381107668330826,0.4326844703478064,"[0.0400427  0.04008143 0.04004832 0.04004134 0.04005526 0.04010137
+ 0.04003861 0.04005914 0.04001123 0.04000107 0.04000073 0.0399961
+ 0.03999841 0.03999464 0.03998186 0.03999968 0.04001315 0.03997907
+ 0.03997565 0.03995789 0.03994782 0.03993121 0.03993133 0.03992124
+ 0.03989077]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_large_1662436683_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_large_1662436683_FINAL.pt
+wavlm_base_plus,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1662477069,0.4053270433103085,0.1738588169526411,0.4169638077251323,0.3578142776968593,"[0.07699502 0.07637672 0.07598435 0.07818153 0.07897054 0.07804414
+ 0.07719667 0.07772581 0.07575529 0.0759064  0.07592173 0.07584055
+ 0.07710119]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_base_plus_1662477069_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_base_plus_1662477069_FINAL.pt
+wavlm_base,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1662482094,0.3973093126928858,0.1762028837949432,0.4197652722593226,0.3441325698652637,"[0.0777109  0.07724995 0.07459549 0.07728281 0.07769374 0.07823801
+ 0.07780821 0.07662662 0.07640952 0.07614099 0.07576304 0.07768087
+ 0.07679976]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_base_1662482094_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_base_1662482094_FINAL.pt
+wavlm_large,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1662487680,0.1662301557111636,0.243761276022656,0.4937218609932682,0.3811536623839997,"[0.04452202 0.05123979 0.04565302 0.04426306 0.04475085 0.0487756
+ 0.0453665  0.05161114 0.04657533 0.04594065 0.04860146 0.0444829
+ 0.04531078 0.0424442  0.04053736 0.03765885 0.03537169 0.0334506
+ 0.03013942 0.02768469 0.0270674  0.02639727 0.02819034 0.03131011
+ 0.03265507]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_large_1662487680_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_large_1662487680_FINAL.pt
+wavlm_base_plus,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1662500316,0.9178919642662744,26.263345202627985,5.124777575917611,3.986597384414502,"[0.07613603 0.07194967 0.0780426  0.08050604 0.08293911 0.08523599
+ 0.08141918 0.07884078 0.07367016 0.07384983 0.07388758 0.07217223
+ 0.07135076]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_base_plus_1662500316_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_base_plus_1662500316_FINAL.pt
+wavlm_base,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1662507627,0.917189874389905,26.487917969733925,5.146641426186006,4.153831324412206,"[0.0754578  0.07478041 0.07429676 0.07691733 0.08074046 0.08248864
+ 0.08350886 0.08228672 0.07689713 0.0748727  0.07045088 0.07164264
+ 0.07565974]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_base_1662507627_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_base_1662507627_FINAL.pt
+wavlm_large,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1662520860,0.90255838187321,31.16799508230558,5.582830382727527,4.507033565566747,"[0.04016605 0.04033322 0.04020295 0.04034976 0.04019094 0.04020585
+ 0.04012537 0.04011743 0.04009021 0.04008908 0.0407938  0.04103313
+ 0.04050818 0.04028894 0.04031212 0.03991935 0.03989418 0.03984038
+ 0.03971724 0.03968509 0.03959913 0.03955841 0.03942367 0.03878058
+ 0.03877509]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_large_1662520860_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_large_1662520860_FINAL.pt
+wavlm_base_plus,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1662597846,0.9208519888463808,25.3165420467504,5.031554635174937,3.868657952841189,"[0.07562188 0.06361076 0.07556704 0.08599903 0.10114288 0.11662521
+ 0.0814097  0.07445312 0.06045035 0.06483657 0.06511234 0.06635316
+ 0.06881803]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_base_plus_1662597846_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_base_plus_1662597846_FINAL.pt
+wavlm_base,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1662602861,0.9232783707862832,24.54043157337679,4.953829990358651,4.018249462938759,"[0.07540102 0.07462832 0.0709703  0.07842863 0.08753901 0.09965991
+ 0.10558061 0.09284405 0.06542249 0.06572969 0.05827592 0.05698912
+ 0.06853086]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_base_1662602861_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_base_1662602861_FINAL.pt
+wavlm_base_plus,IADS2007,adam,1e-05,mean,pleasure,20000,1662610556,-0.1645806408655326,2.762667982083613,1.662127546875875,1.284387641154359,"[0.07676681 0.07671577 0.07665875 0.07683079 0.07686202 0.07684576
+ 0.07707619 0.07715815 0.07708402 0.0771092  0.07711764 0.07702067
+ 0.0767542 ]",dimension_models/model_objects/IADS2007_pleasure_wavlm_base_plus_1662610556_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_wavlm_base_plus_1662610556_FINAL.pt
+hubert_base_ls960,IADS2007,adam,1e-05,mean,pleasure,20000,1662622938,-0.1555895673466079,2.741338973113627,1.6556989379454303,1.3496406567995476,"[0.07732812 0.07671326 0.0768572  0.0767741  0.07683644 0.07659187
+ 0.07652294 0.07671715 0.07679203 0.07711743 0.07731272 0.07710854
+ 0.07732812]",dimension_models/model_objects/IADS2007_pleasure_hubert_base_ls960_1662622938_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_hubert_base_ls960_1662622938_FINAL.pt
+wavlm_base,IADS2007,adam,1e-05,mean,pleasure,20000,1662635526,-0.3634727005325437,3.234488228661248,1.7984683007107043,1.3526954559192268,"[0.07667245 0.07626159 0.07702501 0.07693207 0.07700519 0.0763758
+ 0.07707994 0.07671931 0.07654799 0.07723486 0.0774493  0.0772075
+ 0.07748903]",dimension_models/model_objects/IADS2007_pleasure_wavlm_base_1662635526_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_wavlm_base_1662635526_FINAL.pt
+wavlm_base_plus,IADS2007,adam,0.001,mean,pleasure,20000,1662648661,-0.136462600627695,2.6959651649851946,1.6419394522896371,1.3365136605869072,"[0.07675961 0.07700092 0.07770428 0.07896517 0.07839788 0.07769305
+ 0.07670694 0.07547192 0.07563296 0.07655224 0.07640733 0.07608335
+ 0.0766244 ]",dimension_models/model_objects/IADS2007_pleasure_wavlm_base_plus_1662648661_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_wavlm_base_plus_1662648661_FINAL.pt
+hubert_base_ls960,IADS2007,adam,0.001,mean,pleasure,20000,1662661533,-0.0670973033823845,2.5314138414934115,1.5910417472503389,1.2793993130146384,"[0.07670499 0.07750779 0.07787768 0.07789294 0.07750084 0.07770936
+ 0.07579014 0.07635248 0.07684308 0.07646175 0.07636339 0.07629051
+ 0.07670499]",dimension_models/model_objects/IADS2007_pleasure_hubert_base_ls960_1662661533_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_hubert_base_ls960_1662661533_FINAL.pt
+wavlm_base,IADS2007,adam,0.001,mean,pleasure,20000,1662681242,-0.3007557502292715,3.0857083980022,1.7566184554427862,1.290728139889614,"[0.07736975 0.07751206 0.0775599  0.07744773 0.07770508 0.07731178
+ 0.07678991 0.07648148 0.07599818 0.07620885 0.07635475 0.07661341
+ 0.07664713]",dimension_models/model_objects/IADS2007_pleasure_wavlm_base_1662681242_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_wavlm_base_1662681242_FINAL.pt
+wavlm_large,IADS2007,adam,1e-05,mean,pleasure,20000,1662751595,0.2847804831562861,1.696674313491003,1.3025645141377846,0.9936428639605208,"[0.0400085  0.04000654 0.04001199 0.0400073  0.04000758 0.04000042
+ 0.03999988 0.03999407 0.04000517 0.04001245 0.04003305 0.040011
+ 0.04001005 0.04003218 0.04000878 0.04002171 0.0400145  0.04001458
+ 0.04004487 0.03998203 0.03999181 0.03994764 0.03995341 0.03995107
+ 0.03992942]",dimension_models/model_objects/IADS2007_pleasure_wavlm_large_1662751595_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_wavlm_large_1662751595_FINAL.pt
+wavlm_large,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1662824046,0.9306844217397622,22.171507861570387,4.708663065199121,3.7464014352287096,"[0.04365618 0.04525158 0.04638266 0.0497623  0.04516194 0.04698451
+ 0.05029439 0.04681706 0.04587628 0.0456757  0.05253557 0.04938312
+ 0.0470312  0.04389909 0.04153316 0.03106636 0.03038747 0.03154759
+ 0.03085948 0.03012394 0.02856604 0.02795133 0.03055011 0.02749926
+ 0.03120363]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_large_1662824046_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wavlm_large_1662824046_FINAL.pt
+wavlm_large,IADS2007,adam,0.001,mean,pleasure,20000,1662902493,0.3633570102640061,1.5102717167395356,1.228931127744568,0.8899219660979909,"[0.04048067 0.0404785  0.04047715 0.04047921 0.04038576 0.04037591
+ 0.04046516 0.04036397 0.04045512 0.04033601 0.04044953 0.04046385
+ 0.04049888 0.04047675 0.04051661 0.04052296 0.04005637 0.03927759
+ 0.03914048 0.03902237 0.0390342  0.03903573 0.03902448 0.03913216
+ 0.03905047]",dimension_models/model_objects/IADS2007_pleasure_wavlm_large_1662902493_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_wavlm_large_1662902493_FINAL.pt
+hubert_xtralarge_ll60k,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1662751606,0.7959515740681817,65.26759774986326,8.078836410638804,6.512423171392535,"[0.01493662 0.0208623  0.02111293 0.02141225 0.02210907 0.02219959
+ 0.02221123 0.02187636 0.02243005 0.02297824 0.02465456 0.02409373
+ 0.02311465 0.0221741  0.02154611 0.02185532 0.02194401 0.02181569
+ 0.02081187 0.02065219 0.02065095 0.02068766 0.0210184  0.02141588
+ 0.02170112 0.02148497 0.02104887 0.02172537 0.02275551 0.02507465
+ 0.0229966  0.02305669 0.02106201 0.02061646 0.02030017 0.01996518
+ 0.01935388 0.01892055 0.01853405 0.01747438 0.01595978 0.01582649
+ 0.0167325  0.01606041 0.01659451 0.01697837 0.01619891 0.01607823
+ 0.01493662]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_xtralarge_ll60k_1662751606_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_xtralarge_ll60k_1662751606_FINAL.pt
+hubert_xtralarge_ll60k,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1663008589,-1.1466421193645164,0.6275931250866895,0.7922077537405763,0.6489929162543511,"[0.01436888 0.03109545 0.02987953 0.02343111 0.02301316 0.02355148
+ 0.02323345 0.0228798  0.02286305 0.02388325 0.02585032 0.02965553
+ 0.02569677 0.02163237 0.02032188 0.02011605 0.02015363 0.01986183
+ 0.02000936 0.02124999 0.02204247 0.0219169  0.02291935 0.02333285
+ 0.0251763  0.02578165 0.02264504 0.02033464 0.01997829 0.01996669
+ 0.0197906  0.01985219 0.01995024 0.01922082 0.01949369 0.01965335
+ 0.01901575 0.0181379  0.01799406 0.01715162 0.01530037 0.01412181
+ 0.01285464 0.01255848 0.01325033 0.01202481 0.01299112 0.01542834
+ 0.01436888]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_xtralarge_ll60k_1663008589_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_xtralarge_ll60k_1663008589_FINAL.pt
+wav2vec2_large_ll60k,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1663291063,0.4954425915306207,161.38938503106468,12.703912193929265,10.166605768826107,"[0.04751551 0.04789278 0.0478695  0.04766358 0.04754573 0.04757555
+ 0.04578385 0.045892   0.04451635 0.04534597 0.04099657 0.04276649
+ 0.04385681 0.04328086 0.04191507 0.04258595 0.03976543 0.03971734
+ 0.03747208 0.03675315 0.0376788  0.03582457 0.01799779 0.01629952
+ 0.01548865]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ll60k_1663291063_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ll60k_1663291063_FINAL.pt
+wav2vec2_large_ls960,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1663367964,0.9366060140306396,20.277407958987386,4.503044299025648,3.5066160418827823,"[0.03915717 0.03928105 0.03918202 0.03949254 0.0403135  0.0406033
+ 0.04081853 0.04079726 0.04119839 0.04142718 0.04114772 0.04099915
+ 0.04056434 0.04016247 0.04026034 0.03960868 0.03936284 0.0394236
+ 0.04033065 0.03981228 0.04022248 0.03920769 0.03843198 0.0387948
+ 0.03940007]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1663367964_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1663367964_FINAL.pt
+wav2vec2_large_ll60k,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1663446589,-1.4480255896677154,0.7157057137062821,0.845993920608347,0.718122658335658,"[0.04464355 0.04457661 0.04453888 0.04449574 0.04433526 0.04419654
+ 0.04423814 0.04292563 0.04246528 0.0441362  0.04308083 0.0434769
+ 0.04385115 0.04338739 0.04340556 0.0414938  0.04159148 0.03931793
+ 0.04299841 0.0408498  0.04221607 0.04012834 0.02127667 0.01618669
+ 0.01618727]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_large_ll60k_1663446589_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_large_ll60k_1663446589_FINAL.pt
+wav2vec2_large_ls960,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1663482418,0.3779385442377608,0.1818661291959425,0.4264576522891137,0.3538436205753549,"[0.03961995 0.03962364 0.03965903 0.03959265 0.03938757 0.0396868
+ 0.03993312 0.04039521 0.0406951  0.0408343  0.04059343 0.04074751
+ 0.04043709 0.04064577 0.04079859 0.04053194 0.04026947 0.04061386
+ 0.04010048 0.03958178 0.03884226 0.03929939 0.03901919 0.03939379
+ 0.03969807]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_large_ls960_1663482418_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_large_ls960_1663482418_FINAL.pt
+hubert_xtralarge_ll60k,IADS2007,adam,0.0001,mean,pleasure,20000,1663264560,-2.0910872729724748,7.332809372926223,2.7079160572156264,2.065916225428542,"[0.01605754 0.02322194 0.02339592 0.0243299  0.02090166 0.02338685
+ 0.0242886  0.02450692 0.02387407 0.02499348 0.02445526 0.02534423
+ 0.02387903 0.02462007 0.02415414 0.02200038 0.02009749 0.02012883
+ 0.02354709 0.02137628 0.02155797 0.01969805 0.02286119 0.02188835
+ 0.02255021 0.01967905 0.01891658 0.01857389 0.01863668 0.0188021
+ 0.01872548 0.01898786 0.02208147 0.02128672 0.01885508 0.01860338
+ 0.01949164 0.01846609 0.01833129 0.01785265 0.01754385 0.01712887
+ 0.01704084 0.0169917  0.01504094 0.01618602 0.01517208 0.01443274
+ 0.01605754]",dimension_models/model_objects/IADS2007_pleasure_hubert_xtralarge_ll60k_1663264560_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_hubert_xtralarge_ll60k_1663264560_FINAL.pt
+hubert_xtralarge_ll60k,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1663540303,0.7512418470960278,79.56859743755419,8.920123173900357,7.121239868851744,"[0.0199471  0.02053596 0.0205612  0.02059755 0.0206693  0.02068257
+ 0.02065371 0.02061844 0.02067247 0.02071755 0.02084292 0.02085678
+ 0.02085574 0.02076549 0.02066405 0.02061494 0.0207051  0.02067085
+ 0.02048912 0.02046811 0.02043732 0.02046406 0.02048255 0.0204971
+ 0.02051965 0.0205547  0.020495   0.02049565 0.02053034 0.02050012
+ 0.02038556 0.02040515 0.02045304 0.02046265 0.02041999 0.02041128
+ 0.02029506 0.02022313 0.02012447 0.02008658 0.02002703 0.0199761
+ 0.02003736 0.01983259 0.01991694 0.0199881  0.0198284  0.01961399
+ 0.0199471 ]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_xtralarge_ll60k_1663540303_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_xtralarge_ll60k_1663540303_FINAL.pt
+hubert_xtralarge_ll60k,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1663905873,-3.1888177313580703,1.224644381439692,1.106636517308051,0.9273322822181364,"[0.02019522 0.02058711 0.0205233  0.0204704  0.02046727 0.02047623
+ 0.0204773  0.02046175 0.02046977 0.02046284 0.02046997 0.02049529
+ 0.02047721 0.02044218 0.02041936 0.02041291 0.02041878 0.02042532
+ 0.02045574 0.02050731 0.02051329 0.02051634 0.02049791 0.02050614
+ 0.02052192 0.02051997 0.02051499 0.02043854 0.02043051 0.02041669
+ 0.02041047 0.02040923 0.02043473 0.02039711 0.02042529 0.02048014
+ 0.0203875  0.0203611  0.02036021 0.02036583 0.02030652 0.02028679
+ 0.02022041 0.02014995 0.02017409 0.02014883 0.02021973 0.02027534
+ 0.02019522]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_xtralarge_ll60k_1663905873_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_xtralarge_ll60k_1663905873_FINAL.pt
+wav2vec2_base,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1664237818,0.920773178109483,25.34175070714914,5.03405906869885,4.035507702613405,"[0.07693072 0.07516631 0.07577145 0.07803097 0.07888668 0.0803435
+ 0.07942852 0.07848202 0.07713675 0.0759086  0.07454612 0.07343622
+ 0.07593213]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_base_1664237818_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_base_1664237818_FINAL.pt
+wav2vec2_base,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1664257024,0.3941146640417431,0.1771368725173475,0.4208763149873696,0.3528606018831625,"[0.07736189 0.07462307 0.07551619 0.07612792 0.07695745 0.0776595
+ 0.07865845 0.07909808 0.078844   0.07768179 0.07588332 0.07494736
+ 0.076641  ]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_base_1664257024_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_base_1664257024_FINAL.pt
+wav2vec2_base,IADS2007,adam,0.0001,mean,pleasure,20000,1664302135,-0.1311763933686835,2.683424998140008,1.6381162956701236,1.3533028684271884,"[0.07762725 0.07610803 0.0773726  0.07793719 0.07727836 0.07755216
+ 0.0769605  0.0770345  0.07695162 0.075188   0.07676654 0.0764402
+ 0.07678305]",dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664302135_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664302135_FINAL.pt
+wav2vec2_base,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1664340007,0.9186584639981292,26.018170088212763,5.100800926150006,4.082660021811521,"[0.07769544 0.07535288 0.07571038 0.0773764  0.07805271 0.07898837
+ 0.07873695 0.0782104  0.07724494 0.07633585 0.0753177  0.07426991
+ 0.0767082 ]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_base_1664340007_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_base_1664340007_FINAL.pt
+wav2vec2_base,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1664354965,0.3918357909402281,0.1778031247438152,0.4216670780886448,0.349023768057914,"[0.07766497 0.07515574 0.07578596 0.07635686 0.07697038 0.07742898
+ 0.07790475 0.07830527 0.07816067 0.0773851  0.07624489 0.07547412
+ 0.07716223]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_base_1664354965_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_base_1664354965_FINAL.pt
+wav2vec2_base,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1664379799,0.9210244186227146,25.261388093807827,5.026070840508302,4.05573496354045,"[0.07137587 0.07443423 0.07608031 0.08103143 0.08344324 0.08551037
+ 0.08206899 0.07930885 0.07660218 0.0740603  0.07210724 0.07223348
+ 0.07174347]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_base_1664379799_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_base_1664379799_FINAL.pt
+hubert_large_ll60k,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1664405708,0.8861439126335219,36.41838096850428,6.034764367272701,4.913554405308605,"[0.03136352 0.04145332 0.04259117 0.04362047 0.04258632 0.04310118
+ 0.04224201 0.04162148 0.04222152 0.04148873 0.04437789 0.04314319
+ 0.04254902 0.04191287 0.04228304 0.04162201 0.04209075 0.04046355
+ 0.03839486 0.03651935 0.03718328 0.03640811 0.0326329  0.03676593
+ 0.03136352]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_large_ll60k_1664405708_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_large_ll60k_1664405708_FINAL.pt
+hubert_large_ll60k,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1664498938,-0.0970885961971568,0.3207452487646945,0.5663437549445518,0.4498734398778661,"[0.0292991  0.04793159 0.04741436 0.04625605 0.04582004 0.04357743
+ 0.0425184  0.04021557 0.04262506 0.04066411 0.03954894 0.04135131
+ 0.04352644 0.04469629 0.04636714 0.04467009 0.04001244 0.03827647
+ 0.03670778 0.03535647 0.03495693 0.03455611 0.03295211 0.03140069
+ 0.0292991 ]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_large_ll60k_1664498938_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_large_ll60k_1664498938_FINAL.pt
+hubert_xtralarge_ll60k,IADS2007,adam,1e-05,mean,pleasure,20000,1664222083,-2.613400422692157,8.571862955578405,2.927774403122345,2.3581340513910125,"[0.02038244 0.02041929 0.02042167 0.02042186 0.02041911 0.02042018
+ 0.02041965 0.02042059 0.02041464 0.02041193 0.02041497 0.02041115
+ 0.02041186 0.02041226 0.02041266 0.02041566 0.02042179 0.02041815
+ 0.02041124 0.02042014 0.0204214  0.02041998 0.02041379 0.02041055
+ 0.02040809 0.02040792 0.02040455 0.02040445 0.02040491 0.02040631
+ 0.02040728 0.02041029 0.02041546 0.02041395 0.02041283 0.02041013
+ 0.02041089 0.02040893 0.02040335 0.02039975 0.02040084 0.02039956
+ 0.02039581 0.02039527 0.02038813 0.02037378 0.02038257 0.02038551
+ 0.02038244]",dimension_models/model_objects/IADS2007_pleasure_hubert_xtralarge_ll60k_1664222083_BEST.pt,dimension_models/model_objects/IADS2007_pleasure_hubert_xtralarge_ll60k_1664222083_FINAL.pt
+hubert_large_ll60k,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1664529023,0.8581765927448858,45.364099497316566,6.735287632857008,5.497639141851915,"[0.0391231  0.04010678 0.04019366 0.04016419 0.04014727 0.04013514
+ 0.04018924 0.04020767 0.04026477 0.0402959  0.04039066 0.04026419
+ 0.040176   0.04019699 0.04039126 0.04046998 0.04040765 0.04002797
+ 0.03991888 0.03967826 0.03958758 0.03956228 0.03925313 0.03972436
+ 0.0391231 ]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_large_ll60k_1664529023_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_large_ll60k_1664529023_FINAL.pt
+hubert_large_ll60k,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1664600249,-0.0767067608172253,0.3147864074442417,0.5610582923763284,0.4554504721138699,"[0.03967927 0.04013188 0.04013911 0.04018715 0.04013014 0.04011919
+ 0.04011584 0.04003795 0.04013439 0.04005139 0.04007455 0.04016013
+ 0.0401366  0.04006434 0.04019343 0.04014689 0.04003414 0.03999826
+ 0.0399044  0.03989792 0.03987677 0.03984755 0.03972216 0.03953724
+ 0.03967927]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_large_ll60k_1664600249_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_large_ll60k_1664600249_FINAL.pt
+wav2vec2_large_ll60k,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1664749153,-0.4559686370092271,465.710896336382,21.58033587172317,17.09869069960486,"[0.04091743 0.04112732 0.04101693 0.04092737 0.04073031 0.04085905
+ 0.04037023 0.04042423 0.04019626 0.04028775 0.03984799 0.03997818
+ 0.04010469 0.04007928 0.03991709 0.03986886 0.0396973  0.03961673
+ 0.03952936 0.03948549 0.0395183  0.03936248 0.03877933 0.03874654
+ 0.03861149]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ll60k_1664749153_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ll60k_1664749153_FINAL.pt
+hubert_xtralarge_ll60k,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1664655013,0.9162092589374424,26.801580839743128,5.177024322885023,3.999879067303587,"[0.01732538 0.02139817 0.02137449 0.02146277 0.02146825 0.02146652
+ 0.0214878  0.02152411 0.02157258 0.02154951 0.02155896 0.02153036
+ 0.02156784 0.02151759 0.0215328  0.02151608 0.0215425  0.02155531
+ 0.0215562  0.02147454 0.02147224 0.021421   0.02144837 0.02146283
+ 0.02142431 0.02134684 0.02127167 0.02125516 0.02126523 0.0211853
+ 0.02118121 0.02099836 0.02095589 0.02103349 0.02108984 0.02083689
+ 0.02057408 0.01941521 0.01825062 0.01798515 0.01738556 0.01765465
+ 0.01763728 0.01766528 0.01766203 0.01763415 0.01759426 0.01758607
+ 0.01732538]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_xtralarge_ll60k_1664655013_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_xtralarge_ll60k_1664655013_FINAL.pt
+wav2vec2_large_ls960,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1664841166,0.937223401520088,20.079928374750924,4.481063308496202,3.479162102548175,"[0.03900271 0.03922934 0.03929465 0.03936171 0.0400715  0.04045114
+ 0.04068812 0.04073191 0.04096849 0.04111529 0.04088975 0.04088518
+ 0.04055711 0.0402389  0.04040669 0.03988305 0.03971922 0.03967607
+ 0.04034878 0.03982828 0.03987191 0.03942666 0.0387583  0.0388898
+ 0.03970549]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_FINAL.pt
+wav2vec2_large_ll60k,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1664929701,-3.922825207686573,1.4392390927567194,1.1996829134220088,0.9641703615058086,"[0.04065872 0.0405007  0.04040996 0.04040986 0.04056648 0.04056495
+ 0.04055393 0.04035832 0.04029659 0.04057148 0.04052511 0.04059277
+ 0.04058447 0.04055745 0.04044278 0.04027839 0.04026417 0.03981569
+ 0.03942951 0.03934065 0.03950036 0.0392197  0.03853523 0.03803698
+ 0.03798576]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_large_ll60k_1664929701_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_large_ll60k_1664929701_FINAL.pt
+hubert_large_ll60k,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1664880279,0.9303869649104602,22.266653377122243,4.718755490287904,3.8477615144179,"[0.02609732 0.04503215 0.04556821 0.04692785 0.04819942 0.04710926
+ 0.04865743 0.0481222  0.04834742 0.04607405 0.04799712 0.0490879
+ 0.04987225 0.04992577 0.04653357 0.04200624 0.040463   0.03538616
+ 0.02947332 0.02651406 0.02507821 0.02620848 0.02754796 0.02767324
+ 0.02609732]",dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_large_ll60k_1664880279_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_large_ll60k_1664880279_FINAL.pt
+wav2vec2_large_ls960,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1664946497,0.387815846994779,0.1789783971195127,0.4230583850008326,0.3527143571739737,"[0.03961393 0.03965586 0.03970487 0.03964358 0.03937081 0.03970066
+ 0.03993454 0.04033423 0.04048937 0.04060947 0.04042764 0.04062131
+ 0.04034087 0.04049119 0.04063213 0.04050646 0.04029747 0.04050863
+ 0.0401276  0.03964157 0.03922318 0.03952801 0.03927173 0.03944409
+ 0.03988076]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_large_ls960_1664946497_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_large_ls960_1664946497_FINAL.pt
+wav2vec2_base,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1664963222,0.3671710816520256,0.1850141087461789,0.4301326641237317,0.3545377527912177,"[0.07601184 0.07668587 0.0767712  0.07680412 0.07700475 0.07733225
+ 0.07752026 0.07793131 0.07751746 0.07744662 0.07718337 0.07617319
+ 0.07561778]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_base_1664963222_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_base_1664963222_FINAL.pt
+hubert_xtralarge_ll60k,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1664993113,0.2807177502522249,0.2102896383455973,0.4585734819476562,0.38910467014665,"[0.01546608 0.02228112 0.02229361 0.02227747 0.02230172 0.02226916
+ 0.02230587 0.02226814 0.02223275 0.02224636 0.02222181 0.02224197
+ 0.02220193 0.02224321 0.02230675 0.02225655 0.02229193 0.02224812
+ 0.02231205 0.02216274 0.02215344 0.02213482 0.02206314 0.02205104
+ 0.0219951  0.02196835 0.02190101 0.02190044 0.02182964 0.02169198
+ 0.02173031 0.02193465 0.021836   0.02169856 0.02157422 0.02131943
+ 0.02011951 0.01814997 0.01700577 0.01626962 0.01545275 0.01560148
+ 0.01557692 0.01559664 0.01566042 0.01565277 0.01565152 0.01558504
+ 0.01546608]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_xtralarge_ll60k_1664993113_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_xtralarge_ll60k_1664993113_FINAL.pt
+hubert_large_ll60k,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1665034855,0.4301854617761191,0.1665912000597567,0.4081558526589527,0.3406599380385533,"[0.0290739  0.0460101  0.04661166 0.04725181 0.04693555 0.04703834
+ 0.04658355 0.04646861 0.04622917 0.04602564 0.04582065 0.04605165
+ 0.04551903 0.04479747 0.04508292 0.04404189 0.04163587 0.03303222
+ 0.03286846 0.03035287 0.02877299 0.02766397 0.02847899 0.02857874
+ 0.0290739 ]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_large_ll60k_1665034855_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_hubert_large_ll60k_1665034855_FINAL.pt
+wav2vec2_large_ll60k,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1664993096,0.8209562457268754,57.26952158615716,7.567662887983129,6.405212958696092,"[0.04032376 0.04032874 0.04032911 0.04032949 0.04032893 0.04032993
+ 0.04033511 0.04033491 0.04033479 0.04033435 0.04033259 0.04033328
+ 0.0403327  0.0403375  0.0403562  0.0403625  0.04037083 0.04039387
+ 0.04040254 0.04041057 0.04041651 0.04041369 0.03738519 0.03742165
+ 0.03742126]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ll60k_1664993096_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ll60k_1664993096_FINAL.pt
+wav2vec2_large_ll60k,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1665073958,0.2123460175064564,0.2302788247285663,0.4798737591581418,0.3995937157514396,"[0.04039354 0.0403934  0.04039363 0.04039305 0.04039292 0.0403927
+ 0.04039305 0.04039205 0.04039207 0.04039279 0.04039219 0.04039195
+ 0.04039152 0.04039148 0.04039248 0.04039172 0.04039263 0.04039134
+ 0.04039242 0.04039348 0.04039289 0.04039481 0.03707418 0.03714361
+ 0.03714414]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_large_ll60k_1665073958_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_large_ll60k_1665073958_FINAL.pt
+wav2vec2_large_ls960,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1665059082,0.9361788914397884,20.414028789666407,4.518188662469331,3.519757355580898,"[0.03936745 0.03952882 0.03879812 0.04007687 0.04127504 0.0415473
+ 0.04149631 0.04122742 0.04221511 0.04267149 0.04256732 0.04169124
+ 0.04050036 0.0397498  0.03973289 0.03832365 0.03777792 0.03853128
+ 0.0402194  0.03949054 0.04118418 0.03816218 0.03708121 0.038714
+ 0.03807009]",dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1665059082_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1665059082_FINAL.pt
+wav2vec2_large_ls960,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1665095656,0.3526966849748495,0.1892458489894303,0.4350239636955996,0.3600988553054419,"[0.03978005 0.03956161 0.03945422 0.03949821 0.03958028 0.04002856
+ 0.04007345 0.04058599 0.04155946 0.04211634 0.04126237 0.04133223
+ 0.04077102 0.04135276 0.04092439 0.03994506 0.03965412 0.04095404
+ 0.03994109 0.03953135 0.03766953 0.03837596 0.03788666 0.03952754
+ 0.0386337 ]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_large_ls960_1665095656_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wav2vec2_large_ls960_1665095656_FINAL.pt
+whisper_base_encoder,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1665595739,0.890927986651343,34.88813138596128,5.9066175926634426,4.711802975220886,"[0.13231748 0.11838672 0.12499248 0.15796258 0.19065046 0.1397212
+ 0.13596906]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_encoder_1665595739_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_encoder_1665595739_FINAL.pt
+whisper_base_decoder,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1665603675,0.5898375024887332,131.19591968129086,11.45407873559855,9.129914747161996,"[0.13944131 0.13459031 0.13745679 0.14343181 0.14794077 0.15285546
+ 0.1442836 ]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_decoder_1665603675_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_decoder_1665603675_FINAL.pt
+whisper_base_encoder,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1665605059,0.2468631922003558,0.220187370107467,0.4692412706779605,0.3615177918306298,"[0.14246845 0.14094798 0.1418905  0.14256586 0.14435922 0.14344141
+ 0.14432657]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_encoder_1665605059_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_encoder_1665605059_FINAL.pt
+whisper_base_decoder,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1665611782,0.1072467312855435,0.261005692932983,0.5108871626230033,0.4264400778902177,"[0.14246665 0.14266545 0.14285293 0.1425236  0.14300649 0.14300652
+ 0.14347827]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_decoder_1665611782_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_decoder_1665611782_FINAL.pt
+whisper_base_encoder,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1665613940,0.8692731262719817,41.81472594367605,6.466430695807081,5.190814891284255,"[0.1360928  0.13043769 0.13366063 0.14855883 0.15641552 0.15129465
+ 0.14353994]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_encoder_1665613940_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_encoder_1665613940_FINAL.pt
+whisper_base_decoder,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1665623391,0.5801966961796676,134.27965955966016,11.58791006004362,9.225340346213445,"[0.13982354 0.13642709 0.13942063 0.14078803 0.14488718 0.14911722
+ 0.14953634]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_decoder_1665623391_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_decoder_1665623391_FINAL.pt
+whisper_base_encoder,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1665625802,0.2629602861927427,0.215481217445892,0.4641995448574805,0.3579505804327433,"[0.14233932 0.14150418 0.14211378 0.14241141 0.14392523 0.14357963
+ 0.14412645]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_encoder_1665625802_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_encoder_1665625802_FINAL.pt
+whisper_base_decoder,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1665632413,0.0893630355845906,0.2662341771650836,0.515978853408823,0.4180088917484611,"[0.14196527 0.14175713 0.14279221 0.1420264  0.14306527 0.14356758
+ 0.14482611]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_decoder_1665632413_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_decoder_1665632413_FINAL.pt
+whisper_base_encoder,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1665634185,0.8985583925227871,32.44744477536218,5.696265862419184,4.462701472280376,"[0.08466326 0.0194462  0.02395586 0.1176077  0.5921254  0.06896707
+ 0.09323448]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_encoder_1665634185_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_encoder_1665634185_FINAL.pt
+whisper_base_decoder,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1665642837,0.6569715681769879,109.72219757515704,10.474836398491243,8.298715431535074,"[0.16127007 0.08574405 0.07031859 0.13196798 0.23994899 0.2686309
+ 0.04211939]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_decoder_1665642837_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_decoder_1665642837_FINAL.pt
+whisper_base_encoder,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1665645830,0.2384647302802853,0.2226427477015202,0.4718503446025235,0.3803264193531011,"[0.14193882 0.12660103 0.13289236 0.13796754 0.15569653 0.14801976
+ 0.15688391]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_encoder_1665645830_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_encoder_1665645830_FINAL.pt
+whisper_base_decoder,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1665653073,0.065524499319275,0.273203620901085,0.5226888375516403,0.431529446127832,"[0.1442375  0.1449921  0.14228512 0.14418012 0.14243022 0.14113271
+ 0.14074229]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_decoder_1665653073_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_decoder_1665653073_FINAL.pt
+whisper_large_encoder,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1665849979,0.939072183269059,19.48857099001201,4.414586162938947,3.4712205521118946,"[0.02651149 0.02443079 0.0217978  0.02147798 0.02222527 0.02435069
+ 0.02551219 0.0269445  0.02636398 0.02542176 0.02704395 0.02939406
+ 0.03131105 0.02995085 0.04001357 0.04675915 0.04732028 0.03421556
+ 0.0329616  0.03597192 0.04039779 0.03370401 0.03026372 0.03111969
+ 0.03323706 0.02935139 0.02974374 0.03025323 0.02915438 0.02846931
+ 0.02821847 0.02801378 0.02809491]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1665849979_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1665849979_FINAL.pt
+whisper_large_decoder,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1665973628,0.8327903075328045,53.48423982194259,7.313291996217749,5.881055709901318,"[0.02985012 0.02983298 0.02982508 0.02980803 0.02982229 0.02984771
+ 0.02987002 0.0299181  0.02996908 0.02996116 0.0299839  0.03004014
+ 0.03014526 0.03049198 0.03047551 0.03077692 0.03123381 0.03115116
+ 0.03139322 0.03148617 0.03363499 0.03246981 0.03099102 0.03022184
+ 0.02998662 0.02990561 0.02983407 0.02976195 0.02970596 0.02962847
+ 0.0295462  0.02925409 0.02917677]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_decoder_1665973628_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_decoder_1665973628_FINAL.pt
+whisper_large_encoder,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1666059780,0.4141284022786656,0.171285648220819,0.4138667034454681,0.3414002295955193,"[0.03011091 0.02961344 0.02971429 0.02937597 0.02892162 0.02877289
+ 0.02885409 0.02900667 0.02935146 0.02891477 0.02765543 0.02852191
+ 0.02881592 0.02968083 0.02956097 0.0302785  0.03052029 0.03111294
+ 0.03166268 0.03123983 0.03152213 0.03073943 0.03089936 0.03119116
+ 0.03121944 0.03214763 0.03264249 0.0316499  0.0313854  0.03131308
+ 0.03137696 0.03139967 0.03082802]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1666059780_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1666059780_FINAL.pt
+whisper_large_decoder,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1666082369,0.3426216725187048,0.1921913835504083,0.4383963772094933,0.3420825459164727,"[0.03036562 0.03037357 0.03037111 0.03039291 0.03038781 0.03038835
+ 0.03038229 0.03037161 0.0303811  0.03037766 0.03037294 0.03036692
+ 0.03036608 0.03038575 0.03040119 0.03039723 0.03040465 0.03041252
+ 0.03039447 0.03039455 0.0304814  0.03052056 0.03024082 0.03013263
+ 0.03011102 0.03011145 0.03011601 0.03011031 0.03010879 0.03010013
+ 0.0300927  0.03007932 0.03010666]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_decoder_1666082369_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_decoder_1666082369_FINAL.pt
+whisper_small_en_encoder,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1666231576,0.908218304815846,29.35759359438324,5.418264813977187,4.26247116810722,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_encoder_1666231576_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_encoder_1666231576_FINAL.pt
+whisper_small_encoder,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1666236347,0.9163923244926436,26.74302489174124,5.171365863264872,4.209508298059252,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_encoder_1666236347_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_encoder_1666236347_FINAL.pt
+whisper_base_en_encoder,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1666242267,0.8921771892651699,34.488557346931074,5.872695918139391,4.605516424600909,"[0.14285715 0.14285715 0.14285715 0.14285715 0.14285715 0.14285715
+ 0.14285715]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_en_encoder_1666242267_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_en_encoder_1666242267_FINAL.pt
+whisper_small_en_decoder,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1666245417,0.7504100448157431,79.83466043896728,8.935024367004674,7.224714245927168,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_decoder_1666245417_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_decoder_1666245417_FINAL.pt
+whisper_small_decoder,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1666246053,0.7830924592126735,69.38075633942792,8.329511170496616,6.794768979991091,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_decoder_1666246053_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_decoder_1666246053_FINAL.pt
+whisper_base_en_decoder,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1666246777,0.5312729500690823,149.928569209319,12.244532216843524,10.08001627519618,"[0.14285715 0.14285715 0.14285715 0.14285715 0.14285715 0.14285715
+ 0.14285715]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_en_decoder_1666246777_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_en_decoder_1666246777_FINAL.pt
+whisper_small_en_encoder,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1666247229,0.3381620948952438,0.193495187399232,0.4398808786469719,0.3602984084868293,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_en_encoder_1666247229_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_en_encoder_1666247229_FINAL.pt
+whisper_small_encoder,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1666251448,0.3227990724709692,0.1979867266115912,0.4449569941147023,0.366225779917269,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_encoder_1666251448_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_encoder_1666251448_FINAL.pt
+whisper_base_en_encoder,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1666255677,0.2918330538242574,0.2070399638692928,0.4550164435152787,0.3613613934914051,"[0.14285715 0.14285715 0.14285715 0.14285715 0.14285715 0.14285715
+ 0.14285715]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_en_encoder_1666255677_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_en_encoder_1666255677_FINAL.pt
+whisper_small_en_decoder,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1666257882,0.2955211571541111,0.2059617085450608,0.4538300436783145,0.3762290809683446,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_en_decoder_1666257882_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_en_decoder_1666257882_FINAL.pt
+whisper_small_decoder,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1666258498,0.2666113809574675,0.2144137819601578,0.463048358122732,0.3867038933281648,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_decoder_1666258498_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_decoder_1666258498_FINAL.pt
+whisper_base_en_decoder,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1666258986,0.2719685997857965,0.2128475433794858,0.461354032581797,0.3738253943467193,"[0.14285715 0.14285715 0.14285715 0.14285715 0.14285715 0.14285715
+ 0.14285715]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_en_decoder_1666258986_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_en_decoder_1666258986_FINAL.pt
+whisper_small_en_encoder,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1666259336,0.8903810806019136,35.06306654597596,5.9214074801499645,4.753104555418536,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_encoder_1666259336_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_encoder_1666259336_FINAL.pt
+whisper_small_encoder,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1666265513,0.9014854426600007,31.511188932775195,5.613482781017075,4.500437970904568,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_encoder_1666265513_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_encoder_1666265513_FINAL.pt
+whisper_base_en_encoder,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1666271699,0.8698816821729091,41.62007126026624,6.451361969403534,5.136058162710861,"[0.14285715 0.14285715 0.14285715 0.14285715 0.14285715 0.14285715
+ 0.14285715]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_en_encoder_1666271699_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_en_encoder_1666271699_FINAL.pt
+whisper_small_en_decoder,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1666274873,0.7470216350928807,80.91848826951086,8.995470430695153,7.235464958276847,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_decoder_1666274873_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_decoder_1666274873_FINAL.pt
+whisper_small_decoder,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1666275588,0.7810522555006871,70.03334258013824,8.368592628401638,6.91512131449666,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_decoder_1666275588_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_decoder_1666275588_FINAL.pt
+whisper_base_en_decoder,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1666276300,0.5361159414375918,148.37947413003835,12.181111366785805,10.022704190895707,"[0.14285715 0.14285715 0.14285715 0.14285715 0.14285715 0.14285715
+ 0.14285715]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_en_decoder_1666276300_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_en_decoder_1666276300_FINAL.pt
+whisper_small_en_encoder,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1666276737,0.347583754946598,0.1907406672014805,0.4367386715204877,0.3480726471093652,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_en_encoder_1666276737_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_en_encoder_1666276737_FINAL.pt
+whisper_small_encoder,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1666281033,0.3183941298688468,0.1992745573443226,0.446401789136561,0.3674312668496075,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_encoder_1666281033_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_encoder_1666281033_FINAL.pt
+whisper_base_en_encoder,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1666284644,0.2842562614424275,0.2092551178375068,0.4574441144418702,0.3656454509794665,"[0.14285715 0.14285715 0.14285715 0.14285715 0.14285715 0.14285715
+ 0.14285715]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_en_encoder_1666284644_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_en_encoder_1666284644_FINAL.pt
+whisper_small_en_decoder,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1666286331,0.3181233309945317,0.1993537282085614,0.4464904570184691,0.371756305907797,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_en_decoder_1666286331_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_en_decoder_1666286331_FINAL.pt
+whisper_small_decoder,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1666286766,0.2520293257939721,0.21867699728035,0.4676291236443149,0.3980181485528894,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_decoder_1666286766_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_decoder_1666286766_FINAL.pt
+whisper_base_en_decoder,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1666287211,0.3033873340631192,0.2036619500039069,0.4512892088272297,0.3624655927874189,"[0.14285715 0.14285715 0.14285715 0.14285715 0.14285715 0.14285715
+ 0.14285715]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_en_decoder_1666287211_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_en_decoder_1666287211_FINAL.pt
+whisper_small_en_encoder,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1666287491,0.9078791837099938,29.46606598187738,5.428265467152227,4.281932969419928,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_encoder_1666287491_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_encoder_1666287491_FINAL.pt
+whisper_small_encoder,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1666292297,0.9169556071070486,26.562851470022416,5.15391612950991,4.182480205160106,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_encoder_1666292297_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_encoder_1666292297_FINAL.pt
+whisper_base_en_encoder,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1666297465,0.8899702342196354,35.19448121527842,5.932493675957727,4.673465233394131,"[0.14285715 0.14285715 0.14285715 0.14285715 0.14285715 0.14285715
+ 0.14285715]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_en_encoder_1666297465_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_en_encoder_1666297465_FINAL.pt
+whisper_small_en_decoder,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1666300313,0.7531482807336318,78.95879933091489,8.88587639633339,7.134704242817861,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_decoder_1666300313_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_decoder_1666300313_FINAL.pt
+whisper_small_decoder,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1666300934,0.7839944042068391,69.09225725984486,8.312175242368562,6.759108726260048,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_decoder_1666300934_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_decoder_1666300934_FINAL.pt
+whisper_base_en_decoder,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1666301557,0.5517808749039232,143.368837210935,11.973672670109828,9.76137734378818,"[0.14285715 0.14285715 0.14285715 0.14285715 0.14285715 0.14285715
+ 0.14285715]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_en_decoder_1666301557_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_base_en_decoder_1666301557_FINAL.pt
+whisper_small_en_encoder,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1666301931,0.3876510344976224,0.1790265817652954,0.4231153291542335,0.3401022858936579,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_en_encoder_1666301931_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_en_encoder_1666301931_FINAL.pt
+whisper_small_encoder,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1666305602,0.3659270606189264,0.1853778112193548,0.4305552359678776,0.3589833834843652,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_encoder_1666305602_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_encoder_1666305602_FINAL.pt
+whisper_base_en_encoder,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1666308938,0.3504343142692371,0.1899072765690123,0.4357835203045341,0.3467392446669785,"[0.14285715 0.14285715 0.14285715 0.14285715 0.14285715 0.14285715
+ 0.14285715]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_en_encoder_1666308938_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_en_encoder_1666308938_FINAL.pt
+whisper_small_en_decoder,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1666310636,0.2695254013056656,0.2135618378375701,0.462127512530438,0.3947267535369113,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_en_decoder_1666310636_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_en_decoder_1666310636_FINAL.pt
+whisper_small_decoder,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1666311083,0.2347356640156023,0.223732978965314,0.4730042060757113,0.4022579715269581,"[0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308 0.07692308
+ 0.07692308]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_decoder_1666311083_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_small_decoder_1666311083_FINAL.pt
+whisper_base_en_decoder,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1666311528,0.2746486110612084,0.2120640142404502,0.4605040871050442,0.3706398874930397,"[0.14285715 0.14285715 0.14285715 0.14285715 0.14285715 0.14285715
+ 0.14285715]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_en_decoder_1666311528_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_base_en_decoder_1666311528_FINAL.pt
+whisper_medium_en_encoder,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1666374320,0.9294392367048008,22.569796824667648,4.750768024716388,3.7515040094619234,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_en_encoder_1666374320_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_en_encoder_1666374320_FINAL.pt
+whisper_medium_en_decoder,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1666383843,0.8587444849414806,45.18245163954276,6.721789318294851,5.409264339599562,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_en_decoder_1666383843_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_en_decoder_1666383843_FINAL.pt
+whisper_medium_en_encoder,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1666389810,0.4157170764915314,0.1708211828099324,0.41330519330143,0.3293270157634882,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_en_encoder_1666389810_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_en_encoder_1666389810_FINAL.pt
+whisper_medium_en_decoder,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1666396216,0.416437179689223,0.1706106531589266,0.4130504244749382,0.3457298770431945,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_en_decoder_1666396216_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_en_decoder_1666396216_FINAL.pt
+whisper_medium_en_encoder,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1666396892,0.9222009373660934,24.885062955609065,4.98849305458162,3.910950450648613,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_en_encoder_1666396892_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_en_encoder_1666396892_FINAL.pt
+whisper_medium_en_decoder,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1666406519,0.8592668703848312,45.015359720890125,6.709348680825146,5.388607286384089,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_en_decoder_1666406519_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_en_decoder_1666406519_FINAL.pt
+whisper_medium_en_encoder,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1666412177,0.414601531519163,0.1711473239720143,0.4136995576164112,0.3283589016433418,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_en_encoder_1666412177_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_en_encoder_1666412177_FINAL.pt
+whisper_medium_en_decoder,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1666418364,0.3996249758307015,0.1755258756191509,0.418958083367717,0.3559982826104649,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_en_decoder_1666418364_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_en_decoder_1666418364_FINAL.pt
+whisper_medium_en_encoder,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1666419015,0.9283585055404412,22.915483034149748,4.787011910800906,3.8148862187034354,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_en_encoder_1666419015_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_en_encoder_1666419015_FINAL.pt
+whisper_medium_en_decoder,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1666428284,0.8605790167840977,44.59565227651675,6.677997624776213,5.36886412527299,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_en_decoder_1666428284_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_en_decoder_1666428284_FINAL.pt
+whisper_medium_en_encoder,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1666429178,0.4307482073883019,0.1664266755336642,0.4079542566681517,0.3326347859537089,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_en_encoder_1666429178_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_en_encoder_1666429178_FINAL.pt
+whisper_medium_en_decoder,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1666435412,0.3934637313579611,0.1773271794499986,0.4211023384523038,0.3510646617815304,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_en_decoder_1666435412_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_en_decoder_1666435412_FINAL.pt
+whisper_medium_encoder,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1666728028,0.9247859468045968,24.058213371049057,4.90491726444484,3.8395277379688935,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_encoder_1666728028_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_encoder_1666728028_FINAL.pt
+whisper_medium_decoder,morgan_emotional_speech_set,adam,0.0001,mean,valence,20000,1666738776,0.8185209919377281,58.04846983828436,7.618954642093912,6.15716487225994,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_decoder_1666738776_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_decoder_1666738776_FINAL.pt
+whisper_medium_encoder,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1666739965,0.915559740554322,27.00933791685385,5.197050886498404,4.094885490094125,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_encoder_1666739965_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_encoder_1666739965_FINAL.pt
+whisper_medium_decoder,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1666751710,0.8084159472147576,61.28070253604405,7.828199188577412,6.333909603388492,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_decoder_1666751710_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_decoder_1666751710_FINAL.pt
+whisper_medium_encoder,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1666752663,0.9256216676242208,23.790896972810256,4.877591308505691,3.819566910309368,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_encoder_1666752663_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_encoder_1666752663_FINAL.pt
+whisper_medium_decoder,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1666764128,0.8229972910201564,56.61666615449789,7.524404704326973,6.06568245121565,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_decoder_1666764128_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_medium_decoder_1666764128_FINAL.pt
+whisper_medium_encoder,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1666803677,0.3641884082418276,0.1858861243046798,0.4311451313707251,0.3400777546637856,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_encoder_1666803677_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_encoder_1666803677_FINAL.pt
+whisper_medium_decoder,EU_Emotion_Stimulus_Set,adam,0.0001,mean,valence,20000,1666810158,0.2076289995629707,0.2316578939294998,0.4813085226021868,0.3840076620795561,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_decoder_1666810158_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_decoder_1666810158_FINAL.pt
+whisper_medium_encoder,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1666810868,0.3527024539364103,0.1892441623735842,0.4350220251591685,0.339125853602797,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_encoder_1666810868_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_encoder_1666810868_FINAL.pt
+whisper_medium_decoder,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1666817146,0.2309074884294919,0.224852185868875,0.4741858136520693,0.3815325165407036,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_decoder_1666817146_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_decoder_1666817146_FINAL.pt
+whisper_medium_encoder,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1666817835,0.3866376426669482,0.1793228573951327,0.4234652965652944,0.3451696630602522,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_encoder_1666817835_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_encoder_1666817835_FINAL.pt
+whisper_medium_decoder,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1666824257,0.2789189675892922,0.2108155311446802,0.4591465247006452,0.3551897119451199,"[0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04
+ 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_decoder_1666824257_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_medium_decoder_1666824257_FINAL.pt
+whisper_large_encoder,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1667270764,0.9305572744450455,22.212177611648805,4.712979695654205,3.686021642543388,"[0.02895857 0.02891294 0.02846746 0.02843297 0.0283655  0.02884101
+ 0.02907194 0.02952993 0.02933424 0.02913248 0.02937455 0.03001628
+ 0.03071629 0.03045053 0.03180903 0.03261118 0.0326878  0.03171599
+ 0.03175971 0.03183131 0.03221402 0.03128057 0.0309147  0.03093621
+ 0.03113583 0.03035694 0.03041083 0.030333   0.03037963 0.03017073
+ 0.03002026 0.02990585 0.02992179]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1667270764_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1667270764_FINAL.pt
+whisper_large_decoder,morgan_emotional_speech_set,adam,1e-05,mean,valence,20000,1667384668,0.8326490094671104,53.5294358839678,7.31638133806377,5.925866347797712,"[0.02976051 0.02974625 0.02969479 0.02967056 0.02968972 0.02969132
+ 0.02973183 0.02977118 0.02982158 0.02982065 0.02984834 0.02987798
+ 0.02997769 0.03026966 0.03032028 0.03054518 0.03091942 0.03091221
+ 0.0310849  0.03112624 0.03216542 0.03166834 0.03131499 0.03062684
+ 0.03043601 0.0303534  0.03035122 0.03029072 0.03025111 0.03019675
+ 0.03018198 0.02998772 0.02989511]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_decoder_1667384668_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_decoder_1667384668_FINAL.pt
+whisper_large_encoder,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1667415600,0.3762196415960458,0.1823686682409479,0.4270464474046681,0.3486149552293096,"[0.02944614 0.0292174  0.02928554 0.02899947 0.02905305 0.02906687
+ 0.02906418 0.02919153 0.02940708 0.02905963 0.02844685 0.02882055
+ 0.02905175 0.02959873 0.02963093 0.03026652 0.03048345 0.03114998
+ 0.03123511 0.0311332  0.03142912 0.0310315  0.03113511 0.03124619
+ 0.03135334 0.03179921 0.03190472 0.03167364 0.031548   0.03153154
+ 0.03145833 0.03143193 0.03084935]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667415600_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667415600_FINAL.pt
+whisper_large_decoder,EU_Emotion_Stimulus_Set,adam,1e-05,mean,valence,20000,1667443153,0.3629344274459795,0.1862527386179674,0.4315700854067244,0.3361690803084453,"[0.03024225 0.03024173 0.03024108 0.03022645 0.03022872 0.03022328
+ 0.03023196 0.03024022 0.03024232 0.03024128 0.03023961 0.03024419
+ 0.03025366 0.03028264 0.03029985 0.0303128  0.03032403 0.03033872
+ 0.03034462 0.03035209 0.03047482 0.03058147 0.03046254 0.03037194
+ 0.03032613 0.03031334 0.03030715 0.03030562 0.03030255 0.0303042
+ 0.03030338 0.03029636 0.03029905]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_decoder_1667443153_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_decoder_1667443153_FINAL.pt
+whisper_large_encoder,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1667514510,0.937533505843473,19.98073739032278,4.469981810961067,3.471035218180934,"[0.01158812 0.0056815  0.00392977 0.0037324  0.00399578 0.00567957
+ 0.00761022 0.00925474 0.00870044 0.00631986 0.00964829 0.01319395
+ 0.01429734 0.01329069 0.02437655 0.10343977 0.3358965  0.04380416
+ 0.02857375 0.03934239 0.0687528  0.02491523 0.01941591 0.02474384
+ 0.0316753  0.01922249 0.02092534 0.02083199 0.01669752 0.01524304
+ 0.01548416 0.01475351 0.01498306]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1667514510_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_encoder_1667514510_FINAL.pt
+whisper_large_decoder,morgan_emotional_speech_set,adam,0.001,mean,valence,20000,1667671998,0.8386775924022339,51.601113603536135,7.183391511224773,5.772070262481664,"[0.02518161 0.02457572 0.02451193 0.02374858 0.02383173 0.024069
+ 0.02430877 0.02608943 0.02608862 0.02638977 0.02580107 0.02671036
+ 0.02721115 0.03549784 0.03241565 0.03976009 0.08225319 0.05387005
+ 0.06650024 0.0861615  0.03995111 0.0308877  0.02227942 0.02030193
+ 0.018364   0.01895648 0.01814789 0.01734907 0.01737469 0.01745293
+ 0.01839252 0.0182226  0.01734338]",dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_decoder_1667671998_BEST.pt,dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_large_decoder_1667671998_FINAL.pt
+whisper_large_encoder,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1667678447,0.4728138321503562,0.1541283531142024,0.3925918403561164,0.3319873781934485,"[0.02001158 0.01253804 0.0117599  0.01200424 0.01234667 0.01321357
+ 0.01380848 0.01394918 0.01346935 0.01097652 0.01002119 0.01012206
+ 0.00998886 0.01020864 0.00985281 0.01695801 0.02042724 0.04118026
+ 0.04650147 0.03399933 0.03607489 0.03199832 0.0333292  0.03698401
+ 0.05014898 0.06831094 0.07874397 0.08137733 0.05850271 0.05838669
+ 0.04692501 0.0399298  0.03595071]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667678447_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667678447_FINAL.pt
+whisper_large_decoder,EU_Emotion_Stimulus_Set,adam,0.001,mean,valence,20000,1667700109,0.3734252761997291,0.18318562999525642,0.42800190419582995,0.3601242435721525,"[0.03077271 0.03075131 0.03068987 0.03070293 0.03065084 0.03065473
+ 0.03064552 0.03067802 0.03075864 0.03076009 0.03077152 0.03076365
+ 0.03077812 0.03115775 0.03154891 0.03153946 0.0316944  0.03171254
+ 0.03195345 0.03210682 0.0327916  0.03330231 0.02937079 0.02852725
+ 0.02834542 0.0282672  0.02826199 0.02822935 0.02828573 0.0283003
+ 0.02833013 0.02835416 0.0285425 ]",dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_decoder_1667700109_BEST.pt,dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_decoder_1667700109_FINAL.pt

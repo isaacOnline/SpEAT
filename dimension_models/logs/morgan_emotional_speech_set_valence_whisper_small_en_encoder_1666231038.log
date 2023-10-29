@@ -1,0 +1,63 @@
+Using learning rate: 0.0001
+Using sequence aggregation method: mean
+Using optimizer: adam
+Using cuda device
+DimensionPredictor(
+  (softmax): Softmax(dim=0)
+  (first_projection): Linear(in_features=768, out_features=256, bias=True)
+  (second_projection): Linear(in_features=256, out_features=1, bias=True)
+)
+loss: 0.264713  [    0/ 1575]
+loss: 0.107472  [  160/ 1575]
+loss: 0.085373  [  320/ 1575]
+loss: 0.051151  [  480/ 1575]
+loss: 0.031311  [  640/ 1575]
+loss: 0.045083  [  800/ 1575]
+loss: 0.031456  [  960/ 1575]
+loss: 0.030630  [ 1120/ 1575]
+loss: 0.032426  [ 1280/ 1575]
+loss: 0.029190  [ 1440/ 1575]
+Test Error: 
+MSE: 326.627826
+RMSE: 18.072848
+MAE: 3.925762
+R^2: -0.021148259583677165
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_encoder_1666231038_BEST.pt
+loss: 0.037063  [    0/ 1575]
+loss: 0.027301  [  160/ 1575]
+loss: 0.033698  [  320/ 1575]
+loss: 0.026591  [  480/ 1575]
+loss: 0.022056  [  640/ 1575]
+loss: 0.022540  [  800/ 1575]
+loss: 0.020367  [  960/ 1575]
+loss: 0.025398  [ 1120/ 1575]
+loss: 0.025828  [ 1280/ 1575]
+loss: 0.024280  [ 1440/ 1575]
+Test Error: 
+MSE: 253.715146
+RMSE: 15.928438
+MAE: 3.741310
+R^2: 0.2068012610696771
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_encoder_1666231038_BEST.pt
+loss: 0.021670  [    0/ 1575]
+loss: 0.020412  [  160/ 1575]
+loss: 0.020963  [  320/ 1575]
+loss: 0.023379  [  480/ 1575]
+loss: 0.020586  [  640/ 1575]
+loss: 0.025273  [  800/ 1575]
+loss: 0.017763  [  960/ 1575]
+loss: 0.015642  [ 1120/ 1575]
+loss: 0.020014  [ 1280/ 1575]
+loss: 0.015437  [ 1440/ 1575]
+Test Error: 
+MSE: 201.910923
+RMSE: 14.209536
+MAE: 3.541776
+R^2: 0.3687586591484131
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_whisper_small_en_encoder_1666231038_BEST.pt
+loss: 0.023376  [    0/ 1575]
+loss: 0.018635  [  160/ 1575]
+loss: 0.019795  [  320/ 1575]
+loss: 0.015271  [  480/ 1575]
+loss: 0.021333  [  640/ 1575]
+loss: 0.027431  [  800/ 1575]

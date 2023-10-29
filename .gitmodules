@@ -1,0 +1,16 @@
+[submodule "models/fairseq"]
+	path = fairseq
+	url = https://github.com/facebookresearch/fairseq/
+[submodule "models/unilm"]
+	path = unilm
+	url = https://github.com/microsoft/unilm
+[submodule "plots/weats/weat"]
+	path = plots/eats/weat
+	url = https://github.com/ryansteed/weat
+[submodule "s3prl"]
+	path = s3prl
+	url = https://github.com/s3prl/s3prl
+[submodule "whisper"]
+	path = whisper
+	url = https://github.com/isaacOnline/whisper
+	branch = extract-embeddings

@@ -1,0 +1,6174 @@
+Using learning rate: 1e-05
+Using sequence aggregation method: mean
+Using optimizer: adam
+Using cpu device
+DimensionPredictor(
+  (softmax): Softmax(dim=0)
+  (first_projection): Linear(in_features=1024, out_features=256, bias=True)
+  (second_projection): Linear(in_features=256, out_features=1, bias=True)
+)
+loss: 0.230052  [    0/ 1575]
+loss: 0.203981  [  160/ 1575]
+loss: 0.193498  [  320/ 1575]
+loss: 0.189561  [  480/ 1575]
+loss: 0.142764  [  640/ 1575]
+loss: 0.115416  [  800/ 1575]
+loss: 0.091533  [  960/ 1575]
+loss: 0.082172  [ 1120/ 1575]
+loss: 0.096307  [ 1280/ 1575]
+loss: 0.112036  [ 1440/ 1575]
+Test Error: 
+MSE: 958.817959
+RMSE: 30.964786
+MAE: 5.036272
+R^2: -1.9975868886703148
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.081992  [    0/ 1575]
+loss: 0.065020  [  160/ 1575]
+loss: 0.098987  [  320/ 1575]
+loss: 0.099064  [  480/ 1575]
+loss: 0.052972  [  640/ 1575]
+loss: 0.059362  [  800/ 1575]
+loss: 0.065163  [  960/ 1575]
+loss: 0.058861  [ 1120/ 1575]
+loss: 0.051040  [ 1280/ 1575]
+loss: 0.076417  [ 1440/ 1575]
+Test Error: 
+MSE: 469.621905
+RMSE: 21.670762
+MAE: 4.099087
+R^2: -0.4681957643477248
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.052597  [    0/ 1575]
+loss: 0.041175  [  160/ 1575]
+loss: 0.038621  [  320/ 1575]
+loss: 0.038220  [  480/ 1575]
+loss: 0.028319  [  640/ 1575]
+loss: 0.029736  [  800/ 1575]
+loss: 0.028857  [  960/ 1575]
+loss: 0.029077  [ 1120/ 1575]
+loss: 0.030604  [ 1280/ 1575]
+loss: 0.027372  [ 1440/ 1575]
+Test Error: 
+MSE: 328.606766
+RMSE: 18.127514
+MAE: 3.986308
+R^2: -0.027335088621486925
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.019143  [    0/ 1575]
+loss: 0.028882  [  160/ 1575]
+loss: 0.027750  [  320/ 1575]
+loss: 0.035294  [  480/ 1575]
+loss: 0.033407  [  640/ 1575]
+loss: 0.027471  [  800/ 1575]
+loss: 0.033065  [  960/ 1575]
+loss: 0.025607  [ 1120/ 1575]
+loss: 0.029532  [ 1280/ 1575]
+loss: 0.032050  [ 1440/ 1575]
+Test Error: 
+MSE: 293.686488
+RMSE: 17.137284
+MAE: 3.941948
+R^2: 0.08183742507433156
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.038800  [    0/ 1575]
+loss: 0.029467  [  160/ 1575]
+loss: 0.022122  [  320/ 1575]
+loss: 0.026751  [  480/ 1575]
+loss: 0.029096  [  640/ 1575]
+loss: 0.026122  [  800/ 1575]
+loss: 0.032957  [  960/ 1575]
+loss: 0.031303  [ 1120/ 1575]
+loss: 0.030206  [ 1280/ 1575]
+loss: 0.026041  [ 1440/ 1575]
+Test Error: 
+MSE: 279.528809
+RMSE: 16.719115
+MAE: 3.900827
+R^2: 0.12609908313974683
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.027210  [    0/ 1575]
+loss: 0.035139  [  160/ 1575]
+loss: 0.027357  [  320/ 1575]
+loss: 0.026162  [  480/ 1575]
+loss: 0.026844  [  640/ 1575]
+loss: 0.030154  [  800/ 1575]
+loss: 0.031683  [  960/ 1575]
+loss: 0.021765  [ 1120/ 1575]
+loss: 0.023774  [ 1280/ 1575]
+loss: 0.026348  [ 1440/ 1575]
+Test Error: 
+MSE: 267.455052
+RMSE: 16.354053
+MAE: 3.859572
+R^2: 0.16384570159724277
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.028241  [    0/ 1575]
+loss: 0.016331  [  160/ 1575]
+loss: 0.024345  [  320/ 1575]
+loss: 0.027622  [  480/ 1575]
+loss: 0.027674  [  640/ 1575]
+loss: 0.028909  [  800/ 1575]
+loss: 0.026659  [  960/ 1575]
+loss: 0.020689  [ 1120/ 1575]
+loss: 0.022028  [ 1280/ 1575]
+loss: 0.028815  [ 1440/ 1575]
+Test Error: 
+MSE: 255.725411
+RMSE: 15.991417
+MAE: 3.816814
+R^2: 0.20051649945898486
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.023484  [    0/ 1575]
+loss: 0.028253  [  160/ 1575]
+loss: 0.026368  [  320/ 1575]
+loss: 0.027174  [  480/ 1575]
+loss: 0.025924  [  640/ 1575]
+loss: 0.029670  [  800/ 1575]
+loss: 0.024285  [  960/ 1575]
+loss: 0.023009  [ 1120/ 1575]
+loss: 0.027320  [ 1280/ 1575]
+loss: 0.016402  [ 1440/ 1575]
+Test Error: 
+MSE: 244.092781
+RMSE: 15.623469
+MAE: 3.771850
+R^2: 0.23688400470483661
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.025606  [    0/ 1575]
+loss: 0.022094  [  160/ 1575]
+loss: 0.024237  [  320/ 1575]
+loss: 0.023808  [  480/ 1575]
+loss: 0.023880  [  640/ 1575]
+loss: 0.025605  [  800/ 1575]
+loss: 0.027827  [  960/ 1575]
+loss: 0.023596  [ 1120/ 1575]
+loss: 0.021594  [ 1280/ 1575]
+loss: 0.024523  [ 1440/ 1575]
+Test Error: 
+MSE: 232.740527
+RMSE: 15.255836
+MAE: 3.726364
+R^2: 0.272374962511991
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.023156  [    0/ 1575]
+loss: 0.015684  [  160/ 1575]
+loss: 0.018825  [  320/ 1575]
+loss: 0.024865  [  480/ 1575]
+loss: 0.024216  [  640/ 1575]
+loss: 0.021796  [  800/ 1575]
+loss: 0.018521  [  960/ 1575]
+loss: 0.019341  [ 1120/ 1575]
+loss: 0.021810  [ 1280/ 1575]
+loss: 0.026318  [ 1440/ 1575]
+Test Error: 
+MSE: 221.560514
+RMSE: 14.884909
+MAE: 3.678804
+R^2: 0.30732743751197367
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.026642  [    0/ 1575]
+loss: 0.016399  [  160/ 1575]
+loss: 0.020269  [  320/ 1575]
+loss: 0.024457  [  480/ 1575]
+loss: 0.019411  [  640/ 1575]
+loss: 0.020624  [  800/ 1575]
+loss: 0.020292  [  960/ 1575]
+loss: 0.023173  [ 1120/ 1575]
+loss: 0.020278  [ 1280/ 1575]
+loss: 0.017595  [ 1440/ 1575]
+Test Error: 
+MSE: 210.561161
+RMSE: 14.510726
+MAE: 3.630184
+R^2: 0.34171510824889095
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.021579  [    0/ 1575]
+loss: 0.013578  [  160/ 1575]
+loss: 0.025909  [  320/ 1575]
+loss: 0.019520  [  480/ 1575]
+loss: 0.021402  [  640/ 1575]
+loss: 0.021484  [  800/ 1575]
+loss: 0.017344  [  960/ 1575]
+loss: 0.018037  [ 1120/ 1575]
+loss: 0.019239  [ 1280/ 1575]
+loss: 0.021376  [ 1440/ 1575]
+Test Error: 
+MSE: 200.088558
+RMSE: 14.145266
+MAE: 3.581327
+R^2: 0.37445598254109524
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.015857  [    0/ 1575]
+loss: 0.021008  [  160/ 1575]
+loss: 0.022441  [  320/ 1575]
+loss: 0.019423  [  480/ 1575]
+loss: 0.014972  [  640/ 1575]
+loss: 0.020458  [  800/ 1575]
+loss: 0.019980  [  960/ 1575]
+loss: 0.018993  [ 1120/ 1575]
+loss: 0.019618  [ 1280/ 1575]
+loss: 0.021307  [ 1440/ 1575]
+Test Error: 
+MSE: 189.892822
+RMSE: 13.780160
+MAE: 3.532165
+R^2: 0.4063312771457095
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.019650  [    0/ 1575]
+loss: 0.018424  [  160/ 1575]
+loss: 0.017532  [  320/ 1575]
+loss: 0.015936  [  480/ 1575]
+loss: 0.017993  [  640/ 1575]
+loss: 0.018002  [  800/ 1575]
+loss: 0.017225  [  960/ 1575]
+loss: 0.015826  [ 1120/ 1575]
+loss: 0.016546  [ 1280/ 1575]
+loss: 0.016968  [ 1440/ 1575]
+Test Error: 
+MSE: 179.919717
+RMSE: 13.413416
+MAE: 3.480775
+R^2: 0.43751055240727466
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.013622  [    0/ 1575]
+loss: 0.020194  [  160/ 1575]
+loss: 0.014034  [  320/ 1575]
+loss: 0.019328  [  480/ 1575]
+loss: 0.016992  [  640/ 1575]
+loss: 0.014500  [  800/ 1575]
+loss: 0.017072  [  960/ 1575]
+loss: 0.014476  [ 1120/ 1575]
+loss: 0.016432  [ 1280/ 1575]
+loss: 0.016517  [ 1440/ 1575]
+Test Error: 
+MSE: 170.615855
+RMSE: 13.062000
+MAE: 3.430639
+R^2: 0.466597547242389
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.015105  [    0/ 1575]
+loss: 0.015168  [  160/ 1575]
+loss: 0.015998  [  320/ 1575]
+loss: 0.016755  [  480/ 1575]
+loss: 0.016766  [  640/ 1575]
+loss: 0.014919  [  800/ 1575]
+loss: 0.015715  [  960/ 1575]
+loss: 0.020296  [ 1120/ 1575]
+loss: 0.014232  [ 1280/ 1575]
+loss: 0.018234  [ 1440/ 1575]
+Test Error: 
+MSE: 161.657007
+RMSE: 12.714441
+MAE: 3.379810
+R^2: 0.49460591461004355
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.016170  [    0/ 1575]
+loss: 0.017322  [  160/ 1575]
+loss: 0.018969  [  320/ 1575]
+loss: 0.016007  [  480/ 1575]
+loss: 0.016939  [  640/ 1575]
+loss: 0.011196  [  800/ 1575]
+loss: 0.011953  [  960/ 1575]
+loss: 0.014686  [ 1120/ 1575]
+loss: 0.015320  [ 1280/ 1575]
+loss: 0.015328  [ 1440/ 1575]
+Test Error: 
+MSE: 153.125056
+RMSE: 12.374371
+MAE: 3.329767
+R^2: 0.5212796597940959
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.015697  [    0/ 1575]
+loss: 0.014166  [  160/ 1575]
+loss: 0.013097  [  320/ 1575]
+loss: 0.012433  [  480/ 1575]
+loss: 0.012218  [  640/ 1575]
+loss: 0.015851  [  800/ 1575]
+loss: 0.012306  [  960/ 1575]
+loss: 0.014088  [ 1120/ 1575]
+loss: 0.016118  [ 1280/ 1575]
+loss: 0.014394  [ 1440/ 1575]
+Test Error: 
+MSE: 144.939643
+RMSE: 12.039088
+MAE: 3.279247
+R^2: 0.5468700100470899
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.017145  [    0/ 1575]
+loss: 0.015564  [  160/ 1575]
+loss: 0.014369  [  320/ 1575]
+loss: 0.010877  [  480/ 1575]
+loss: 0.013842  [  640/ 1575]
+loss: 0.013550  [  800/ 1575]
+loss: 0.013895  [  960/ 1575]
+loss: 0.012986  [ 1120/ 1575]
+loss: 0.014680  [ 1280/ 1575]
+loss: 0.010267  [ 1440/ 1575]
+Test Error: 
+MSE: 137.094327
+RMSE: 11.708729
+MAE: 3.228178
+R^2: 0.5713971004470426
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.018967  [    0/ 1575]
+loss: 0.014028  [  160/ 1575]
+loss: 0.011086  [  320/ 1575]
+loss: 0.012604  [  480/ 1575]
+loss: 0.012935  [  640/ 1575]
+loss: 0.011053  [  800/ 1575]
+loss: 0.013468  [  960/ 1575]
+loss: 0.010622  [ 1120/ 1575]
+loss: 0.009788  [ 1280/ 1575]
+loss: 0.015907  [ 1440/ 1575]
+Test Error: 
+MSE: 129.744742
+RMSE: 11.390555
+MAE: 3.177347
+R^2: 0.5943743702918034
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.012707  [    0/ 1575]
+loss: 0.010986  [  160/ 1575]
+loss: 0.013083  [  320/ 1575]
+loss: 0.016835  [  480/ 1575]
+loss: 0.013010  [  640/ 1575]
+loss: 0.011090  [  800/ 1575]
+loss: 0.014386  [  960/ 1575]
+loss: 0.009806  [ 1120/ 1575]
+loss: 0.011798  [ 1280/ 1575]
+loss: 0.012943  [ 1440/ 1575]
+Test Error: 
+MSE: 122.689568
+RMSE: 11.076532
+MAE: 3.126739
+R^2: 0.6164312135935357
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.011727  [    0/ 1575]
+loss: 0.013020  [  160/ 1575]
+loss: 0.012500  [  320/ 1575]
+loss: 0.009569  [  480/ 1575]
+loss: 0.008656  [  640/ 1575]
+loss: 0.012117  [  800/ 1575]
+loss: 0.008094  [  960/ 1575]
+loss: 0.012535  [ 1120/ 1575]
+loss: 0.011475  [ 1280/ 1575]
+loss: 0.010244  [ 1440/ 1575]
+Test Error: 
+MSE: 116.056248
+RMSE: 10.772941
+MAE: 3.075842
+R^2: 0.6371691987253276
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.012329  [    0/ 1575]
+loss: 0.013690  [  160/ 1575]
+loss: 0.010912  [  320/ 1575]
+loss: 0.010027  [  480/ 1575]
+loss: 0.012340  [  640/ 1575]
+loss: 0.009792  [  800/ 1575]
+loss: 0.008796  [  960/ 1575]
+loss: 0.010994  [ 1120/ 1575]
+loss: 0.010995  [ 1280/ 1575]
+loss: 0.012075  [ 1440/ 1575]
+Test Error: 
+MSE: 109.747964
+RMSE: 10.476066
+MAE: 3.024274
+R^2: 0.6568910150313009
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.011144  [    0/ 1575]
+loss: 0.007621  [  160/ 1575]
+loss: 0.013353  [  320/ 1575]
+loss: 0.010089  [  480/ 1575]
+loss: 0.011482  [  640/ 1575]
+loss: 0.007501  [  800/ 1575]
+loss: 0.009174  [  960/ 1575]
+loss: 0.008003  [ 1120/ 1575]
+loss: 0.009711  [ 1280/ 1575]
+loss: 0.007659  [ 1440/ 1575]
+Test Error: 
+MSE: 103.970516
+RMSE: 10.196593
+MAE: 2.975120
+R^2: 0.6749532571947224
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.009336  [    0/ 1575]
+loss: 0.012328  [  160/ 1575]
+loss: 0.013752  [  320/ 1575]
+loss: 0.007709  [  480/ 1575]
+loss: 0.007891  [  640/ 1575]
+loss: 0.009547  [  800/ 1575]
+loss: 0.007424  [  960/ 1575]
+loss: 0.010150  [ 1120/ 1575]
+loss: 0.008681  [ 1280/ 1575]
+loss: 0.007865  [ 1440/ 1575]
+Test Error: 
+MSE: 98.543234
+RMSE: 9.926894
+MAE: 2.928193
+R^2: 0.691920762335173
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.009319  [    0/ 1575]
+loss: 0.006553  [  160/ 1575]
+loss: 0.010228  [  320/ 1575]
+loss: 0.009292  [  480/ 1575]
+loss: 0.008973  [  640/ 1575]
+loss: 0.009967  [  800/ 1575]
+loss: 0.006405  [  960/ 1575]
+loss: 0.011599  [ 1120/ 1575]
+loss: 0.008267  [ 1280/ 1575]
+loss: 0.009833  [ 1440/ 1575]
+Test Error: 
+MSE: 93.716467
+RMSE: 9.680727
+MAE: 2.885277
+R^2: 0.7070108575204458
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.006790  [    0/ 1575]
+loss: 0.007344  [  160/ 1575]
+loss: 0.009455  [  320/ 1575]
+loss: 0.007595  [  480/ 1575]
+loss: 0.007418  [  640/ 1575]
+loss: 0.008405  [  800/ 1575]
+loss: 0.006894  [  960/ 1575]
+loss: 0.007388  [ 1120/ 1575]
+loss: 0.010262  [ 1280/ 1575]
+loss: 0.010247  [ 1440/ 1575]
+Test Error: 
+MSE: 89.000011
+RMSE: 9.433982
+MAE: 2.840809
+R^2: 0.7217560822786097
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.010846  [    0/ 1575]
+loss: 0.008460  [  160/ 1575]
+loss: 0.007717  [  320/ 1575]
+loss: 0.006331  [  480/ 1575]
+loss: 0.009168  [  640/ 1575]
+loss: 0.007380  [  800/ 1575]
+loss: 0.007240  [  960/ 1575]
+loss: 0.008476  [ 1120/ 1575]
+loss: 0.010189  [ 1280/ 1575]
+loss: 0.006754  [ 1440/ 1575]
+Test Error: 
+MSE: 84.568980
+RMSE: 9.196139
+MAE: 2.800028
+R^2: 0.7356089706369242
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.008394  [    0/ 1575]
+loss: 0.007181  [  160/ 1575]
+loss: 0.009297  [  320/ 1575]
+loss: 0.008375  [  480/ 1575]
+loss: 0.006948  [  640/ 1575]
+loss: 0.005911  [  800/ 1575]
+loss: 0.007000  [  960/ 1575]
+loss: 0.008425  [ 1120/ 1575]
+loss: 0.005825  [ 1280/ 1575]
+loss: 0.007621  [ 1440/ 1575]
+Test Error: 
+MSE: 80.642007
+RMSE: 8.980090
+MAE: 2.762618
+R^2: 0.7478860070305019
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.005527  [    0/ 1575]
+loss: 0.009550  [  160/ 1575]
+loss: 0.006843  [  320/ 1575]
+loss: 0.008367  [  480/ 1575]
+loss: 0.005593  [  640/ 1575]
+loss: 0.005969  [  800/ 1575]
+loss: 0.007576  [  960/ 1575]
+loss: 0.007743  [ 1120/ 1575]
+loss: 0.006352  [ 1280/ 1575]
+loss: 0.007300  [ 1440/ 1575]
+Test Error: 
+MSE: 76.833976
+RMSE: 8.765499
+MAE: 2.722724
+R^2: 0.7597911908602214
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.005852  [    0/ 1575]
+loss: 0.007776  [  160/ 1575]
+loss: 0.006195  [  320/ 1575]
+loss: 0.007363  [  480/ 1575]
+loss: 0.005801  [  640/ 1575]
+loss: 0.008106  [  800/ 1575]
+loss: 0.006271  [  960/ 1575]
+loss: 0.007076  [ 1120/ 1575]
+loss: 0.007045  [ 1280/ 1575]
+loss: 0.007912  [ 1440/ 1575]
+Test Error: 
+MSE: 73.792267
+RMSE: 8.590243
+MAE: 2.693122
+R^2: 0.7693005953131402
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.004945  [    0/ 1575]
+loss: 0.007376  [  160/ 1575]
+loss: 0.007186  [  320/ 1575]
+loss: 0.004419  [  480/ 1575]
+loss: 0.006031  [  640/ 1575]
+loss: 0.003444  [  800/ 1575]
+loss: 0.007250  [  960/ 1575]
+loss: 0.004949  [ 1120/ 1575]
+loss: 0.005115  [ 1280/ 1575]
+loss: 0.006617  [ 1440/ 1575]
+Test Error: 
+MSE: 70.191079
+RMSE: 8.378012
+MAE: 2.655486
+R^2: 0.7805591200037871
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.007152  [    0/ 1575]
+loss: 0.005601  [  160/ 1575]
+loss: 0.005997  [  320/ 1575]
+loss: 0.006338  [  480/ 1575]
+loss: 0.005984  [  640/ 1575]
+loss: 0.005184  [  800/ 1575]
+loss: 0.006007  [  960/ 1575]
+loss: 0.006932  [ 1120/ 1575]
+loss: 0.004524  [ 1280/ 1575]
+loss: 0.003678  [ 1440/ 1575]
+Test Error: 
+MSE: 67.291953
+RMSE: 8.203167
+MAE: 2.625681
+R^2: 0.7896227593413967
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.006717  [    0/ 1575]
+loss: 0.009211  [  160/ 1575]
+loss: 0.004248  [  320/ 1575]
+loss: 0.005821  [  480/ 1575]
+loss: 0.004534  [  640/ 1575]
+loss: 0.006404  [  800/ 1575]
+loss: 0.006662  [  960/ 1575]
+loss: 0.005267  [ 1120/ 1575]
+loss: 0.006114  [ 1280/ 1575]
+loss: 0.004963  [ 1440/ 1575]
+Test Error: 
+MSE: 64.741672
+RMSE: 8.046221
+MAE: 2.599262
+R^2: 0.7975957948403697
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.006326  [    0/ 1575]
+loss: 0.006752  [  160/ 1575]
+loss: 0.006535  [  320/ 1575]
+loss: 0.006246  [  480/ 1575]
+loss: 0.004519  [  640/ 1575]
+loss: 0.005625  [  800/ 1575]
+loss: 0.004286  [  960/ 1575]
+loss: 0.005660  [ 1120/ 1575]
+loss: 0.003653  [ 1280/ 1575]
+loss: 0.005388  [ 1440/ 1575]
+Test Error: 
+MSE: 62.194961
+RMSE: 7.886378
+MAE: 2.571693
+R^2: 0.8055576695103028
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.006573  [    0/ 1575]
+loss: 0.005171  [  160/ 1575]
+loss: 0.006697  [  320/ 1575]
+loss: 0.006114  [  480/ 1575]
+loss: 0.005797  [  640/ 1575]
+loss: 0.006657  [  800/ 1575]
+loss: 0.004827  [  960/ 1575]
+loss: 0.008239  [ 1120/ 1575]
+loss: 0.006267  [ 1280/ 1575]
+loss: 0.006512  [ 1440/ 1575]
+Test Error: 
+MSE: 59.868503
+RMSE: 7.737474
+MAE: 2.547772
+R^2: 0.8128309578148246
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.006612  [    0/ 1575]
+loss: 0.003631  [  160/ 1575]
+loss: 0.004324  [  320/ 1575]
+loss: 0.004960  [  480/ 1575]
+loss: 0.006718  [  640/ 1575]
+loss: 0.006475  [  800/ 1575]
+loss: 0.005448  [  960/ 1575]
+loss: 0.004594  [ 1120/ 1575]
+loss: 0.003283  [ 1280/ 1575]
+loss: 0.005604  [ 1440/ 1575]
+Test Error: 
+MSE: 57.797767
+RMSE: 7.602484
+MAE: 2.528270
+R^2: 0.8193047736372722
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003587  [    0/ 1575]
+loss: 0.003901  [  160/ 1575]
+loss: 0.004511  [  320/ 1575]
+loss: 0.005170  [  480/ 1575]
+loss: 0.003998  [  640/ 1575]
+loss: 0.003720  [  800/ 1575]
+loss: 0.006304  [  960/ 1575]
+loss: 0.004001  [ 1120/ 1575]
+loss: 0.005730  [ 1280/ 1575]
+loss: 0.003592  [ 1440/ 1575]
+Test Error: 
+MSE: 56.109555
+RMSE: 7.490631
+MAE: 2.510445
+R^2: 0.8245826910600242
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.007043  [    0/ 1575]
+loss: 0.005866  [  160/ 1575]
+loss: 0.003975  [  320/ 1575]
+loss: 0.003965  [  480/ 1575]
+loss: 0.004128  [  640/ 1575]
+loss: 0.006920  [  800/ 1575]
+loss: 0.004959  [  960/ 1575]
+loss: 0.004587  [ 1120/ 1575]
+loss: 0.004957  [ 1280/ 1575]
+loss: 0.005954  [ 1440/ 1575]
+Test Error: 
+MSE: 54.180392
+RMSE: 7.360733
+MAE: 2.491824
+R^2: 0.830613901218507
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.004435  [    0/ 1575]
+loss: 0.004231  [  160/ 1575]
+loss: 0.004919  [  320/ 1575]
+loss: 0.004590  [  480/ 1575]
+loss: 0.004780  [  640/ 1575]
+loss: 0.003511  [  800/ 1575]
+loss: 0.004602  [  960/ 1575]
+loss: 0.004396  [ 1120/ 1575]
+loss: 0.003064  [ 1280/ 1575]
+loss: 0.004194  [ 1440/ 1575]
+Test Error: 
+MSE: 52.513751
+RMSE: 7.246637
+MAE: 2.474490
+R^2: 0.8358243800890666
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003416  [    0/ 1575]
+loss: 0.003992  [  160/ 1575]
+loss: 0.007891  [  320/ 1575]
+loss: 0.004408  [  480/ 1575]
+loss: 0.004160  [  640/ 1575]
+loss: 0.004710  [  800/ 1575]
+loss: 0.005869  [  960/ 1575]
+loss: 0.004669  [ 1120/ 1575]
+loss: 0.004715  [ 1280/ 1575]
+loss: 0.003895  [ 1440/ 1575]
+Test Error: 
+MSE: 51.000587
+RMSE: 7.141470
+MAE: 2.457629
+R^2: 0.8405550404150453
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003381  [    0/ 1575]
+loss: 0.005062  [  160/ 1575]
+loss: 0.004137  [  320/ 1575]
+loss: 0.006013  [  480/ 1575]
+loss: 0.003400  [  640/ 1575]
+loss: 0.004734  [  800/ 1575]
+loss: 0.003436  [  960/ 1575]
+loss: 0.005284  [ 1120/ 1575]
+loss: 0.004621  [ 1280/ 1575]
+loss: 0.003495  [ 1440/ 1575]
+Test Error: 
+MSE: 49.557831
+RMSE: 7.039732
+MAE: 2.440977
+R^2: 0.8450655794069974
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003934  [    0/ 1575]
+loss: 0.003814  [  160/ 1575]
+loss: 0.003772  [  320/ 1575]
+loss: 0.005850  [  480/ 1575]
+loss: 0.004247  [  640/ 1575]
+loss: 0.003989  [  800/ 1575]
+loss: 0.002923  [  960/ 1575]
+loss: 0.002204  [ 1120/ 1575]
+loss: 0.005016  [ 1280/ 1575]
+loss: 0.003535  [ 1440/ 1575]
+Test Error: 
+MSE: 48.199678
+RMSE: 6.942599
+MAE: 2.424399
+R^2: 0.8493116208153645
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003940  [    0/ 1575]
+loss: 0.005681  [  160/ 1575]
+loss: 0.003342  [  320/ 1575]
+loss: 0.005050  [  480/ 1575]
+loss: 0.002929  [  640/ 1575]
+loss: 0.004381  [  800/ 1575]
+loss: 0.003956  [  960/ 1575]
+loss: 0.004713  [ 1120/ 1575]
+loss: 0.003200  [ 1280/ 1575]
+loss: 0.005763  [ 1440/ 1575]
+Test Error: 
+MSE: 47.410823
+RMSE: 6.885552
+MAE: 2.410975
+R^2: 0.8517778486552936
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.005463  [    0/ 1575]
+loss: 0.003747  [  160/ 1575]
+loss: 0.005226  [  320/ 1575]
+loss: 0.004155  [  480/ 1575]
+loss: 0.003913  [  640/ 1575]
+loss: 0.003263  [  800/ 1575]
+loss: 0.004278  [  960/ 1575]
+loss: 0.002567  [ 1120/ 1575]
+loss: 0.004814  [ 1280/ 1575]
+loss: 0.003552  [ 1440/ 1575]
+Test Error: 
+MSE: 45.990960
+RMSE: 6.781664
+MAE: 2.394071
+R^2: 0.8562168156509374
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003575  [    0/ 1575]
+loss: 0.003035  [  160/ 1575]
+loss: 0.004793  [  320/ 1575]
+loss: 0.003463  [  480/ 1575]
+loss: 0.006030  [  640/ 1575]
+loss: 0.005102  [  800/ 1575]
+loss: 0.003714  [  960/ 1575]
+loss: 0.003852  [ 1120/ 1575]
+loss: 0.002474  [ 1280/ 1575]
+loss: 0.002806  [ 1440/ 1575]
+Test Error: 
+MSE: 44.726527
+RMSE: 6.687789
+MAE: 2.377047
+R^2: 0.8601698597266643
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003689  [    0/ 1575]
+loss: 0.002900  [  160/ 1575]
+loss: 0.004530  [  320/ 1575]
+loss: 0.002557  [  480/ 1575]
+loss: 0.002686  [  640/ 1575]
+loss: 0.004233  [  800/ 1575]
+loss: 0.004937  [  960/ 1575]
+loss: 0.004446  [ 1120/ 1575]
+loss: 0.005762  [ 1280/ 1575]
+loss: 0.004546  [ 1440/ 1575]
+Test Error: 
+MSE: 43.765798
+RMSE: 6.615572
+MAE: 2.363506
+R^2: 0.8631734202802362
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002654  [    0/ 1575]
+loss: 0.004279  [  160/ 1575]
+loss: 0.002984  [  320/ 1575]
+loss: 0.003953  [  480/ 1575]
+loss: 0.005644  [  640/ 1575]
+loss: 0.004003  [  800/ 1575]
+loss: 0.003639  [  960/ 1575]
+loss: 0.003702  [ 1120/ 1575]
+loss: 0.004892  [ 1280/ 1575]
+loss: 0.005658  [ 1440/ 1575]
+Test Error: 
+MSE: 42.688912
+RMSE: 6.533675
+MAE: 2.347594
+R^2: 0.8665401285385171
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.005270  [    0/ 1575]
+loss: 0.005436  [  160/ 1575]
+loss: 0.004843  [  320/ 1575]
+loss: 0.004990  [  480/ 1575]
+loss: 0.004535  [  640/ 1575]
+loss: 0.002501  [  800/ 1575]
+loss: 0.004444  [  960/ 1575]
+loss: 0.004438  [ 1120/ 1575]
+loss: 0.004011  [ 1280/ 1575]
+loss: 0.004348  [ 1440/ 1575]
+Test Error: 
+MSE: 41.757350
+RMSE: 6.461993
+MAE: 2.333411
+R^2: 0.8694525037182939
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003913  [    0/ 1575]
+loss: 0.003437  [  160/ 1575]
+loss: 0.005670  [  320/ 1575]
+loss: 0.002154  [  480/ 1575]
+loss: 0.002673  [  640/ 1575]
+loss: 0.003605  [  800/ 1575]
+loss: 0.003985  [  960/ 1575]
+loss: 0.003301  [ 1120/ 1575]
+loss: 0.004874  [ 1280/ 1575]
+loss: 0.003862  [ 1440/ 1575]
+Test Error: 
+MSE: 40.989284
+RMSE: 6.402287
+MAE: 2.320662
+R^2: 0.8718537350679414
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002890  [    0/ 1575]
+loss: 0.004478  [  160/ 1575]
+loss: 0.005118  [  320/ 1575]
+loss: 0.002458  [  480/ 1575]
+loss: 0.004172  [  640/ 1575]
+loss: 0.004059  [  800/ 1575]
+loss: 0.004231  [  960/ 1575]
+loss: 0.003278  [ 1120/ 1575]
+loss: 0.003048  [ 1280/ 1575]
+loss: 0.003112  [ 1440/ 1575]
+Test Error: 
+MSE: 39.947390
+RMSE: 6.320395
+MAE: 2.304544
+R^2: 0.8751110444142247
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.004272  [    0/ 1575]
+loss: 0.002932  [  160/ 1575]
+loss: 0.003359  [  320/ 1575]
+loss: 0.005856  [  480/ 1575]
+loss: 0.002753  [  640/ 1575]
+loss: 0.003524  [  800/ 1575]
+loss: 0.004139  [  960/ 1575]
+loss: 0.003332  [ 1120/ 1575]
+loss: 0.001887  [ 1280/ 1575]
+loss: 0.002131  [ 1440/ 1575]
+Test Error: 
+MSE: 39.152014
+RMSE: 6.257157
+MAE: 2.291133
+R^2: 0.8775976588165598
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003145  [    0/ 1575]
+loss: 0.003637  [  160/ 1575]
+loss: 0.005022  [  320/ 1575]
+loss: 0.003391  [  480/ 1575]
+loss: 0.003308  [  640/ 1575]
+loss: 0.003613  [  800/ 1575]
+loss: 0.003564  [  960/ 1575]
+loss: 0.003606  [ 1120/ 1575]
+loss: 0.002448  [ 1280/ 1575]
+loss: 0.004290  [ 1440/ 1575]
+Test Error: 
+MSE: 38.343067
+RMSE: 6.192178
+MAE: 2.277118
+R^2: 0.8801266990214717
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003295  [    0/ 1575]
+loss: 0.006684  [  160/ 1575]
+loss: 0.003067  [  320/ 1575]
+loss: 0.004113  [  480/ 1575]
+loss: 0.002875  [  640/ 1575]
+loss: 0.002273  [  800/ 1575]
+loss: 0.002225  [  960/ 1575]
+loss: 0.004133  [ 1120/ 1575]
+loss: 0.002080  [ 1280/ 1575]
+loss: 0.004121  [ 1440/ 1575]
+Test Error: 
+MSE: 38.059356
+RMSE: 6.169227
+MAE: 2.269712
+R^2: 0.8810136730062363
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003255  [    0/ 1575]
+loss: 0.003949  [  160/ 1575]
+loss: 0.003662  [  320/ 1575]
+loss: 0.004899  [  480/ 1575]
+loss: 0.003488  [  640/ 1575]
+loss: 0.003331  [  800/ 1575]
+loss: 0.002936  [  960/ 1575]
+loss: 0.003338  [ 1120/ 1575]
+loss: 0.003798  [ 1280/ 1575]
+loss: 0.003217  [ 1440/ 1575]
+Test Error: 
+MSE: 37.074214
+RMSE: 6.088860
+MAE: 2.253798
+R^2: 0.8840935579729515
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.004770  [    0/ 1575]
+loss: 0.002354  [  160/ 1575]
+loss: 0.003271  [  320/ 1575]
+loss: 0.003928  [  480/ 1575]
+loss: 0.002728  [  640/ 1575]
+loss: 0.002307  [  800/ 1575]
+loss: 0.002896  [  960/ 1575]
+loss: 0.003679  [ 1120/ 1575]
+loss: 0.003828  [ 1280/ 1575]
+loss: 0.003253  [ 1440/ 1575]
+Test Error: 
+MSE: 36.345045
+RMSE: 6.028685
+MAE: 2.241415
+R^2: 0.8863731864590099
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.004428  [    0/ 1575]
+loss: 0.002577  [  160/ 1575]
+loss: 0.003326  [  320/ 1575]
+loss: 0.003613  [  480/ 1575]
+loss: 0.003516  [  640/ 1575]
+loss: 0.002684  [  800/ 1575]
+loss: 0.003946  [  960/ 1575]
+loss: 0.002946  [ 1120/ 1575]
+loss: 0.003109  [ 1280/ 1575]
+loss: 0.002189  [ 1440/ 1575]
+Test Error: 
+MSE: 35.750391
+RMSE: 5.979163
+MAE: 2.230046
+R^2: 0.8882322739690551
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.004460  [    0/ 1575]
+loss: 0.002687  [  160/ 1575]
+loss: 0.003646  [  320/ 1575]
+loss: 0.003224  [  480/ 1575]
+loss: 0.003513  [  640/ 1575]
+loss: 0.003386  [  800/ 1575]
+loss: 0.002619  [  960/ 1575]
+loss: 0.002605  [ 1120/ 1575]
+loss: 0.004247  [ 1280/ 1575]
+loss: 0.002230  [ 1440/ 1575]
+Test Error: 
+MSE: 35.483930
+RMSE: 5.956839
+MAE: 2.223255
+R^2: 0.8890653192368677
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002582  [    0/ 1575]
+loss: 0.003910  [  160/ 1575]
+loss: 0.003006  [  320/ 1575]
+loss: 0.003851  [  480/ 1575]
+loss: 0.003031  [  640/ 1575]
+loss: 0.004246  [  800/ 1575]
+loss: 0.003971  [  960/ 1575]
+loss: 0.002380  [ 1120/ 1575]
+loss: 0.002584  [ 1280/ 1575]
+loss: 0.003832  [ 1440/ 1575]
+Test Error: 
+MSE: 34.505072
+RMSE: 5.874102
+MAE: 2.206309
+R^2: 0.8921255593055442
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.004007  [    0/ 1575]
+loss: 0.003098  [  160/ 1575]
+loss: 0.004197  [  320/ 1575]
+loss: 0.004148  [  480/ 1575]
+loss: 0.003097  [  640/ 1575]
+loss: 0.002078  [  800/ 1575]
+loss: 0.003319  [  960/ 1575]
+loss: 0.003641  [ 1120/ 1575]
+loss: 0.003829  [ 1280/ 1575]
+loss: 0.003518  [ 1440/ 1575]
+Test Error: 
+MSE: 34.150558
+RMSE: 5.843848
+MAE: 2.199069
+R^2: 0.8932338881496299
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003618  [    0/ 1575]
+loss: 0.002540  [  160/ 1575]
+loss: 0.005849  [  320/ 1575]
+loss: 0.003155  [  480/ 1575]
+loss: 0.002278  [  640/ 1575]
+loss: 0.004555  [  800/ 1575]
+loss: 0.003492  [  960/ 1575]
+loss: 0.001902  [ 1120/ 1575]
+loss: 0.002257  [ 1280/ 1575]
+loss: 0.003733  [ 1440/ 1575]
+Test Error: 
+MSE: 33.627770
+RMSE: 5.798946
+MAE: 2.187208
+R^2: 0.8948682981981406
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002355  [    0/ 1575]
+loss: 0.003276  [  160/ 1575]
+loss: 0.002957  [  320/ 1575]
+loss: 0.002876  [  480/ 1575]
+loss: 0.002298  [  640/ 1575]
+loss: 0.002746  [  800/ 1575]
+loss: 0.003402  [  960/ 1575]
+loss: 0.002585  [ 1120/ 1575]
+loss: 0.003127  [ 1280/ 1575]
+loss: 0.003713  [ 1440/ 1575]
+Test Error: 
+MSE: 32.904541
+RMSE: 5.736248
+MAE: 2.175811
+R^2: 0.8971293574884633
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003578  [    0/ 1575]
+loss: 0.003210  [  160/ 1575]
+loss: 0.002972  [  320/ 1575]
+loss: 0.003862  [  480/ 1575]
+loss: 0.002182  [  640/ 1575]
+loss: 0.002632  [  800/ 1575]
+loss: 0.004072  [  960/ 1575]
+loss: 0.003133  [ 1120/ 1575]
+loss: 0.002155  [ 1280/ 1575]
+loss: 0.003154  [ 1440/ 1575]
+Test Error: 
+MSE: 32.694006
+RMSE: 5.717867
+MAE: 2.170722
+R^2: 0.8977875582213664
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001628  [    0/ 1575]
+loss: 0.002237  [  160/ 1575]
+loss: 0.004575  [  320/ 1575]
+loss: 0.003316  [  480/ 1575]
+loss: 0.003427  [  640/ 1575]
+loss: 0.003809  [  800/ 1575]
+loss: 0.002690  [  960/ 1575]
+loss: 0.002138  [ 1120/ 1575]
+loss: 0.002635  [ 1280/ 1575]
+loss: 0.004073  [ 1440/ 1575]
+Test Error: 
+MSE: 31.982301
+RMSE: 5.655290
+MAE: 2.157283
+R^2: 0.9000125896854432
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.004198  [    0/ 1575]
+loss: 0.003333  [  160/ 1575]
+loss: 0.003368  [  320/ 1575]
+loss: 0.001982  [  480/ 1575]
+loss: 0.004069  [  640/ 1575]
+loss: 0.002922  [  800/ 1575]
+loss: 0.002857  [  960/ 1575]
+loss: 0.002656  [ 1120/ 1575]
+loss: 0.005012  [ 1280/ 1575]
+loss: 0.002470  [ 1440/ 1575]
+Test Error: 
+MSE: 31.687824
+RMSE: 5.629194
+MAE: 2.150951
+R^2: 0.9009332229098291
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003011  [    0/ 1575]
+loss: 0.002745  [  160/ 1575]
+loss: 0.003033  [  320/ 1575]
+loss: 0.004596  [  480/ 1575]
+loss: 0.003372  [  640/ 1575]
+loss: 0.001851  [  800/ 1575]
+loss: 0.001637  [  960/ 1575]
+loss: 0.003693  [ 1120/ 1575]
+loss: 0.001733  [ 1280/ 1575]
+loss: 0.003260  [ 1440/ 1575]
+Test Error: 
+MSE: 31.007033
+RMSE: 5.568396
+MAE: 2.136464
+R^2: 0.9030616048107587
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003231  [    0/ 1575]
+loss: 0.003159  [  160/ 1575]
+loss: 0.003471  [  320/ 1575]
+loss: 0.002024  [  480/ 1575]
+loss: 0.002468  [  640/ 1575]
+loss: 0.002727  [  800/ 1575]
+loss: 0.002688  [  960/ 1575]
+loss: 0.002032  [ 1120/ 1575]
+loss: 0.002768  [ 1280/ 1575]
+loss: 0.002815  [ 1440/ 1575]
+Test Error: 
+MSE: 31.185989
+RMSE: 5.584442
+MAE: 2.138251
+R^2: 0.902502125931984
+loss: 0.003464  [    0/ 1575]
+loss: 0.003178  [  160/ 1575]
+loss: 0.003595  [  320/ 1575]
+loss: 0.003114  [  480/ 1575]
+loss: 0.003318  [  640/ 1575]
+loss: 0.002914  [  800/ 1575]
+loss: 0.002656  [  960/ 1575]
+loss: 0.003553  [ 1120/ 1575]
+loss: 0.003194  [ 1280/ 1575]
+loss: 0.002650  [ 1440/ 1575]
+Test Error: 
+MSE: 30.305847
+RMSE: 5.505075
+MAE: 2.121315
+R^2: 0.9052537474024066
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001519  [    0/ 1575]
+loss: 0.002583  [  160/ 1575]
+loss: 0.003275  [  320/ 1575]
+loss: 0.002323  [  480/ 1575]
+loss: 0.002519  [  640/ 1575]
+loss: 0.004347  [  800/ 1575]
+loss: 0.001582  [  960/ 1575]
+loss: 0.003361  [ 1120/ 1575]
+loss: 0.001602  [ 1280/ 1575]
+loss: 0.002460  [ 1440/ 1575]
+Test Error: 
+MSE: 29.968771
+RMSE: 5.474374
+MAE: 2.113239
+R^2: 0.90630755948356
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001881  [    0/ 1575]
+loss: 0.003385  [  160/ 1575]
+loss: 0.002220  [  320/ 1575]
+loss: 0.002885  [  480/ 1575]
+loss: 0.003925  [  640/ 1575]
+loss: 0.003822  [  800/ 1575]
+loss: 0.002494  [  960/ 1575]
+loss: 0.002797  [ 1120/ 1575]
+loss: 0.003152  [ 1280/ 1575]
+loss: 0.003644  [ 1440/ 1575]
+Test Error: 
+MSE: 29.686141
+RMSE: 5.448499
+MAE: 2.107653
+R^2: 0.9071911567096023
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003929  [    0/ 1575]
+loss: 0.003228  [  160/ 1575]
+loss: 0.001825  [  320/ 1575]
+loss: 0.001904  [  480/ 1575]
+loss: 0.001949  [  640/ 1575]
+loss: 0.001761  [  800/ 1575]
+loss: 0.004423  [  960/ 1575]
+loss: 0.001991  [ 1120/ 1575]
+loss: 0.002764  [ 1280/ 1575]
+loss: 0.002849  [ 1440/ 1575]
+Test Error: 
+MSE: 29.340264
+RMSE: 5.416665
+MAE: 2.097980
+R^2: 0.9082724829340207
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003098  [    0/ 1575]
+loss: 0.003634  [  160/ 1575]
+loss: 0.002177  [  320/ 1575]
+loss: 0.002566  [  480/ 1575]
+loss: 0.003498  [  640/ 1575]
+loss: 0.003234  [  800/ 1575]
+loss: 0.002651  [  960/ 1575]
+loss: 0.001966  [ 1120/ 1575]
+loss: 0.001701  [ 1280/ 1575]
+loss: 0.002660  [ 1440/ 1575]
+Test Error: 
+MSE: 28.967972
+RMSE: 5.382190
+MAE: 2.089892
+R^2: 0.9094363913364236
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002368  [    0/ 1575]
+loss: 0.002756  [  160/ 1575]
+loss: 0.003941  [  320/ 1575]
+loss: 0.002726  [  480/ 1575]
+loss: 0.002965  [  640/ 1575]
+loss: 0.002781  [  800/ 1575]
+loss: 0.002317  [  960/ 1575]
+loss: 0.002265  [ 1120/ 1575]
+loss: 0.002127  [ 1280/ 1575]
+loss: 0.001845  [ 1440/ 1575]
+Test Error: 
+MSE: 28.741081
+RMSE: 5.361071
+MAE: 2.084689
+R^2: 0.9101457306063744
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003108  [    0/ 1575]
+loss: 0.002775  [  160/ 1575]
+loss: 0.003834  [  320/ 1575]
+loss: 0.002425  [  480/ 1575]
+loss: 0.002745  [  640/ 1575]
+loss: 0.002669  [  800/ 1575]
+loss: 0.003005  [  960/ 1575]
+loss: 0.002445  [ 1120/ 1575]
+loss: 0.002154  [ 1280/ 1575]
+loss: 0.003737  [ 1440/ 1575]
+Test Error: 
+MSE: 28.340385
+RMSE: 5.323569
+MAE: 2.075720
+R^2: 0.9113984413902525
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003009  [    0/ 1575]
+loss: 0.002504  [  160/ 1575]
+loss: 0.002526  [  320/ 1575]
+loss: 0.002161  [  480/ 1575]
+loss: 0.002284  [  640/ 1575]
+loss: 0.001713  [  800/ 1575]
+loss: 0.002640  [  960/ 1575]
+loss: 0.002043  [ 1120/ 1575]
+loss: 0.002905  [ 1280/ 1575]
+loss: 0.002346  [ 1440/ 1575]
+Test Error: 
+MSE: 28.140366
+RMSE: 5.304749
+MAE: 2.070957
+R^2: 0.9120237670444497
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001700  [    0/ 1575]
+loss: 0.002126  [  160/ 1575]
+loss: 0.003225  [  320/ 1575]
+loss: 0.002615  [  480/ 1575]
+loss: 0.002881  [  640/ 1575]
+loss: 0.001816  [  800/ 1575]
+loss: 0.002259  [  960/ 1575]
+loss: 0.002371  [ 1120/ 1575]
+loss: 0.003129  [ 1280/ 1575]
+loss: 0.002479  [ 1440/ 1575]
+Test Error: 
+MSE: 28.111486
+RMSE: 5.302027
+MAE: 2.069031
+R^2: 0.9121140555144099
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001562  [    0/ 1575]
+loss: 0.001555  [  160/ 1575]
+loss: 0.002421  [  320/ 1575]
+loss: 0.003714  [  480/ 1575]
+loss: 0.001957  [  640/ 1575]
+loss: 0.003454  [  800/ 1575]
+loss: 0.001423  [  960/ 1575]
+loss: 0.002880  [ 1120/ 1575]
+loss: 0.003204  [ 1280/ 1575]
+loss: 0.002521  [ 1440/ 1575]
+Test Error: 
+MSE: 27.613698
+RMSE: 5.254874
+MAE: 2.058424
+R^2: 0.913670308628955
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002012  [    0/ 1575]
+loss: 0.001841  [  160/ 1575]
+loss: 0.003018  [  320/ 1575]
+loss: 0.002517  [  480/ 1575]
+loss: 0.002762  [  640/ 1575]
+loss: 0.001900  [  800/ 1575]
+loss: 0.003823  [  960/ 1575]
+loss: 0.002385  [ 1120/ 1575]
+loss: 0.001997  [ 1280/ 1575]
+loss: 0.002366  [ 1440/ 1575]
+Test Error: 
+MSE: 27.530816
+RMSE: 5.246982
+MAE: 2.055337
+R^2: 0.913929424906295
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002415  [    0/ 1575]
+loss: 0.001698  [  160/ 1575]
+loss: 0.002289  [  320/ 1575]
+loss: 0.001793  [  480/ 1575]
+loss: 0.002261  [  640/ 1575]
+loss: 0.002180  [  800/ 1575]
+loss: 0.002536  [  960/ 1575]
+loss: 0.003553  [ 1120/ 1575]
+loss: 0.003214  [ 1280/ 1575]
+loss: 0.002280  [ 1440/ 1575]
+Test Error: 
+MSE: 27.331665
+RMSE: 5.227969
+MAE: 2.050746
+R^2: 0.9145520386609374
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001489  [    0/ 1575]
+loss: 0.002363  [  160/ 1575]
+loss: 0.003320  [  320/ 1575]
+loss: 0.002566  [  480/ 1575]
+loss: 0.002393  [  640/ 1575]
+loss: 0.002551  [  800/ 1575]
+loss: 0.003474  [  960/ 1575]
+loss: 0.003291  [ 1120/ 1575]
+loss: 0.002974  [ 1280/ 1575]
+loss: 0.002388  [ 1440/ 1575]
+Test Error: 
+MSE: 27.028235
+RMSE: 5.198869
+MAE: 2.043470
+R^2: 0.9155006621962659
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003459  [    0/ 1575]
+loss: 0.002284  [  160/ 1575]
+loss: 0.002198  [  320/ 1575]
+loss: 0.002427  [  480/ 1575]
+loss: 0.002326  [  640/ 1575]
+loss: 0.002462  [  800/ 1575]
+loss: 0.001603  [  960/ 1575]
+loss: 0.002292  [ 1120/ 1575]
+loss: 0.003554  [ 1280/ 1575]
+loss: 0.002009  [ 1440/ 1575]
+Test Error: 
+MSE: 26.700023
+RMSE: 5.167207
+MAE: 2.035689
+R^2: 0.9165267614590495
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002666  [    0/ 1575]
+loss: 0.002622  [  160/ 1575]
+loss: 0.002023  [  320/ 1575]
+loss: 0.002949  [  480/ 1575]
+loss: 0.002347  [  640/ 1575]
+loss: 0.002172  [  800/ 1575]
+loss: 0.003922  [  960/ 1575]
+loss: 0.002876  [ 1120/ 1575]
+loss: 0.003063  [ 1280/ 1575]
+loss: 0.001745  [ 1440/ 1575]
+Test Error: 
+MSE: 26.750826
+RMSE: 5.172120
+MAE: 2.035470
+R^2: 0.9163679358255938
+loss: 0.001674  [    0/ 1575]
+loss: 0.002592  [  160/ 1575]
+loss: 0.001817  [  320/ 1575]
+loss: 0.001893  [  480/ 1575]
+loss: 0.001894  [  640/ 1575]
+loss: 0.002400  [  800/ 1575]
+loss: 0.002908  [  960/ 1575]
+loss: 0.002107  [ 1120/ 1575]
+loss: 0.003597  [ 1280/ 1575]
+loss: 0.002047  [ 1440/ 1575]
+Test Error: 
+MSE: 26.595978
+RMSE: 5.157129
+MAE: 2.030412
+R^2: 0.9168520437516572
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003450  [    0/ 1575]
+loss: 0.001776  [  160/ 1575]
+loss: 0.002889  [  320/ 1575]
+loss: 0.002497  [  480/ 1575]
+loss: 0.002313  [  640/ 1575]
+loss: 0.002198  [  800/ 1575]
+loss: 0.002594  [  960/ 1575]
+loss: 0.003062  [ 1120/ 1575]
+loss: 0.002599  [ 1280/ 1575]
+loss: 0.002382  [ 1440/ 1575]
+Test Error: 
+MSE: 26.689511
+RMSE: 5.166189
+MAE: 2.029303
+R^2: 0.916559626854189
+loss: 0.001625  [    0/ 1575]
+loss: 0.004165  [  160/ 1575]
+loss: 0.002036  [  320/ 1575]
+loss: 0.002247  [  480/ 1575]
+loss: 0.003217  [  640/ 1575]
+loss: 0.003660  [  800/ 1575]
+loss: 0.002265  [  960/ 1575]
+loss: 0.001938  [ 1120/ 1575]
+loss: 0.003257  [ 1280/ 1575]
+loss: 0.001758  [ 1440/ 1575]
+Test Error: 
+MSE: 26.480389
+RMSE: 5.145910
+MAE: 2.024587
+R^2: 0.9172134135579705
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002692  [    0/ 1575]
+loss: 0.003397  [  160/ 1575]
+loss: 0.002753  [  320/ 1575]
+loss: 0.001724  [  480/ 1575]
+loss: 0.004196  [  640/ 1575]
+loss: 0.002586  [  800/ 1575]
+loss: 0.002020  [  960/ 1575]
+loss: 0.003066  [ 1120/ 1575]
+loss: 0.003356  [ 1280/ 1575]
+loss: 0.002779  [ 1440/ 1575]
+Test Error: 
+MSE: 25.832131
+RMSE: 5.082532
+MAE: 2.012821
+R^2: 0.9192400851501077
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001770  [    0/ 1575]
+loss: 0.002058  [  160/ 1575]
+loss: 0.001576  [  320/ 1575]
+loss: 0.001776  [  480/ 1575]
+loss: 0.002499  [  640/ 1575]
+loss: 0.004138  [  800/ 1575]
+loss: 0.002498  [  960/ 1575]
+loss: 0.003716  [ 1120/ 1575]
+loss: 0.002237  [ 1280/ 1575]
+loss: 0.002471  [ 1440/ 1575]
+Test Error: 
+MSE: 25.638816
+RMSE: 5.063479
+MAE: 2.007306
+R^2: 0.9198444511566408
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001842  [    0/ 1575]
+loss: 0.003213  [  160/ 1575]
+loss: 0.001560  [  320/ 1575]
+loss: 0.003434  [  480/ 1575]
+loss: 0.002308  [  640/ 1575]
+loss: 0.001899  [  800/ 1575]
+loss: 0.002411  [  960/ 1575]
+loss: 0.002521  [ 1120/ 1575]
+loss: 0.002415  [ 1280/ 1575]
+loss: 0.002699  [ 1440/ 1575]
+Test Error: 
+MSE: 25.479147
+RMSE: 5.047687
+MAE: 2.002562
+R^2: 0.9203436306069643
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002463  [    0/ 1575]
+loss: 0.003468  [  160/ 1575]
+loss: 0.002290  [  320/ 1575]
+loss: 0.002753  [  480/ 1575]
+loss: 0.001874  [  640/ 1575]
+loss: 0.002700  [  800/ 1575]
+loss: 0.003413  [  960/ 1575]
+loss: 0.001897  [ 1120/ 1575]
+loss: 0.002166  [ 1280/ 1575]
+loss: 0.002876  [ 1440/ 1575]
+Test Error: 
+MSE: 25.355351
+RMSE: 5.035410
+MAE: 1.998737
+R^2: 0.9207306596193826
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002305  [    0/ 1575]
+loss: 0.002649  [  160/ 1575]
+loss: 0.002336  [  320/ 1575]
+loss: 0.002375  [  480/ 1575]
+loss: 0.001627  [  640/ 1575]
+loss: 0.002017  [  800/ 1575]
+loss: 0.002898  [  960/ 1575]
+loss: 0.001899  [ 1120/ 1575]
+loss: 0.001793  [ 1280/ 1575]
+loss: 0.001918  [ 1440/ 1575]
+Test Error: 
+MSE: 25.589368
+RMSE: 5.058593
+MAE: 2.000973
+R^2: 0.9199990427959958
+loss: 0.001332  [    0/ 1575]
+loss: 0.002568  [  160/ 1575]
+loss: 0.003015  [  320/ 1575]
+loss: 0.001621  [  480/ 1575]
+loss: 0.002158  [  640/ 1575]
+loss: 0.002299  [  800/ 1575]
+loss: 0.002329  [  960/ 1575]
+loss: 0.003367  [ 1120/ 1575]
+loss: 0.001436  [ 1280/ 1575]
+loss: 0.002244  [ 1440/ 1575]
+Test Error: 
+MSE: 25.129076
+RMSE: 5.012891
+MAE: 1.992285
+R^2: 0.9214380719630082
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001518  [    0/ 1575]
+loss: 0.002256  [  160/ 1575]
+loss: 0.002475  [  320/ 1575]
+loss: 0.001988  [  480/ 1575]
+loss: 0.001884  [  640/ 1575]
+loss: 0.002051  [  800/ 1575]
+loss: 0.002739  [  960/ 1575]
+loss: 0.002739  [ 1120/ 1575]
+loss: 0.003486  [ 1280/ 1575]
+loss: 0.001975  [ 1440/ 1575]
+Test Error: 
+MSE: 25.110605
+RMSE: 5.011048
+MAE: 1.990197
+R^2: 0.921495817351458
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001759  [    0/ 1575]
+loss: 0.002205  [  160/ 1575]
+loss: 0.001629  [  320/ 1575]
+loss: 0.002181  [  480/ 1575]
+loss: 0.002723  [  640/ 1575]
+loss: 0.002457  [  800/ 1575]
+loss: 0.004075  [  960/ 1575]
+loss: 0.003624  [ 1120/ 1575]
+loss: 0.002778  [ 1280/ 1575]
+loss: 0.002874  [ 1440/ 1575]
+Test Error: 
+MSE: 24.806110
+RMSE: 4.980573
+MAE: 1.983524
+R^2: 0.922447771393194
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002877  [    0/ 1575]
+loss: 0.001947  [  160/ 1575]
+loss: 0.001474  [  320/ 1575]
+loss: 0.003766  [  480/ 1575]
+loss: 0.002037  [  640/ 1575]
+loss: 0.002337  [  800/ 1575]
+loss: 0.001792  [  960/ 1575]
+loss: 0.002631  [ 1120/ 1575]
+loss: 0.002868  [ 1280/ 1575]
+loss: 0.002253  [ 1440/ 1575]
+Test Error: 
+MSE: 25.244832
+RMSE: 5.024424
+MAE: 1.989600
+R^2: 0.9210761794777754
+loss: 0.002079  [    0/ 1575]
+loss: 0.001903  [  160/ 1575]
+loss: 0.003031  [  320/ 1575]
+loss: 0.003741  [  480/ 1575]
+loss: 0.002047  [  640/ 1575]
+loss: 0.003002  [  800/ 1575]
+loss: 0.002682  [  960/ 1575]
+loss: 0.002911  [ 1120/ 1575]
+loss: 0.002563  [ 1280/ 1575]
+loss: 0.002128  [ 1440/ 1575]
+Test Error: 
+MSE: 24.574222
+RMSE: 4.957239
+MAE: 1.976631
+R^2: 0.9231727292145583
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002326  [    0/ 1575]
+loss: 0.002768  [  160/ 1575]
+loss: 0.002691  [  320/ 1575]
+loss: 0.001939  [  480/ 1575]
+loss: 0.002534  [  640/ 1575]
+loss: 0.001844  [  800/ 1575]
+loss: 0.002616  [  960/ 1575]
+loss: 0.001868  [ 1120/ 1575]
+loss: 0.001793  [ 1280/ 1575]
+loss: 0.002583  [ 1440/ 1575]
+Test Error: 
+MSE: 24.374868
+RMSE: 4.937091
+MAE: 1.971907
+R^2: 0.9237959781354702
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003251  [    0/ 1575]
+loss: 0.001970  [  160/ 1575]
+loss: 0.002076  [  320/ 1575]
+loss: 0.002659  [  480/ 1575]
+loss: 0.001501  [  640/ 1575]
+loss: 0.002535  [  800/ 1575]
+loss: 0.002051  [  960/ 1575]
+loss: 0.001909  [ 1120/ 1575]
+loss: 0.001511  [ 1280/ 1575]
+loss: 0.002056  [ 1440/ 1575]
+Test Error: 
+MSE: 24.278303
+RMSE: 4.927302
+MAE: 1.969194
+R^2: 0.9240978740759264
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002778  [    0/ 1575]
+loss: 0.001527  [  160/ 1575]
+loss: 0.002402  [  320/ 1575]
+loss: 0.003475  [  480/ 1575]
+loss: 0.002173  [  640/ 1575]
+loss: 0.001861  [  800/ 1575]
+loss: 0.002202  [  960/ 1575]
+loss: 0.001659  [ 1120/ 1575]
+loss: 0.002720  [ 1280/ 1575]
+loss: 0.002305  [ 1440/ 1575]
+Test Error: 
+MSE: 24.425819
+RMSE: 4.942248
+MAE: 1.970385
+R^2: 0.923636688141697
+loss: 0.002220  [    0/ 1575]
+loss: 0.001516  [  160/ 1575]
+loss: 0.002756  [  320/ 1575]
+loss: 0.001954  [  480/ 1575]
+loss: 0.002984  [  640/ 1575]
+loss: 0.001714  [  800/ 1575]
+loss: 0.001832  [  960/ 1575]
+loss: 0.003010  [ 1120/ 1575]
+loss: 0.002231  [ 1280/ 1575]
+loss: 0.001658  [ 1440/ 1575]
+Test Error: 
+MSE: 24.124177
+RMSE: 4.911637
+MAE: 1.965076
+R^2: 0.9245797236320262
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002523  [    0/ 1575]
+loss: 0.002441  [  160/ 1575]
+loss: 0.001478  [  320/ 1575]
+loss: 0.001636  [  480/ 1575]
+loss: 0.002824  [  640/ 1575]
+loss: 0.002148  [  800/ 1575]
+loss: 0.002715  [  960/ 1575]
+loss: 0.001908  [ 1120/ 1575]
+loss: 0.002281  [ 1280/ 1575]
+loss: 0.002117  [ 1440/ 1575]
+Test Error: 
+MSE: 24.647705
+RMSE: 4.964645
+MAE: 1.974009
+R^2: 0.9229429991687089
+loss: 0.002534  [    0/ 1575]
+loss: 0.002327  [  160/ 1575]
+loss: 0.001911  [  320/ 1575]
+loss: 0.002823  [  480/ 1575]
+loss: 0.002487  [  640/ 1575]
+loss: 0.002662  [  800/ 1575]
+loss: 0.003887  [  960/ 1575]
+loss: 0.002581  [ 1120/ 1575]
+loss: 0.002539  [ 1280/ 1575]
+loss: 0.002899  [ 1440/ 1575]
+Test Error: 
+MSE: 23.898825
+RMSE: 4.888642
+MAE: 1.958864
+R^2: 0.9252842479309893
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002326  [    0/ 1575]
+loss: 0.003078  [  160/ 1575]
+loss: 0.002632  [  320/ 1575]
+loss: 0.001765  [  480/ 1575]
+loss: 0.001840  [  640/ 1575]
+loss: 0.002309  [  800/ 1575]
+loss: 0.002056  [  960/ 1575]
+loss: 0.003033  [ 1120/ 1575]
+loss: 0.001918  [ 1280/ 1575]
+loss: 0.002129  [ 1440/ 1575]
+Test Error: 
+MSE: 23.907651
+RMSE: 4.889545
+MAE: 1.956300
+R^2: 0.9252566563623315
+loss: 0.002679  [    0/ 1575]
+loss: 0.002054  [  160/ 1575]
+loss: 0.001928  [  320/ 1575]
+loss: 0.001517  [  480/ 1575]
+loss: 0.002087  [  640/ 1575]
+loss: 0.002367  [  800/ 1575]
+loss: 0.001916  [  960/ 1575]
+loss: 0.001897  [ 1120/ 1575]
+loss: 0.001519  [ 1280/ 1575]
+loss: 0.002046  [ 1440/ 1575]
+Test Error: 
+MSE: 24.189057
+RMSE: 4.918237
+MAE: 1.962899
+R^2: 0.9243768843972375
+loss: 0.002312  [    0/ 1575]
+loss: 0.002277  [  160/ 1575]
+loss: 0.001505  [  320/ 1575]
+loss: 0.002257  [  480/ 1575]
+loss: 0.001516  [  640/ 1575]
+loss: 0.002155  [  800/ 1575]
+loss: 0.002425  [  960/ 1575]
+loss: 0.001445  [ 1120/ 1575]
+loss: 0.001671  [ 1280/ 1575]
+loss: 0.001790  [ 1440/ 1575]
+Test Error: 
+MSE: 23.662857
+RMSE: 4.864448
+MAE: 1.951890
+R^2: 0.9260219649501544
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001571  [    0/ 1575]
+loss: 0.002114  [  160/ 1575]
+loss: 0.001992  [  320/ 1575]
+loss: 0.002083  [  480/ 1575]
+loss: 0.002473  [  640/ 1575]
+loss: 0.001922  [  800/ 1575]
+loss: 0.002975  [  960/ 1575]
+loss: 0.002048  [ 1120/ 1575]
+loss: 0.001993  [ 1280/ 1575]
+loss: 0.003991  [ 1440/ 1575]
+Test Error: 
+MSE: 24.399884
+RMSE: 4.939624
+MAE: 1.966071
+R^2: 0.9237177694324572
+loss: 0.001880  [    0/ 1575]
+loss: 0.002004  [  160/ 1575]
+loss: 0.001974  [  320/ 1575]
+loss: 0.002093  [  480/ 1575]
+loss: 0.003022  [  640/ 1575]
+loss: 0.002847  [  800/ 1575]
+loss: 0.002056  [  960/ 1575]
+loss: 0.002587  [ 1120/ 1575]
+loss: 0.001836  [ 1280/ 1575]
+loss: 0.003939  [ 1440/ 1575]
+Test Error: 
+MSE: 23.951737
+RMSE: 4.894051
+MAE: 1.955908
+R^2: 0.9251188288314933
+loss: 0.001701  [    0/ 1575]
+loss: 0.002825  [  160/ 1575]
+loss: 0.002105  [  320/ 1575]
+loss: 0.002242  [  480/ 1575]
+loss: 0.002099  [  640/ 1575]
+loss: 0.001342  [  800/ 1575]
+loss: 0.002661  [  960/ 1575]
+loss: 0.002650  [ 1120/ 1575]
+loss: 0.002767  [ 1280/ 1575]
+loss: 0.002078  [ 1440/ 1575]
+Test Error: 
+MSE: 23.673325
+RMSE: 4.865524
+MAE: 1.950551
+R^2: 0.9259892365772676
+loss: 0.001907  [    0/ 1575]
+loss: 0.001775  [  160/ 1575]
+loss: 0.002836  [  320/ 1575]
+loss: 0.001107  [  480/ 1575]
+loss: 0.001929  [  640/ 1575]
+loss: 0.001699  [  800/ 1575]
+loss: 0.001960  [  960/ 1575]
+loss: 0.002225  [ 1120/ 1575]
+loss: 0.002690  [ 1280/ 1575]
+loss: 0.001889  [ 1440/ 1575]
+Test Error: 
+MSE: 23.610549
+RMSE: 4.859069
+MAE: 1.952980
+R^2: 0.9261854950930201
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001868  [    0/ 1575]
+loss: 0.002908  [  160/ 1575]
+loss: 0.002647  [  320/ 1575]
+loss: 0.001268  [  480/ 1575]
+loss: 0.001715  [  640/ 1575]
+loss: 0.001548  [  800/ 1575]
+loss: 0.001545  [  960/ 1575]
+loss: 0.002517  [ 1120/ 1575]
+loss: 0.001620  [ 1280/ 1575]
+loss: 0.001742  [ 1440/ 1575]
+Test Error: 
+MSE: 23.285414
+RMSE: 4.825496
+MAE: 1.942385
+R^2: 0.927201977448321
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001878  [    0/ 1575]
+loss: 0.001440  [  160/ 1575]
+loss: 0.002528  [  320/ 1575]
+loss: 0.002433  [  480/ 1575]
+loss: 0.001707  [  640/ 1575]
+loss: 0.001714  [  800/ 1575]
+loss: 0.003000  [  960/ 1575]
+loss: 0.003256  [ 1120/ 1575]
+loss: 0.002007  [ 1280/ 1575]
+loss: 0.002664  [ 1440/ 1575]
+Test Error: 
+MSE: 23.236999
+RMSE: 4.820477
+MAE: 1.942321
+R^2: 0.9273533371833173
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003406  [    0/ 1575]
+loss: 0.002471  [  160/ 1575]
+loss: 0.002621  [  320/ 1575]
+loss: 0.001959  [  480/ 1575]
+loss: 0.002197  [  640/ 1575]
+loss: 0.001139  [  800/ 1575]
+loss: 0.001747  [  960/ 1575]
+loss: 0.001877  [ 1120/ 1575]
+loss: 0.001673  [ 1280/ 1575]
+loss: 0.003022  [ 1440/ 1575]
+Test Error: 
+MSE: 23.161571
+RMSE: 4.812647
+MAE: 1.938465
+R^2: 0.9275891507109941
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002664  [    0/ 1575]
+loss: 0.002194  [  160/ 1575]
+loss: 0.002249  [  320/ 1575]
+loss: 0.001127  [  480/ 1575]
+loss: 0.001704  [  640/ 1575]
+loss: 0.001091  [  800/ 1575]
+loss: 0.002267  [  960/ 1575]
+loss: 0.001594  [ 1120/ 1575]
+loss: 0.001559  [ 1280/ 1575]
+loss: 0.002174  [ 1440/ 1575]
+Test Error: 
+MSE: 23.224230
+RMSE: 4.819152
+MAE: 1.944029
+R^2: 0.9273932586639941
+loss: 0.002333  [    0/ 1575]
+loss: 0.000964  [  160/ 1575]
+loss: 0.002025  [  320/ 1575]
+loss: 0.002391  [  480/ 1575]
+loss: 0.001818  [  640/ 1575]
+loss: 0.001513  [  800/ 1575]
+loss: 0.003759  [  960/ 1575]
+loss: 0.002178  [ 1120/ 1575]
+loss: 0.001663  [ 1280/ 1575]
+loss: 0.002517  [ 1440/ 1575]
+Test Error: 
+MSE: 23.011437
+RMSE: 4.797024
+MAE: 1.935406
+R^2: 0.9280585203963003
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003400  [    0/ 1575]
+loss: 0.001499  [  160/ 1575]
+loss: 0.001386  [  320/ 1575]
+loss: 0.002283  [  480/ 1575]
+loss: 0.000938  [  640/ 1575]
+loss: 0.001862  [  800/ 1575]
+loss: 0.002148  [  960/ 1575]
+loss: 0.002372  [ 1120/ 1575]
+loss: 0.002408  [ 1280/ 1575]
+loss: 0.002214  [ 1440/ 1575]
+Test Error: 
+MSE: 23.054818
+RMSE: 4.801543
+MAE: 1.934886
+R^2: 0.9279228982208536
+loss: 0.001057  [    0/ 1575]
+loss: 0.003285  [  160/ 1575]
+loss: 0.001946  [  320/ 1575]
+loss: 0.002261  [  480/ 1575]
+loss: 0.002364  [  640/ 1575]
+loss: 0.002789  [  800/ 1575]
+loss: 0.002454  [  960/ 1575]
+loss: 0.001010  [ 1120/ 1575]
+loss: 0.002250  [ 1280/ 1575]
+loss: 0.001721  [ 1440/ 1575]
+Test Error: 
+MSE: 23.127470
+RMSE: 4.809103
+MAE: 1.935866
+R^2: 0.9276957635426533
+loss: 0.001888  [    0/ 1575]
+loss: 0.002376  [  160/ 1575]
+loss: 0.001661  [  320/ 1575]
+loss: 0.001435  [  480/ 1575]
+loss: 0.002345  [  640/ 1575]
+loss: 0.001710  [  800/ 1575]
+loss: 0.002943  [  960/ 1575]
+loss: 0.001954  [ 1120/ 1575]
+loss: 0.001340  [ 1280/ 1575]
+loss: 0.001809  [ 1440/ 1575]
+Test Error: 
+MSE: 23.080919
+RMSE: 4.804261
+MAE: 1.934755
+R^2: 0.9278412970536394
+loss: 0.002569  [    0/ 1575]
+loss: 0.001802  [  160/ 1575]
+loss: 0.002440  [  320/ 1575]
+loss: 0.001697  [  480/ 1575]
+loss: 0.002204  [  640/ 1575]
+loss: 0.001698  [  800/ 1575]
+loss: 0.003308  [  960/ 1575]
+loss: 0.002753  [ 1120/ 1575]
+loss: 0.001865  [ 1280/ 1575]
+loss: 0.001146  [ 1440/ 1575]
+Test Error: 
+MSE: 22.995116
+RMSE: 4.795322
+MAE: 1.933548
+R^2: 0.9281095465964604
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002223  [    0/ 1575]
+loss: 0.001374  [  160/ 1575]
+loss: 0.002872  [  320/ 1575]
+loss: 0.001759  [  480/ 1575]
+loss: 0.002560  [  640/ 1575]
+loss: 0.001960  [  800/ 1575]
+loss: 0.003515  [  960/ 1575]
+loss: 0.001986  [ 1120/ 1575]
+loss: 0.002253  [ 1280/ 1575]
+loss: 0.001435  [ 1440/ 1575]
+Test Error: 
+MSE: 22.794160
+RMSE: 4.774323
+MAE: 1.928435
+R^2: 0.9287378016260326
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003852  [    0/ 1575]
+loss: 0.002635  [  160/ 1575]
+loss: 0.001287  [  320/ 1575]
+loss: 0.001857  [  480/ 1575]
+loss: 0.001121  [  640/ 1575]
+loss: 0.002198  [  800/ 1575]
+loss: 0.002371  [  960/ 1575]
+loss: 0.002620  [ 1120/ 1575]
+loss: 0.001486  [ 1280/ 1575]
+loss: 0.001599  [ 1440/ 1575]
+Test Error: 
+MSE: 22.754002
+RMSE: 4.770116
+MAE: 1.928218
+R^2: 0.9288633492655088
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002855  [    0/ 1575]
+loss: 0.001789  [  160/ 1575]
+loss: 0.002084  [  320/ 1575]
+loss: 0.001780  [  480/ 1575]
+loss: 0.002107  [  640/ 1575]
+loss: 0.002259  [  800/ 1575]
+loss: 0.001876  [  960/ 1575]
+loss: 0.002270  [ 1120/ 1575]
+loss: 0.002238  [ 1280/ 1575]
+loss: 0.002213  [ 1440/ 1575]
+Test Error: 
+MSE: 22.706341
+RMSE: 4.765117
+MAE: 1.926810
+R^2: 0.9290123542682529
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001583  [    0/ 1575]
+loss: 0.002047  [  160/ 1575]
+loss: 0.002523  [  320/ 1575]
+loss: 0.001576  [  480/ 1575]
+loss: 0.001876  [  640/ 1575]
+loss: 0.002486  [  800/ 1575]
+loss: 0.002078  [  960/ 1575]
+loss: 0.001776  [ 1120/ 1575]
+loss: 0.002247  [ 1280/ 1575]
+loss: 0.000843  [ 1440/ 1575]
+Test Error: 
+MSE: 22.506672
+RMSE: 4.744120
+MAE: 1.923168
+R^2: 0.9296365855265107
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001732  [    0/ 1575]
+loss: 0.002499  [  160/ 1575]
+loss: 0.002043  [  320/ 1575]
+loss: 0.002374  [  480/ 1575]
+loss: 0.001011  [  640/ 1575]
+loss: 0.002541  [  800/ 1575]
+loss: 0.002447  [  960/ 1575]
+loss: 0.002609  [ 1120/ 1575]
+loss: 0.002164  [ 1280/ 1575]
+loss: 0.001808  [ 1440/ 1575]
+Test Error: 
+MSE: 22.683800
+RMSE: 4.762751
+MAE: 1.928472
+R^2: 0.9290828251490496
+loss: 0.002170  [    0/ 1575]
+loss: 0.002154  [  160/ 1575]
+loss: 0.002607  [  320/ 1575]
+loss: 0.001504  [  480/ 1575]
+loss: 0.001300  [  640/ 1575]
+loss: 0.001947  [  800/ 1575]
+loss: 0.001655  [  960/ 1575]
+loss: 0.001755  [ 1120/ 1575]
+loss: 0.001787  [ 1280/ 1575]
+loss: 0.001526  [ 1440/ 1575]
+Test Error: 
+MSE: 22.427660
+RMSE: 4.735785
+MAE: 1.921034
+R^2: 0.9298836042137107
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001710  [    0/ 1575]
+loss: 0.002487  [  160/ 1575]
+loss: 0.002829  [  320/ 1575]
+loss: 0.002750  [  480/ 1575]
+loss: 0.001985  [  640/ 1575]
+loss: 0.002355  [  800/ 1575]
+loss: 0.001913  [  960/ 1575]
+loss: 0.002168  [ 1120/ 1575]
+loss: 0.002306  [ 1280/ 1575]
+loss: 0.002497  [ 1440/ 1575]
+Test Error: 
+MSE: 22.687219
+RMSE: 4.763110
+MAE: 1.925653
+R^2: 0.9290721353805579
+loss: 0.001924  [    0/ 1575]
+loss: 0.002892  [  160/ 1575]
+loss: 0.001935  [  320/ 1575]
+loss: 0.001436  [  480/ 1575]
+loss: 0.002091  [  640/ 1575]
+loss: 0.002320  [  800/ 1575]
+loss: 0.002109  [  960/ 1575]
+loss: 0.003095  [ 1120/ 1575]
+loss: 0.001807  [ 1280/ 1575]
+loss: 0.003298  [ 1440/ 1575]
+Test Error: 
+MSE: 22.324552
+RMSE: 4.724886
+MAE: 1.917845
+R^2: 0.9302059535094396
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001984  [    0/ 1575]
+loss: 0.003453  [  160/ 1575]
+loss: 0.001982  [  320/ 1575]
+loss: 0.002513  [  480/ 1575]
+loss: 0.001943  [  640/ 1575]
+loss: 0.001715  [  800/ 1575]
+loss: 0.002611  [  960/ 1575]
+loss: 0.001607  [ 1120/ 1575]
+loss: 0.001797  [ 1280/ 1575]
+loss: 0.002438  [ 1440/ 1575]
+Test Error: 
+MSE: 22.413101
+RMSE: 4.734248
+MAE: 1.919564
+R^2: 0.9299291204201603
+loss: 0.002029  [    0/ 1575]
+loss: 0.002471  [  160/ 1575]
+loss: 0.002789  [  320/ 1575]
+loss: 0.001751  [  480/ 1575]
+loss: 0.001723  [  640/ 1575]
+loss: 0.002177  [  800/ 1575]
+loss: 0.001407  [  960/ 1575]
+loss: 0.001308  [ 1120/ 1575]
+loss: 0.002071  [ 1280/ 1575]
+loss: 0.002048  [ 1440/ 1575]
+Test Error: 
+MSE: 22.196404
+RMSE: 4.711306
+MAE: 1.915727
+R^2: 0.9306065894652479
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002012  [    0/ 1575]
+loss: 0.002990  [  160/ 1575]
+loss: 0.002019  [  320/ 1575]
+loss: 0.001831  [  480/ 1575]
+loss: 0.001401  [  640/ 1575]
+loss: 0.001570  [  800/ 1575]
+loss: 0.002352  [  960/ 1575]
+loss: 0.001375  [ 1120/ 1575]
+loss: 0.001863  [ 1280/ 1575]
+loss: 0.002100  [ 1440/ 1575]
+Test Error: 
+MSE: 22.222225
+RMSE: 4.714046
+MAE: 1.915260
+R^2: 0.9305258628620712
+loss: 0.002546  [    0/ 1575]
+loss: 0.001512  [  160/ 1575]
+loss: 0.002376  [  320/ 1575]
+loss: 0.002260  [  480/ 1575]
+loss: 0.001910  [  640/ 1575]
+loss: 0.003289  [  800/ 1575]
+loss: 0.001095  [  960/ 1575]
+loss: 0.001970  [ 1120/ 1575]
+loss: 0.000961  [ 1280/ 1575]
+loss: 0.002541  [ 1440/ 1575]
+Test Error: 
+MSE: 22.157145
+RMSE: 4.707138
+MAE: 1.914228
+R^2: 0.930729326067598
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002333  [    0/ 1575]
+loss: 0.001246  [  160/ 1575]
+loss: 0.002138  [  320/ 1575]
+loss: 0.001686  [  480/ 1575]
+loss: 0.001770  [  640/ 1575]
+loss: 0.001454  [  800/ 1575]
+loss: 0.001846  [  960/ 1575]
+loss: 0.001830  [ 1120/ 1575]
+loss: 0.001965  [ 1280/ 1575]
+loss: 0.002030  [ 1440/ 1575]
+Test Error: 
+MSE: 22.341738
+RMSE: 4.726705
+MAE: 1.921306
+R^2: 0.9301522239638832
+loss: 0.002217  [    0/ 1575]
+loss: 0.002221  [  160/ 1575]
+loss: 0.001463  [  320/ 1575]
+loss: 0.002125  [  480/ 1575]
+loss: 0.002025  [  640/ 1575]
+loss: 0.001599  [  800/ 1575]
+loss: 0.001346  [  960/ 1575]
+loss: 0.002091  [ 1120/ 1575]
+loss: 0.002677  [ 1280/ 1575]
+loss: 0.002561  [ 1440/ 1575]
+Test Error: 
+MSE: 22.155948
+RMSE: 4.707011
+MAE: 1.912532
+R^2: 0.9307330659025354
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001384  [    0/ 1575]
+loss: 0.002373  [  160/ 1575]
+loss: 0.001798  [  320/ 1575]
+loss: 0.002386  [  480/ 1575]
+loss: 0.003088  [  640/ 1575]
+loss: 0.001638  [  800/ 1575]
+loss: 0.002482  [  960/ 1575]
+loss: 0.001685  [ 1120/ 1575]
+loss: 0.002463  [ 1280/ 1575]
+loss: 0.001003  [ 1440/ 1575]
+Test Error: 
+MSE: 22.331459
+RMSE: 4.725617
+MAE: 1.916804
+R^2: 0.9301843608496436
+loss: 0.002006  [    0/ 1575]
+loss: 0.002689  [  160/ 1575]
+loss: 0.001770  [  320/ 1575]
+loss: 0.001752  [  480/ 1575]
+loss: 0.001824  [  640/ 1575]
+loss: 0.001782  [  800/ 1575]
+loss: 0.002331  [  960/ 1575]
+loss: 0.002299  [ 1120/ 1575]
+loss: 0.002102  [ 1280/ 1575]
+loss: 0.001630  [ 1440/ 1575]
+Test Error: 
+MSE: 22.738138
+RMSE: 4.768452
+MAE: 1.926011
+R^2: 0.9289129451448842
+loss: 0.002041  [    0/ 1575]
+loss: 0.001573  [  160/ 1575]
+loss: 0.001933  [  320/ 1575]
+loss: 0.002536  [  480/ 1575]
+loss: 0.002254  [  640/ 1575]
+loss: 0.002170  [  800/ 1575]
+loss: 0.002352  [  960/ 1575]
+loss: 0.001663  [ 1120/ 1575]
+loss: 0.002680  [ 1280/ 1575]
+loss: 0.001836  [ 1440/ 1575]
+Test Error: 
+MSE: 21.943940
+RMSE: 4.684436
+MAE: 1.908875
+R^2: 0.9313958762600462
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002467  [    0/ 1575]
+loss: 0.001148  [  160/ 1575]
+loss: 0.002229  [  320/ 1575]
+loss: 0.002224  [  480/ 1575]
+loss: 0.001413  [  640/ 1575]
+loss: 0.001630  [  800/ 1575]
+loss: 0.001557  [  960/ 1575]
+loss: 0.002310  [ 1120/ 1575]
+loss: 0.002376  [ 1280/ 1575]
+loss: 0.001850  [ 1440/ 1575]
+Test Error: 
+MSE: 22.020752
+RMSE: 4.692627
+MAE: 1.910970
+R^2: 0.9311557363357172
+loss: 0.002874  [    0/ 1575]
+loss: 0.002559  [  160/ 1575]
+loss: 0.002372  [  320/ 1575]
+loss: 0.002026  [  480/ 1575]
+loss: 0.002327  [  640/ 1575]
+loss: 0.002421  [  800/ 1575]
+loss: 0.001670  [  960/ 1575]
+loss: 0.001727  [ 1120/ 1575]
+loss: 0.002306  [ 1280/ 1575]
+loss: 0.001456  [ 1440/ 1575]
+Test Error: 
+MSE: 21.852078
+RMSE: 4.674621
+MAE: 1.906023
+R^2: 0.9316830675163803
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001351  [    0/ 1575]
+loss: 0.001443  [  160/ 1575]
+loss: 0.002632  [  320/ 1575]
+loss: 0.002876  [  480/ 1575]
+loss: 0.001517  [  640/ 1575]
+loss: 0.001767  [  800/ 1575]
+loss: 0.001947  [  960/ 1575]
+loss: 0.002623  [ 1120/ 1575]
+loss: 0.001246  [ 1280/ 1575]
+loss: 0.002055  [ 1440/ 1575]
+Test Error: 
+MSE: 21.852077
+RMSE: 4.674621
+MAE: 1.906362
+R^2: 0.9316830683282866
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.003334  [    0/ 1575]
+loss: 0.002379  [  160/ 1575]
+loss: 0.002190  [  320/ 1575]
+loss: 0.002219  [  480/ 1575]
+loss: 0.002020  [  640/ 1575]
+loss: 0.002010  [  800/ 1575]
+loss: 0.002296  [  960/ 1575]
+loss: 0.003269  [ 1120/ 1575]
+loss: 0.002462  [ 1280/ 1575]
+loss: 0.002230  [ 1440/ 1575]
+Test Error: 
+MSE: 22.147756
+RMSE: 4.706140
+MAE: 1.914785
+R^2: 0.9307586786002814
+loss: 0.001549  [    0/ 1575]
+loss: 0.001709  [  160/ 1575]
+loss: 0.001811  [  320/ 1575]
+loss: 0.003759  [  480/ 1575]
+loss: 0.002110  [  640/ 1575]
+loss: 0.002030  [  800/ 1575]
+loss: 0.001566  [  960/ 1575]
+loss: 0.001731  [ 1120/ 1575]
+loss: 0.002459  [ 1280/ 1575]
+loss: 0.003128  [ 1440/ 1575]
+Test Error: 
+MSE: 22.013828
+RMSE: 4.691890
+MAE: 1.909011
+R^2: 0.931177381204144
+loss: 0.002752  [    0/ 1575]
+loss: 0.002570  [  160/ 1575]
+loss: 0.001537  [  320/ 1575]
+loss: 0.002388  [  480/ 1575]
+loss: 0.001767  [  640/ 1575]
+loss: 0.001880  [  800/ 1575]
+loss: 0.002070  [  960/ 1575]
+loss: 0.001897  [ 1120/ 1575]
+loss: 0.001769  [ 1280/ 1575]
+loss: 0.002549  [ 1440/ 1575]
+Test Error: 
+MSE: 21.761570
+RMSE: 4.664930
+MAE: 1.902863
+R^2: 0.9319660248383393
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001718  [    0/ 1575]
+loss: 0.002027  [  160/ 1575]
+loss: 0.001644  [  320/ 1575]
+loss: 0.002652  [  480/ 1575]
+loss: 0.002555  [  640/ 1575]
+loss: 0.002086  [  800/ 1575]
+loss: 0.002494  [  960/ 1575]
+loss: 0.002265  [ 1120/ 1575]
+loss: 0.001496  [ 1280/ 1575]
+loss: 0.001883  [ 1440/ 1575]
+Test Error: 
+MSE: 21.764464
+RMSE: 4.665240
+MAE: 1.902833
+R^2: 0.9319569787624352
+loss: 0.001654  [    0/ 1575]
+loss: 0.002075  [  160/ 1575]
+loss: 0.001707  [  320/ 1575]
+loss: 0.001845  [  480/ 1575]
+loss: 0.001379  [  640/ 1575]
+loss: 0.001965  [  800/ 1575]
+loss: 0.001364  [  960/ 1575]
+loss: 0.002299  [ 1120/ 1575]
+loss: 0.001006  [ 1280/ 1575]
+loss: 0.001992  [ 1440/ 1575]
+Test Error: 
+MSE: 21.611411
+RMSE: 4.648807
+MAE: 1.900122
+R^2: 0.932435473287844
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001604  [    0/ 1575]
+loss: 0.001907  [  160/ 1575]
+loss: 0.001991  [  320/ 1575]
+loss: 0.000898  [  480/ 1575]
+loss: 0.001724  [  640/ 1575]
+loss: 0.001331  [  800/ 1575]
+loss: 0.002308  [  960/ 1575]
+loss: 0.001793  [ 1120/ 1575]
+loss: 0.002488  [ 1280/ 1575]
+loss: 0.001603  [ 1440/ 1575]
+Test Error: 
+MSE: 21.710666
+RMSE: 4.659471
+MAE: 1.902346
+R^2: 0.9321251669290742
+loss: 0.002342  [    0/ 1575]
+loss: 0.001998  [  160/ 1575]
+loss: 0.002331  [  320/ 1575]
+loss: 0.002923  [  480/ 1575]
+loss: 0.002128  [  640/ 1575]
+loss: 0.001039  [  800/ 1575]
+loss: 0.002937  [  960/ 1575]
+loss: 0.001859  [ 1120/ 1575]
+loss: 0.003230  [ 1280/ 1575]
+loss: 0.002994  [ 1440/ 1575]
+Test Error: 
+MSE: 21.572766
+RMSE: 4.644649
+MAE: 1.898915
+R^2: 0.932556290493515
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001395  [    0/ 1575]
+loss: 0.002329  [  160/ 1575]
+loss: 0.001820  [  320/ 1575]
+loss: 0.002178  [  480/ 1575]
+loss: 0.001796  [  640/ 1575]
+loss: 0.001678  [  800/ 1575]
+loss: 0.001269  [  960/ 1575]
+loss: 0.001993  [ 1120/ 1575]
+loss: 0.001428  [ 1280/ 1575]
+loss: 0.001995  [ 1440/ 1575]
+Test Error: 
+MSE: 21.746499
+RMSE: 4.663314
+MAE: 1.902254
+R^2: 0.9320131419919574
+loss: 0.001955  [    0/ 1575]
+loss: 0.001913  [  160/ 1575]
+loss: 0.001192  [  320/ 1575]
+loss: 0.001212  [  480/ 1575]
+loss: 0.002092  [  640/ 1575]
+loss: 0.001832  [  800/ 1575]
+loss: 0.002041  [  960/ 1575]
+loss: 0.001911  [ 1120/ 1575]
+loss: 0.002443  [ 1280/ 1575]
+loss: 0.002712  [ 1440/ 1575]
+Test Error: 
+MSE: 21.563709
+RMSE: 4.643674
+MAE: 1.897710
+R^2: 0.9325846046560594
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001525  [    0/ 1575]
+loss: 0.001979  [  160/ 1575]
+loss: 0.001279  [  320/ 1575]
+loss: 0.001793  [  480/ 1575]
+loss: 0.002035  [  640/ 1575]
+loss: 0.001393  [  800/ 1575]
+loss: 0.001557  [  960/ 1575]
+loss: 0.001615  [ 1120/ 1575]
+loss: 0.001550  [ 1280/ 1575]
+loss: 0.002140  [ 1440/ 1575]
+Test Error: 
+MSE: 21.497231
+RMSE: 4.636511
+MAE: 1.897031
+R^2: 0.9327924379441354
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002068  [    0/ 1575]
+loss: 0.001243  [  160/ 1575]
+loss: 0.002619  [  320/ 1575]
+loss: 0.001418  [  480/ 1575]
+loss: 0.001417  [  640/ 1575]
+loss: 0.001370  [  800/ 1575]
+loss: 0.002159  [  960/ 1575]
+loss: 0.002220  [ 1120/ 1575]
+loss: 0.002270  [ 1280/ 1575]
+loss: 0.001832  [ 1440/ 1575]
+Test Error: 
+MSE: 21.620056
+RMSE: 4.649737
+MAE: 1.898883
+R^2: 0.9324084443999582
+loss: 0.003294  [    0/ 1575]
+loss: 0.001720  [  160/ 1575]
+loss: 0.002754  [  320/ 1575]
+loss: 0.001123  [  480/ 1575]
+loss: 0.002113  [  640/ 1575]
+loss: 0.001466  [  800/ 1575]
+loss: 0.001271  [  960/ 1575]
+loss: 0.001805  [ 1120/ 1575]
+loss: 0.001731  [ 1280/ 1575]
+loss: 0.001802  [ 1440/ 1575]
+Test Error: 
+MSE: 21.471975
+RMSE: 4.633786
+MAE: 1.895273
+R^2: 0.9328713964877852
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001715  [    0/ 1575]
+loss: 0.001839  [  160/ 1575]
+loss: 0.002946  [  320/ 1575]
+loss: 0.001578  [  480/ 1575]
+loss: 0.001369  [  640/ 1575]
+loss: 0.002110  [  800/ 1575]
+loss: 0.002432  [  960/ 1575]
+loss: 0.001219  [ 1120/ 1575]
+loss: 0.002384  [ 1280/ 1575]
+loss: 0.002333  [ 1440/ 1575]
+Test Error: 
+MSE: 21.344537
+RMSE: 4.620015
+MAE: 1.892359
+R^2: 0.9332698116445811
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001480  [    0/ 1575]
+loss: 0.001647  [  160/ 1575]
+loss: 0.001830  [  320/ 1575]
+loss: 0.000842  [  480/ 1575]
+loss: 0.001832  [  640/ 1575]
+loss: 0.002695  [  800/ 1575]
+loss: 0.001682  [  960/ 1575]
+loss: 0.002309  [ 1120/ 1575]
+loss: 0.001691  [ 1280/ 1575]
+loss: 0.001633  [ 1440/ 1575]
+Test Error: 
+MSE: 22.173060
+RMSE: 4.708828
+MAE: 1.909519
+R^2: 0.9306795704926429
+loss: 0.002318  [    0/ 1575]
+loss: 0.001173  [  160/ 1575]
+loss: 0.002421  [  320/ 1575]
+loss: 0.002515  [  480/ 1575]
+loss: 0.002121  [  640/ 1575]
+loss: 0.001573  [  800/ 1575]
+loss: 0.001979  [  960/ 1575]
+loss: 0.002399  [ 1120/ 1575]
+loss: 0.001920  [ 1280/ 1575]
+loss: 0.002039  [ 1440/ 1575]
+Test Error: 
+MSE: 21.387393
+RMSE: 4.624651
+MAE: 1.895303
+R^2: 0.9331358291019547
+loss: 0.001328  [    0/ 1575]
+loss: 0.001559  [  160/ 1575]
+loss: 0.002040  [  320/ 1575]
+loss: 0.001171  [  480/ 1575]
+loss: 0.002215  [  640/ 1575]
+loss: 0.001380  [  800/ 1575]
+loss: 0.002413  [  960/ 1575]
+loss: 0.001447  [ 1120/ 1575]
+loss: 0.003354  [ 1280/ 1575]
+loss: 0.001492  [ 1440/ 1575]
+Test Error: 
+MSE: 21.410159
+RMSE: 4.627111
+MAE: 1.894040
+R^2: 0.9330646530781967
+loss: 0.002315  [    0/ 1575]
+loss: 0.001001  [  160/ 1575]
+loss: 0.001836  [  320/ 1575]
+loss: 0.002077  [  480/ 1575]
+loss: 0.001308  [  640/ 1575]
+loss: 0.002094  [  800/ 1575]
+loss: 0.002301  [  960/ 1575]
+loss: 0.002178  [ 1120/ 1575]
+loss: 0.001824  [ 1280/ 1575]
+loss: 0.001452  [ 1440/ 1575]
+Test Error: 
+MSE: 21.288096
+RMSE: 4.613902
+MAE: 1.890825
+R^2: 0.9334462635168552
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001926  [    0/ 1575]
+loss: 0.001176  [  160/ 1575]
+loss: 0.001706  [  320/ 1575]
+loss: 0.002100  [  480/ 1575]
+loss: 0.002516  [  640/ 1575]
+loss: 0.001591  [  800/ 1575]
+loss: 0.002107  [  960/ 1575]
+loss: 0.001920  [ 1120/ 1575]
+loss: 0.001921  [ 1280/ 1575]
+loss: 0.002114  [ 1440/ 1575]
+Test Error: 
+MSE: 21.297730
+RMSE: 4.614946
+MAE: 1.892552
+R^2: 0.9334161460887105
+loss: 0.001726  [    0/ 1575]
+loss: 0.001424  [  160/ 1575]
+loss: 0.002150  [  320/ 1575]
+loss: 0.002050  [  480/ 1575]
+loss: 0.002076  [  640/ 1575]
+loss: 0.002212  [  800/ 1575]
+loss: 0.001945  [  960/ 1575]
+loss: 0.001593  [ 1120/ 1575]
+loss: 0.001897  [ 1280/ 1575]
+loss: 0.001757  [ 1440/ 1575]
+Test Error: 
+MSE: 21.705689
+RMSE: 4.658936
+MAE: 1.898616
+R^2: 0.9321407281647924
+loss: 0.001135  [    0/ 1575]
+loss: 0.001193  [  160/ 1575]
+loss: 0.001796  [  320/ 1575]
+loss: 0.002011  [  480/ 1575]
+loss: 0.002231  [  640/ 1575]
+loss: 0.002127  [  800/ 1575]
+loss: 0.002595  [  960/ 1575]
+loss: 0.002228  [ 1120/ 1575]
+loss: 0.001235  [ 1280/ 1575]
+loss: 0.002353  [ 1440/ 1575]
+Test Error: 
+MSE: 22.556623
+RMSE: 4.749381
+MAE: 1.918357
+R^2: 0.9294804221467352
+loss: 0.001700  [    0/ 1575]
+loss: 0.002258  [  160/ 1575]
+loss: 0.002116  [  320/ 1575]
+loss: 0.001606  [  480/ 1575]
+loss: 0.001851  [  640/ 1575]
+loss: 0.001508  [  800/ 1575]
+loss: 0.001812  [  960/ 1575]
+loss: 0.001832  [ 1120/ 1575]
+loss: 0.000828  [ 1280/ 1575]
+loss: 0.002096  [ 1440/ 1575]
+Test Error: 
+MSE: 21.180632
+RMSE: 4.602242
+MAE: 1.890226
+R^2: 0.9337822314459124
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002958  [    0/ 1575]
+loss: 0.002846  [  160/ 1575]
+loss: 0.001419  [  320/ 1575]
+loss: 0.002164  [  480/ 1575]
+loss: 0.001704  [  640/ 1575]
+loss: 0.001844  [  800/ 1575]
+loss: 0.002515  [  960/ 1575]
+loss: 0.001703  [ 1120/ 1575]
+loss: 0.001657  [ 1280/ 1575]
+loss: 0.001661  [ 1440/ 1575]
+Test Error: 
+MSE: 21.358334
+RMSE: 4.621508
+MAE: 1.890928
+R^2: 0.9332266750967874
+loss: 0.002025  [    0/ 1575]
+loss: 0.001902  [  160/ 1575]
+loss: 0.001954  [  320/ 1575]
+loss: 0.001497  [  480/ 1575]
+loss: 0.001663  [  640/ 1575]
+loss: 0.001631  [  800/ 1575]
+loss: 0.001741  [  960/ 1575]
+loss: 0.001413  [ 1120/ 1575]
+loss: 0.001518  [ 1280/ 1575]
+loss: 0.002408  [ 1440/ 1575]
+Test Error: 
+MSE: 21.602288
+RMSE: 4.647826
+MAE: 1.897924
+R^2: 0.9324639955579759
+loss: 0.001067  [    0/ 1575]
+loss: 0.001521  [  160/ 1575]
+loss: 0.002172  [  320/ 1575]
+loss: 0.001986  [  480/ 1575]
+loss: 0.001856  [  640/ 1575]
+loss: 0.001434  [  800/ 1575]
+loss: 0.001588  [  960/ 1575]
+loss: 0.002476  [ 1120/ 1575]
+loss: 0.001416  [ 1280/ 1575]
+loss: 0.001583  [ 1440/ 1575]
+Test Error: 
+MSE: 21.404335
+RMSE: 4.626482
+MAE: 1.902453
+R^2: 0.9330828623531586
+loss: 0.001504  [    0/ 1575]
+loss: 0.001398  [  160/ 1575]
+loss: 0.002140  [  320/ 1575]
+loss: 0.001538  [  480/ 1575]
+loss: 0.002318  [  640/ 1575]
+loss: 0.002267  [  800/ 1575]
+loss: 0.002118  [  960/ 1575]
+loss: 0.002667  [ 1120/ 1575]
+loss: 0.003001  [ 1280/ 1575]
+loss: 0.001553  [ 1440/ 1575]
+Test Error: 
+MSE: 21.166877
+RMSE: 4.600747
+MAE: 1.887025
+R^2: 0.9338252340709917
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002954  [    0/ 1575]
+loss: 0.001766  [  160/ 1575]
+loss: 0.001942  [  320/ 1575]
+loss: 0.001793  [  480/ 1575]
+loss: 0.001911  [  640/ 1575]
+loss: 0.001941  [  800/ 1575]
+loss: 0.001861  [  960/ 1575]
+loss: 0.002059  [ 1120/ 1575]
+loss: 0.001592  [ 1280/ 1575]
+loss: 0.002529  [ 1440/ 1575]
+Test Error: 
+MSE: 21.139614
+RMSE: 4.597784
+MAE: 1.887801
+R^2: 0.9339104691251775
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002946  [    0/ 1575]
+loss: 0.001795  [  160/ 1575]
+loss: 0.001622  [  320/ 1575]
+loss: 0.001575  [  480/ 1575]
+loss: 0.002750  [  640/ 1575]
+loss: 0.002722  [  800/ 1575]
+loss: 0.000861  [  960/ 1575]
+loss: 0.000986  [ 1120/ 1575]
+loss: 0.001417  [ 1280/ 1575]
+loss: 0.002052  [ 1440/ 1575]
+Test Error: 
+MSE: 21.131251
+RMSE: 4.596874
+MAE: 1.886109
+R^2: 0.9339366152123982
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001609  [    0/ 1575]
+loss: 0.002443  [  160/ 1575]
+loss: 0.001682  [  320/ 1575]
+loss: 0.001882  [  480/ 1575]
+loss: 0.001711  [  640/ 1575]
+loss: 0.001507  [  800/ 1575]
+loss: 0.002310  [  960/ 1575]
+loss: 0.002443  [ 1120/ 1575]
+loss: 0.001561  [ 1280/ 1575]
+loss: 0.001784  [ 1440/ 1575]
+Test Error: 
+MSE: 21.370413
+RMSE: 4.622814
+MAE: 1.889547
+R^2: 0.9331889142269004
+loss: 0.001875  [    0/ 1575]
+loss: 0.001926  [  160/ 1575]
+loss: 0.002470  [  320/ 1575]
+loss: 0.001645  [  480/ 1575]
+loss: 0.001536  [  640/ 1575]
+loss: 0.001312  [  800/ 1575]
+loss: 0.001261  [  960/ 1575]
+loss: 0.002320  [ 1120/ 1575]
+loss: 0.001649  [ 1280/ 1575]
+loss: 0.001769  [ 1440/ 1575]
+Test Error: 
+MSE: 21.046005
+RMSE: 4.587592
+MAE: 1.886824
+R^2: 0.9342031219092606
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001762  [    0/ 1575]
+loss: 0.002715  [  160/ 1575]
+loss: 0.000885  [  320/ 1575]
+loss: 0.001574  [  480/ 1575]
+loss: 0.001734  [  640/ 1575]
+loss: 0.002022  [  800/ 1575]
+loss: 0.001572  [  960/ 1575]
+loss: 0.001714  [ 1120/ 1575]
+loss: 0.003321  [ 1280/ 1575]
+loss: 0.001964  [ 1440/ 1575]
+Test Error: 
+MSE: 20.993089
+RMSE: 4.581822
+MAE: 1.885365
+R^2: 0.9343685555447504
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001152  [    0/ 1575]
+loss: 0.001793  [  160/ 1575]
+loss: 0.001836  [  320/ 1575]
+loss: 0.001543  [  480/ 1575]
+loss: 0.001585  [  640/ 1575]
+loss: 0.001871  [  800/ 1575]
+loss: 0.001602  [  960/ 1575]
+loss: 0.001947  [ 1120/ 1575]
+loss: 0.002812  [ 1280/ 1575]
+loss: 0.002292  [ 1440/ 1575]
+Test Error: 
+MSE: 21.029569
+RMSE: 4.585801
+MAE: 1.886649
+R^2: 0.9342545069646777
+loss: 0.001603  [    0/ 1575]
+loss: 0.002075  [  160/ 1575]
+loss: 0.001294  [  320/ 1575]
+loss: 0.001752  [  480/ 1575]
+loss: 0.001789  [  640/ 1575]
+loss: 0.001299  [  800/ 1575]
+loss: 0.001694  [  960/ 1575]
+loss: 0.000987  [ 1120/ 1575]
+loss: 0.002132  [ 1280/ 1575]
+loss: 0.001696  [ 1440/ 1575]
+Test Error: 
+MSE: 21.000146
+RMSE: 4.582592
+MAE: 1.887638
+R^2: 0.9343464925753479
+loss: 0.001972  [    0/ 1575]
+loss: 0.001286  [  160/ 1575]
+loss: 0.001737  [  320/ 1575]
+loss: 0.002115  [  480/ 1575]
+loss: 0.002239  [  640/ 1575]
+loss: 0.002255  [  800/ 1575]
+loss: 0.001311  [  960/ 1575]
+loss: 0.001541  [ 1120/ 1575]
+loss: 0.001715  [ 1280/ 1575]
+loss: 0.001299  [ 1440/ 1575]
+Test Error: 
+MSE: 20.978194
+RMSE: 4.580196
+MAE: 1.884449
+R^2: 0.9344151220695524
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002200  [    0/ 1575]
+loss: 0.001889  [  160/ 1575]
+loss: 0.001560  [  320/ 1575]
+loss: 0.001731  [  480/ 1575]
+loss: 0.001440  [  640/ 1575]
+loss: 0.001891  [  800/ 1575]
+loss: 0.002246  [  960/ 1575]
+loss: 0.001468  [ 1120/ 1575]
+loss: 0.001098  [ 1280/ 1575]
+loss: 0.001759  [ 1440/ 1575]
+Test Error: 
+MSE: 21.871336
+RMSE: 4.676680
+MAE: 1.900360
+R^2: 0.9316228596118873
+loss: 0.002380  [    0/ 1575]
+loss: 0.001914  [  160/ 1575]
+loss: 0.001699  [  320/ 1575]
+loss: 0.001730  [  480/ 1575]
+loss: 0.002349  [  640/ 1575]
+loss: 0.002242  [  800/ 1575]
+loss: 0.002886  [  960/ 1575]
+loss: 0.001222  [ 1120/ 1575]
+loss: 0.001393  [ 1280/ 1575]
+loss: 0.002485  [ 1440/ 1575]
+Test Error: 
+MSE: 21.246514
+RMSE: 4.609394
+MAE: 1.887360
+R^2: 0.9335762622585533
+loss: 0.001968  [    0/ 1575]
+loss: 0.001694  [  160/ 1575]
+loss: 0.001370  [  320/ 1575]
+loss: 0.002373  [  480/ 1575]
+loss: 0.001540  [  640/ 1575]
+loss: 0.001655  [  800/ 1575]
+loss: 0.001747  [  960/ 1575]
+loss: 0.002146  [ 1120/ 1575]
+loss: 0.001676  [ 1280/ 1575]
+loss: 0.002072  [ 1440/ 1575]
+Test Error: 
+MSE: 21.128993
+RMSE: 4.596628
+MAE: 1.885351
+R^2: 0.933943673114952
+loss: 0.001934  [    0/ 1575]
+loss: 0.002508  [  160/ 1575]
+loss: 0.001539  [  320/ 1575]
+loss: 0.001500  [  480/ 1575]
+loss: 0.001993  [  640/ 1575]
+loss: 0.003349  [  800/ 1575]
+loss: 0.001265  [  960/ 1575]
+loss: 0.001674  [ 1120/ 1575]
+loss: 0.002292  [ 1280/ 1575]
+loss: 0.001499  [ 1440/ 1575]
+Test Error: 
+MSE: 21.066165
+RMSE: 4.589789
+MAE: 1.884317
+R^2: 0.9341400950364297
+loss: 0.002844  [    0/ 1575]
+loss: 0.000868  [  160/ 1575]
+loss: 0.001337  [  320/ 1575]
+loss: 0.001494  [  480/ 1575]
+loss: 0.001164  [  640/ 1575]
+loss: 0.001285  [  800/ 1575]
+loss: 0.002505  [  960/ 1575]
+loss: 0.001913  [ 1120/ 1575]
+loss: 0.001376  [ 1280/ 1575]
+loss: 0.002047  [ 1440/ 1575]
+Test Error: 
+MSE: 21.828958
+RMSE: 4.672147
+MAE: 1.900966
+R^2: 0.9317553472642589
+loss: 0.001950  [    0/ 1575]
+loss: 0.002607  [  160/ 1575]
+loss: 0.001916  [  320/ 1575]
+loss: 0.001900  [  480/ 1575]
+loss: 0.001950  [  640/ 1575]
+loss: 0.001365  [  800/ 1575]
+loss: 0.001651  [  960/ 1575]
+loss: 0.001108  [ 1120/ 1575]
+loss: 0.001986  [ 1280/ 1575]
+loss: 0.002198  [ 1440/ 1575]
+Test Error: 
+MSE: 21.392897
+RMSE: 4.625246
+MAE: 1.889560
+R^2: 0.9331186201554275
+loss: 0.001830  [    0/ 1575]
+loss: 0.001639  [  160/ 1575]
+loss: 0.001940  [  320/ 1575]
+loss: 0.001385  [  480/ 1575]
+loss: 0.001311  [  640/ 1575]
+loss: 0.002468  [  800/ 1575]
+loss: 0.001915  [  960/ 1575]
+loss: 0.001820  [ 1120/ 1575]
+loss: 0.001321  [ 1280/ 1575]
+loss: 0.001752  [ 1440/ 1575]
+Test Error: 
+MSE: 21.000865
+RMSE: 4.582670
+MAE: 1.881317
+R^2: 0.9343442439850339
+loss: 0.002240  [    0/ 1575]
+loss: 0.002414  [  160/ 1575]
+loss: 0.001715  [  320/ 1575]
+loss: 0.001441  [  480/ 1575]
+loss: 0.001744  [  640/ 1575]
+loss: 0.001948  [  800/ 1575]
+loss: 0.002370  [  960/ 1575]
+loss: 0.002157  [ 1120/ 1575]
+loss: 0.001931  [ 1280/ 1575]
+loss: 0.001949  [ 1440/ 1575]
+Test Error: 
+MSE: 21.307896
+RMSE: 4.616048
+MAE: 1.886061
+R^2: 0.9333843638386448
+loss: 0.002066  [    0/ 1575]
+loss: 0.001686  [  160/ 1575]
+loss: 0.001693  [  320/ 1575]
+loss: 0.001157  [  480/ 1575]
+loss: 0.001524  [  640/ 1575]
+loss: 0.002130  [  800/ 1575]
+loss: 0.000928  [  960/ 1575]
+loss: 0.002170  [ 1120/ 1575]
+loss: 0.001446  [ 1280/ 1575]
+loss: 0.001570  [ 1440/ 1575]
+Test Error: 
+MSE: 20.981429
+RMSE: 4.580549
+MAE: 1.881172
+R^2: 0.934405007241611
+loss: 0.000990  [    0/ 1575]
+loss: 0.001587  [  160/ 1575]
+loss: 0.002095  [  320/ 1575]
+loss: 0.001869  [  480/ 1575]
+loss: 0.001657  [  640/ 1575]
+loss: 0.002426  [  800/ 1575]
+loss: 0.001963  [  960/ 1575]
+loss: 0.002590  [ 1120/ 1575]
+loss: 0.001712  [ 1280/ 1575]
+loss: 0.001580  [ 1440/ 1575]
+Test Error: 
+MSE: 20.975540
+RMSE: 4.579906
+MAE: 1.881686
+R^2: 0.9344234177113966
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002022  [    0/ 1575]
+loss: 0.002654  [  160/ 1575]
+loss: 0.002177  [  320/ 1575]
+loss: 0.001658  [  480/ 1575]
+loss: 0.001236  [  640/ 1575]
+loss: 0.001704  [  800/ 1575]
+loss: 0.002251  [  960/ 1575]
+loss: 0.002251  [ 1120/ 1575]
+loss: 0.002085  [ 1280/ 1575]
+loss: 0.002314  [ 1440/ 1575]
+Test Error: 
+MSE: 20.879747
+RMSE: 4.569436
+MAE: 1.879558
+R^2: 0.9347228983806164
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001419  [    0/ 1575]
+loss: 0.001845  [  160/ 1575]
+loss: 0.002811  [  320/ 1575]
+loss: 0.002609  [  480/ 1575]
+loss: 0.001989  [  640/ 1575]
+loss: 0.001524  [  800/ 1575]
+loss: 0.002020  [  960/ 1575]
+loss: 0.001928  [ 1120/ 1575]
+loss: 0.002410  [ 1280/ 1575]
+loss: 0.001249  [ 1440/ 1575]
+Test Error: 
+MSE: 20.772347
+RMSE: 4.557669
+MAE: 1.882006
+R^2: 0.9350586669071539
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002746  [    0/ 1575]
+loss: 0.001214  [  160/ 1575]
+loss: 0.001094  [  320/ 1575]
+loss: 0.001960  [  480/ 1575]
+loss: 0.001435  [  640/ 1575]
+loss: 0.001798  [  800/ 1575]
+loss: 0.001678  [  960/ 1575]
+loss: 0.002253  [ 1120/ 1575]
+loss: 0.001262  [ 1280/ 1575]
+loss: 0.002261  [ 1440/ 1575]
+Test Error: 
+MSE: 20.888341
+RMSE: 4.570377
+MAE: 1.878252
+R^2: 0.9346960306592473
+loss: 0.001822  [    0/ 1575]
+loss: 0.001486  [  160/ 1575]
+loss: 0.002504  [  320/ 1575]
+loss: 0.002000  [  480/ 1575]
+loss: 0.002468  [  640/ 1575]
+loss: 0.002001  [  800/ 1575]
+loss: 0.002126  [  960/ 1575]
+loss: 0.001010  [ 1120/ 1575]
+loss: 0.001887  [ 1280/ 1575]
+loss: 0.001643  [ 1440/ 1575]
+Test Error: 
+MSE: 21.277414
+RMSE: 4.612745
+MAE: 1.885677
+R^2: 0.9334796598814702
+loss: 0.001721  [    0/ 1575]
+loss: 0.002790  [  160/ 1575]
+loss: 0.001471  [  320/ 1575]
+loss: 0.001990  [  480/ 1575]
+loss: 0.001500  [  640/ 1575]
+loss: 0.001871  [  800/ 1575]
+loss: 0.001269  [  960/ 1575]
+loss: 0.002278  [ 1120/ 1575]
+loss: 0.001530  [ 1280/ 1575]
+loss: 0.001810  [ 1440/ 1575]
+Test Error: 
+MSE: 20.740789
+RMSE: 4.554206
+MAE: 1.883387
+R^2: 0.9351573298208269
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001782  [    0/ 1575]
+loss: 0.002116  [  160/ 1575]
+loss: 0.002076  [  320/ 1575]
+loss: 0.001604  [  480/ 1575]
+loss: 0.001135  [  640/ 1575]
+loss: 0.001604  [  800/ 1575]
+loss: 0.002079  [  960/ 1575]
+loss: 0.002506  [ 1120/ 1575]
+loss: 0.001745  [ 1280/ 1575]
+loss: 0.002874  [ 1440/ 1575]
+Test Error: 
+MSE: 21.003780
+RMSE: 4.582988
+MAE: 1.879318
+R^2: 0.9343351296420973
+loss: 0.001183  [    0/ 1575]
+loss: 0.001979  [  160/ 1575]
+loss: 0.002115  [  320/ 1575]
+loss: 0.002185  [  480/ 1575]
+loss: 0.001265  [  640/ 1575]
+loss: 0.001925  [  800/ 1575]
+loss: 0.002100  [  960/ 1575]
+loss: 0.001390  [ 1120/ 1575]
+loss: 0.001365  [ 1280/ 1575]
+loss: 0.001319  [ 1440/ 1575]
+Test Error: 
+MSE: 20.749756
+RMSE: 4.555190
+MAE: 1.875678
+R^2: 0.9351292953060231
+loss: 0.001486  [    0/ 1575]
+loss: 0.001615  [  160/ 1575]
+loss: 0.001041  [  320/ 1575]
+loss: 0.001541  [  480/ 1575]
+loss: 0.001765  [  640/ 1575]
+loss: 0.002579  [  800/ 1575]
+loss: 0.001263  [  960/ 1575]
+loss: 0.002065  [ 1120/ 1575]
+loss: 0.002754  [ 1280/ 1575]
+loss: 0.001476  [ 1440/ 1575]
+Test Error: 
+MSE: 20.679233
+RMSE: 4.547442
+MAE: 1.877422
+R^2: 0.9353497743831019
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002017  [    0/ 1575]
+loss: 0.001805  [  160/ 1575]
+loss: 0.002181  [  320/ 1575]
+loss: 0.001379  [  480/ 1575]
+loss: 0.001979  [  640/ 1575]
+loss: 0.001504  [  800/ 1575]
+loss: 0.002154  [  960/ 1575]
+loss: 0.002030  [ 1120/ 1575]
+loss: 0.001215  [ 1280/ 1575]
+loss: 0.001331  [ 1440/ 1575]
+Test Error: 
+MSE: 20.948990
+RMSE: 4.577007
+MAE: 1.875548
+R^2: 0.9345064235685732
+loss: 0.001995  [    0/ 1575]
+loss: 0.001607  [  160/ 1575]
+loss: 0.001820  [  320/ 1575]
+loss: 0.000841  [  480/ 1575]
+loss: 0.003282  [  640/ 1575]
+loss: 0.002366  [  800/ 1575]
+loss: 0.001632  [  960/ 1575]
+loss: 0.000761  [ 1120/ 1575]
+loss: 0.002095  [ 1280/ 1575]
+loss: 0.001456  [ 1440/ 1575]
+Test Error: 
+MSE: 21.363319
+RMSE: 4.622047
+MAE: 1.887028
+R^2: 0.9332110907646397
+loss: 0.001263  [    0/ 1575]
+loss: 0.002985  [  160/ 1575]
+loss: 0.001302  [  320/ 1575]
+loss: 0.002641  [  480/ 1575]
+loss: 0.001499  [  640/ 1575]
+loss: 0.000968  [  800/ 1575]
+loss: 0.001906  [  960/ 1575]
+loss: 0.001500  [ 1120/ 1575]
+loss: 0.001014  [ 1280/ 1575]
+loss: 0.001658  [ 1440/ 1575]
+Test Error: 
+MSE: 21.295242
+RMSE: 4.614677
+MAE: 1.884937
+R^2: 0.9334239244730139
+loss: 0.001716  [    0/ 1575]
+loss: 0.001562  [  160/ 1575]
+loss: 0.001418  [  320/ 1575]
+loss: 0.001257  [  480/ 1575]
+loss: 0.002236  [  640/ 1575]
+loss: 0.001531  [  800/ 1575]
+loss: 0.001544  [  960/ 1575]
+loss: 0.001950  [ 1120/ 1575]
+loss: 0.001745  [ 1280/ 1575]
+loss: 0.001291  [ 1440/ 1575]
+Test Error: 
+MSE: 21.521788
+RMSE: 4.639158
+MAE: 1.890168
+R^2: 0.932715664026366
+loss: 0.001557  [    0/ 1575]
+loss: 0.001228  [  160/ 1575]
+loss: 0.001695  [  320/ 1575]
+loss: 0.002047  [  480/ 1575]
+loss: 0.002609  [  640/ 1575]
+loss: 0.001458  [  800/ 1575]
+loss: 0.001701  [  960/ 1575]
+loss: 0.001419  [ 1120/ 1575]
+loss: 0.001969  [ 1280/ 1575]
+loss: 0.001813  [ 1440/ 1575]
+Test Error: 
+MSE: 21.128397
+RMSE: 4.596564
+MAE: 1.882429
+R^2: 0.933945535778414
+loss: 0.001485  [    0/ 1575]
+loss: 0.001543  [  160/ 1575]
+loss: 0.001425  [  320/ 1575]
+loss: 0.002011  [  480/ 1575]
+loss: 0.002052  [  640/ 1575]
+loss: 0.001725  [  800/ 1575]
+loss: 0.001444  [  960/ 1575]
+loss: 0.001532  [ 1120/ 1575]
+loss: 0.001513  [ 1280/ 1575]
+loss: 0.002300  [ 1440/ 1575]
+Test Error: 
+MSE: 21.080876
+RMSE: 4.591391
+MAE: 1.880271
+R^2: 0.9340941040359024
+loss: 0.002568  [    0/ 1575]
+loss: 0.001538  [  160/ 1575]
+loss: 0.002293  [  320/ 1575]
+loss: 0.002911  [  480/ 1575]
+loss: 0.001479  [  640/ 1575]
+loss: 0.002456  [  800/ 1575]
+loss: 0.001783  [  960/ 1575]
+loss: 0.001274  [ 1120/ 1575]
+loss: 0.001201  [ 1280/ 1575]
+loss: 0.002562  [ 1440/ 1575]
+Test Error: 
+MSE: 20.701679
+RMSE: 4.549910
+MAE: 1.883843
+R^2: 0.9352796001879013
+loss: 0.002178  [    0/ 1575]
+loss: 0.002417  [  160/ 1575]
+loss: 0.000985  [  320/ 1575]
+loss: 0.001097  [  480/ 1575]
+loss: 0.001823  [  640/ 1575]
+loss: 0.001275  [  800/ 1575]
+loss: 0.001205  [  960/ 1575]
+loss: 0.002438  [ 1120/ 1575]
+loss: 0.001854  [ 1280/ 1575]
+loss: 0.001115  [ 1440/ 1575]
+Test Error: 
+MSE: 21.697754
+RMSE: 4.658085
+MAE: 1.896381
+R^2: 0.9321655353386824
+loss: 0.001090  [    0/ 1575]
+loss: 0.001434  [  160/ 1575]
+loss: 0.002308  [  320/ 1575]
+loss: 0.001175  [  480/ 1575]
+loss: 0.002068  [  640/ 1575]
+loss: 0.001668  [  800/ 1575]
+loss: 0.002462  [  960/ 1575]
+loss: 0.001658  [ 1120/ 1575]
+loss: 0.001902  [ 1280/ 1575]
+loss: 0.001057  [ 1440/ 1575]
+Test Error: 
+MSE: 20.721578
+RMSE: 4.552096
+MAE: 1.887560
+R^2: 0.9352173883798104
+loss: 0.001669  [    0/ 1575]
+loss: 0.001615  [  160/ 1575]
+loss: 0.002029  [  320/ 1575]
+loss: 0.001675  [  480/ 1575]
+loss: 0.001359  [  640/ 1575]
+loss: 0.001185  [  800/ 1575]
+loss: 0.001130  [  960/ 1575]
+loss: 0.002077  [ 1120/ 1575]
+loss: 0.001348  [ 1280/ 1575]
+loss: 0.001592  [ 1440/ 1575]
+Test Error: 
+MSE: 20.612698
+RMSE: 4.540121
+MAE: 1.878730
+R^2: 0.9355577844492065
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001969  [    0/ 1575]
+loss: 0.001659  [  160/ 1575]
+loss: 0.001095  [  320/ 1575]
+loss: 0.001443  [  480/ 1575]
+loss: 0.002229  [  640/ 1575]
+loss: 0.001445  [  800/ 1575]
+loss: 0.001440  [  960/ 1575]
+loss: 0.001793  [ 1120/ 1575]
+loss: 0.001668  [ 1280/ 1575]
+loss: 0.001696  [ 1440/ 1575]
+Test Error: 
+MSE: 20.615961
+RMSE: 4.540480
+MAE: 1.879422
+R^2: 0.9355475835327556
+loss: 0.001262  [    0/ 1575]
+loss: 0.001703  [  160/ 1575]
+loss: 0.002540  [  320/ 1575]
+loss: 0.001241  [  480/ 1575]
+loss: 0.001500  [  640/ 1575]
+loss: 0.000787  [  800/ 1575]
+loss: 0.001374  [  960/ 1575]
+loss: 0.001558  [ 1120/ 1575]
+loss: 0.001149  [ 1280/ 1575]
+loss: 0.001449  [ 1440/ 1575]
+Test Error: 
+MSE: 21.403712
+RMSE: 4.626415
+MAE: 1.890097
+R^2: 0.9330848099682525
+loss: 0.002024  [    0/ 1575]
+loss: 0.001983  [  160/ 1575]
+loss: 0.001469  [  320/ 1575]
+loss: 0.001668  [  480/ 1575]
+loss: 0.001787  [  640/ 1575]
+loss: 0.001953  [  800/ 1575]
+loss: 0.001961  [  960/ 1575]
+loss: 0.001717  [ 1120/ 1575]
+loss: 0.000848  [ 1280/ 1575]
+loss: 0.001724  [ 1440/ 1575]
+Test Error: 
+MSE: 20.766142
+RMSE: 4.556988
+MAE: 1.874748
+R^2: 0.9350780670077455
+loss: 0.002084  [    0/ 1575]
+loss: 0.001471  [  160/ 1575]
+loss: 0.001352  [  320/ 1575]
+loss: 0.002272  [  480/ 1575]
+loss: 0.001220  [  640/ 1575]
+loss: 0.001350  [  800/ 1575]
+loss: 0.001419  [  960/ 1575]
+loss: 0.002274  [ 1120/ 1575]
+loss: 0.001094  [ 1280/ 1575]
+loss: 0.002385  [ 1440/ 1575]
+Test Error: 
+MSE: 20.717753
+RMSE: 4.551676
+MAE: 1.874819
+R^2: 0.9352293489605019
+loss: 0.001577  [    0/ 1575]
+loss: 0.003316  [  160/ 1575]
+loss: 0.001338  [  320/ 1575]
+loss: 0.001303  [  480/ 1575]
+loss: 0.001555  [  640/ 1575]
+loss: 0.001356  [  800/ 1575]
+loss: 0.001290  [  960/ 1575]
+loss: 0.001374  [ 1120/ 1575]
+loss: 0.001172  [ 1280/ 1575]
+loss: 0.001293  [ 1440/ 1575]
+Test Error: 
+MSE: 21.095168
+RMSE: 4.592948
+MAE: 1.880038
+R^2: 0.9340494206978782
+loss: 0.002013  [    0/ 1575]
+loss: 0.001711  [  160/ 1575]
+loss: 0.001394  [  320/ 1575]
+loss: 0.001255  [  480/ 1575]
+loss: 0.002437  [  640/ 1575]
+loss: 0.001317  [  800/ 1575]
+loss: 0.001365  [  960/ 1575]
+loss: 0.001903  [ 1120/ 1575]
+loss: 0.001619  [ 1280/ 1575]
+loss: 0.001733  [ 1440/ 1575]
+Test Error: 
+MSE: 20.744524
+RMSE: 4.554616
+MAE: 1.874848
+R^2: 0.9351456512288736
+loss: 0.002408  [    0/ 1575]
+loss: 0.001248  [  160/ 1575]
+loss: 0.001574  [  320/ 1575]
+loss: 0.001452  [  480/ 1575]
+loss: 0.001045  [  640/ 1575]
+loss: 0.002692  [  800/ 1575]
+loss: 0.002145  [  960/ 1575]
+loss: 0.001216  [ 1120/ 1575]
+loss: 0.002461  [ 1280/ 1575]
+loss: 0.001224  [ 1440/ 1575]
+Test Error: 
+MSE: 20.702689
+RMSE: 4.550021
+MAE: 1.888414
+R^2: 0.9352764436743578
+loss: 0.001492  [    0/ 1575]
+loss: 0.001300  [  160/ 1575]
+loss: 0.001658  [  320/ 1575]
+loss: 0.001569  [  480/ 1575]
+loss: 0.001304  [  640/ 1575]
+loss: 0.001484  [  800/ 1575]
+loss: 0.000906  [  960/ 1575]
+loss: 0.001602  [ 1120/ 1575]
+loss: 0.001404  [ 1280/ 1575]
+loss: 0.001654  [ 1440/ 1575]
+Test Error: 
+MSE: 20.678189
+RMSE: 4.547328
+MAE: 1.873709
+R^2: 0.9353530394525801
+loss: 0.002185  [    0/ 1575]
+loss: 0.001744  [  160/ 1575]
+loss: 0.001319  [  320/ 1575]
+loss: 0.001362  [  480/ 1575]
+loss: 0.001692  [  640/ 1575]
+loss: 0.001677  [  800/ 1575]
+loss: 0.002062  [  960/ 1575]
+loss: 0.002230  [ 1120/ 1575]
+loss: 0.002221  [ 1280/ 1575]
+loss: 0.001216  [ 1440/ 1575]
+Test Error: 
+MSE: 21.059193
+RMSE: 4.589030
+MAE: 1.882424
+R^2: 0.934161890147328
+loss: 0.002363  [    0/ 1575]
+loss: 0.001645  [  160/ 1575]
+loss: 0.001855  [  320/ 1575]
+loss: 0.000788  [  480/ 1575]
+loss: 0.001685  [  640/ 1575]
+loss: 0.001951  [  800/ 1575]
+loss: 0.001622  [  960/ 1575]
+loss: 0.001829  [ 1120/ 1575]
+loss: 0.001711  [ 1280/ 1575]
+loss: 0.002032  [ 1440/ 1575]
+Test Error: 
+MSE: 20.507712
+RMSE: 4.528544
+MAE: 1.874159
+R^2: 0.9358860071463698
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002050  [    0/ 1575]
+loss: 0.001992  [  160/ 1575]
+loss: 0.002751  [  320/ 1575]
+loss: 0.000977  [  480/ 1575]
+loss: 0.001846  [  640/ 1575]
+loss: 0.001660  [  800/ 1575]
+loss: 0.001617  [  960/ 1575]
+loss: 0.001702  [ 1120/ 1575]
+loss: 0.001726  [ 1280/ 1575]
+loss: 0.001079  [ 1440/ 1575]
+Test Error: 
+MSE: 20.458744
+RMSE: 4.523134
+MAE: 1.874427
+R^2: 0.9360390978487929
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.000746  [    0/ 1575]
+loss: 0.002117  [  160/ 1575]
+loss: 0.002212  [  320/ 1575]
+loss: 0.001130  [  480/ 1575]
+loss: 0.001403  [  640/ 1575]
+loss: 0.001601  [  800/ 1575]
+loss: 0.001355  [  960/ 1575]
+loss: 0.001881  [ 1120/ 1575]
+loss: 0.002465  [ 1280/ 1575]
+loss: 0.001055  [ 1440/ 1575]
+Test Error: 
+MSE: 20.508618
+RMSE: 4.528644
+MAE: 1.879407
+R^2: 0.9358831744622459
+loss: 0.001644  [    0/ 1575]
+loss: 0.001680  [  160/ 1575]
+loss: 0.001362  [  320/ 1575]
+loss: 0.001821  [  480/ 1575]
+loss: 0.001461  [  640/ 1575]
+loss: 0.002484  [  800/ 1575]
+loss: 0.001935  [  960/ 1575]
+loss: 0.001242  [ 1120/ 1575]
+loss: 0.001973  [ 1280/ 1575]
+loss: 0.001575  [ 1440/ 1575]
+Test Error: 
+MSE: 20.547539
+RMSE: 4.532939
+MAE: 1.871543
+R^2: 0.9357614947377851
+loss: 0.002105  [    0/ 1575]
+loss: 0.002074  [  160/ 1575]
+loss: 0.001733  [  320/ 1575]
+loss: 0.001927  [  480/ 1575]
+loss: 0.001388  [  640/ 1575]
+loss: 0.002516  [  800/ 1575]
+loss: 0.001349  [  960/ 1575]
+loss: 0.001874  [ 1120/ 1575]
+loss: 0.001227  [ 1280/ 1575]
+loss: 0.001783  [ 1440/ 1575]
+Test Error: 
+MSE: 20.479635
+RMSE: 4.525443
+MAE: 1.871933
+R^2: 0.9359737836994106
+loss: 0.001457  [    0/ 1575]
+loss: 0.001986  [  160/ 1575]
+loss: 0.001280  [  320/ 1575]
+loss: 0.001506  [  480/ 1575]
+loss: 0.001786  [  640/ 1575]
+loss: 0.001930  [  800/ 1575]
+loss: 0.001036  [  960/ 1575]
+loss: 0.001115  [ 1120/ 1575]
+loss: 0.001698  [ 1280/ 1575]
+loss: 0.001879  [ 1440/ 1575]
+Test Error: 
+MSE: 20.455131
+RMSE: 4.522735
+MAE: 1.871158
+R^2: 0.9360503914905797
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.000846  [    0/ 1575]
+loss: 0.002567  [  160/ 1575]
+loss: 0.002485  [  320/ 1575]
+loss: 0.001388  [  480/ 1575]
+loss: 0.001925  [  640/ 1575]
+loss: 0.001787  [  800/ 1575]
+loss: 0.001988  [  960/ 1575]
+loss: 0.002013  [ 1120/ 1575]
+loss: 0.002284  [ 1280/ 1575]
+loss: 0.001066  [ 1440/ 1575]
+Test Error: 
+MSE: 20.851991
+RMSE: 4.566398
+MAE: 1.896098
+R^2: 0.934809673213995
+loss: 0.001876  [    0/ 1575]
+loss: 0.002346  [  160/ 1575]
+loss: 0.002050  [  320/ 1575]
+loss: 0.001882  [  480/ 1575]
+loss: 0.001021  [  640/ 1575]
+loss: 0.001243  [  800/ 1575]
+loss: 0.001157  [  960/ 1575]
+loss: 0.002469  [ 1120/ 1575]
+loss: 0.002493  [ 1280/ 1575]
+loss: 0.002786  [ 1440/ 1575]
+Test Error: 
+MSE: 21.244264
+RMSE: 4.609150
+MAE: 1.884853
+R^2: 0.9335832965837875
+loss: 0.001862  [    0/ 1575]
+loss: 0.001548  [  160/ 1575]
+loss: 0.001765  [  320/ 1575]
+loss: 0.001227  [  480/ 1575]
+loss: 0.001567  [  640/ 1575]
+loss: 0.001822  [  800/ 1575]
+loss: 0.002019  [  960/ 1575]
+loss: 0.002209  [ 1120/ 1575]
+loss: 0.001661  [ 1280/ 1575]
+loss: 0.001319  [ 1440/ 1575]
+Test Error: 
+MSE: 20.404847
+RMSE: 4.517173
+MAE: 1.875450
+R^2: 0.9362075953653806
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001443  [    0/ 1575]
+loss: 0.001860  [  160/ 1575]
+loss: 0.002321  [  320/ 1575]
+loss: 0.002148  [  480/ 1575]
+loss: 0.001688  [  640/ 1575]
+loss: 0.001468  [  800/ 1575]
+loss: 0.001548  [  960/ 1575]
+loss: 0.001554  [ 1120/ 1575]
+loss: 0.001402  [ 1280/ 1575]
+loss: 0.001847  [ 1440/ 1575]
+Test Error: 
+MSE: 20.950674
+RMSE: 4.577191
+MAE: 1.881120
+R^2: 0.9345011577875706
+loss: 0.002884  [    0/ 1575]
+loss: 0.001682  [  160/ 1575]
+loss: 0.001362  [  320/ 1575]
+loss: 0.001881  [  480/ 1575]
+loss: 0.001509  [  640/ 1575]
+loss: 0.001595  [  800/ 1575]
+loss: 0.001800  [  960/ 1575]
+loss: 0.001818  [ 1120/ 1575]
+loss: 0.001907  [ 1280/ 1575]
+loss: 0.001320  [ 1440/ 1575]
+Test Error: 
+MSE: 20.365181
+RMSE: 4.512780
+MAE: 1.874257
+R^2: 0.936331607167112
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.000891  [    0/ 1575]
+loss: 0.001557  [  160/ 1575]
+loss: 0.002273  [  320/ 1575]
+loss: 0.001834  [  480/ 1575]
+loss: 0.002040  [  640/ 1575]
+loss: 0.001500  [  800/ 1575]
+loss: 0.001818  [  960/ 1575]
+loss: 0.002009  [ 1120/ 1575]
+loss: 0.001571  [ 1280/ 1575]
+loss: 0.002084  [ 1440/ 1575]
+Test Error: 
+MSE: 20.451977
+RMSE: 4.522386
+MAE: 1.871261
+R^2: 0.9360602535526916
+loss: 0.001594  [    0/ 1575]
+loss: 0.002277  [  160/ 1575]
+loss: 0.001943  [  320/ 1575]
+loss: 0.001543  [  480/ 1575]
+loss: 0.000948  [  640/ 1575]
+loss: 0.000945  [  800/ 1575]
+loss: 0.001547  [  960/ 1575]
+loss: 0.001760  [ 1120/ 1575]
+loss: 0.001152  [ 1280/ 1575]
+loss: 0.001723  [ 1440/ 1575]
+Test Error: 
+MSE: 20.638960
+RMSE: 4.543012
+MAE: 1.873196
+R^2: 0.9354756824643734
+loss: 0.001136  [    0/ 1575]
+loss: 0.002214  [  160/ 1575]
+loss: 0.001448  [  320/ 1575]
+loss: 0.001487  [  480/ 1575]
+loss: 0.001823  [  640/ 1575]
+loss: 0.001869  [  800/ 1575]
+loss: 0.001305  [  960/ 1575]
+loss: 0.001238  [ 1120/ 1575]
+loss: 0.002412  [ 1280/ 1575]
+loss: 0.001074  [ 1440/ 1575]
+Test Error: 
+MSE: 20.810606
+RMSE: 4.561864
+MAE: 1.876882
+R^2: 0.9349390577384
+loss: 0.000762  [    0/ 1575]
+loss: 0.001742  [  160/ 1575]
+loss: 0.001216  [  320/ 1575]
+loss: 0.001215  [  480/ 1575]
+loss: 0.002160  [  640/ 1575]
+loss: 0.002454  [  800/ 1575]
+loss: 0.001133  [  960/ 1575]
+loss: 0.003030  [ 1120/ 1575]
+loss: 0.001772  [ 1280/ 1575]
+loss: 0.001719  [ 1440/ 1575]
+Test Error: 
+MSE: 20.771619
+RMSE: 4.557589
+MAE: 1.875579
+R^2: 0.9350609428815129
+loss: 0.002293  [    0/ 1575]
+loss: 0.001701  [  160/ 1575]
+loss: 0.001357  [  320/ 1575]
+loss: 0.001610  [  480/ 1575]
+loss: 0.001260  [  640/ 1575]
+loss: 0.002012  [  800/ 1575]
+loss: 0.001534  [  960/ 1575]
+loss: 0.001667  [ 1120/ 1575]
+loss: 0.001595  [ 1280/ 1575]
+loss: 0.002321  [ 1440/ 1575]
+Test Error: 
+MSE: 20.389319
+RMSE: 4.515453
+MAE: 1.874595
+R^2: 0.9362561421609699
+loss: 0.001340  [    0/ 1575]
+loss: 0.001811  [  160/ 1575]
+loss: 0.001884  [  320/ 1575]
+loss: 0.001168  [  480/ 1575]
+loss: 0.001298  [  640/ 1575]
+loss: 0.001333  [  800/ 1575]
+loss: 0.002700  [  960/ 1575]
+loss: 0.001703  [ 1120/ 1575]
+loss: 0.001955  [ 1280/ 1575]
+loss: 0.001802  [ 1440/ 1575]
+Test Error: 
+MSE: 20.367385
+RMSE: 4.513024
+MAE: 1.871871
+R^2: 0.9363247168435178
+loss: 0.001993  [    0/ 1575]
+loss: 0.001768  [  160/ 1575]
+loss: 0.001630  [  320/ 1575]
+loss: 0.001747  [  480/ 1575]
+loss: 0.001614  [  640/ 1575]
+loss: 0.001397  [  800/ 1575]
+loss: 0.002460  [  960/ 1575]
+loss: 0.003319  [ 1120/ 1575]
+loss: 0.002188  [ 1280/ 1575]
+loss: 0.001541  [ 1440/ 1575]
+Test Error: 
+MSE: 20.326214
+RMSE: 4.508460
+MAE: 1.869998
+R^2: 0.9364534299667346
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002210  [    0/ 1575]
+loss: 0.001335  [  160/ 1575]
+loss: 0.000990  [  320/ 1575]
+loss: 0.001516  [  480/ 1575]
+loss: 0.001182  [  640/ 1575]
+loss: 0.000894  [  800/ 1575]
+loss: 0.001944  [  960/ 1575]
+loss: 0.001983  [ 1120/ 1575]
+loss: 0.002404  [ 1280/ 1575]
+loss: 0.001726  [ 1440/ 1575]
+Test Error: 
+MSE: 20.656711
+RMSE: 4.544965
+MAE: 1.871883
+R^2: 0.9354201865759924
+loss: 0.001081  [    0/ 1575]
+loss: 0.002177  [  160/ 1575]
+loss: 0.000988  [  320/ 1575]
+loss: 0.001368  [  480/ 1575]
+loss: 0.001213  [  640/ 1575]
+loss: 0.000951  [  800/ 1575]
+loss: 0.001637  [  960/ 1575]
+loss: 0.002772  [ 1120/ 1575]
+loss: 0.001637  [ 1280/ 1575]
+loss: 0.002338  [ 1440/ 1575]
+Test Error: 
+MSE: 21.436965
+RMSE: 4.630007
+MAE: 1.887046
+R^2: 0.9329808481745014
+loss: 0.001207  [    0/ 1575]
+loss: 0.001945  [  160/ 1575]
+loss: 0.001289  [  320/ 1575]
+loss: 0.002582  [  480/ 1575]
+loss: 0.002148  [  640/ 1575]
+loss: 0.001071  [  800/ 1575]
+loss: 0.001352  [  960/ 1575]
+loss: 0.001026  [ 1120/ 1575]
+loss: 0.001804  [ 1280/ 1575]
+loss: 0.001496  [ 1440/ 1575]
+Test Error: 
+MSE: 20.659225
+RMSE: 4.545242
+MAE: 1.872282
+R^2: 0.9354123242886394
+loss: 0.001583  [    0/ 1575]
+loss: 0.002123  [  160/ 1575]
+loss: 0.001265  [  320/ 1575]
+loss: 0.002642  [  480/ 1575]
+loss: 0.000923  [  640/ 1575]
+loss: 0.002192  [  800/ 1575]
+loss: 0.001986  [  960/ 1575]
+loss: 0.001579  [ 1120/ 1575]
+loss: 0.001092  [ 1280/ 1575]
+loss: 0.001369  [ 1440/ 1575]
+Test Error: 
+MSE: 20.352751
+RMSE: 4.511402
+MAE: 1.873310
+R^2: 0.9363704672436715
+loss: 0.001886  [    0/ 1575]
+loss: 0.001547  [  160/ 1575]
+loss: 0.001284  [  320/ 1575]
+loss: 0.001257  [  480/ 1575]
+loss: 0.001461  [  640/ 1575]
+loss: 0.002072  [  800/ 1575]
+loss: 0.001008  [  960/ 1575]
+loss: 0.000806  [ 1120/ 1575]
+loss: 0.000945  [ 1280/ 1575]
+loss: 0.001574  [ 1440/ 1575]
+Test Error: 
+MSE: 20.712916
+RMSE: 4.551144
+MAE: 1.873094
+R^2: 0.935244470255638
+loss: 0.001367  [    0/ 1575]
+loss: 0.001846  [  160/ 1575]
+loss: 0.002076  [  320/ 1575]
+loss: 0.001235  [  480/ 1575]
+loss: 0.001667  [  640/ 1575]
+loss: 0.002233  [  800/ 1575]
+loss: 0.001412  [  960/ 1575]
+loss: 0.001255  [ 1120/ 1575]
+loss: 0.001881  [ 1280/ 1575]
+loss: 0.002427  [ 1440/ 1575]
+Test Error: 
+MSE: 20.388272
+RMSE: 4.515337
+MAE: 1.869826
+R^2: 0.9362594147584238
+loss: 0.001566  [    0/ 1575]
+loss: 0.002024  [  160/ 1575]
+loss: 0.001598  [  320/ 1575]
+loss: 0.001952  [  480/ 1575]
+loss: 0.002959  [  640/ 1575]
+loss: 0.001324  [  800/ 1575]
+loss: 0.001589  [  960/ 1575]
+loss: 0.001481  [ 1120/ 1575]
+loss: 0.001700  [ 1280/ 1575]
+loss: 0.001658  [ 1440/ 1575]
+Test Error: 
+MSE: 20.661185
+RMSE: 4.545458
+MAE: 1.871559
+R^2: 0.9354061974542093
+loss: 0.001543  [    0/ 1575]
+loss: 0.001372  [  160/ 1575]
+loss: 0.001542  [  320/ 1575]
+loss: 0.001579  [  480/ 1575]
+loss: 0.001606  [  640/ 1575]
+loss: 0.000883  [  800/ 1575]
+loss: 0.001921  [  960/ 1575]
+loss: 0.001670  [ 1120/ 1575]
+loss: 0.001401  [ 1280/ 1575]
+loss: 0.001452  [ 1440/ 1575]
+Test Error: 
+MSE: 21.201732
+RMSE: 4.604534
+MAE: 1.882398
+R^2: 0.9337162676740295
+loss: 0.001599  [    0/ 1575]
+loss: 0.002286  [  160/ 1575]
+loss: 0.001601  [  320/ 1575]
+loss: 0.001001  [  480/ 1575]
+loss: 0.001378  [  640/ 1575]
+loss: 0.001679  [  800/ 1575]
+loss: 0.001956  [  960/ 1575]
+loss: 0.001529  [ 1120/ 1575]
+loss: 0.001549  [ 1280/ 1575]
+loss: 0.001382  [ 1440/ 1575]
+Test Error: 
+MSE: 20.331051
+RMSE: 4.508997
+MAE: 1.871796
+R^2: 0.936438308660281
+loss: 0.001554  [    0/ 1575]
+loss: 0.001309  [  160/ 1575]
+loss: 0.001597  [  320/ 1575]
+loss: 0.002053  [  480/ 1575]
+loss: 0.001827  [  640/ 1575]
+loss: 0.002008  [  800/ 1575]
+loss: 0.001614  [  960/ 1575]
+loss: 0.001454  [ 1120/ 1575]
+loss: 0.001091  [ 1280/ 1575]
+loss: 0.001274  [ 1440/ 1575]
+Test Error: 
+MSE: 20.843361
+RMSE: 4.565453
+MAE: 1.874411
+R^2: 0.9348366532797473
+loss: 0.001060  [    0/ 1575]
+loss: 0.002140  [  160/ 1575]
+loss: 0.001993  [  320/ 1575]
+loss: 0.001309  [  480/ 1575]
+loss: 0.000924  [  640/ 1575]
+loss: 0.002166  [  800/ 1575]
+loss: 0.001410  [  960/ 1575]
+loss: 0.001331  [ 1120/ 1575]
+loss: 0.001835  [ 1280/ 1575]
+loss: 0.001680  [ 1440/ 1575]
+Test Error: 
+MSE: 20.831585
+RMSE: 4.564163
+MAE: 1.875212
+R^2: 0.9348734707074575
+loss: 0.002442  [    0/ 1575]
+loss: 0.001733  [  160/ 1575]
+loss: 0.002513  [  320/ 1575]
+loss: 0.001264  [  480/ 1575]
+loss: 0.001352  [  640/ 1575]
+loss: 0.001684  [  800/ 1575]
+loss: 0.001024  [  960/ 1575]
+loss: 0.001251  [ 1120/ 1575]
+loss: 0.001508  [ 1280/ 1575]
+loss: 0.001546  [ 1440/ 1575]
+Test Error: 
+MSE: 20.433803
+RMSE: 4.520376
+MAE: 1.868934
+R^2: 0.9361170706487696
+loss: 0.001753  [    0/ 1575]
+loss: 0.001454  [  160/ 1575]
+loss: 0.001339  [  320/ 1575]
+loss: 0.002133  [  480/ 1575]
+loss: 0.001637  [  640/ 1575]
+loss: 0.001359  [  800/ 1575]
+loss: 0.000821  [  960/ 1575]
+loss: 0.001410  [ 1120/ 1575]
+loss: 0.001258  [ 1280/ 1575]
+loss: 0.001094  [ 1440/ 1575]
+Test Error: 
+MSE: 20.407492
+RMSE: 4.517465
+MAE: 1.868357
+R^2: 0.9361993290711141
+loss: 0.001089  [    0/ 1575]
+loss: 0.000953  [  160/ 1575]
+loss: 0.001970  [  320/ 1575]
+loss: 0.002152  [  480/ 1575]
+loss: 0.001793  [  640/ 1575]
+loss: 0.001542  [  800/ 1575]
+loss: 0.001930  [  960/ 1575]
+loss: 0.002120  [ 1120/ 1575]
+loss: 0.001731  [ 1280/ 1575]
+loss: 0.001383  [ 1440/ 1575]
+Test Error: 
+MSE: 20.281311
+RMSE: 4.503478
+MAE: 1.871347
+R^2: 0.9365938131024392
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.000968  [    0/ 1575]
+loss: 0.001948  [  160/ 1575]
+loss: 0.001408  [  320/ 1575]
+loss: 0.001328  [  480/ 1575]
+loss: 0.001647  [  640/ 1575]
+loss: 0.002093  [  800/ 1575]
+loss: 0.001546  [  960/ 1575]
+loss: 0.001306  [ 1120/ 1575]
+loss: 0.001778  [ 1280/ 1575]
+loss: 0.002222  [ 1440/ 1575]
+Test Error: 
+MSE: 20.371615
+RMSE: 4.513493
+MAE: 1.871567
+R^2: 0.9363114902860064
+loss: 0.001619  [    0/ 1575]
+loss: 0.001656  [  160/ 1575]
+loss: 0.001319  [  320/ 1575]
+loss: 0.001506  [  480/ 1575]
+loss: 0.001677  [  640/ 1575]
+loss: 0.001134  [  800/ 1575]
+loss: 0.001646  [  960/ 1575]
+loss: 0.001961  [ 1120/ 1575]
+loss: 0.001532  [ 1280/ 1575]
+loss: 0.001712  [ 1440/ 1575]
+Test Error: 
+MSE: 20.527858
+RMSE: 4.530768
+MAE: 1.869506
+R^2: 0.9358230233691875
+loss: 0.001053  [    0/ 1575]
+loss: 0.002303  [  160/ 1575]
+loss: 0.001599  [  320/ 1575]
+loss: 0.001652  [  480/ 1575]
+loss: 0.001419  [  640/ 1575]
+loss: 0.001909  [  800/ 1575]
+loss: 0.001265  [  960/ 1575]
+loss: 0.001725  [ 1120/ 1575]
+loss: 0.001007  [ 1280/ 1575]
+loss: 0.001066  [ 1440/ 1575]
+Test Error: 
+MSE: 20.466379
+RMSE: 4.523978
+MAE: 1.869458
+R^2: 0.9360152268759158
+loss: 0.001170  [    0/ 1575]
+loss: 0.002226  [  160/ 1575]
+loss: 0.001293  [  320/ 1575]
+loss: 0.001481  [  480/ 1575]
+loss: 0.001580  [  640/ 1575]
+loss: 0.001231  [  800/ 1575]
+loss: 0.001941  [  960/ 1575]
+loss: 0.002177  [ 1120/ 1575]
+loss: 0.001350  [ 1280/ 1575]
+loss: 0.001442  [ 1440/ 1575]
+Test Error: 
+MSE: 20.264230
+RMSE: 4.501581
+MAE: 1.867556
+R^2: 0.9366472139844646
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.000971  [    0/ 1575]
+loss: 0.001814  [  160/ 1575]
+loss: 0.001034  [  320/ 1575]
+loss: 0.001839  [  480/ 1575]
+loss: 0.001378  [  640/ 1575]
+loss: 0.000830  [  800/ 1575]
+loss: 0.001817  [  960/ 1575]
+loss: 0.002114  [ 1120/ 1575]
+loss: 0.002406  [ 1280/ 1575]
+loss: 0.001886  [ 1440/ 1575]
+Test Error: 
+MSE: 20.216278
+RMSE: 4.496252
+MAE: 1.869215
+R^2: 0.936797126294649
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001166  [    0/ 1575]
+loss: 0.001283  [  160/ 1575]
+loss: 0.001079  [  320/ 1575]
+loss: 0.001771  [  480/ 1575]
+loss: 0.001831  [  640/ 1575]
+loss: 0.001323  [  800/ 1575]
+loss: 0.000903  [  960/ 1575]
+loss: 0.001691  [ 1120/ 1575]
+loss: 0.001193  [ 1280/ 1575]
+loss: 0.002204  [ 1440/ 1575]
+Test Error: 
+MSE: 20.239927
+RMSE: 4.498881
+MAE: 1.868220
+R^2: 0.9367231911878652
+loss: 0.001518  [    0/ 1575]
+loss: 0.001410  [  160/ 1575]
+loss: 0.001257  [  320/ 1575]
+loss: 0.001159  [  480/ 1575]
+loss: 0.001762  [  640/ 1575]
+loss: 0.001525  [  800/ 1575]
+loss: 0.001859  [  960/ 1575]
+loss: 0.001010  [ 1120/ 1575]
+loss: 0.001306  [ 1280/ 1575]
+loss: 0.001278  [ 1440/ 1575]
+Test Error: 
+MSE: 20.282031
+RMSE: 4.503558
+MAE: 1.867455
+R^2: 0.9365915605680734
+loss: 0.001200  [    0/ 1575]
+loss: 0.001657  [  160/ 1575]
+loss: 0.001650  [  320/ 1575]
+loss: 0.002516  [  480/ 1575]
+loss: 0.001427  [  640/ 1575]
+loss: 0.001000  [  800/ 1575]
+loss: 0.002577  [  960/ 1575]
+loss: 0.001945  [ 1120/ 1575]
+loss: 0.001793  [ 1280/ 1575]
+loss: 0.001238  [ 1440/ 1575]
+Test Error: 
+MSE: 21.093648
+RMSE: 4.592782
+MAE: 1.881527
+R^2: 0.9340541749548091
+loss: 0.001520  [    0/ 1575]
+loss: 0.001813  [  160/ 1575]
+loss: 0.001203  [  320/ 1575]
+loss: 0.001143  [  480/ 1575]
+loss: 0.001269  [  640/ 1575]
+loss: 0.001559  [  800/ 1575]
+loss: 0.001543  [  960/ 1575]
+loss: 0.001741  [ 1120/ 1575]
+loss: 0.001686  [ 1280/ 1575]
+loss: 0.001976  [ 1440/ 1575]
+Test Error: 
+MSE: 20.203195
+RMSE: 4.494796
+MAE: 1.870657
+R^2: 0.9368380286047652
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001968  [    0/ 1575]
+loss: 0.001724  [  160/ 1575]
+loss: 0.001556  [  320/ 1575]
+loss: 0.001061  [  480/ 1575]
+loss: 0.002031  [  640/ 1575]
+loss: 0.001374  [  800/ 1575]
+loss: 0.001869  [  960/ 1575]
+loss: 0.001484  [ 1120/ 1575]
+loss: 0.001464  [ 1280/ 1575]
+loss: 0.001122  [ 1440/ 1575]
+Test Error: 
+MSE: 20.353151
+RMSE: 4.511447
+MAE: 1.866678
+R^2: 0.9363692143622517
+loss: 0.001090  [    0/ 1575]
+loss: 0.001780  [  160/ 1575]
+loss: 0.001275  [  320/ 1575]
+loss: 0.001900  [  480/ 1575]
+loss: 0.001138  [  640/ 1575]
+loss: 0.001781  [  800/ 1575]
+loss: 0.000980  [  960/ 1575]
+loss: 0.001118  [ 1120/ 1575]
+loss: 0.002027  [ 1280/ 1575]
+loss: 0.002299  [ 1440/ 1575]
+Test Error: 
+MSE: 20.377743
+RMSE: 4.514171
+MAE: 1.867796
+R^2: 0.9362923332163232
+loss: 0.001548  [    0/ 1575]
+loss: 0.001527  [  160/ 1575]
+loss: 0.001785  [  320/ 1575]
+loss: 0.002474  [  480/ 1575]
+loss: 0.001238  [  640/ 1575]
+loss: 0.002156  [  800/ 1575]
+loss: 0.001159  [  960/ 1575]
+loss: 0.002006  [ 1120/ 1575]
+loss: 0.001429  [ 1280/ 1575]
+loss: 0.001291  [ 1440/ 1575]
+Test Error: 
+MSE: 20.215149
+RMSE: 4.496126
+MAE: 1.868968
+R^2: 0.9368006573400482
+loss: 0.001164  [    0/ 1575]
+loss: 0.002187  [  160/ 1575]
+loss: 0.001418  [  320/ 1575]
+loss: 0.002046  [  480/ 1575]
+loss: 0.001862  [  640/ 1575]
+loss: 0.001660  [  800/ 1575]
+loss: 0.001216  [  960/ 1575]
+loss: 0.001139  [ 1120/ 1575]
+loss: 0.000698  [ 1280/ 1575]
+loss: 0.001503  [ 1440/ 1575]
+Test Error: 
+MSE: 20.400566
+RMSE: 4.516699
+MAE: 1.868605
+R^2: 0.9362209811154039
+loss: 0.001636  [    0/ 1575]
+loss: 0.001230  [  160/ 1575]
+loss: 0.000934  [  320/ 1575]
+loss: 0.001038  [  480/ 1575]
+loss: 0.000944  [  640/ 1575]
+loss: 0.001835  [  800/ 1575]
+loss: 0.001908  [  960/ 1575]
+loss: 0.001125  [ 1120/ 1575]
+loss: 0.001317  [ 1280/ 1575]
+loss: 0.001598  [ 1440/ 1575]
+Test Error: 
+MSE: 20.264987
+RMSE: 4.501665
+MAE: 1.866965
+R^2: 0.9366448472678433
+loss: 0.001296  [    0/ 1575]
+loss: 0.002466  [  160/ 1575]
+loss: 0.001086  [  320/ 1575]
+loss: 0.001782  [  480/ 1575]
+loss: 0.002050  [  640/ 1575]
+loss: 0.002079  [  800/ 1575]
+loss: 0.001704  [  960/ 1575]
+loss: 0.001667  [ 1120/ 1575]
+loss: 0.001476  [ 1280/ 1575]
+loss: 0.001718  [ 1440/ 1575]
+Test Error: 
+MSE: 20.238230
+RMSE: 4.498692
+MAE: 1.875446
+R^2: 0.9367284983802338
+loss: 0.001077  [    0/ 1575]
+loss: 0.001843  [  160/ 1575]
+loss: 0.001153  [  320/ 1575]
+loss: 0.001883  [  480/ 1575]
+loss: 0.001386  [  640/ 1575]
+loss: 0.002808  [  800/ 1575]
+loss: 0.001700  [  960/ 1575]
+loss: 0.001524  [ 1120/ 1575]
+loss: 0.001943  [ 1280/ 1575]
+loss: 0.001387  [ 1440/ 1575]
+Test Error: 
+MSE: 20.598951
+RMSE: 4.538607
+MAE: 1.870727
+R^2: 0.9356007638679459
+loss: 0.001833  [    0/ 1575]
+loss: 0.001044  [  160/ 1575]
+loss: 0.000871  [  320/ 1575]
+loss: 0.001943  [  480/ 1575]
+loss: 0.001704  [  640/ 1575]
+loss: 0.001285  [  800/ 1575]
+loss: 0.001860  [  960/ 1575]
+loss: 0.001337  [ 1120/ 1575]
+loss: 0.001834  [ 1280/ 1575]
+loss: 0.001417  [ 1440/ 1575]
+Test Error: 
+MSE: 20.895957
+RMSE: 4.571210
+MAE: 1.876517
+R^2: 0.9346722225094533
+loss: 0.001543  [    0/ 1575]
+loss: 0.001945  [  160/ 1575]
+loss: 0.002112  [  320/ 1575]
+loss: 0.001248  [  480/ 1575]
+loss: 0.001777  [  640/ 1575]
+loss: 0.001628  [  800/ 1575]
+loss: 0.001742  [  960/ 1575]
+loss: 0.001736  [ 1120/ 1575]
+loss: 0.002006  [ 1280/ 1575]
+loss: 0.001138  [ 1440/ 1575]
+Test Error: 
+MSE: 20.200109
+RMSE: 4.494453
+MAE: 1.867774
+R^2: 0.9368476774241854
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002297  [    0/ 1575]
+loss: 0.001850  [  160/ 1575]
+loss: 0.001689  [  320/ 1575]
+loss: 0.002039  [  480/ 1575]
+loss: 0.001238  [  640/ 1575]
+loss: 0.001446  [  800/ 1575]
+loss: 0.001358  [  960/ 1575]
+loss: 0.001262  [ 1120/ 1575]
+loss: 0.001699  [ 1280/ 1575]
+loss: 0.001521  [ 1440/ 1575]
+Test Error: 
+MSE: 20.174721
+RMSE: 4.491628
+MAE: 1.870033
+R^2: 0.9369270476789359
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001591  [    0/ 1575]
+loss: 0.001416  [  160/ 1575]
+loss: 0.001114  [  320/ 1575]
+loss: 0.001111  [  480/ 1575]
+loss: 0.001150  [  640/ 1575]
+loss: 0.000886  [  800/ 1575]
+loss: 0.001769  [  960/ 1575]
+loss: 0.001299  [ 1120/ 1575]
+loss: 0.002166  [ 1280/ 1575]
+loss: 0.001334  [ 1440/ 1575]
+Test Error: 
+MSE: 20.252916
+RMSE: 4.500324
+MAE: 1.872289
+R^2: 0.9366825830061566
+loss: 0.001375  [    0/ 1575]
+loss: 0.001799  [  160/ 1575]
+loss: 0.002228  [  320/ 1575]
+loss: 0.002252  [  480/ 1575]
+loss: 0.001706  [  640/ 1575]
+loss: 0.001640  [  800/ 1575]
+loss: 0.001871  [  960/ 1575]
+loss: 0.001703  [ 1120/ 1575]
+loss: 0.001450  [ 1280/ 1575]
+loss: 0.001625  [ 1440/ 1575]
+Test Error: 
+MSE: 20.206503
+RMSE: 4.495164
+MAE: 1.868618
+R^2: 0.9368276880312272
+loss: 0.001778  [    0/ 1575]
+loss: 0.001793  [  160/ 1575]
+loss: 0.001259  [  320/ 1575]
+loss: 0.001398  [  480/ 1575]
+loss: 0.001412  [  640/ 1575]
+loss: 0.001646  [  800/ 1575]
+loss: 0.001097  [  960/ 1575]
+loss: 0.001884  [ 1120/ 1575]
+loss: 0.001389  [ 1280/ 1575]
+loss: 0.001701  [ 1440/ 1575]
+Test Error: 
+MSE: 20.244119
+RMSE: 4.499347
+MAE: 1.868852
+R^2: 0.936710085200601
+loss: 0.001582  [    0/ 1575]
+loss: 0.001174  [  160/ 1575]
+loss: 0.001928  [  320/ 1575]
+loss: 0.001196  [  480/ 1575]
+loss: 0.001639  [  640/ 1575]
+loss: 0.001592  [  800/ 1575]
+loss: 0.001884  [  960/ 1575]
+loss: 0.001595  [ 1120/ 1575]
+loss: 0.002603  [ 1280/ 1575]
+loss: 0.002147  [ 1440/ 1575]
+Test Error: 
+MSE: 20.242309
+RMSE: 4.499145
+MAE: 1.869088
+R^2: 0.9367157456000295
+loss: 0.001257  [    0/ 1575]
+loss: 0.001430  [  160/ 1575]
+loss: 0.001710  [  320/ 1575]
+loss: 0.001930  [  480/ 1575]
+loss: 0.001464  [  640/ 1575]
+loss: 0.001894  [  800/ 1575]
+loss: 0.001405  [  960/ 1575]
+loss: 0.001974  [ 1120/ 1575]
+loss: 0.001985  [ 1280/ 1575]
+loss: 0.001288  [ 1440/ 1575]
+Test Error: 
+MSE: 20.438724
+RMSE: 4.520921
+MAE: 1.869442
+R^2: 0.9361016852742442
+loss: 0.001168  [    0/ 1575]
+loss: 0.000899  [  160/ 1575]
+loss: 0.001590  [  320/ 1575]
+loss: 0.001149  [  480/ 1575]
+loss: 0.002435  [  640/ 1575]
+loss: 0.001075  [  800/ 1575]
+loss: 0.001400  [  960/ 1575]
+loss: 0.002480  [ 1120/ 1575]
+loss: 0.001932  [ 1280/ 1575]
+loss: 0.001446  [ 1440/ 1575]
+Test Error: 
+MSE: 20.223543
+RMSE: 4.497059
+MAE: 1.869036
+R^2: 0.9367744148113318
+loss: 0.001667  [    0/ 1575]
+loss: 0.002122  [  160/ 1575]
+loss: 0.002428  [  320/ 1575]
+loss: 0.001355  [  480/ 1575]
+loss: 0.001212  [  640/ 1575]
+loss: 0.001765  [  800/ 1575]
+loss: 0.001844  [  960/ 1575]
+loss: 0.001541  [ 1120/ 1575]
+loss: 0.001355  [ 1280/ 1575]
+loss: 0.000822  [ 1440/ 1575]
+Test Error: 
+MSE: 21.347142
+RMSE: 4.620297
+MAE: 1.886084
+R^2: 0.9332616670675723
+loss: 0.001134  [    0/ 1575]
+loss: 0.001617  [  160/ 1575]
+loss: 0.001535  [  320/ 1575]
+loss: 0.002123  [  480/ 1575]
+loss: 0.001922  [  640/ 1575]
+loss: 0.001217  [  800/ 1575]
+loss: 0.001343  [  960/ 1575]
+loss: 0.001021  [ 1120/ 1575]
+loss: 0.001707  [ 1280/ 1575]
+loss: 0.001102  [ 1440/ 1575]
+Test Error: 
+MSE: 20.195754
+RMSE: 4.493969
+MAE: 1.867440
+R^2: 0.9368612923188566
+loss: 0.001552  [    0/ 1575]
+loss: 0.001553  [  160/ 1575]
+loss: 0.001360  [  320/ 1575]
+loss: 0.001283  [  480/ 1575]
+loss: 0.001736  [  640/ 1575]
+loss: 0.001692  [  800/ 1575]
+loss: 0.001680  [  960/ 1575]
+loss: 0.001670  [ 1120/ 1575]
+loss: 0.001183  [ 1280/ 1575]
+loss: 0.001567  [ 1440/ 1575]
+Test Error: 
+MSE: 20.643630
+RMSE: 4.543526
+MAE: 1.872226
+R^2: 0.9354610809340382
+loss: 0.001961  [    0/ 1575]
+loss: 0.001282  [  160/ 1575]
+loss: 0.001233  [  320/ 1575]
+loss: 0.001030  [  480/ 1575]
+loss: 0.001707  [  640/ 1575]
+loss: 0.000870  [  800/ 1575]
+loss: 0.001293  [  960/ 1575]
+loss: 0.001387  [ 1120/ 1575]
+loss: 0.001953  [ 1280/ 1575]
+loss: 0.001612  [ 1440/ 1575]
+Test Error: 
+MSE: 20.257395
+RMSE: 4.500822
+MAE: 1.867177
+R^2: 0.936668581450024
+loss: 0.000987  [    0/ 1575]
+loss: 0.002056  [  160/ 1575]
+loss: 0.000792  [  320/ 1575]
+loss: 0.001959  [  480/ 1575]
+loss: 0.001562  [  640/ 1575]
+loss: 0.001311  [  800/ 1575]
+loss: 0.001724  [  960/ 1575]
+loss: 0.001914  [ 1120/ 1575]
+loss: 0.001983  [ 1280/ 1575]
+loss: 0.001961  [ 1440/ 1575]
+Test Error: 
+MSE: 20.724896
+RMSE: 4.552460
+MAE: 1.874083
+R^2: 0.9352070176892497
+loss: 0.001734  [    0/ 1575]
+loss: 0.001212  [  160/ 1575]
+loss: 0.001458  [  320/ 1575]
+loss: 0.002149  [  480/ 1575]
+loss: 0.001571  [  640/ 1575]
+loss: 0.001267  [  800/ 1575]
+loss: 0.001415  [  960/ 1575]
+loss: 0.000734  [ 1120/ 1575]
+loss: 0.001119  [ 1280/ 1575]
+loss: 0.001796  [ 1440/ 1575]
+Test Error: 
+MSE: 20.317970
+RMSE: 4.507546
+MAE: 1.867787
+R^2: 0.9364792019458039
+loss: 0.000857  [    0/ 1575]
+loss: 0.000937  [  160/ 1575]
+loss: 0.001576  [  320/ 1575]
+loss: 0.001113  [  480/ 1575]
+loss: 0.001136  [  640/ 1575]
+loss: 0.001215  [  800/ 1575]
+loss: 0.002476  [  960/ 1575]
+loss: 0.001488  [ 1120/ 1575]
+loss: 0.001873  [ 1280/ 1575]
+loss: 0.001629  [ 1440/ 1575]
+Test Error: 
+MSE: 20.251963
+RMSE: 4.500218
+MAE: 1.866919
+R^2: 0.9366855637807532
+loss: 0.001359  [    0/ 1575]
+loss: 0.001102  [  160/ 1575]
+loss: 0.002066  [  320/ 1575]
+loss: 0.001400  [  480/ 1575]
+loss: 0.001463  [  640/ 1575]
+loss: 0.001321  [  800/ 1575]
+loss: 0.001183  [  960/ 1575]
+loss: 0.001761  [ 1120/ 1575]
+loss: 0.001053  [ 1280/ 1575]
+loss: 0.001346  [ 1440/ 1575]
+Test Error: 
+MSE: 20.342924
+RMSE: 4.510313
+MAE: 1.867515
+R^2: 0.9364011891061647
+loss: 0.001514  [    0/ 1575]
+loss: 0.001672  [  160/ 1575]
+loss: 0.002037  [  320/ 1575]
+loss: 0.001559  [  480/ 1575]
+loss: 0.001520  [  640/ 1575]
+loss: 0.001676  [  800/ 1575]
+loss: 0.001351  [  960/ 1575]
+loss: 0.000971  [ 1120/ 1575]
+loss: 0.001158  [ 1280/ 1575]
+loss: 0.001115  [ 1440/ 1575]
+Test Error: 
+MSE: 20.499995
+RMSE: 4.527692
+MAE: 1.869924
+R^2: 0.9359101310258555
+loss: 0.001780  [    0/ 1575]
+loss: 0.001230  [  160/ 1575]
+loss: 0.001156  [  320/ 1575]
+loss: 0.001555  [  480/ 1575]
+loss: 0.001353  [  640/ 1575]
+loss: 0.001467  [  800/ 1575]
+loss: 0.001288  [  960/ 1575]
+loss: 0.001499  [ 1120/ 1575]
+loss: 0.001305  [ 1280/ 1575]
+loss: 0.001935  [ 1440/ 1575]
+Test Error: 
+MSE: 20.507370
+RMSE: 4.528506
+MAE: 1.868795
+R^2: 0.9358870766083612
+loss: 0.001284  [    0/ 1575]
+loss: 0.001476  [  160/ 1575]
+loss: 0.001613  [  320/ 1575]
+loss: 0.001244  [  480/ 1575]
+loss: 0.001328  [  640/ 1575]
+loss: 0.001142  [  800/ 1575]
+loss: 0.001499  [  960/ 1575]
+loss: 0.001360  [ 1120/ 1575]
+loss: 0.001290  [ 1280/ 1575]
+loss: 0.001565  [ 1440/ 1575]
+Test Error: 
+MSE: 20.159581
+RMSE: 4.489942
+MAE: 1.868512
+R^2: 0.9369743795711037
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.002032  [    0/ 1575]
+loss: 0.001148  [  160/ 1575]
+loss: 0.001157  [  320/ 1575]
+loss: 0.001709  [  480/ 1575]
+loss: 0.001505  [  640/ 1575]
+loss: 0.002263  [  800/ 1575]
+loss: 0.000921  [  960/ 1575]
+loss: 0.001378  [ 1120/ 1575]
+loss: 0.001000  [ 1280/ 1575]
+loss: 0.001795  [ 1440/ 1575]
+Test Error: 
+MSE: 20.193393
+RMSE: 4.493706
+MAE: 1.865887
+R^2: 0.9368686737383287
+loss: 0.002332  [    0/ 1575]
+loss: 0.001616  [  160/ 1575]
+loss: 0.001621  [  320/ 1575]
+loss: 0.001480  [  480/ 1575]
+loss: 0.000893  [  640/ 1575]
+loss: 0.001173  [  800/ 1575]
+loss: 0.000933  [  960/ 1575]
+loss: 0.002004  [ 1120/ 1575]
+loss: 0.001842  [ 1280/ 1575]
+loss: 0.000994  [ 1440/ 1575]
+Test Error: 
+MSE: 20.342412
+RMSE: 4.510256
+MAE: 1.867213
+R^2: 0.9364027883574678
+loss: 0.001507  [    0/ 1575]
+loss: 0.001222  [  160/ 1575]
+loss: 0.000699  [  320/ 1575]
+loss: 0.001616  [  480/ 1575]
+loss: 0.001536  [  640/ 1575]
+loss: 0.001174  [  800/ 1575]
+loss: 0.001684  [  960/ 1575]
+loss: 0.001399  [ 1120/ 1575]
+loss: 0.002063  [ 1280/ 1575]
+loss: 0.001327  [ 1440/ 1575]
+Test Error: 
+MSE: 20.228560
+RMSE: 4.497617
+MAE: 1.866261
+R^2: 0.9367587298432319
+loss: 0.001332  [    0/ 1575]
+loss: 0.001242  [  160/ 1575]
+loss: 0.002089  [  320/ 1575]
+loss: 0.001798  [  480/ 1575]
+loss: 0.001678  [  640/ 1575]
+loss: 0.001842  [  800/ 1575]
+loss: 0.000991  [  960/ 1575]
+loss: 0.002058  [ 1120/ 1575]
+loss: 0.001344  [ 1280/ 1575]
+loss: 0.001445  [ 1440/ 1575]
+Test Error: 
+MSE: 20.810706
+RMSE: 4.561875
+MAE: 1.874680
+R^2: 0.9349387441386422
+loss: 0.001103  [    0/ 1575]
+loss: 0.001206  [  160/ 1575]
+loss: 0.001333  [  320/ 1575]
+loss: 0.001180  [  480/ 1575]
+loss: 0.001851  [  640/ 1575]
+loss: 0.000943  [  800/ 1575]
+loss: 0.002153  [  960/ 1575]
+loss: 0.001216  [ 1120/ 1575]
+loss: 0.001721  [ 1280/ 1575]
+loss: 0.001285  [ 1440/ 1575]
+Test Error: 
+MSE: 21.517866
+RMSE: 4.638735
+MAE: 1.889471
+R^2: 0.9327279252951552
+loss: 0.000910  [    0/ 1575]
+loss: 0.001739  [  160/ 1575]
+loss: 0.001790  [  320/ 1575]
+loss: 0.000947  [  480/ 1575]
+loss: 0.001824  [  640/ 1575]
+loss: 0.001810  [  800/ 1575]
+loss: 0.001768  [  960/ 1575]
+loss: 0.001193  [ 1120/ 1575]
+loss: 0.001723  [ 1280/ 1575]
+loss: 0.001111  [ 1440/ 1575]
+Test Error: 
+MSE: 20.302911
+RMSE: 4.505875
+MAE: 1.866270
+R^2: 0.9365262839902967
+loss: 0.001600  [    0/ 1575]
+loss: 0.001062  [  160/ 1575]
+loss: 0.001237  [  320/ 1575]
+loss: 0.001882  [  480/ 1575]
+loss: 0.001620  [  640/ 1575]
+loss: 0.001363  [  800/ 1575]
+loss: 0.001536  [  960/ 1575]
+loss: 0.001186  [ 1120/ 1575]
+loss: 0.001445  [ 1280/ 1575]
+loss: 0.001342  [ 1440/ 1575]
+Test Error: 
+MSE: 20.280506
+RMSE: 4.503388
+MAE: 1.877383
+R^2: 0.9365963277235083
+loss: 0.000856  [    0/ 1575]
+loss: 0.001240  [  160/ 1575]
+loss: 0.001823  [  320/ 1575]
+loss: 0.001854  [  480/ 1575]
+loss: 0.001493  [  640/ 1575]
+loss: 0.001612  [  800/ 1575]
+loss: 0.000956  [  960/ 1575]
+loss: 0.001417  [ 1120/ 1575]
+loss: 0.001177  [ 1280/ 1575]
+loss: 0.001576  [ 1440/ 1575]
+Test Error: 
+MSE: 21.861943
+RMSE: 4.675676
+MAE: 1.897149
+R^2: 0.9316522255947601
+loss: 0.001624  [    0/ 1575]
+loss: 0.001270  [  160/ 1575]
+loss: 0.002438  [  320/ 1575]
+loss: 0.001488  [  480/ 1575]
+loss: 0.001860  [  640/ 1575]
+loss: 0.001517  [  800/ 1575]
+loss: 0.000990  [  960/ 1575]
+loss: 0.001634  [ 1120/ 1575]
+loss: 0.001964  [ 1280/ 1575]
+loss: 0.000938  [ 1440/ 1575]
+Test Error: 
+MSE: 20.176229
+RMSE: 4.491796
+MAE: 1.867636
+R^2: 0.9369223347505284
+loss: 0.001045  [    0/ 1575]
+loss: 0.001569  [  160/ 1575]
+loss: 0.001394  [  320/ 1575]
+loss: 0.001584  [  480/ 1575]
+loss: 0.001298  [  640/ 1575]
+loss: 0.001845  [  800/ 1575]
+loss: 0.001934  [  960/ 1575]
+loss: 0.001309  [ 1120/ 1575]
+loss: 0.001049  [ 1280/ 1575]
+loss: 0.002205  [ 1440/ 1575]
+Test Error: 
+MSE: 20.815009
+RMSE: 4.562347
+MAE: 1.876018
+R^2: 0.9349252940815993
+loss: 0.001321  [    0/ 1575]
+loss: 0.001814  [  160/ 1575]
+loss: 0.001685  [  320/ 1575]
+loss: 0.001039  [  480/ 1575]
+loss: 0.001667  [  640/ 1575]
+loss: 0.001363  [  800/ 1575]
+loss: 0.001551  [  960/ 1575]
+loss: 0.001115  [ 1120/ 1575]
+loss: 0.001157  [ 1280/ 1575]
+loss: 0.001373  [ 1440/ 1575]
+Test Error: 
+MSE: 20.638629
+RMSE: 4.542976
+MAE: 1.871668
+R^2: 0.9354767170340619
+loss: 0.001027  [    0/ 1575]
+loss: 0.002016  [  160/ 1575]
+loss: 0.001405  [  320/ 1575]
+loss: 0.001726  [  480/ 1575]
+loss: 0.002094  [  640/ 1575]
+loss: 0.001602  [  800/ 1575]
+loss: 0.001267  [  960/ 1575]
+loss: 0.001497  [ 1120/ 1575]
+loss: 0.000978  [ 1280/ 1575]
+loss: 0.001255  [ 1440/ 1575]
+Test Error: 
+MSE: 20.337375
+RMSE: 4.509698
+MAE: 1.868021
+R^2: 0.9364185380740437
+loss: 0.001067  [    0/ 1575]
+loss: 0.001258  [  160/ 1575]
+loss: 0.001283  [  320/ 1575]
+loss: 0.001066  [  480/ 1575]
+loss: 0.001209  [  640/ 1575]
+loss: 0.001542  [  800/ 1575]
+loss: 0.001692  [  960/ 1575]
+loss: 0.001470  [ 1120/ 1575]
+loss: 0.001490  [ 1280/ 1575]
+loss: 0.000848  [ 1440/ 1575]
+Test Error: 
+MSE: 20.303772
+RMSE: 4.505971
+MAE: 1.867668
+R^2: 0.9365235896269873
+loss: 0.001146  [    0/ 1575]
+loss: 0.001207  [  160/ 1575]
+loss: 0.001288  [  320/ 1575]
+loss: 0.002095  [  480/ 1575]
+loss: 0.001027  [  640/ 1575]
+loss: 0.001819  [  800/ 1575]
+loss: 0.001182  [  960/ 1575]
+loss: 0.001249  [ 1120/ 1575]
+loss: 0.002176  [ 1280/ 1575]
+loss: 0.001700  [ 1440/ 1575]
+Test Error: 
+MSE: 20.194774
+RMSE: 4.493860
+MAE: 1.866683
+R^2: 0.9368643560677052
+loss: 0.001044  [    0/ 1575]
+loss: 0.001111  [  160/ 1575]
+loss: 0.001688  [  320/ 1575]
+loss: 0.001420  [  480/ 1575]
+loss: 0.001438  [  640/ 1575]
+loss: 0.001183  [  800/ 1575]
+loss: 0.001519  [  960/ 1575]
+loss: 0.001373  [ 1120/ 1575]
+loss: 0.000855  [ 1280/ 1575]
+loss: 0.001081  [ 1440/ 1575]
+Test Error: 
+MSE: 20.094978
+RMSE: 4.482742
+MAE: 1.867966
+R^2: 0.9371763528367807
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001273  [    0/ 1575]
+loss: 0.001710  [  160/ 1575]
+loss: 0.000947  [  320/ 1575]
+loss: 0.002071  [  480/ 1575]
+loss: 0.001284  [  640/ 1575]
+loss: 0.001668  [  800/ 1575]
+loss: 0.002107  [  960/ 1575]
+loss: 0.000994  [ 1120/ 1575]
+loss: 0.001404  [ 1280/ 1575]
+loss: 0.002118  [ 1440/ 1575]
+Test Error: 
+MSE: 20.139324
+RMSE: 4.487686
+MAE: 1.867176
+R^2: 0.9370377096308214
+loss: 0.001847  [    0/ 1575]
+loss: 0.001799  [  160/ 1575]
+loss: 0.001902  [  320/ 1575]
+loss: 0.001416  [  480/ 1575]
+loss: 0.001865  [  640/ 1575]
+loss: 0.001752  [  800/ 1575]
+loss: 0.001022  [  960/ 1575]
+loss: 0.001272  [ 1120/ 1575]
+loss: 0.001318  [ 1280/ 1575]
+loss: 0.001320  [ 1440/ 1575]
+Test Error: 
+MSE: 20.747594
+RMSE: 4.554953
+MAE: 1.874358
+R^2: 0.9351360531779583
+loss: 0.001573  [    0/ 1575]
+loss: 0.001684  [  160/ 1575]
+loss: 0.001080  [  320/ 1575]
+loss: 0.001551  [  480/ 1575]
+loss: 0.001400  [  640/ 1575]
+loss: 0.001080  [  800/ 1575]
+loss: 0.001615  [  960/ 1575]
+loss: 0.001964  [ 1120/ 1575]
+loss: 0.001453  [ 1280/ 1575]
+loss: 0.001773  [ 1440/ 1575]
+Test Error: 
+MSE: 20.142479
+RMSE: 4.488037
+MAE: 1.866157
+R^2: 0.9370278482327425
+loss: 0.001736  [    0/ 1575]
+loss: 0.001244  [  160/ 1575]
+loss: 0.001634  [  320/ 1575]
+loss: 0.002389  [  480/ 1575]
+loss: 0.002082  [  640/ 1575]
+loss: 0.001428  [  800/ 1575]
+loss: 0.001398  [  960/ 1575]
+loss: 0.001273  [ 1120/ 1575]
+loss: 0.001659  [ 1280/ 1575]
+loss: 0.001575  [ 1440/ 1575]
+Test Error: 
+MSE: 20.132980
+RMSE: 4.486979
+MAE: 1.865747
+R^2: 0.9370575443816989
+loss: 0.001536  [    0/ 1575]
+loss: 0.002238  [  160/ 1575]
+loss: 0.001518  [  320/ 1575]
+loss: 0.001336  [  480/ 1575]
+loss: 0.001529  [  640/ 1575]
+loss: 0.001767  [  800/ 1575]
+loss: 0.000890  [  960/ 1575]
+loss: 0.001702  [ 1120/ 1575]
+loss: 0.001488  [ 1280/ 1575]
+loss: 0.001851  [ 1440/ 1575]
+Test Error: 
+MSE: 20.418081
+RMSE: 4.518637
+MAE: 1.866779
+R^2: 0.9361662213174547
+loss: 0.001099  [    0/ 1575]
+loss: 0.002014  [  160/ 1575]
+loss: 0.001467  [  320/ 1575]
+loss: 0.001199  [  480/ 1575]
+loss: 0.001214  [  640/ 1575]
+loss: 0.001427  [  800/ 1575]
+loss: 0.002068  [  960/ 1575]
+loss: 0.002391  [ 1120/ 1575]
+loss: 0.002260  [ 1280/ 1575]
+loss: 0.001229  [ 1440/ 1575]
+Test Error: 
+MSE: 20.869082
+RMSE: 4.568269
+MAE: 1.877466
+R^2: 0.9347562411994791
+loss: 0.001586  [    0/ 1575]
+loss: 0.001843  [  160/ 1575]
+loss: 0.001446  [  320/ 1575]
+loss: 0.001803  [  480/ 1575]
+loss: 0.000644  [  640/ 1575]
+loss: 0.002039  [  800/ 1575]
+loss: 0.001637  [  960/ 1575]
+loss: 0.001701  [ 1120/ 1575]
+loss: 0.001719  [ 1280/ 1575]
+loss: 0.002122  [ 1440/ 1575]
+Test Error: 
+MSE: 20.303765
+RMSE: 4.505970
+MAE: 1.865542
+R^2: 0.9365236134526962
+loss: 0.001253  [    0/ 1575]
+loss: 0.001636  [  160/ 1575]
+loss: 0.001416  [  320/ 1575]
+loss: 0.001482  [  480/ 1575]
+loss: 0.001553  [  640/ 1575]
+loss: 0.001949  [  800/ 1575]
+loss: 0.001577  [  960/ 1575]
+loss: 0.001541  [ 1120/ 1575]
+loss: 0.001656  [ 1280/ 1575]
+loss: 0.001747  [ 1440/ 1575]
+Test Error: 
+MSE: 20.184920
+RMSE: 4.492763
+MAE: 1.866093
+R^2: 0.9368951633884505
+loss: 0.001478  [    0/ 1575]
+loss: 0.001161  [  160/ 1575]
+loss: 0.001078  [  320/ 1575]
+loss: 0.000577  [  480/ 1575]
+loss: 0.001447  [  640/ 1575]
+loss: 0.001228  [  800/ 1575]
+loss: 0.001273  [  960/ 1575]
+loss: 0.001268  [ 1120/ 1575]
+loss: 0.002204  [ 1280/ 1575]
+loss: 0.001899  [ 1440/ 1575]
+Test Error: 
+MSE: 21.374230
+RMSE: 4.623227
+MAE: 1.887266
+R^2: 0.9331769791949778
+loss: 0.001423  [    0/ 1575]
+loss: 0.001209  [  160/ 1575]
+loss: 0.000865  [  320/ 1575]
+loss: 0.000827  [  480/ 1575]
+loss: 0.002080  [  640/ 1575]
+loss: 0.001646  [  800/ 1575]
+loss: 0.001787  [  960/ 1575]
+loss: 0.001185  [ 1120/ 1575]
+loss: 0.001402  [ 1280/ 1575]
+loss: 0.002027  [ 1440/ 1575]
+Test Error: 
+MSE: 20.229803
+RMSE: 4.497755
+MAE: 1.866343
+R^2: 0.9367548431146371
+loss: 0.001343  [    0/ 1575]
+loss: 0.001472  [  160/ 1575]
+loss: 0.001529  [  320/ 1575]
+loss: 0.001285  [  480/ 1575]
+loss: 0.001991  [  640/ 1575]
+loss: 0.001154  [  800/ 1575]
+loss: 0.001043  [  960/ 1575]
+loss: 0.000941  [ 1120/ 1575]
+loss: 0.001716  [ 1280/ 1575]
+loss: 0.001035  [ 1440/ 1575]
+Test Error: 
+MSE: 20.640672
+RMSE: 4.543201
+MAE: 1.872497
+R^2: 0.935470327980681
+loss: 0.001156  [    0/ 1575]
+loss: 0.001989  [  160/ 1575]
+loss: 0.001964  [  320/ 1575]
+loss: 0.001630  [  480/ 1575]
+loss: 0.001007  [  640/ 1575]
+loss: 0.001036  [  800/ 1575]
+loss: 0.001418  [  960/ 1575]
+loss: 0.000960  [ 1120/ 1575]
+loss: 0.001581  [ 1280/ 1575]
+loss: 0.001008  [ 1440/ 1575]
+Test Error: 
+MSE: 20.316630
+RMSE: 4.507397
+MAE: 1.868574
+R^2: 0.9364833918819753
+loss: 0.002066  [    0/ 1575]
+loss: 0.001667  [  160/ 1575]
+loss: 0.001175  [  320/ 1575]
+loss: 0.001691  [  480/ 1575]
+loss: 0.002211  [  640/ 1575]
+loss: 0.001454  [  800/ 1575]
+loss: 0.000657  [  960/ 1575]
+loss: 0.001493  [ 1120/ 1575]
+loss: 0.001860  [ 1280/ 1575]
+loss: 0.001564  [ 1440/ 1575]
+Test Error: 
+MSE: 20.251471
+RMSE: 4.500163
+MAE: 1.869525
+R^2: 0.936687100580592
+loss: 0.001272  [    0/ 1575]
+loss: 0.002108  [  160/ 1575]
+loss: 0.002141  [  320/ 1575]
+loss: 0.001101  [  480/ 1575]
+loss: 0.001203  [  640/ 1575]
+loss: 0.001887  [  800/ 1575]
+loss: 0.001475  [  960/ 1575]
+loss: 0.001601  [ 1120/ 1575]
+loss: 0.001393  [ 1280/ 1575]
+loss: 0.001058  [ 1440/ 1575]
+Test Error: 
+MSE: 20.132261
+RMSE: 4.486899
+MAE: 1.868242
+R^2: 0.9370597920449011
+loss: 0.001636  [    0/ 1575]
+loss: 0.001605  [  160/ 1575]
+loss: 0.001093  [  320/ 1575]
+loss: 0.001700  [  480/ 1575]
+loss: 0.001944  [  640/ 1575]
+loss: 0.002872  [  800/ 1575]
+loss: 0.001471  [  960/ 1575]
+loss: 0.002619  [ 1120/ 1575]
+loss: 0.001584  [ 1280/ 1575]
+loss: 0.001042  [ 1440/ 1575]
+Test Error: 
+MSE: 20.362297
+RMSE: 4.512460
+MAE: 1.868120
+R^2: 0.9363406235735081
+loss: 0.001612  [    0/ 1575]
+loss: 0.001233  [  160/ 1575]
+loss: 0.001613  [  320/ 1575]
+loss: 0.001330  [  480/ 1575]
+loss: 0.001435  [  640/ 1575]
+loss: 0.001294  [  800/ 1575]
+loss: 0.001004  [  960/ 1575]
+loss: 0.001129  [ 1120/ 1575]
+loss: 0.001189  [ 1280/ 1575]
+loss: 0.001621  [ 1440/ 1575]
+Test Error: 
+MSE: 20.217865
+RMSE: 4.496428
+MAE: 1.866115
+R^2: 0.9367921652275423
+loss: 0.001712  [    0/ 1575]
+loss: 0.001281  [  160/ 1575]
+loss: 0.000910  [  320/ 1575]
+loss: 0.001449  [  480/ 1575]
+loss: 0.001341  [  640/ 1575]
+loss: 0.002171  [  800/ 1575]
+loss: 0.001343  [  960/ 1575]
+loss: 0.001769  [ 1120/ 1575]
+loss: 0.002330  [ 1280/ 1575]
+loss: 0.001468  [ 1440/ 1575]
+Test Error: 
+MSE: 20.331459
+RMSE: 4.509042
+MAE: 1.867495
+R^2: 0.9364370325081299
+loss: 0.001306  [    0/ 1575]
+loss: 0.001787  [  160/ 1575]
+loss: 0.001368  [  320/ 1575]
+loss: 0.001692  [  480/ 1575]
+loss: 0.001678  [  640/ 1575]
+loss: 0.001747  [  800/ 1575]
+loss: 0.001434  [  960/ 1575]
+loss: 0.001664  [ 1120/ 1575]
+loss: 0.001232  [ 1280/ 1575]
+loss: 0.001497  [ 1440/ 1575]
+Test Error: 
+MSE: 21.350812
+RMSE: 4.620694
+MAE: 1.887484
+R^2: 0.9332501935955003
+loss: 0.000941  [    0/ 1575]
+loss: 0.001094  [  160/ 1575]
+loss: 0.001237  [  320/ 1575]
+loss: 0.001159  [  480/ 1575]
+loss: 0.001558  [  640/ 1575]
+loss: 0.001767  [  800/ 1575]
+loss: 0.001426  [  960/ 1575]
+loss: 0.001670  [ 1120/ 1575]
+loss: 0.001366  [ 1280/ 1575]
+loss: 0.001797  [ 1440/ 1575]
+Test Error: 
+MSE: 20.180765
+RMSE: 4.492301
+MAE: 1.864999
+R^2: 0.9369081518685786
+loss: 0.001817  [    0/ 1575]
+loss: 0.000978  [  160/ 1575]
+loss: 0.001549  [  320/ 1575]
+loss: 0.001297  [  480/ 1575]
+loss: 0.001350  [  640/ 1575]
+loss: 0.000674  [  800/ 1575]
+loss: 0.001338  [  960/ 1575]
+loss: 0.000994  [ 1120/ 1575]
+loss: 0.001752  [ 1280/ 1575]
+loss: 0.001693  [ 1440/ 1575]
+Test Error: 
+MSE: 20.641680
+RMSE: 4.543312
+MAE: 1.872349
+R^2: 0.9354671773053091
+loss: 0.001365  [    0/ 1575]
+loss: 0.001171  [  160/ 1575]
+loss: 0.001559  [  320/ 1575]
+loss: 0.001061  [  480/ 1575]
+loss: 0.000809  [  640/ 1575]
+loss: 0.001079  [  800/ 1575]
+loss: 0.002502  [  960/ 1575]
+loss: 0.002126  [ 1120/ 1575]
+loss: 0.001255  [ 1280/ 1575]
+loss: 0.001806  [ 1440/ 1575]
+Test Error: 
+MSE: 20.451312
+RMSE: 4.522313
+MAE: 1.869803
+R^2: 0.9360623316642668
+loss: 0.001747  [    0/ 1575]
+loss: 0.001734  [  160/ 1575]
+loss: 0.001633  [  320/ 1575]
+loss: 0.000965  [  480/ 1575]
+loss: 0.001584  [  640/ 1575]
+loss: 0.001624  [  800/ 1575]
+loss: 0.001477  [  960/ 1575]
+loss: 0.001319  [ 1120/ 1575]
+loss: 0.001221  [ 1280/ 1575]
+loss: 0.001976  [ 1440/ 1575]
+Test Error: 
+MSE: 20.266620
+RMSE: 4.501846
+MAE: 1.875216
+R^2: 0.9366397404441531
+loss: 0.001229  [    0/ 1575]
+loss: 0.001122  [  160/ 1575]
+loss: 0.001472  [  320/ 1575]
+loss: 0.001348  [  480/ 1575]
+loss: 0.001397  [  640/ 1575]
+loss: 0.001864  [  800/ 1575]
+loss: 0.001402  [  960/ 1575]
+loss: 0.001297  [ 1120/ 1575]
+loss: 0.001503  [ 1280/ 1575]
+loss: 0.000884  [ 1440/ 1575]
+Test Error: 
+MSE: 20.456945
+RMSE: 4.522935
+MAE: 1.867638
+R^2: 0.9360447204344098
+loss: 0.001211  [    0/ 1575]
+loss: 0.001276  [  160/ 1575]
+loss: 0.000929  [  320/ 1575]
+loss: 0.001725  [  480/ 1575]
+loss: 0.001759  [  640/ 1575]
+loss: 0.000955  [  800/ 1575]
+loss: 0.002056  [  960/ 1575]
+loss: 0.001208  [ 1120/ 1575]
+loss: 0.002683  [ 1280/ 1575]
+loss: 0.001195  [ 1440/ 1575]
+Test Error: 
+MSE: 20.079928
+RMSE: 4.481063
+MAE: 1.865251
+R^2: 0.9372234015200879
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_BEST.pt
+loss: 0.001655  [    0/ 1575]
+loss: 0.001654  [  160/ 1575]
+loss: 0.001250  [  320/ 1575]
+loss: 0.002025  [  480/ 1575]
+loss: 0.001672  [  640/ 1575]
+loss: 0.002015  [  800/ 1575]
+loss: 0.000669  [  960/ 1575]
+loss: 0.000952  [ 1120/ 1575]
+loss: 0.001834  [ 1280/ 1575]
+loss: 0.001118  [ 1440/ 1575]
+Test Error: 
+MSE: 20.271474
+RMSE: 4.502385
+MAE: 1.866398
+R^2: 0.9366245662005608
+loss: 0.001112  [    0/ 1575]
+loss: 0.001414  [  160/ 1575]
+loss: 0.001163  [  320/ 1575]
+loss: 0.001949  [  480/ 1575]
+loss: 0.000940  [  640/ 1575]
+loss: 0.001581  [  800/ 1575]
+loss: 0.001752  [  960/ 1575]
+loss: 0.001357  [ 1120/ 1575]
+loss: 0.001403  [ 1280/ 1575]
+loss: 0.001440  [ 1440/ 1575]
+Test Error: 
+MSE: 20.122562
+RMSE: 4.485818
+MAE: 1.866353
+R^2: 0.9370901158253719
+loss: 0.002026  [    0/ 1575]
+loss: 0.001491  [  160/ 1575]
+loss: 0.001989  [  320/ 1575]
+loss: 0.001275  [  480/ 1575]
+loss: 0.001556  [  640/ 1575]
+loss: 0.001387  [  800/ 1575]
+loss: 0.001466  [  960/ 1575]
+loss: 0.000865  [ 1120/ 1575]
+loss: 0.001358  [ 1280/ 1575]
+loss: 0.001567  [ 1440/ 1575]
+Test Error: 
+MSE: 20.302945
+RMSE: 4.505879
+MAE: 1.866614
+R^2: 0.9365261751026959
+loss: 0.001282  [    0/ 1575]
+loss: 0.001281  [  160/ 1575]
+loss: 0.001639  [  320/ 1575]
+loss: 0.001970  [  480/ 1575]
+loss: 0.001506  [  640/ 1575]
+loss: 0.001713  [  800/ 1575]
+loss: 0.001190  [  960/ 1575]
+loss: 0.000999  [ 1120/ 1575]
+loss: 0.000941  [ 1280/ 1575]
+loss: 0.001280  [ 1440/ 1575]
+Test Error: 
+MSE: 20.139389
+RMSE: 4.487693
+MAE: 1.866576
+R^2: 0.937037507932306
+loss: 0.001067  [    0/ 1575]
+loss: 0.001776  [  160/ 1575]
+loss: 0.001781  [  320/ 1575]
+loss: 0.001266  [  480/ 1575]
+loss: 0.001450  [  640/ 1575]
+loss: 0.001364  [  800/ 1575]
+loss: 0.001176  [  960/ 1575]
+loss: 0.001882  [ 1120/ 1575]
+loss: 0.001018  [ 1280/ 1575]
+loss: 0.001685  [ 1440/ 1575]
+Test Error: 
+MSE: 20.300743
+RMSE: 4.505635
+MAE: 1.866948
+R^2: 0.9365330595099441
+loss: 0.001109  [    0/ 1575]
+loss: 0.002188  [  160/ 1575]
+loss: 0.001173  [  320/ 1575]
+loss: 0.000898  [  480/ 1575]
+loss: 0.001279  [  640/ 1575]
+loss: 0.002042  [  800/ 1575]
+loss: 0.001148  [  960/ 1575]
+loss: 0.001172  [ 1120/ 1575]
+loss: 0.001335  [ 1280/ 1575]
+loss: 0.001412  [ 1440/ 1575]
+Test Error: 
+MSE: 20.214533
+RMSE: 4.496058
+MAE: 1.865514
+R^2: 0.9368025808299293
+loss: 0.001071  [    0/ 1575]
+loss: 0.001594  [  160/ 1575]
+loss: 0.001242  [  320/ 1575]
+loss: 0.000786  [  480/ 1575]
+loss: 0.001900  [  640/ 1575]
+loss: 0.002018  [  800/ 1575]
+loss: 0.001117  [  960/ 1575]
+loss: 0.001900  [ 1120/ 1575]
+loss: 0.001379  [ 1280/ 1575]
+loss: 0.001134  [ 1440/ 1575]
+Test Error: 
+MSE: 20.236503
+RMSE: 4.498500
+MAE: 1.866335
+R^2: 0.9367338977550297
+loss: 0.001311  [    0/ 1575]
+loss: 0.001628  [  160/ 1575]
+loss: 0.001807  [  320/ 1575]
+loss: 0.001556  [  480/ 1575]
+loss: 0.001307  [  640/ 1575]
+loss: 0.001406  [  800/ 1575]
+loss: 0.001569  [  960/ 1575]
+loss: 0.001504  [ 1120/ 1575]
+loss: 0.001377  [ 1280/ 1575]
+loss: 0.001593  [ 1440/ 1575]
+Test Error: 
+MSE: 20.663698
+RMSE: 4.545734
+MAE: 1.886136
+R^2: 0.9353983411474641
+loss: 0.001661  [    0/ 1575]
+loss: 0.001473  [  160/ 1575]
+loss: 0.001481  [  320/ 1575]
+loss: 0.001240  [  480/ 1575]
+loss: 0.001454  [  640/ 1575]
+loss: 0.000919  [  800/ 1575]
+loss: 0.001338  [  960/ 1575]
+loss: 0.001330  [ 1120/ 1575]
+loss: 0.001233  [ 1280/ 1575]
+loss: 0.001682  [ 1440/ 1575]
+Test Error: 
+MSE: 20.683895
+RMSE: 4.547955
+MAE: 1.874467
+R^2: 0.9353351978723794
+loss: 0.001536  [    0/ 1575]
+loss: 0.002240  [  160/ 1575]
+loss: 0.000743  [  320/ 1575]
+loss: 0.001246  [  480/ 1575]
+loss: 0.001429  [  640/ 1575]
+loss: 0.001370  [  800/ 1575]
+loss: 0.001228  [  960/ 1575]
+loss: 0.001717  [ 1120/ 1575]
+loss: 0.001072  [ 1280/ 1575]
+loss: 0.001218  [ 1440/ 1575]
+Test Error: 
+MSE: 20.223158
+RMSE: 4.497017
+MAE: 1.865929
+R^2: 0.9367756164975289
+loss: 0.001106  [    0/ 1575]
+loss: 0.000833  [  160/ 1575]
+loss: 0.001664  [  320/ 1575]
+loss: 0.001263  [  480/ 1575]
+loss: 0.001533  [  640/ 1575]
+loss: 0.000875  [  800/ 1575]
+loss: 0.001258  [  960/ 1575]
+loss: 0.001807  [ 1120/ 1575]
+loss: 0.001241  [ 1280/ 1575]
+loss: 0.001374  [ 1440/ 1575]
+Test Error: 
+MSE: 21.029664
+RMSE: 4.585811
+MAE: 1.880559
+R^2: 0.9342542089743805
+loss: 0.001027  [    0/ 1575]
+loss: 0.001473  [  160/ 1575]
+loss: 0.001448  [  320/ 1575]
+loss: 0.000741  [  480/ 1575]
+loss: 0.001047  [  640/ 1575]
+loss: 0.001199  [  800/ 1575]
+loss: 0.002202  [  960/ 1575]
+loss: 0.001313  [ 1120/ 1575]
+loss: 0.000707  [ 1280/ 1575]
+loss: 0.001900  [ 1440/ 1575]
+Test Error: 
+MSE: 20.338619
+RMSE: 4.509836
+MAE: 1.868170
+R^2: 0.936414647650389
+loss: 0.001110  [    0/ 1575]
+loss: 0.001624  [  160/ 1575]
+loss: 0.001105  [  320/ 1575]
+loss: 0.001441  [  480/ 1575]
+loss: 0.001067  [  640/ 1575]
+loss: 0.001083  [  800/ 1575]
+loss: 0.001607  [  960/ 1575]
+loss: 0.001904  [ 1120/ 1575]
+loss: 0.000949  [ 1280/ 1575]
+loss: 0.001445  [ 1440/ 1575]
+Test Error: 
+MSE: 20.297590
+RMSE: 4.505285
+MAE: 1.867475
+R^2: 0.9365429177518808
+loss: 0.002019  [    0/ 1575]
+loss: 0.001431  [  160/ 1575]
+loss: 0.001337  [  320/ 1575]
+loss: 0.001191  [  480/ 1575]
+loss: 0.002015  [  640/ 1575]
+loss: 0.001003  [  800/ 1575]
+loss: 0.001004  [  960/ 1575]
+loss: 0.001741  [ 1120/ 1575]
+loss: 0.001806  [ 1280/ 1575]
+loss: 0.001213  [ 1440/ 1575]
+Test Error: 
+MSE: 20.332820
+RMSE: 4.509193
+MAE: 1.867224
+R^2: 0.9364327775959295
+loss: 0.001322  [    0/ 1575]
+loss: 0.002155  [  160/ 1575]
+loss: 0.001367  [  320/ 1575]
+loss: 0.001663  [  480/ 1575]
+loss: 0.002068  [  640/ 1575]
+loss: 0.001470  [  800/ 1575]
+loss: 0.002018  [  960/ 1575]
+loss: 0.001510  [ 1120/ 1575]
+loss: 0.001980  [ 1280/ 1575]
+loss: 0.001191  [ 1440/ 1575]
+Test Error: 
+MSE: 20.303968
+RMSE: 4.505992
+MAE: 1.865836
+R^2: 0.9365229786721325
+loss: 0.001011  [    0/ 1575]
+loss: 0.001661  [  160/ 1575]
+loss: 0.001325  [  320/ 1575]
+loss: 0.000830  [  480/ 1575]
+loss: 0.001664  [  640/ 1575]
+loss: 0.001152  [  800/ 1575]
+loss: 0.001951  [  960/ 1575]
+loss: 0.001049  [ 1120/ 1575]
+loss: 0.001883  [ 1280/ 1575]
+loss: 0.001198  [ 1440/ 1575]
+Test Error: 
+MSE: 20.642413
+RMSE: 4.543392
+MAE: 1.871527
+R^2: 0.9354648866963612
+loss: 0.002001  [    0/ 1575]
+loss: 0.001238  [  160/ 1575]
+loss: 0.001737  [  320/ 1575]
+loss: 0.002021  [  480/ 1575]
+loss: 0.000902  [  640/ 1575]
+loss: 0.000662  [  800/ 1575]
+loss: 0.001001  [  960/ 1575]
+loss: 0.002177  [ 1120/ 1575]
+loss: 0.001615  [ 1280/ 1575]
+loss: 0.001785  [ 1440/ 1575]
+Test Error: 
+MSE: 20.347712
+RMSE: 4.510844
+MAE: 1.866990
+R^2: 0.9363862212317191
+loss: 0.001666  [    0/ 1575]
+loss: 0.001264  [  160/ 1575]
+loss: 0.001185  [  320/ 1575]
+loss: 0.001649  [  480/ 1575]
+loss: 0.001532  [  640/ 1575]
+loss: 0.001506  [  800/ 1575]
+loss: 0.000966  [  960/ 1575]
+loss: 0.001503  [ 1120/ 1575]
+loss: 0.001546  [ 1280/ 1575]
+loss: 0.000814  [ 1440/ 1575]
+Test Error: 
+MSE: 20.956635
+RMSE: 4.577842
+MAE: 1.879358
+R^2: 0.9344825217796798
+loss: 0.000728  [    0/ 1575]
+loss: 0.001437  [  160/ 1575]
+loss: 0.001132  [  320/ 1575]
+loss: 0.002146  [  480/ 1575]
+loss: 0.001103  [  640/ 1575]
+loss: 0.001330  [  800/ 1575]
+loss: 0.001532  [  960/ 1575]
+loss: 0.001053  [ 1120/ 1575]
+loss: 0.001772  [ 1280/ 1575]
+loss: 0.001778  [ 1440/ 1575]
+Test Error: 
+MSE: 20.628094
+RMSE: 4.541816
+MAE: 1.872717
+R^2: 0.9355096505110021
+loss: 0.001079  [    0/ 1575]
+loss: 0.001766  [  160/ 1575]
+loss: 0.001449  [  320/ 1575]
+loss: 0.001224  [  480/ 1575]
+loss: 0.001734  [  640/ 1575]
+loss: 0.001102  [  800/ 1575]
+loss: 0.001563  [  960/ 1575]
+loss: 0.001232  [ 1120/ 1575]
+loss: 0.001564  [ 1280/ 1575]
+loss: 0.000851  [ 1440/ 1575]
+Test Error: 
+MSE: 20.171863
+RMSE: 4.491310
+MAE: 1.868160
+R^2: 0.9369359842587195
+loss: 0.001673  [    0/ 1575]
+loss: 0.001112  [  160/ 1575]
+loss: 0.002336  [  320/ 1575]
+loss: 0.001959  [  480/ 1575]
+loss: 0.001479  [  640/ 1575]
+loss: 0.002063  [  800/ 1575]
+loss: 0.001477  [  960/ 1575]
+loss: 0.001258  [ 1120/ 1575]
+loss: 0.001178  [ 1280/ 1575]
+loss: 0.001558  [ 1440/ 1575]
+Test Error: 
+MSE: 20.435277
+RMSE: 4.520539
+MAE: 1.869454
+R^2: 0.936112461250988
+loss: 0.001060  [    0/ 1575]
+loss: 0.001552  [  160/ 1575]
+loss: 0.001758  [  320/ 1575]
+loss: 0.000654  [  480/ 1575]
+loss: 0.001310  [  640/ 1575]
+loss: 0.001830  [  800/ 1575]
+loss: 0.001640  [  960/ 1575]
+loss: 0.001171  [ 1120/ 1575]
+loss: 0.001710  [ 1280/ 1575]
+loss: 0.001810  [ 1440/ 1575]
+Test Error: 
+MSE: 20.303787
+RMSE: 4.505972
+MAE: 1.866676
+R^2: 0.9365235441091244
+loss: 0.001375  [    0/ 1575]
+loss: 0.001567  [  160/ 1575]
+loss: 0.001215  [  320/ 1575]
+loss: 0.001775  [  480/ 1575]
+loss: 0.001018  [  640/ 1575]
+loss: 0.001180  [  800/ 1575]
+loss: 0.001824  [  960/ 1575]
+loss: 0.001118  [ 1120/ 1575]
+loss: 0.000817  [ 1280/ 1575]
+loss: 0.001013  [ 1440/ 1575]
+Test Error: 
+MSE: 20.201515
+RMSE: 4.494610
+MAE: 1.870046
+R^2: 0.9368432820433394
+loss: 0.001769  [    0/ 1575]
+loss: 0.001706  [  160/ 1575]
+loss: 0.001390  [  320/ 1575]
+loss: 0.001531  [  480/ 1575]
+loss: 0.001861  [  640/ 1575]
+loss: 0.001344  [  800/ 1575]
+loss: 0.001346  [  960/ 1575]
+loss: 0.001023  [ 1120/ 1575]
+loss: 0.000499  [ 1280/ 1575]
+loss: 0.001345  [ 1440/ 1575]
+Test Error: 
+MSE: 20.211184
+RMSE: 4.495685
+MAE: 1.866694
+R^2: 0.93681305326381
+loss: 0.001303  [    0/ 1575]
+loss: 0.001617  [  160/ 1575]
+loss: 0.001600  [  320/ 1575]
+loss: 0.000921  [  480/ 1575]
+loss: 0.002495  [  640/ 1575]
+loss: 0.001937  [  800/ 1575]
+loss: 0.001602  [  960/ 1575]
+loss: 0.001209  [ 1120/ 1575]
+loss: 0.001638  [ 1280/ 1575]
+loss: 0.001207  [ 1440/ 1575]
+Test Error: 
+MSE: 20.226502
+RMSE: 4.497388
+MAE: 1.867516
+R^2: 0.9367651627839303
+loss: 0.000999  [    0/ 1575]
+loss: 0.001989  [  160/ 1575]
+loss: 0.000913  [  320/ 1575]
+loss: 0.001198  [  480/ 1575]
+loss: 0.001276  [  640/ 1575]
+loss: 0.001808  [  800/ 1575]
+loss: 0.001529  [  960/ 1575]
+loss: 0.001221  [ 1120/ 1575]
+loss: 0.001569  [ 1280/ 1575]
+loss: 0.001393  [ 1440/ 1575]
+Test Error: 
+MSE: 20.806995
+RMSE: 4.561468
+MAE: 1.877303
+R^2: 0.9349503480370935
+loss: 0.001705  [    0/ 1575]
+loss: 0.001410  [  160/ 1575]
+loss: 0.001266  [  320/ 1575]
+loss: 0.001230  [  480/ 1575]
+loss: 0.000901  [  640/ 1575]
+loss: 0.001667  [  800/ 1575]
+loss: 0.001779  [  960/ 1575]
+loss: 0.002006  [ 1120/ 1575]
+loss: 0.001785  [ 1280/ 1575]
+loss: 0.001249  [ 1440/ 1575]
+Test Error: 
+MSE: 20.495798
+RMSE: 4.527229
+MAE: 1.870254
+R^2: 0.9359232527939658
+loss: 0.002171  [    0/ 1575]
+loss: 0.000973  [  160/ 1575]
+loss: 0.001523  [  320/ 1575]
+loss: 0.000983  [  480/ 1575]
+loss: 0.001080  [  640/ 1575]
+loss: 0.002010  [  800/ 1575]
+loss: 0.001496  [  960/ 1575]
+loss: 0.001135  [ 1120/ 1575]
+loss: 0.001177  [ 1280/ 1575]
+loss: 0.000903  [ 1440/ 1575]
+Test Error: 
+MSE: 20.177566
+RMSE: 4.491945
+MAE: 1.866843
+R^2: 0.9369181534139244
+loss: 0.001237  [    0/ 1575]
+loss: 0.000891  [  160/ 1575]
+loss: 0.001145  [  320/ 1575]
+loss: 0.000946  [  480/ 1575]
+loss: 0.001740  [  640/ 1575]
+loss: 0.001292  [  800/ 1575]
+loss: 0.001438  [  960/ 1575]
+loss: 0.001483  [ 1120/ 1575]
+loss: 0.001715  [ 1280/ 1575]
+loss: 0.001878  [ 1440/ 1575]
+Test Error: 
+MSE: 20.528876
+RMSE: 4.530880
+MAE: 1.872502
+R^2: 0.9358198407963431
+loss: 0.000950  [    0/ 1575]
+loss: 0.000799  [  160/ 1575]
+loss: 0.001103  [  320/ 1575]
+loss: 0.001469  [  480/ 1575]
+loss: 0.001203  [  640/ 1575]
+loss: 0.001855  [  800/ 1575]
+loss: 0.001503  [  960/ 1575]
+loss: 0.001340  [ 1120/ 1575]
+loss: 0.001179  [ 1280/ 1575]
+loss: 0.001291  [ 1440/ 1575]
+Test Error: 
+MSE: 20.245005
+RMSE: 4.499445
+MAE: 1.865369
+R^2: 0.9367073160028684
+loss: 0.001429  [    0/ 1575]
+loss: 0.001358  [  160/ 1575]
+loss: 0.000970  [  320/ 1575]
+loss: 0.001116  [  480/ 1575]
+loss: 0.001895  [  640/ 1575]
+loss: 0.001119  [  800/ 1575]
+loss: 0.001143  [  960/ 1575]
+loss: 0.000746  [ 1120/ 1575]
+loss: 0.001421  [ 1280/ 1575]
+loss: 0.001203  [ 1440/ 1575]
+Test Error: 
+MSE: 20.151662
+RMSE: 4.489060
+MAE: 1.866017
+R^2: 0.9369991396627185
+loss: 0.001187  [    0/ 1575]
+loss: 0.001388  [  160/ 1575]
+loss: 0.001937  [  320/ 1575]
+loss: 0.001726  [  480/ 1575]
+loss: 0.001383  [  640/ 1575]
+loss: 0.001671  [  800/ 1575]
+loss: 0.001584  [  960/ 1575]
+loss: 0.000752  [ 1120/ 1575]
+loss: 0.001861  [ 1280/ 1575]
+loss: 0.000919  [ 1440/ 1575]
+Test Error: 
+MSE: 20.191543
+RMSE: 4.493500
+MAE: 1.866977
+R^2: 0.9368744569218248
+loss: 0.001067  [    0/ 1575]
+loss: 0.001514  [  160/ 1575]
+loss: 0.001601  [  320/ 1575]
+loss: 0.001532  [  480/ 1575]
+loss: 0.001158  [  640/ 1575]
+loss: 0.001868  [  800/ 1575]
+loss: 0.001521  [  960/ 1575]
+loss: 0.001501  [ 1120/ 1575]
+loss: 0.001008  [ 1280/ 1575]
+loss: 0.001140  [ 1440/ 1575]
+Test Error: 
+MSE: 20.173397
+RMSE: 4.491481
+MAE: 1.867374
+R^2: 0.9369311863730503
+loss: 0.001395  [    0/ 1575]
+loss: 0.001075  [  160/ 1575]
+loss: 0.001460  [  320/ 1575]
+loss: 0.001641  [  480/ 1575]
+loss: 0.000603  [  640/ 1575]
+loss: 0.003169  [  800/ 1575]
+loss: 0.001272  [  960/ 1575]
+loss: 0.001254  [ 1120/ 1575]
+loss: 0.000820  [ 1280/ 1575]
+loss: 0.001827  [ 1440/ 1575]
+Test Error: 
+MSE: 20.708564
+RMSE: 4.550666
+MAE: 1.875375
+R^2: 0.9352580743077329
+loss: 0.001303  [    0/ 1575]
+loss: 0.001290  [  160/ 1575]
+loss: 0.001128  [  320/ 1575]
+loss: 0.001195  [  480/ 1575]
+loss: 0.000981  [  640/ 1575]
+loss: 0.000902  [  800/ 1575]
+loss: 0.001403  [  960/ 1575]
+loss: 0.001375  [ 1120/ 1575]
+loss: 0.001586  [ 1280/ 1575]
+loss: 0.001261  [ 1440/ 1575]
+Test Error: 
+MSE: 20.201266
+RMSE: 4.494582
+MAE: 1.870340
+R^2: 0.9368440594941339
+loss: 0.001457  [    0/ 1575]
+loss: 0.001379  [  160/ 1575]
+loss: 0.001895  [  320/ 1575]
+loss: 0.001069  [  480/ 1575]
+loss: 0.001499  [  640/ 1575]
+loss: 0.001444  [  800/ 1575]
+loss: 0.001947  [  960/ 1575]
+loss: 0.001696  [ 1120/ 1575]
+loss: 0.001164  [ 1280/ 1575]
+loss: 0.001369  [ 1440/ 1575]
+Test Error: 
+MSE: 21.031168
+RMSE: 4.585975
+MAE: 1.881787
+R^2: 0.9342495067497948
+loss: 0.001328  [    0/ 1575]
+loss: 0.001219  [  160/ 1575]
+loss: 0.001101  [  320/ 1575]
+loss: 0.001594  [  480/ 1575]
+loss: 0.001037  [  640/ 1575]
+loss: 0.001676  [  800/ 1575]
+loss: 0.001382  [  960/ 1575]
+loss: 0.001319  [ 1120/ 1575]
+loss: 0.001489  [ 1280/ 1575]
+loss: 0.000672  [ 1440/ 1575]
+Test Error: 
+MSE: 20.178848
+RMSE: 4.492087
+MAE: 1.865453
+R^2: 0.9369141455928938
+loss: 0.001371  [    0/ 1575]
+loss: 0.002030  [  160/ 1575]
+loss: 0.001442  [  320/ 1575]
+loss: 0.000917  [  480/ 1575]
+loss: 0.001383  [  640/ 1575]
+loss: 0.001079  [  800/ 1575]
+loss: 0.001554  [  960/ 1575]
+loss: 0.001520  [ 1120/ 1575]
+loss: 0.001181  [ 1280/ 1575]
+loss: 0.001014  [ 1440/ 1575]
+Test Error: 
+MSE: 20.273838
+RMSE: 4.502648
+MAE: 1.865983
+R^2: 0.936617173791887
+loss: 0.001257  [    0/ 1575]
+loss: 0.001146  [  160/ 1575]
+loss: 0.001140  [  320/ 1575]
+loss: 0.002016  [  480/ 1575]
+loss: 0.001241  [  640/ 1575]
+loss: 0.002414  [  800/ 1575]
+loss: 0.000993  [  960/ 1575]
+loss: 0.001510  [ 1120/ 1575]
+loss: 0.000627  [ 1280/ 1575]
+loss: 0.001414  [ 1440/ 1575]
+Test Error: 
+MSE: 20.541024
+RMSE: 4.532221
+MAE: 1.871175
+R^2: 0.9357818621462041
+loss: 0.001504  [    0/ 1575]
+loss: 0.002056  [  160/ 1575]
+loss: 0.001918  [  320/ 1575]
+loss: 0.001279  [  480/ 1575]
+loss: 0.001371  [  640/ 1575]
+loss: 0.001058  [  800/ 1575]
+loss: 0.001138  [  960/ 1575]
+loss: 0.000793  [ 1120/ 1575]
+loss: 0.001462  [ 1280/ 1575]
+loss: 0.000991  [ 1440/ 1575]
+Test Error: 
+MSE: 20.312399
+RMSE: 4.506928
+MAE: 1.867043
+R^2: 0.9364966192546587
+loss: 0.001166  [    0/ 1575]
+loss: 0.001415  [  160/ 1575]
+loss: 0.001605  [  320/ 1575]
+loss: 0.001618  [  480/ 1575]
+loss: 0.001549  [  640/ 1575]
+loss: 0.002010  [  800/ 1575]
+loss: 0.001538  [  960/ 1575]
+loss: 0.001316  [ 1120/ 1575]
+loss: 0.001284  [ 1280/ 1575]
+loss: 0.000762  [ 1440/ 1575]
+Test Error: 
+MSE: 20.470270
+RMSE: 4.524408
+MAE: 1.870868
+R^2: 0.9360030617602513
+loss: 0.001756  [    0/ 1575]
+loss: 0.001378  [  160/ 1575]
+loss: 0.001430  [  320/ 1575]
+loss: 0.000872  [  480/ 1575]
+loss: 0.001505  [  640/ 1575]
+loss: 0.001372  [  800/ 1575]
+loss: 0.001256  [  960/ 1575]
+loss: 0.001631  [ 1120/ 1575]
+loss: 0.001029  [ 1280/ 1575]
+loss: 0.001456  [ 1440/ 1575]
+Test Error: 
+MSE: 20.354076
+RMSE: 4.511549
+MAE: 1.867855
+R^2: 0.9363663237559382
+loss: 0.000818  [    0/ 1575]
+loss: 0.001108  [  160/ 1575]
+loss: 0.000860  [  320/ 1575]
+loss: 0.001216  [  480/ 1575]
+loss: 0.000985  [  640/ 1575]
+loss: 0.000782  [  800/ 1575]
+loss: 0.001756  [  960/ 1575]
+loss: 0.001462  [ 1120/ 1575]
+loss: 0.001236  [ 1280/ 1575]
+loss: 0.001477  [ 1440/ 1575]
+Test Error: 
+MSE: 20.290642
+RMSE: 4.504514
+MAE: 1.865882
+R^2: 0.9365646401267471
+loss: 0.001309  [    0/ 1575]
+loss: 0.001203  [  160/ 1575]
+loss: 0.001990  [  320/ 1575]
+loss: 0.001244  [  480/ 1575]
+loss: 0.001043  [  640/ 1575]
+loss: 0.001261  [  800/ 1575]
+loss: 0.001192  [  960/ 1575]
+loss: 0.001247  [ 1120/ 1575]
+loss: 0.000865  [ 1280/ 1575]
+loss: 0.001595  [ 1440/ 1575]
+Test Error: 
+MSE: 20.257333
+RMSE: 4.500815
+MAE: 1.868056
+R^2: 0.9366687751969494
+loss: 0.001950  [    0/ 1575]
+loss: 0.000991  [  160/ 1575]
+loss: 0.001323  [  320/ 1575]
+loss: 0.001250  [  480/ 1575]
+loss: 0.000817  [  640/ 1575]
+loss: 0.001450  [  800/ 1575]
+loss: 0.001707  [  960/ 1575]
+loss: 0.002187  [ 1120/ 1575]
+loss: 0.001721  [ 1280/ 1575]
+loss: 0.001227  [ 1440/ 1575]
+Test Error: 
+MSE: 21.205888
+RMSE: 4.604985
+MAE: 1.884972
+R^2: 0.93370327486925
+loss: 0.001129  [    0/ 1575]
+loss: 0.001262  [  160/ 1575]
+loss: 0.001444  [  320/ 1575]
+loss: 0.001285  [  480/ 1575]
+loss: 0.000913  [  640/ 1575]
+loss: 0.001771  [  800/ 1575]
+loss: 0.001375  [  960/ 1575]
+loss: 0.000542  [ 1120/ 1575]
+loss: 0.001543  [ 1280/ 1575]
+loss: 0.001316  [ 1440/ 1575]
+Test Error: 
+MSE: 21.239905
+RMSE: 4.608677
+MAE: 1.885352
+R^2: 0.9335969249560965
+loss: 0.001658  [    0/ 1575]
+loss: 0.001112  [  160/ 1575]
+loss: 0.001469  [  320/ 1575]
+loss: 0.001571  [  480/ 1575]
+loss: 0.001480  [  640/ 1575]
+loss: 0.001255  [  800/ 1575]
+loss: 0.001543  [  960/ 1575]
+loss: 0.000985  [ 1120/ 1575]
+loss: 0.001331  [ 1280/ 1575]
+loss: 0.000792  [ 1440/ 1575]
+Test Error: 
+MSE: 20.261650
+RMSE: 4.501294
+MAE: 1.867206
+R^2: 0.9366552783130577
+loss: 0.001409  [    0/ 1575]
+loss: 0.001079  [  160/ 1575]
+loss: 0.001815  [  320/ 1575]
+loss: 0.001360  [  480/ 1575]
+loss: 0.001585  [  640/ 1575]
+loss: 0.001448  [  800/ 1575]
+loss: 0.001234  [  960/ 1575]
+loss: 0.001512  [ 1120/ 1575]
+loss: 0.001430  [ 1280/ 1575]
+loss: 0.001514  [ 1440/ 1575]
+Test Error: 
+MSE: 21.041844
+RMSE: 4.587139
+MAE: 1.881020
+R^2: 0.9342161293234525
+loss: 0.001263  [    0/ 1575]
+loss: 0.001272  [  160/ 1575]
+loss: 0.001686  [  320/ 1575]
+loss: 0.001523  [  480/ 1575]
+loss: 0.001324  [  640/ 1575]
+loss: 0.001395  [  800/ 1575]
+loss: 0.001201  [  960/ 1575]
+loss: 0.001891  [ 1120/ 1575]
+loss: 0.000969  [ 1280/ 1575]
+loss: 0.000808  [ 1440/ 1575]
+Test Error: 
+MSE: 20.238790
+RMSE: 4.498754
+MAE: 1.867051
+R^2: 0.9367267461242745
+loss: 0.002030  [    0/ 1575]
+loss: 0.001535  [  160/ 1575]
+loss: 0.001268  [  320/ 1575]
+loss: 0.001455  [  480/ 1575]
+loss: 0.001503  [  640/ 1575]
+loss: 0.001250  [  800/ 1575]
+loss: 0.001930  [  960/ 1575]
+loss: 0.001144  [ 1120/ 1575]
+loss: 0.001604  [ 1280/ 1575]
+loss: 0.001432  [ 1440/ 1575]
+Test Error: 
+MSE: 20.383587
+RMSE: 4.514819
+MAE: 1.867622
+R^2: 0.9362740624111796
+loss: 0.001839  [    0/ 1575]
+loss: 0.001267  [  160/ 1575]
+loss: 0.000820  [  320/ 1575]
+loss: 0.001660  [  480/ 1575]
+loss: 0.001411  [  640/ 1575]
+loss: 0.001551  [  800/ 1575]
+loss: 0.000757  [  960/ 1575]
+loss: 0.001843  [ 1120/ 1575]
+loss: 0.001293  [ 1280/ 1575]
+loss: 0.001312  [ 1440/ 1575]
+Test Error: 
+MSE: 20.829383
+RMSE: 4.563922
+MAE: 1.876456
+R^2: 0.9348803553456031
+loss: 0.001462  [    0/ 1575]
+loss: 0.000776  [  160/ 1575]
+loss: 0.001427  [  320/ 1575]
+loss: 0.000822  [  480/ 1575]
+loss: 0.001442  [  640/ 1575]
+loss: 0.001083  [  800/ 1575]
+loss: 0.001157  [  960/ 1575]
+loss: 0.001679  [ 1120/ 1575]
+loss: 0.000802  [ 1280/ 1575]
+loss: 0.001505  [ 1440/ 1575]
+Test Error: 
+MSE: 20.476202
+RMSE: 4.525064
+MAE: 1.869967
+R^2: 0.935984516883294
+loss: 0.001425  [    0/ 1575]
+loss: 0.001154  [  160/ 1575]
+loss: 0.001776  [  320/ 1575]
+loss: 0.001289  [  480/ 1575]
+loss: 0.001717  [  640/ 1575]
+loss: 0.001289  [  800/ 1575]
+loss: 0.001142  [  960/ 1575]
+loss: 0.001569  [ 1120/ 1575]
+loss: 0.001382  [ 1280/ 1575]
+loss: 0.001359  [ 1440/ 1575]
+Test Error: 
+MSE: 20.494101
+RMSE: 4.527041
+MAE: 1.869408
+R^2: 0.9359285594491821
+loss: 0.001989  [    0/ 1575]
+loss: 0.001802  [  160/ 1575]
+loss: 0.001563  [  320/ 1575]
+loss: 0.001471  [  480/ 1575]
+loss: 0.001118  [  640/ 1575]
+loss: 0.000981  [  800/ 1575]
+loss: 0.000936  [  960/ 1575]
+loss: 0.001497  [ 1120/ 1575]
+loss: 0.001117  [ 1280/ 1575]
+loss: 0.000899  [ 1440/ 1575]
+Test Error: 
+MSE: 20.461296
+RMSE: 4.523416
+MAE: 1.869022
+R^2: 0.9360311167862949
+loss: 0.002525  [    0/ 1575]
+loss: 0.001220  [  160/ 1575]
+loss: 0.001209  [  320/ 1575]
+loss: 0.001858  [  480/ 1575]
+loss: 0.001322  [  640/ 1575]
+loss: 0.001682  [  800/ 1575]
+loss: 0.001341  [  960/ 1575]
+loss: 0.001036  [ 1120/ 1575]
+loss: 0.000726  [ 1280/ 1575]
+loss: 0.001252  [ 1440/ 1575]
+Test Error: 
+MSE: 20.730658
+RMSE: 4.553093
+MAE: 1.874338
+R^2: 0.9351890010688734
+loss: 0.001986  [    0/ 1575]
+loss: 0.001359  [  160/ 1575]
+loss: 0.001288  [  320/ 1575]
+loss: 0.000923  [  480/ 1575]
+loss: 0.001028  [  640/ 1575]
+loss: 0.001799  [  800/ 1575]
+loss: 0.000644  [  960/ 1575]
+loss: 0.001004  [ 1120/ 1575]
+loss: 0.000784  [ 1280/ 1575]
+loss: 0.001269  [ 1440/ 1575]
+Test Error: 
+MSE: 20.206261
+RMSE: 4.495137
+MAE: 1.866791
+R^2: 0.9368284438939817
+loss: 0.001009  [    0/ 1575]
+loss: 0.001626  [  160/ 1575]
+loss: 0.001686  [  320/ 1575]
+loss: 0.001072  [  480/ 1575]
+loss: 0.001544  [  640/ 1575]
+loss: 0.001180  [  800/ 1575]
+loss: 0.001276  [  960/ 1575]
+loss: 0.001689  [ 1120/ 1575]
+loss: 0.001451  [ 1280/ 1575]
+loss: 0.001042  [ 1440/ 1575]
+Test Error: 
+MSE: 20.659286
+RMSE: 4.545249
+MAE: 1.873603
+R^2: 0.9354121341837429
+loss: 0.001290  [    0/ 1575]
+loss: 0.001138  [  160/ 1575]
+loss: 0.000946  [  320/ 1575]
+loss: 0.001287  [  480/ 1575]
+loss: 0.001239  [  640/ 1575]
+loss: 0.001179  [  800/ 1575]
+loss: 0.001763  [  960/ 1575]
+loss: 0.002455  [ 1120/ 1575]
+loss: 0.001406  [ 1280/ 1575]
+loss: 0.001984  [ 1440/ 1575]
+Test Error: 
+MSE: 20.398291
+RMSE: 4.516447
+MAE: 1.867906
+R^2: 0.9362280944708324
+loss: 0.001714  [    0/ 1575]
+loss: 0.001015  [  160/ 1575]
+loss: 0.001143  [  320/ 1575]
+loss: 0.000918  [  480/ 1575]
+loss: 0.001163  [  640/ 1575]
+loss: 0.001397  [  800/ 1575]
+loss: 0.001348  [  960/ 1575]
+loss: 0.001472  [ 1120/ 1575]
+loss: 0.000943  [ 1280/ 1575]
+loss: 0.001641  [ 1440/ 1575]
+Test Error: 
+MSE: 21.046313
+RMSE: 4.587626
+MAE: 1.880897
+R^2: 0.9342021573829676
+loss: 0.001304  [    0/ 1575]
+loss: 0.001326  [  160/ 1575]
+loss: 0.001793  [  320/ 1575]
+loss: 0.001759  [  480/ 1575]
+loss: 0.001789  [  640/ 1575]
+loss: 0.001409  [  800/ 1575]
+loss: 0.001070  [  960/ 1575]
+loss: 0.001197  [ 1120/ 1575]
+loss: 0.001138  [ 1280/ 1575]
+loss: 0.001092  [ 1440/ 1575]
+Test Error: 
+MSE: 20.279088
+RMSE: 4.503231
+MAE: 1.866452
+R^2: 0.9366007625470044
+loss: 0.001010  [    0/ 1575]
+loss: 0.001188  [  160/ 1575]
+loss: 0.001414  [  320/ 1575]
+loss: 0.001556  [  480/ 1575]
+loss: 0.001673  [  640/ 1575]
+loss: 0.001439  [  800/ 1575]
+loss: 0.001068  [  960/ 1575]
+loss: 0.001386  [ 1120/ 1575]
+loss: 0.001813  [ 1280/ 1575]
+loss: 0.001667  [ 1440/ 1575]
+Test Error: 
+MSE: 20.186171
+RMSE: 4.492902
+MAE: 1.867642
+R^2: 0.9368912528590051
+loss: 0.000876  [    0/ 1575]
+loss: 0.001506  [  160/ 1575]
+loss: 0.000991  [  320/ 1575]
+loss: 0.001396  [  480/ 1575]
+loss: 0.001347  [  640/ 1575]
+loss: 0.001279  [  800/ 1575]
+loss: 0.001591  [  960/ 1575]
+loss: 0.001496  [ 1120/ 1575]
+loss: 0.001290  [ 1280/ 1575]
+loss: 0.001304  [ 1440/ 1575]
+Test Error: 
+MSE: 20.399559
+RMSE: 4.516587
+MAE: 1.867559
+R^2: 0.9362241297069698
+loss: 0.001346  [    0/ 1575]
+loss: 0.001538  [  160/ 1575]
+loss: 0.001238  [  320/ 1575]
+loss: 0.001145  [  480/ 1575]
+loss: 0.001267  [  640/ 1575]
+loss: 0.000971  [  800/ 1575]
+loss: 0.001360  [  960/ 1575]
+loss: 0.001131  [ 1120/ 1575]
+loss: 0.001471  [ 1280/ 1575]
+loss: 0.001776  [ 1440/ 1575]
+Test Error: 
+MSE: 20.256545
+RMSE: 4.500727
+MAE: 1.865389
+R^2: 0.9366712383212351
+loss: 0.001134  [    0/ 1575]
+loss: 0.000749  [  160/ 1575]
+loss: 0.001950  [  320/ 1575]
+loss: 0.001071  [  480/ 1575]
+loss: 0.001484  [  640/ 1575]
+loss: 0.001519  [  800/ 1575]
+loss: 0.001839  [  960/ 1575]
+loss: 0.001994  [ 1120/ 1575]
+loss: 0.001395  [ 1280/ 1575]
+loss: 0.001018  [ 1440/ 1575]
+Test Error: 
+MSE: 20.335155
+RMSE: 4.509452
+MAE: 1.867172
+R^2: 0.936425476811504
+loss: 0.001548  [    0/ 1575]
+loss: 0.001511  [  160/ 1575]
+loss: 0.000747  [  320/ 1575]
+loss: 0.001126  [  480/ 1575]
+loss: 0.001735  [  640/ 1575]
+loss: 0.001276  [  800/ 1575]
+loss: 0.001274  [  960/ 1575]
+loss: 0.000894  [ 1120/ 1575]
+loss: 0.001090  [ 1280/ 1575]
+loss: 0.001187  [ 1440/ 1575]
+Test Error: 
+MSE: 20.845469
+RMSE: 4.565684
+MAE: 1.877526
+R^2: 0.9348300658129556
+loss: 0.001905  [    0/ 1575]
+loss: 0.000961  [  160/ 1575]
+loss: 0.001941  [  320/ 1575]
+loss: 0.001257  [  480/ 1575]
+loss: 0.000748  [  640/ 1575]
+loss: 0.001216  [  800/ 1575]
+loss: 0.001395  [  960/ 1575]
+loss: 0.000678  [ 1120/ 1575]
+loss: 0.001431  [ 1280/ 1575]
+loss: 0.001068  [ 1440/ 1575]
+Test Error: 
+MSE: 20.839042
+RMSE: 4.564980
+MAE: 1.877006
+R^2: 0.9348501564975096
+loss: 0.001434  [    0/ 1575]
+loss: 0.000782  [  160/ 1575]
+loss: 0.001766  [  320/ 1575]
+loss: 0.000870  [  480/ 1575]
+loss: 0.001374  [  640/ 1575]
+loss: 0.001705  [  800/ 1575]
+loss: 0.001558  [  960/ 1575]
+loss: 0.001428  [ 1120/ 1575]
+loss: 0.000929  [ 1280/ 1575]
+loss: 0.001261  [ 1440/ 1575]
+Test Error: 
+MSE: 21.111426
+RMSE: 4.594717
+MAE: 1.882504
+R^2: 0.9339985923905475
+loss: 0.001297  [    0/ 1575]
+loss: 0.000995  [  160/ 1575]
+loss: 0.001471  [  320/ 1575]
+loss: 0.001475  [  480/ 1575]
+loss: 0.001139  [  640/ 1575]
+loss: 0.001423  [  800/ 1575]
+loss: 0.001372  [  960/ 1575]
+loss: 0.001630  [ 1120/ 1575]
+loss: 0.001510  [ 1280/ 1575]
+loss: 0.001047  [ 1440/ 1575]
+Test Error: 
+MSE: 20.273579
+RMSE: 4.502619
+MAE: 1.868249
+R^2: 0.9366179858908427
+loss: 0.001105  [    0/ 1575]
+loss: 0.001050  [  160/ 1575]
+loss: 0.001433  [  320/ 1575]
+loss: 0.000975  [  480/ 1575]
+loss: 0.001544  [  640/ 1575]
+loss: 0.001661  [  800/ 1575]
+loss: 0.001343  [  960/ 1575]
+loss: 0.001730  [ 1120/ 1575]
+loss: 0.001445  [ 1280/ 1575]
+loss: 0.001049  [ 1440/ 1575]
+Test Error: 
+MSE: 20.317707
+RMSE: 4.507517
+MAE: 1.866691
+R^2: 0.9364800247164844
+loss: 0.001379  [    0/ 1575]
+loss: 0.001295  [  160/ 1575]
+loss: 0.001941  [  320/ 1575]
+loss: 0.001119  [  480/ 1575]
+loss: 0.001372  [  640/ 1575]
+loss: 0.001206  [  800/ 1575]
+loss: 0.002264  [  960/ 1575]
+loss: 0.001548  [ 1120/ 1575]
+loss: 0.001564  [ 1280/ 1575]
+loss: 0.001492  [ 1440/ 1575]
+Test Error: 
+MSE: 20.297734
+RMSE: 4.505301
+MAE: 1.866778
+R^2: 0.936542467707584
+loss: 0.001357  [    0/ 1575]
+loss: 0.001803  [  160/ 1575]
+loss: 0.001324  [  320/ 1575]
+loss: 0.001045  [  480/ 1575]
+loss: 0.001630  [  640/ 1575]
+loss: 0.001087  [  800/ 1575]
+loss: 0.001627  [  960/ 1575]
+loss: 0.001465  [ 1120/ 1575]
+loss: 0.001013  [ 1280/ 1575]
+loss: 0.001542  [ 1440/ 1575]
+Test Error: 
+MSE: 20.300232
+RMSE: 4.505578
+MAE: 1.866157
+R^2: 0.936534657687326
+loss: 0.001296  [    0/ 1575]
+loss: 0.001001  [  160/ 1575]
+loss: 0.002340  [  320/ 1575]
+loss: 0.001042  [  480/ 1575]
+loss: 0.001834  [  640/ 1575]
+loss: 0.000727  [  800/ 1575]
+loss: 0.000797  [  960/ 1575]
+loss: 0.001513  [ 1120/ 1575]
+loss: 0.001641  [ 1280/ 1575]
+loss: 0.001193  [ 1440/ 1575]
+Test Error: 
+MSE: 20.229170
+RMSE: 4.497685
+MAE: 1.866647
+R^2: 0.9367568215268922
+loss: 0.001861  [    0/ 1575]
+loss: 0.001516  [  160/ 1575]
+loss: 0.001493  [  320/ 1575]
+loss: 0.001917  [  480/ 1575]
+loss: 0.001971  [  640/ 1575]
+loss: 0.001345  [  800/ 1575]
+loss: 0.001469  [  960/ 1575]
+loss: 0.000907  [ 1120/ 1575]
+loss: 0.000886  [ 1280/ 1575]
+loss: 0.001291  [ 1440/ 1575]
+Test Error: 
+MSE: 20.381705
+RMSE: 4.514610
+MAE: 1.867799
+R^2: 0.9362799469857727
+loss: 0.001141  [    0/ 1575]
+loss: 0.001153  [  160/ 1575]
+loss: 0.001160  [  320/ 1575]
+loss: 0.001914  [  480/ 1575]
+loss: 0.001257  [  640/ 1575]
+loss: 0.001110  [  800/ 1575]
+loss: 0.001758  [  960/ 1575]
+loss: 0.000962  [ 1120/ 1575]
+loss: 0.001352  [ 1280/ 1575]
+loss: 0.001046  [ 1440/ 1575]
+Test Error: 
+MSE: 20.781390
+RMSE: 4.558661
+MAE: 1.875970
+R^2: 0.9350303974071688
+loss: 0.000867  [    0/ 1575]
+loss: 0.001030  [  160/ 1575]
+loss: 0.001601  [  320/ 1575]
+loss: 0.001035  [  480/ 1575]
+loss: 0.001413  [  640/ 1575]
+loss: 0.001161  [  800/ 1575]
+loss: 0.001720  [  960/ 1575]
+loss: 0.001349  [ 1120/ 1575]
+loss: 0.000780  [ 1280/ 1575]
+loss: 0.001129  [ 1440/ 1575]
+Test Error: 
+MSE: 20.327870
+RMSE: 4.508644
+MAE: 1.869435
+R^2: 0.9364482521750774
+loss: 0.001485  [    0/ 1575]
+loss: 0.001601  [  160/ 1575]
+loss: 0.001598  [  320/ 1575]
+loss: 0.001219  [  480/ 1575]
+loss: 0.001742  [  640/ 1575]
+loss: 0.001740  [  800/ 1575]
+loss: 0.001328  [  960/ 1575]
+loss: 0.000889  [ 1120/ 1575]
+loss: 0.001127  [ 1280/ 1575]
+loss: 0.001754  [ 1440/ 1575]
+Test Error: 
+MSE: 20.252786
+RMSE: 4.500310
+MAE: 1.867651
+R^2: 0.9366829900945126
+loss: 0.001417  [    0/ 1575]
+loss: 0.001370  [  160/ 1575]
+loss: 0.001718  [  320/ 1575]
+loss: 0.000827  [  480/ 1575]
+loss: 0.001699  [  640/ 1575]
+loss: 0.000916  [  800/ 1575]
+loss: 0.000785  [  960/ 1575]
+loss: 0.001349  [ 1120/ 1575]
+loss: 0.001496  [ 1280/ 1575]
+loss: 0.000692  [ 1440/ 1575]
+Test Error: 
+MSE: 20.243346
+RMSE: 4.499261
+MAE: 1.867378
+R^2: 0.9367125023599023
+loss: 0.001334  [    0/ 1575]
+loss: 0.001548  [  160/ 1575]
+loss: 0.001266  [  320/ 1575]
+loss: 0.001568  [  480/ 1575]
+loss: 0.001181  [  640/ 1575]
+loss: 0.001350  [  800/ 1575]
+loss: 0.001352  [  960/ 1575]
+loss: 0.001184  [ 1120/ 1575]
+loss: 0.001012  [ 1280/ 1575]
+loss: 0.001035  [ 1440/ 1575]
+Test Error: 
+MSE: 20.395707
+RMSE: 4.516161
+MAE: 1.869523
+R^2: 0.9362361705763583
+loss: 0.001139  [    0/ 1575]
+loss: 0.001030  [  160/ 1575]
+loss: 0.001321  [  320/ 1575]
+loss: 0.001005  [  480/ 1575]
+loss: 0.001200  [  640/ 1575]
+loss: 0.001355  [  800/ 1575]
+loss: 0.001116  [  960/ 1575]
+loss: 0.001577  [ 1120/ 1575]
+loss: 0.001608  [ 1280/ 1575]
+loss: 0.001245  [ 1440/ 1575]
+Test Error: 
+MSE: 20.304282
+RMSE: 4.506027
+MAE: 1.867141
+R^2: 0.9365219953554049
+loss: 0.001685  [    0/ 1575]
+loss: 0.001316  [  160/ 1575]
+loss: 0.001471  [  320/ 1575]
+loss: 0.001494  [  480/ 1575]
+loss: 0.001092  [  640/ 1575]
+loss: 0.001223  [  800/ 1575]
+loss: 0.001738  [  960/ 1575]
+loss: 0.001487  [ 1120/ 1575]
+loss: 0.002280  [ 1280/ 1575]
+loss: 0.001471  [ 1440/ 1575]
+Test Error: 
+MSE: 20.274483
+RMSE: 4.502719
+MAE: 1.867029
+R^2: 0.9366151598702592
+loss: 0.001759  [    0/ 1575]
+loss: 0.001727  [  160/ 1575]
+loss: 0.001032  [  320/ 1575]
+loss: 0.000910  [  480/ 1575]
+loss: 0.001531  [  640/ 1575]
+loss: 0.001178  [  800/ 1575]
+loss: 0.001295  [  960/ 1575]
+loss: 0.001140  [ 1120/ 1575]
+loss: 0.001154  [ 1280/ 1575]
+loss: 0.001233  [ 1440/ 1575]
+Test Error: 
+MSE: 20.398887
+RMSE: 4.516513
+MAE: 1.869100
+R^2: 0.9362262290000714
+loss: 0.001091  [    0/ 1575]
+loss: 0.000633  [  160/ 1575]
+loss: 0.001655  [  320/ 1575]
+loss: 0.001010  [  480/ 1575]
+loss: 0.001296  [  640/ 1575]
+loss: 0.002216  [  800/ 1575]
+loss: 0.001632  [  960/ 1575]
+loss: 0.000715  [ 1120/ 1575]
+loss: 0.000978  [ 1280/ 1575]
+loss: 0.001104  [ 1440/ 1575]
+Test Error: 
+MSE: 20.507565
+RMSE: 4.528528
+MAE: 1.870005
+R^2: 0.935886465200435
+loss: 0.001309  [    0/ 1575]
+loss: 0.000558  [  160/ 1575]
+loss: 0.000981  [  320/ 1575]
+loss: 0.001553  [  480/ 1575]
+loss: 0.000840  [  640/ 1575]
+loss: 0.000946  [  800/ 1575]
+loss: 0.001174  [  960/ 1575]
+loss: 0.000921  [ 1120/ 1575]
+loss: 0.001414  [ 1280/ 1575]
+loss: 0.001735  [ 1440/ 1575]
+Test Error: 
+MSE: 20.596318
+RMSE: 4.538317
+MAE: 1.872813
+R^2: 0.9356089944740376
+loss: 0.001519  [    0/ 1575]
+loss: 0.000690  [  160/ 1575]
+loss: 0.001466  [  320/ 1575]
+loss: 0.001648  [  480/ 1575]
+loss: 0.001854  [  640/ 1575]
+loss: 0.001063  [  800/ 1575]
+loss: 0.001111  [  960/ 1575]
+loss: 0.001927  [ 1120/ 1575]
+loss: 0.000867  [ 1280/ 1575]
+loss: 0.001434  [ 1440/ 1575]
+Test Error: 
+MSE: 20.331275
+RMSE: 4.509021
+MAE: 1.866919
+R^2: 0.9364376085831588
+loss: 0.001102  [    0/ 1575]
+loss: 0.000977  [  160/ 1575]
+loss: 0.001625  [  320/ 1575]
+loss: 0.001055  [  480/ 1575]
+loss: 0.001347  [  640/ 1575]
+loss: 0.001856  [  800/ 1575]
+loss: 0.001317  [  960/ 1575]
+loss: 0.001307  [ 1120/ 1575]
+loss: 0.001172  [ 1280/ 1575]
+loss: 0.002063  [ 1440/ 1575]
+Test Error: 
+MSE: 20.295730
+RMSE: 4.505078
+MAE: 1.867824
+R^2: 0.9365487340541466
+loss: 0.001097  [    0/ 1575]
+loss: 0.001787  [  160/ 1575]
+loss: 0.000981  [  320/ 1575]
+loss: 0.001336  [  480/ 1575]
+loss: 0.000888  [  640/ 1575]
+loss: 0.001336  [  800/ 1575]
+loss: 0.000769  [  960/ 1575]
+loss: 0.001245  [ 1120/ 1575]
+loss: 0.001427  [ 1280/ 1575]
+loss: 0.001337  [ 1440/ 1575]
+Test Error: 
+MSE: 20.363829
+RMSE: 4.512630
+MAE: 1.868358
+R^2: 0.9363358332944588
+Done!
+Best layer weights found were: [0.03900271 0.03922934 0.03929465 0.03936171 0.0400715  0.04045114
+ 0.04068812 0.04073191 0.04096849 0.04111529 0.04088975 0.04088518
+ 0.04055711 0.0402389  0.04040669 0.03988305 0.03971922 0.03967607
+ 0.04034878 0.03982828 0.03987191 0.03942666 0.0387583  0.0388898
+ 0.03970549]
+Layer Weights: tensor([0.0390, 0.0393, 0.0394, 0.0394, 0.0402, 0.0406, 0.0408, 0.0408, 0.0411,
+        0.0413, 0.0409, 0.0409, 0.0406, 0.0402, 0.0403, 0.0396, 0.0395, 0.0395,
+        0.0405, 0.0398, 0.0399, 0.0394, 0.0387, 0.0388, 0.0397],
+       grad_fn=<SoftmaxBackward0>)
+Layer Weights (Unnormalized): Parameter containing:
+tensor([-0.0220, -0.0128, -0.0111, -0.0101,  0.0093,  0.0179,  0.0240,  0.0250,
+         0.0314,  0.0353,  0.0271,  0.0258,  0.0187,  0.0087,  0.0122, -0.0047,
+        -0.0088, -0.0085,  0.0157, -0.0008,  0.0008, -0.0108, -0.0300, -0.0263,
+        -0.0036], requires_grad=True)
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_large_ls960_1664841166_FINAL.pt

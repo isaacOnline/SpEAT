@@ -1,0 +1,18 @@
+Using learning rate: 1e-05
+Using sequence aggregation method: mean
+Using optimizer: adam
+Using cpu device
+DimensionPredictor(
+  (softmax): Softmax(dim=0)
+  (first_projection): Linear(in_features=1280, out_features=256, bias=True)
+  (second_projection): Linear(in_features=256, out_features=1, bias=True)
+)
+loss: 0.165721  [    0/ 1575]
+loss: 0.029733  [  160/ 1575]
+loss: 0.033627  [  320/ 1575]
+loss: 0.037616  [  480/ 1575]
+loss: 0.030339  [  640/ 1575]
+loss: 0.032301  [  800/ 1575]
+loss: 0.024923  [  960/ 1575]
+loss: 0.026519  [ 1120/ 1575]
+loss: 0.031780  [ 1280/ 1575]

@@ -1,0 +1,25 @@
+Using learning rate: 0.0005
+Using sequence aggregation method: mean
+Using optimizer: adam
+Using cpu device
+DimensionPredictor(
+  (softmax): Softmax(dim=0)
+  (first_projection): Linear(in_features=768, out_features=256, bias=True)
+  (second_projection): Linear(in_features=256, out_features=1, bias=True)
+)
+loss: 0.279082  [    0/ 1575]
+loss: 0.033185  [  160/ 1575]
+loss: 0.065776  [  320/ 1575]
+loss: 0.023606  [  480/ 1575]
+loss: 0.038679  [  640/ 1575]
+loss: 0.026565  [  800/ 1575]
+loss: 0.017110  [  960/ 1575]
+loss: 0.014324  [ 1120/ 1575]
+loss: 0.012331  [ 1280/ 1575]
+loss: 0.010327  [ 1440/ 1575]
+Test Error: 
+MSE: 130.994142
+RMSE: 11.445267
+MAE: 3.114108
+R^2: 0.5904683261587045
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_wav2vec2_base_1670540409_BEST.pt

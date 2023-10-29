@@ -1,0 +1,46 @@
+Using learning rate: 0.0001
+Using sequence aggregation method: mean
+Using optimizer: adam
+Using cpu device
+DimensionPredictor(
+  (softmax): Softmax(dim=0)
+  (first_projection): Linear(in_features=1280, out_features=256, bias=True)
+  (second_projection): Linear(in_features=256, out_features=1, bias=True)
+)
+loss: 3.039710  [    0/ 1575]
+loss: 2.883020  [  160/ 1575]
+loss: 1.355583  [  320/ 1575]
+loss: 0.821375  [  480/ 1575]
+loss: 0.273238  [  640/ 1575]
+loss: 0.194221  [  800/ 1575]
+loss: 0.166647  [  960/ 1575]
+loss: 0.232763  [ 1120/ 1575]
+loss: 0.237089  [ 1280/ 1575]
+loss: 0.171476  [ 1440/ 1575]
+Test Error: 
+MSE: 1401.293445
+RMSE: 37.433854
+MAE: 5.399428
+R^2: -3.3809138307549818
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_xtralarge_ll60k_1662750492_BEST.pt
+loss: 0.128945  [    0/ 1575]
+loss: 0.085138  [  160/ 1575]
+loss: 0.191555  [  320/ 1575]
+loss: 0.100044  [  480/ 1575]
+loss: 0.126283  [  640/ 1575]
+loss: 0.098320  [  800/ 1575]
+loss: 0.061677  [  960/ 1575]
+loss: 0.072570  [ 1120/ 1575]
+loss: 0.078152  [ 1280/ 1575]
+loss: 0.112048  [ 1440/ 1575]
+Test Error: 
+MSE: 865.836755
+RMSE: 29.425104
+MAE: 4.797235
+R^2: -1.706896425656919
+Saved PyTorch Model State to dimension_models/model_objects/morgan_emotional_speech_set_valence_hubert_xtralarge_ll60k_1662750492_BEST.pt
+loss: 0.093595  [    0/ 1575]
+loss: 0.109431  [  160/ 1575]
+loss: 0.058298  [  320/ 1575]
+loss: 0.095190  [  480/ 1575]
+loss: 0.091463  [  640/ 1575]

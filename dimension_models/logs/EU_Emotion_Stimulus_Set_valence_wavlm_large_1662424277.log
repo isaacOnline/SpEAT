@@ -1,0 +1,88 @@
+Using learning rate: 0.0001
+Using sequence aggregation method: mean
+Using optimizer: adam
+Using cpu device
+DimensionPredictor(
+  (softmax): Softmax(dim=0)
+  (first_projection): Linear(in_features=1024, out_features=256, bias=True)
+  (second_projection): Linear(in_features=256, out_features=1, bias=True)
+)
+loss: 0.518099  [    0/  385]
+loss: 0.498211  [  160/  385]
+loss: 0.205463  [  320/  385]
+Test Error: 
+MSE: 2.585736
+RMSE: 1.608022
+MAE: 1.134724
+R^2: -7.84434365177661
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_large_1662424277_BEST.pt
+loss: 0.107775  [    0/  385]
+loss: 0.085002  [  160/  385]
+loss: 0.053236  [  320/  385]
+Test Error: 
+MSE: 1.118308
+RMSE: 1.057501
+MAE: 0.924794
+R^2: -2.8251007889925703
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_large_1662424277_BEST.pt
+loss: 0.079146  [    0/  385]
+loss: 0.057042  [  160/  385]
+loss: 0.049579  [  320/  385]
+Test Error: 
+MSE: 0.780315
+RMSE: 0.883355
+MAE: 0.821855
+R^2: -1.6690184554275236
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_large_1662424277_BEST.pt
+loss: 0.044041  [    0/  385]
+loss: 0.049922  [  160/  385]
+loss: 0.049090  [  320/  385]
+Test Error: 
+MSE: 0.915991
+RMSE: 0.957074
+MAE: 0.855229
+R^2: -2.133090011391322
+loss: 0.038848  [    0/  385]
+loss: 0.043668  [  160/  385]
+loss: 0.021941  [  320/  385]
+Test Error: 
+MSE: 0.697063
+RMSE: 0.834903
+MAE: 0.803385
+R^2: -1.3842603536185858
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_large_1662424277_BEST.pt
+loss: 0.022295  [    0/  385]
+loss: 0.031783  [  160/  385]
+loss: 0.035430  [  320/  385]
+Test Error: 
+MSE: 0.816557
+RMSE: 0.903635
+MAE: 0.869228
+R^2: -1.792980107066953
+loss: 0.057352  [    0/  385]
+loss: 0.044167  [  160/  385]
+loss: 0.030306  [  320/  385]
+Test Error: 
+MSE: 0.423285
+RMSE: 0.650603
+MAE: 0.711862
+R^2: -0.44781825295448385
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_large_1662424277_BEST.pt
+loss: 0.024474  [    0/  385]
+loss: 0.030071  [  160/  385]
+loss: 0.021402  [  320/  385]
+Test Error: 
+MSE: 0.600880
+RMSE: 0.775165
+MAE: 0.797857
+R^2: -1.055273062173384
+loss: 0.032112  [    0/  385]
+loss: 0.008039  [  160/  385]
+loss: 0.022319  [  320/  385]
+Test Error: 
+MSE: 0.364158
+RMSE: 0.603455
+MAE: 0.690949
+R^2: -0.2455774770011987
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_wavlm_large_1662424277_BEST.pt
+loss: 0.017490  [    0/  385]

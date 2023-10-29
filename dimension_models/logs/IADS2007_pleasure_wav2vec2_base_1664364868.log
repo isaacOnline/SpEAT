@@ -1,0 +1,3523 @@
+Using learning rate: 1e-05
+Using sequence aggregation method: mean
+Using optimizer: adam
+Using cpu device
+DimensionPredictor(
+  (softmax): Softmax(dim=0)
+  (first_projection): Linear(in_features=768, out_features=256, bias=True)
+  (second_projection): Linear(in_features=256, out_features=1, bias=True)
+)
+loss: 0.333484  [    0/  147]
+Test Error: 
+MSE: 15.403777
+RMSE: 3.924765
+MAE: 1.893879
+R^2: -5.4933393186928
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.344346  [    0/  147]
+Test Error: 
+MSE: 14.106894
+RMSE: 3.755915
+MAE: 1.844422
+R^2: -4.946648602698913
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.331374  [    0/  147]
+Test Error: 
+MSE: 12.894853
+RMSE: 3.590940
+MAE: 1.794081
+R^2: -4.435722370096877
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.254235  [    0/  147]
+Test Error: 
+MSE: 11.773293
+RMSE: 3.431223
+MAE: 1.743080
+R^2: -3.9629375962580786
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.232612  [    0/  147]
+Test Error: 
+MSE: 10.741343
+RMSE: 3.277399
+MAE: 1.691479
+R^2: -3.5279273555562467
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.213121  [    0/  147]
+Test Error: 
+MSE: 9.805612
+RMSE: 3.131391
+MAE: 1.639912
+R^2: -3.1334773745663664
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.150694  [    0/  147]
+Test Error: 
+MSE: 8.955880
+RMSE: 2.992638
+MAE: 1.593619
+R^2: -2.775279727766998
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.187167  [    0/  147]
+Test Error: 
+MSE: 8.181533
+RMSE: 2.860338
+MAE: 1.550053
+R^2: -2.448859973339173
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.170657  [    0/  147]
+Test Error: 
+MSE: 7.487768
+RMSE: 2.736379
+MAE: 1.511827
+R^2: -2.1564088804148986
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.134531  [    0/  147]
+Test Error: 
+MSE: 6.864854
+RMSE: 2.620087
+MAE: 1.473671
+R^2: -1.8938245226586847
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.150234  [    0/  147]
+Test Error: 
+MSE: 6.317558
+RMSE: 2.513475
+MAE: 1.440662
+R^2: -1.6631159648004226
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.130092  [    0/  147]
+Test Error: 
+MSE: 5.839597
+RMSE: 2.416526
+MAE: 1.408694
+R^2: -1.4616354178795046
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.119459  [    0/  147]
+Test Error: 
+MSE: 5.427401
+RMSE: 2.329678
+MAE: 1.377715
+R^2: -1.287877542225679
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.093508  [    0/  147]
+Test Error: 
+MSE: 5.063909
+RMSE: 2.250313
+MAE: 1.346938
+R^2: -1.1346504931414545
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.128068  [    0/  147]
+Test Error: 
+MSE: 4.755362
+RMSE: 2.180679
+MAE: 1.318593
+R^2: -1.004584744012432
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.080211  [    0/  147]
+Test Error: 
+MSE: 4.487503
+RMSE: 2.118373
+MAE: 1.294772
+R^2: -0.8916708922559342
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.064765  [    0/  147]
+Test Error: 
+MSE: 4.263092
+RMSE: 2.064726
+MAE: 1.272033
+R^2: -0.7970726028714137
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.074001  [    0/  147]
+Test Error: 
+MSE: 4.071785
+RMSE: 2.017867
+MAE: 1.249898
+R^2: -0.7164286345929236
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.066549  [    0/  147]
+Test Error: 
+MSE: 3.915415
+RMSE: 1.978741
+MAE: 1.229148
+R^2: -0.6505119390792959
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.065768  [    0/  147]
+Test Error: 
+MSE: 3.782132
+RMSE: 1.944770
+MAE: 1.213691
+R^2: -0.5943275033174988
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.065341  [    0/  147]
+Test Error: 
+MSE: 3.670459
+RMSE: 1.915844
+MAE: 1.198629
+R^2: -0.5472527699410565
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.070490  [    0/  147]
+Test Error: 
+MSE: 3.580297
+RMSE: 1.892167
+MAE: 1.184429
+R^2: -0.5092457015898106
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.061723  [    0/  147]
+Test Error: 
+MSE: 3.511352
+RMSE: 1.873860
+MAE: 1.171901
+R^2: -0.48018249337909924
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.056196  [    0/  147]
+Test Error: 
+MSE: 3.455481
+RMSE: 1.858892
+MAE: 1.163699
+R^2: -0.4566303895085462
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.051607  [    0/  147]
+Test Error: 
+MSE: 3.410822
+RMSE: 1.846841
+MAE: 1.160279
+R^2: -0.43780495134097386
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.071640  [    0/  147]
+Test Error: 
+MSE: 3.375641
+RMSE: 1.837292
+MAE: 1.158759
+R^2: -0.4229745611769551
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.055750  [    0/  147]
+Test Error: 
+MSE: 3.348041
+RMSE: 1.829765
+MAE: 1.159945
+R^2: -0.411339796518188
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.068941  [    0/  147]
+Test Error: 
+MSE: 3.326541
+RMSE: 1.823881
+MAE: 1.160840
+R^2: -0.4022769750547557
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.059742  [    0/  147]
+Test Error: 
+MSE: 3.310667
+RMSE: 1.819524
+MAE: 1.161761
+R^2: -0.39558508245478197
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.077416  [    0/  147]
+Test Error: 
+MSE: 3.297044
+RMSE: 1.815776
+MAE: 1.162218
+R^2: -0.38984244473302776
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.054394  [    0/  147]
+Test Error: 
+MSE: 3.286860
+RMSE: 1.812970
+MAE: 1.162675
+R^2: -0.3855497044225502
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.062397  [    0/  147]
+Test Error: 
+MSE: 3.277573
+RMSE: 1.810407
+MAE: 1.162771
+R^2: -0.38163485926444274
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.057390  [    0/  147]
+Test Error: 
+MSE: 3.270526
+RMSE: 1.808460
+MAE: 1.162865
+R^2: -0.3786640613786374
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.042125  [    0/  147]
+Test Error: 
+MSE: 3.263534
+RMSE: 1.806525
+MAE: 1.162747
+R^2: -0.37571669084824433
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.066646  [    0/  147]
+Test Error: 
+MSE: 3.254406
+RMSE: 1.803997
+MAE: 1.162291
+R^2: -0.3718689267905868
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.042784  [    0/  147]
+Test Error: 
+MSE: 3.246668
+RMSE: 1.801851
+MAE: 1.161868
+R^2: -0.36860689358627474
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.056151  [    0/  147]
+Test Error: 
+MSE: 3.238064
+RMSE: 1.799462
+MAE: 1.161232
+R^2: -0.36498021619555576
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.073817  [    0/  147]
+Test Error: 
+MSE: 3.231184
+RMSE: 1.797549
+MAE: 1.160714
+R^2: -0.36207988573960215
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.055121  [    0/  147]
+Test Error: 
+MSE: 3.223407
+RMSE: 1.795385
+MAE: 1.159998
+R^2: -0.3588016622942858
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.067659  [    0/  147]
+Test Error: 
+MSE: 3.215119
+RMSE: 1.793075
+MAE: 1.159255
+R^2: -0.3553079438936342
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.058184  [    0/  147]
+Test Error: 
+MSE: 3.206770
+RMSE: 1.790746
+MAE: 1.158445
+R^2: -0.35178816955496206
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.045152  [    0/  147]
+Test Error: 
+MSE: 3.198555
+RMSE: 1.788450
+MAE: 1.157636
+R^2: -0.3483251521656092
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.046009  [    0/  147]
+Test Error: 
+MSE: 3.190782
+RMSE: 1.786276
+MAE: 1.156837
+R^2: -0.3450488472435784
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.074750  [    0/  147]
+Test Error: 
+MSE: 3.184088
+RMSE: 1.784401
+MAE: 1.156146
+R^2: -0.3422269295070042
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.068897  [    0/  147]
+Test Error: 
+MSE: 3.177043
+RMSE: 1.782426
+MAE: 1.155363
+R^2: -0.3392572241127674
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.053622  [    0/  147]
+Test Error: 
+MSE: 3.173179
+RMSE: 1.781342
+MAE: 1.154830
+R^2: -0.33762812417887234
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.063115  [    0/  147]
+Test Error: 
+MSE: 3.164789
+RMSE: 1.778985
+MAE: 1.153902
+R^2: -0.33409142861306473
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.080936  [    0/  147]
+Test Error: 
+MSE: 3.157045
+RMSE: 1.776808
+MAE: 1.152994
+R^2: -0.3308271463613359
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.052522  [    0/  147]
+Test Error: 
+MSE: 3.150266
+RMSE: 1.774899
+MAE: 1.152126
+R^2: -0.3279693170052691
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.053555  [    0/  147]
+Test Error: 
+MSE: 3.143515
+RMSE: 1.772996
+MAE: 1.151259
+R^2: -0.3251237310168753
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.067842  [    0/  147]
+Test Error: 
+MSE: 3.134797
+RMSE: 1.770536
+MAE: 1.150320
+R^2: -0.32144881704217454
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.075019  [    0/  147]
+Test Error: 
+MSE: 3.123110
+RMSE: 1.767232
+MAE: 1.149108
+R^2: -0.31652223319250905
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.051443  [    0/  147]
+Test Error: 
+MSE: 3.112530
+RMSE: 1.764237
+MAE: 1.147890
+R^2: -0.3120623822663051
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.057886  [    0/  147]
+Test Error: 
+MSE: 3.102217
+RMSE: 1.761311
+MAE: 1.146735
+R^2: -0.3077146837117053
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.051628  [    0/  147]
+Test Error: 
+MSE: 3.089556
+RMSE: 1.757713
+MAE: 1.145417
+R^2: -0.30237764102255826
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.048940  [    0/  147]
+Test Error: 
+MSE: 3.077562
+RMSE: 1.754298
+MAE: 1.144142
+R^2: -0.2973219045425919
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.056211  [    0/  147]
+Test Error: 
+MSE: 3.066281
+RMSE: 1.751080
+MAE: 1.142933
+R^2: -0.2925663762913431
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.065288  [    0/  147]
+Test Error: 
+MSE: 3.055521
+RMSE: 1.748005
+MAE: 1.141778
+R^2: -0.2880305893858137
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.038285  [    0/  147]
+Test Error: 
+MSE: 3.048222
+RMSE: 1.745916
+MAE: 1.140863
+R^2: -0.28495366665990973
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.055319  [    0/  147]
+Test Error: 
+MSE: 3.038682
+RMSE: 1.743182
+MAE: 1.139706
+R^2: -0.28093209834099464
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.047432  [    0/  147]
+Test Error: 
+MSE: 3.033186
+RMSE: 1.741604
+MAE: 1.138968
+R^2: -0.2786152112822491
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.049762  [    0/  147]
+Test Error: 
+MSE: 3.026581
+RMSE: 1.739707
+MAE: 1.138107
+R^2: -0.27583097077746954
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.048557  [    0/  147]
+Test Error: 
+MSE: 3.017712
+RMSE: 1.737156
+MAE: 1.137070
+R^2: -0.2720923535363129
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.056925  [    0/  147]
+Test Error: 
+MSE: 3.009152
+RMSE: 1.734691
+MAE: 1.136320
+R^2: -0.26848391915557124
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.056147  [    0/  147]
+Test Error: 
+MSE: 2.999036
+RMSE: 1.731772
+MAE: 1.135354
+R^2: -0.26421952029727214
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.053894  [    0/  147]
+Test Error: 
+MSE: 2.992530
+RMSE: 1.729893
+MAE: 1.134737
+R^2: -0.26147724884991375
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.053503  [    0/  147]
+Test Error: 
+MSE: 2.986976
+RMSE: 1.728287
+MAE: 1.134226
+R^2: -0.2591358969232307
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.057463  [    0/  147]
+Test Error: 
+MSE: 2.984284
+RMSE: 1.727508
+MAE: 1.134045
+R^2: -0.2580012457776626
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.046056  [    0/  147]
+Test Error: 
+MSE: 2.979828
+RMSE: 1.726218
+MAE: 1.133579
+R^2: -0.2561225212017424
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.047688  [    0/  147]
+Test Error: 
+MSE: 2.971265
+RMSE: 1.723736
+MAE: 1.132738
+R^2: -0.25251287315487403
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.047956  [    0/  147]
+Test Error: 
+MSE: 2.963418
+RMSE: 1.721458
+MAE: 1.131926
+R^2: -0.24920525538826444
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.053362  [    0/  147]
+Test Error: 
+MSE: 2.955361
+RMSE: 1.719116
+MAE: 1.131157
+R^2: -0.2458089475848264
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.044435  [    0/  147]
+Test Error: 
+MSE: 2.949732
+RMSE: 1.717478
+MAE: 1.130616
+R^2: -0.24343603841930062
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.047854  [    0/  147]
+Test Error: 
+MSE: 2.940807
+RMSE: 1.714878
+MAE: 1.129652
+R^2: -0.23967368438691272
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.038680  [    0/  147]
+Test Error: 
+MSE: 2.934177
+RMSE: 1.712944
+MAE: 1.128972
+R^2: -0.23687896103403538
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.037241  [    0/  147]
+Test Error: 
+MSE: 2.928204
+RMSE: 1.711200
+MAE: 1.128273
+R^2: -0.23436093586706375
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.044442  [    0/  147]
+Test Error: 
+MSE: 2.918215
+RMSE: 1.708278
+MAE: 1.127106
+R^2: -0.2301503701225196
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.053578  [    0/  147]
+Test Error: 
+MSE: 2.912257
+RMSE: 1.706534
+MAE: 1.126453
+R^2: -0.22763876523366866
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.055980  [    0/  147]
+Test Error: 
+MSE: 2.904514
+RMSE: 1.704264
+MAE: 1.125509
+R^2: -0.22437489091610585
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.056404  [    0/  147]
+Test Error: 
+MSE: 2.902471
+RMSE: 1.703664
+MAE: 1.125388
+R^2: -0.22351349357661388
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.041305  [    0/  147]
+Test Error: 
+MSE: 2.899081
+RMSE: 1.702669
+MAE: 1.125035
+R^2: -0.22208458075878967
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.046458  [    0/  147]
+Test Error: 
+MSE: 2.893866
+RMSE: 1.701137
+MAE: 1.124504
+R^2: -0.2198860763687327
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.044836  [    0/  147]
+Test Error: 
+MSE: 2.890316
+RMSE: 1.700093
+MAE: 1.124153
+R^2: -0.21838976555908052
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.050294  [    0/  147]
+Test Error: 
+MSE: 2.887725
+RMSE: 1.699331
+MAE: 1.123870
+R^2: -0.21729758033210778
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.045625  [    0/  147]
+Test Error: 
+MSE: 2.879639
+RMSE: 1.696950
+MAE: 1.122944
+R^2: -0.21388870774838575
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.048182  [    0/  147]
+Test Error: 
+MSE: 2.877023
+RMSE: 1.696179
+MAE: 1.122582
+R^2: -0.21278602594873752
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.050991  [    0/  147]
+Test Error: 
+MSE: 2.873854
+RMSE: 1.695245
+MAE: 1.122329
+R^2: -0.2114503200885811
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.041475  [    0/  147]
+Test Error: 
+MSE: 2.874756
+RMSE: 1.695511
+MAE: 1.122862
+R^2: -0.21183058546861466
+loss: 0.054257  [    0/  147]
+Test Error: 
+MSE: 2.870862
+RMSE: 1.694362
+MAE: 1.122497
+R^2: -0.21018908823127713
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.052563  [    0/  147]
+Test Error: 
+MSE: 2.865488
+RMSE: 1.692775
+MAE: 1.121908
+R^2: -0.20792374373034717
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.056685  [    0/  147]
+Test Error: 
+MSE: 2.860061
+RMSE: 1.691172
+MAE: 1.121275
+R^2: -0.20563602784482438
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.053052  [    0/  147]
+Test Error: 
+MSE: 2.854495
+RMSE: 1.689525
+MAE: 1.120703
+R^2: -0.2032896012322909
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.045593  [    0/  147]
+Test Error: 
+MSE: 2.851202
+RMSE: 1.688550
+MAE: 1.120499
+R^2: -0.20190136749315224
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.047757  [    0/  147]
+Test Error: 
+MSE: 2.840533
+RMSE: 1.685388
+MAE: 1.118754
+R^2: -0.19740413213995756
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.038204  [    0/  147]
+Test Error: 
+MSE: 2.837883
+RMSE: 1.684602
+MAE: 1.118605
+R^2: -0.19628686176668708
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.056072  [    0/  147]
+Test Error: 
+MSE: 2.834528
+RMSE: 1.683606
+MAE: 1.118333
+R^2: -0.19487260882759228
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.054847  [    0/  147]
+Test Error: 
+MSE: 2.831556
+RMSE: 1.682723
+MAE: 1.118142
+R^2: -0.1936198616919853
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.036766  [    0/  147]
+Test Error: 
+MSE: 2.830838
+RMSE: 1.682509
+MAE: 1.118206
+R^2: -0.19331701478093644
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.051785  [    0/  147]
+Test Error: 
+MSE: 2.825113
+RMSE: 1.680807
+MAE: 1.117551
+R^2: -0.19090398698473754
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.044427  [    0/  147]
+Test Error: 
+MSE: 2.819733
+RMSE: 1.679206
+MAE: 1.116918
+R^2: -0.1886359542373084
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.037220  [    0/  147]
+Test Error: 
+MSE: 2.816460
+RMSE: 1.678231
+MAE: 1.116545
+R^2: -0.1872561324930695
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.047206  [    0/  147]
+Test Error: 
+MSE: 2.816669
+RMSE: 1.678293
+MAE: 1.116943
+R^2: -0.18734428581007534
+loss: 0.041597  [    0/  147]
+Test Error: 
+MSE: 2.810527
+RMSE: 1.676463
+MAE: 1.116066
+R^2: -0.18475511665050992
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.048798  [    0/  147]
+Test Error: 
+MSE: 2.808891
+RMSE: 1.675975
+MAE: 1.116073
+R^2: -0.18406553189962382
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.039458  [    0/  147]
+Test Error: 
+MSE: 2.811330
+RMSE: 1.676702
+MAE: 1.116711
+R^2: -0.18509366348117062
+loss: 0.046420  [    0/  147]
+Test Error: 
+MSE: 2.810603
+RMSE: 1.676485
+MAE: 1.116606
+R^2: -0.18478724788563983
+loss: 0.038921  [    0/  147]
+Test Error: 
+MSE: 2.808262
+RMSE: 1.675787
+MAE: 1.116290
+R^2: -0.183800590579555
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.034206  [    0/  147]
+Test Error: 
+MSE: 2.809484
+RMSE: 1.676152
+MAE: 1.116607
+R^2: -0.1843155648786432
+loss: 0.039470  [    0/  147]
+Test Error: 
+MSE: 2.811246
+RMSE: 1.676677
+MAE: 1.117151
+R^2: -0.18505818290286724
+loss: 0.052218  [    0/  147]
+Test Error: 
+MSE: 2.808588
+RMSE: 1.675884
+MAE: 1.116832
+R^2: -0.18393786767812226
+loss: 0.044099  [    0/  147]
+Test Error: 
+MSE: 2.809184
+RMSE: 1.676062
+MAE: 1.117081
+R^2: -0.1841892631902502
+loss: 0.034009  [    0/  147]
+Test Error: 
+MSE: 2.808042
+RMSE: 1.675721
+MAE: 1.117008
+R^2: -0.1837078193545385
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.051165  [    0/  147]
+Test Error: 
+MSE: 2.806667
+RMSE: 1.675311
+MAE: 1.116972
+R^2: -0.1831281306420236
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.053598  [    0/  147]
+Test Error: 
+MSE: 2.806322
+RMSE: 1.675208
+MAE: 1.117132
+R^2: -0.1829827853481094
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.052597  [    0/  147]
+Test Error: 
+MSE: 2.801074
+RMSE: 1.673641
+MAE: 1.116315
+R^2: -0.18077025679079695
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.049305  [    0/  147]
+Test Error: 
+MSE: 2.797958
+RMSE: 1.672710
+MAE: 1.115819
+R^2: -0.17945669687083843
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.048809  [    0/  147]
+Test Error: 
+MSE: 2.787110
+RMSE: 1.669464
+MAE: 1.113986
+R^2: -0.1748838512599653
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.043845  [    0/  147]
+Test Error: 
+MSE: 2.783074
+RMSE: 1.668255
+MAE: 1.113126
+R^2: -0.17318243794141863
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.045991  [    0/  147]
+Test Error: 
+MSE: 2.780318
+RMSE: 1.667429
+MAE: 1.112654
+R^2: -0.1720210271395648
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.039895  [    0/  147]
+Test Error: 
+MSE: 2.780915
+RMSE: 1.667608
+MAE: 1.112681
+R^2: -0.17227250260427884
+loss: 0.048265  [    0/  147]
+Test Error: 
+MSE: 2.778359
+RMSE: 1.666841
+MAE: 1.112173
+R^2: -0.17119498056487403
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.058794  [    0/  147]
+Test Error: 
+MSE: 2.780944
+RMSE: 1.667616
+MAE: 1.112656
+R^2: -0.17228487313758922
+loss: 0.038909  [    0/  147]
+Test Error: 
+MSE: 2.780571
+RMSE: 1.667504
+MAE: 1.112591
+R^2: -0.17212737762712194
+loss: 0.034280  [    0/  147]
+Test Error: 
+MSE: 2.782222
+RMSE: 1.667999
+MAE: 1.112864
+R^2: -0.1728232750941603
+loss: 0.046186  [    0/  147]
+Test Error: 
+MSE: 2.783106
+RMSE: 1.668264
+MAE: 1.113041
+R^2: -0.17319605262209725
+loss: 0.057731  [    0/  147]
+Test Error: 
+MSE: 2.785542
+RMSE: 1.668994
+MAE: 1.113637
+R^2: -0.17422301452785804
+loss: 0.027720  [    0/  147]
+Test Error: 
+MSE: 2.785714
+RMSE: 1.669046
+MAE: 1.113633
+R^2: -0.1742953234351623
+loss: 0.043022  [    0/  147]
+Test Error: 
+MSE: 2.787774
+RMSE: 1.669663
+MAE: 1.114046
+R^2: -0.17516374556598802
+loss: 0.038161  [    0/  147]
+Test Error: 
+MSE: 2.790813
+RMSE: 1.670573
+MAE: 1.114531
+R^2: -0.17644507489623162
+loss: 0.038240  [    0/  147]
+Test Error: 
+MSE: 2.790857
+RMSE: 1.670586
+MAE: 1.114621
+R^2: -0.17646344795818347
+loss: 0.036833  [    0/  147]
+Test Error: 
+MSE: 2.789027
+RMSE: 1.670038
+MAE: 1.114203
+R^2: -0.1756922424970946
+loss: 0.043304  [    0/  147]
+Test Error: 
+MSE: 2.786159
+RMSE: 1.669179
+MAE: 1.113646
+R^2: -0.1744832235728646
+loss: 0.036038  [    0/  147]
+Test Error: 
+MSE: 2.788524
+RMSE: 1.669887
+MAE: 1.114092
+R^2: -0.17548013803969598
+loss: 0.036869  [    0/  147]
+Test Error: 
+MSE: 2.785320
+RMSE: 1.668928
+MAE: 1.113535
+R^2: -0.17412941271035876
+loss: 0.041784  [    0/  147]
+Test Error: 
+MSE: 2.787924
+RMSE: 1.669708
+MAE: 1.114100
+R^2: -0.1752270338516413
+loss: 0.040358  [    0/  147]
+Test Error: 
+MSE: 2.792732
+RMSE: 1.671147
+MAE: 1.115188
+R^2: -0.17725409410715187
+loss: 0.054230  [    0/  147]
+Test Error: 
+MSE: 2.799191
+RMSE: 1.673078
+MAE: 1.117103
+R^2: -0.17997676438681087
+loss: 0.056643  [    0/  147]
+Test Error: 
+MSE: 2.795931
+RMSE: 1.672104
+MAE: 1.116282
+R^2: -0.17860248489295172
+loss: 0.038813  [    0/  147]
+Test Error: 
+MSE: 2.788317
+RMSE: 1.669826
+MAE: 1.114255
+R^2: -0.17539296405475824
+loss: 0.041918  [    0/  147]
+Test Error: 
+MSE: 2.783945
+RMSE: 1.668516
+MAE: 1.113172
+R^2: -0.17354981380830203
+loss: 0.035160  [    0/  147]
+Test Error: 
+MSE: 2.776280
+RMSE: 1.666217
+MAE: 1.111168
+R^2: -0.17031881986940278
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.042153  [    0/  147]
+Test Error: 
+MSE: 2.772717
+RMSE: 1.665148
+MAE: 1.110442
+R^2: -0.16881691403983012
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.046952  [    0/  147]
+Test Error: 
+MSE: 2.772112
+RMSE: 1.664966
+MAE: 1.110272
+R^2: -0.16856183304930683
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.032069  [    0/  147]
+Test Error: 
+MSE: 2.773057
+RMSE: 1.665250
+MAE: 1.110332
+R^2: -0.16896023144753758
+loss: 0.032738  [    0/  147]
+Test Error: 
+MSE: 2.779248
+RMSE: 1.667108
+MAE: 1.112216
+R^2: -0.17156966449197486
+loss: 0.037520  [    0/  147]
+Test Error: 
+MSE: 2.781879
+RMSE: 1.667897
+MAE: 1.113133
+R^2: -0.1726788570828266
+loss: 0.037446  [    0/  147]
+Test Error: 
+MSE: 2.783138
+RMSE: 1.668274
+MAE: 1.113656
+R^2: -0.17320969833891398
+loss: 0.045120  [    0/  147]
+Test Error: 
+MSE: 2.783771
+RMSE: 1.668464
+MAE: 1.113928
+R^2: -0.1734762983842124
+loss: 0.031679  [    0/  147]
+Test Error: 
+MSE: 2.787352
+RMSE: 1.669537
+MAE: 1.114857
+R^2: -0.17498610053625474
+loss: 0.058323  [    0/  147]
+Test Error: 
+MSE: 2.786224
+RMSE: 1.669199
+MAE: 1.114684
+R^2: -0.1745105997028631
+loss: 0.034047  [    0/  147]
+Test Error: 
+MSE: 2.785066
+RMSE: 1.668852
+MAE: 1.114552
+R^2: -0.17402220693549397
+loss: 0.043006  [    0/  147]
+Test Error: 
+MSE: 2.783984
+RMSE: 1.668527
+MAE: 1.114204
+R^2: -0.17356603307643992
+loss: 0.036227  [    0/  147]
+Test Error: 
+MSE: 2.781527
+RMSE: 1.667791
+MAE: 1.113300
+R^2: -0.17253052563173288
+loss: 0.043057  [    0/  147]
+Test Error: 
+MSE: 2.776195
+RMSE: 1.666192
+MAE: 1.111792
+R^2: -0.17028269200501178
+loss: 0.045235  [    0/  147]
+Test Error: 
+MSE: 2.772511
+RMSE: 1.665086
+MAE: 1.110645
+R^2: -0.1687300646394143
+loss: 0.040324  [    0/  147]
+Test Error: 
+MSE: 2.769969
+RMSE: 1.664322
+MAE: 1.109725
+R^2: -0.1676582127043471
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.048649  [    0/  147]
+Test Error: 
+MSE: 2.774131
+RMSE: 1.665572
+MAE: 1.111094
+R^2: -0.16941291903656808
+loss: 0.037397  [    0/  147]
+Test Error: 
+MSE: 2.774331
+RMSE: 1.665632
+MAE: 1.111047
+R^2: -0.1694969718881325
+loss: 0.033213  [    0/  147]
+Test Error: 
+MSE: 2.780788
+RMSE: 1.667569
+MAE: 1.113166
+R^2: -0.17221884674275656
+loss: 0.039124  [    0/  147]
+Test Error: 
+MSE: 2.782686
+RMSE: 1.668139
+MAE: 1.113956
+R^2: -0.17301926354194186
+loss: 0.045275  [    0/  147]
+Test Error: 
+MSE: 2.780431
+RMSE: 1.667462
+MAE: 1.113436
+R^2: -0.17206830492675396
+loss: 0.036004  [    0/  147]
+Test Error: 
+MSE: 2.780520
+RMSE: 1.667489
+MAE: 1.113394
+R^2: -0.1721059915177554
+loss: 0.036335  [    0/  147]
+Test Error: 
+MSE: 2.778003
+RMSE: 1.666734
+MAE: 1.112340
+R^2: -0.17104509122073086
+loss: 0.031301  [    0/  147]
+Test Error: 
+MSE: 2.780462
+RMSE: 1.667472
+MAE: 1.112627
+R^2: -0.1720816853793965
+loss: 0.028930  [    0/  147]
+Test Error: 
+MSE: 2.778782
+RMSE: 1.666968
+MAE: 1.112246
+R^2: -0.17137320393208832
+loss: 0.050448  [    0/  147]
+Test Error: 
+MSE: 2.778450
+RMSE: 1.666868
+MAE: 1.112386
+R^2: -0.17123348676736883
+loss: 0.044364  [    0/  147]
+Test Error: 
+MSE: 2.780299
+RMSE: 1.667423
+MAE: 1.112525
+R^2: -0.17201295834181352
+loss: 0.032494  [    0/  147]
+Test Error: 
+MSE: 2.784401
+RMSE: 1.668652
+MAE: 1.113442
+R^2: -0.17374181311709203
+loss: 0.040712  [    0/  147]
+Test Error: 
+MSE: 2.785890
+RMSE: 1.669099
+MAE: 1.114065
+R^2: -0.17436974956253293
+loss: 0.041747  [    0/  147]
+Test Error: 
+MSE: 2.784870
+RMSE: 1.668793
+MAE: 1.113487
+R^2: -0.1739397510802443
+loss: 0.052889  [    0/  147]
+Test Error: 
+MSE: 2.782551
+RMSE: 1.668098
+MAE: 1.113158
+R^2: -0.17296220933873863
+loss: 0.043791  [    0/  147]
+Test Error: 
+MSE: 2.781131
+RMSE: 1.667672
+MAE: 1.112974
+R^2: -0.17236358736683055
+loss: 0.037388  [    0/  147]
+Test Error: 
+MSE: 2.785261
+RMSE: 1.668910
+MAE: 1.114464
+R^2: -0.17410460561479746
+loss: 0.046135  [    0/  147]
+Test Error: 
+MSE: 2.789232
+RMSE: 1.670099
+MAE: 1.116130
+R^2: -0.17577848886166425
+loss: 0.025212  [    0/  147]
+Test Error: 
+MSE: 2.787539
+RMSE: 1.669592
+MAE: 1.115927
+R^2: -0.17506481515901262
+loss: 0.032338  [    0/  147]
+Test Error: 
+MSE: 2.787067
+RMSE: 1.669451
+MAE: 1.115828
+R^2: -0.1748656609685766
+loss: 0.041755  [    0/  147]
+Test Error: 
+MSE: 2.787623
+RMSE: 1.669618
+MAE: 1.116187
+R^2: -0.17510032083818072
+loss: 0.032519  [    0/  147]
+Test Error: 
+MSE: 2.788167
+RMSE: 1.669781
+MAE: 1.116271
+R^2: -0.17532967033443958
+loss: 0.039624  [    0/  147]
+Test Error: 
+MSE: 2.788480
+RMSE: 1.669874
+MAE: 1.115991
+R^2: -0.17546130295742657
+loss: 0.032726  [    0/  147]
+Test Error: 
+MSE: 2.782856
+RMSE: 1.668189
+MAE: 1.114610
+R^2: -0.1730907881798487
+loss: 0.043287  [    0/  147]
+Test Error: 
+MSE: 2.785325
+RMSE: 1.668929
+MAE: 1.115475
+R^2: -0.17413152588718872
+loss: 0.043615  [    0/  147]
+Test Error: 
+MSE: 2.780635
+RMSE: 1.667524
+MAE: 1.114520
+R^2: -0.17215435373719234
+loss: 0.033583  [    0/  147]
+Test Error: 
+MSE: 2.776692
+RMSE: 1.666341
+MAE: 1.113813
+R^2: -0.17049254891201593
+loss: 0.031094  [    0/  147]
+Test Error: 
+MSE: 2.779193
+RMSE: 1.667091
+MAE: 1.114366
+R^2: -0.1715464912015916
+loss: 0.047681  [    0/  147]
+Test Error: 
+MSE: 2.778292
+RMSE: 1.666821
+MAE: 1.114213
+R^2: -0.17116670531792932
+loss: 0.041896  [    0/  147]
+Test Error: 
+MSE: 2.778864
+RMSE: 1.666992
+MAE: 1.114359
+R^2: -0.17140776952111758
+loss: 0.029014  [    0/  147]
+Test Error: 
+MSE: 2.781396
+RMSE: 1.667752
+MAE: 1.115304
+R^2: -0.1724751293297886
+loss: 0.040334  [    0/  147]
+Test Error: 
+MSE: 2.783946
+RMSE: 1.668516
+MAE: 1.116257
+R^2: -0.17355014349785458
+loss: 0.044916  [    0/  147]
+Test Error: 
+MSE: 2.781718
+RMSE: 1.667848
+MAE: 1.116039
+R^2: -0.1726111673200459
+loss: 0.042390  [    0/  147]
+Test Error: 
+MSE: 2.784791
+RMSE: 1.668769
+MAE: 1.117157
+R^2: -0.1739062515825256
+loss: 0.038823  [    0/  147]
+Test Error: 
+MSE: 2.785488
+RMSE: 1.668978
+MAE: 1.117362
+R^2: -0.17420022387990342
+loss: 0.047548  [    0/  147]
+Test Error: 
+MSE: 2.787612
+RMSE: 1.669614
+MAE: 1.117786
+R^2: -0.1750957129254349
+loss: 0.034836  [    0/  147]
+Test Error: 
+MSE: 2.789165
+RMSE: 1.670079
+MAE: 1.118178
+R^2: -0.17575006318752595
+loss: 0.048271  [    0/  147]
+Test Error: 
+MSE: 2.781914
+RMSE: 1.667907
+MAE: 1.116629
+R^2: -0.17269359640057025
+loss: 0.043205  [    0/  147]
+Test Error: 
+MSE: 2.779980
+RMSE: 1.667327
+MAE: 1.116441
+R^2: -0.17187823222590715
+loss: 0.040702  [    0/  147]
+Test Error: 
+MSE: 2.779128
+RMSE: 1.667072
+MAE: 1.116396
+R^2: -0.17151941529797754
+loss: 0.033116  [    0/  147]
+Test Error: 
+MSE: 2.781885
+RMSE: 1.667898
+MAE: 1.117035
+R^2: -0.17268148710283793
+loss: 0.031071  [    0/  147]
+Test Error: 
+MSE: 2.786603
+RMSE: 1.669312
+MAE: 1.118498
+R^2: -0.17467041055389632
+loss: 0.035634  [    0/  147]
+Test Error: 
+MSE: 2.788623
+RMSE: 1.669917
+MAE: 1.119156
+R^2: -0.17552164810984983
+loss: 0.037306  [    0/  147]
+Test Error: 
+MSE: 2.790794
+RMSE: 1.670567
+MAE: 1.119903
+R^2: -0.17643692912464015
+loss: 0.036320  [    0/  147]
+Test Error: 
+MSE: 2.789403
+RMSE: 1.670151
+MAE: 1.119757
+R^2: -0.1758504726600436
+loss: 0.041430  [    0/  147]
+Test Error: 
+MSE: 2.788208
+RMSE: 1.669793
+MAE: 1.119873
+R^2: -0.17534677955625444
+loss: 0.043107  [    0/  147]
+Test Error: 
+MSE: 2.787840
+RMSE: 1.669683
+MAE: 1.119874
+R^2: -0.1751917920018904
+loss: 0.032946  [    0/  147]
+Test Error: 
+MSE: 2.785823
+RMSE: 1.669079
+MAE: 1.119469
+R^2: -0.1743415351924782
+loss: 0.047509  [    0/  147]
+Test Error: 
+MSE: 2.784702
+RMSE: 1.668743
+MAE: 1.119196
+R^2: -0.1738687391619418
+loss: 0.042988  [    0/  147]
+Test Error: 
+MSE: 2.786291
+RMSE: 1.669219
+MAE: 1.119748
+R^2: -0.17453864327402324
+loss: 0.036831  [    0/  147]
+Test Error: 
+MSE: 2.785283
+RMSE: 1.668917
+MAE: 1.119647
+R^2: -0.17411386710783971
+loss: 0.038938  [    0/  147]
+Test Error: 
+MSE: 2.793249
+RMSE: 1.671302
+MAE: 1.121847
+R^2: -0.17747189874239555
+loss: 0.036277  [    0/  147]
+Test Error: 
+MSE: 2.796075
+RMSE: 1.672147
+MAE: 1.122672
+R^2: -0.17866310872690772
+loss: 0.046067  [    0/  147]
+Test Error: 
+MSE: 2.791957
+RMSE: 1.670915
+MAE: 1.121683
+R^2: -0.1769271058850148
+loss: 0.036221  [    0/  147]
+Test Error: 
+MSE: 2.785437
+RMSE: 1.668963
+MAE: 1.120308
+R^2: -0.17417871115375383
+loss: 0.043042  [    0/  147]
+Test Error: 
+MSE: 2.779933
+RMSE: 1.667313
+MAE: 1.119002
+R^2: -0.17185836696486478
+loss: 0.042298  [    0/  147]
+Test Error: 
+MSE: 2.779493
+RMSE: 1.667181
+MAE: 1.119413
+R^2: -0.1716733031762121
+loss: 0.031944  [    0/  147]
+Test Error: 
+MSE: 2.781451
+RMSE: 1.667768
+MAE: 1.120338
+R^2: -0.1724983775563258
+loss: 0.036154  [    0/  147]
+Test Error: 
+MSE: 2.783727
+RMSE: 1.668450
+MAE: 1.120961
+R^2: -0.17345774806188352
+loss: 0.033590  [    0/  147]
+Test Error: 
+MSE: 2.787025
+RMSE: 1.669439
+MAE: 1.122100
+R^2: -0.1748483055091572
+loss: 0.038006  [    0/  147]
+Test Error: 
+MSE: 2.788198
+RMSE: 1.669790
+MAE: 1.122437
+R^2: -0.1753424874137659
+loss: 0.034812  [    0/  147]
+Test Error: 
+MSE: 2.790213
+RMSE: 1.670393
+MAE: 1.123235
+R^2: -0.17619195101455776
+loss: 0.041419  [    0/  147]
+Test Error: 
+MSE: 2.791109
+RMSE: 1.670661
+MAE: 1.123505
+R^2: -0.1765699197932522
+loss: 0.028390  [    0/  147]
+Test Error: 
+MSE: 2.793495
+RMSE: 1.671375
+MAE: 1.124365
+R^2: -0.17757532742212634
+loss: 0.038347  [    0/  147]
+Test Error: 
+MSE: 2.793170
+RMSE: 1.671278
+MAE: 1.124374
+R^2: -0.1774383484486024
+loss: 0.027347  [    0/  147]
+Test Error: 
+MSE: 2.795941
+RMSE: 1.672107
+MAE: 1.125236
+R^2: -0.1786064849260074
+loss: 0.034494  [    0/  147]
+Test Error: 
+MSE: 2.792642
+RMSE: 1.671120
+MAE: 1.124527
+R^2: -0.17721578057466147
+loss: 0.045283  [    0/  147]
+Test Error: 
+MSE: 2.794948
+RMSE: 1.671810
+MAE: 1.125325
+R^2: -0.17818822025620928
+loss: 0.031019  [    0/  147]
+Test Error: 
+MSE: 2.795116
+RMSE: 1.671860
+MAE: 1.125328
+R^2: -0.1782586768212251
+loss: 0.038343  [    0/  147]
+Test Error: 
+MSE: 2.795520
+RMSE: 1.671981
+MAE: 1.125463
+R^2: -0.17842918822922904
+loss: 0.037050  [    0/  147]
+Test Error: 
+MSE: 2.793505
+RMSE: 1.671378
+MAE: 1.124925
+R^2: -0.17757980752314162
+loss: 0.034763  [    0/  147]
+Test Error: 
+MSE: 2.795364
+RMSE: 1.671934
+MAE: 1.125715
+R^2: -0.1783635183255452
+loss: 0.036856  [    0/  147]
+Test Error: 
+MSE: 2.799723
+RMSE: 1.673237
+MAE: 1.127055
+R^2: -0.18020079118255716
+loss: 0.029753  [    0/  147]
+Test Error: 
+MSE: 2.796968
+RMSE: 1.672414
+MAE: 1.126626
+R^2: -0.17903950217410314
+loss: 0.034235  [    0/  147]
+Test Error: 
+MSE: 2.793560
+RMSE: 1.671395
+MAE: 1.126120
+R^2: -0.1776029414732161
+loss: 0.033742  [    0/  147]
+Test Error: 
+MSE: 2.790834
+RMSE: 1.670579
+MAE: 1.125784
+R^2: -0.17645375647009365
+loss: 0.030894  [    0/  147]
+Test Error: 
+MSE: 2.786580
+RMSE: 1.669305
+MAE: 1.124789
+R^2: -0.17466068722688743
+loss: 0.041798  [    0/  147]
+Test Error: 
+MSE: 2.786694
+RMSE: 1.669339
+MAE: 1.124937
+R^2: -0.174708494076933
+loss: 0.032714  [    0/  147]
+Test Error: 
+MSE: 2.785893
+RMSE: 1.669100
+MAE: 1.124734
+R^2: -0.1743710514333079
+loss: 0.034152  [    0/  147]
+Test Error: 
+MSE: 2.786174
+RMSE: 1.669184
+MAE: 1.124730
+R^2: -0.1744893410693611
+loss: 0.031562  [    0/  147]
+Test Error: 
+MSE: 2.790095
+RMSE: 1.670358
+MAE: 1.126145
+R^2: -0.17614244802252
+loss: 0.037386  [    0/  147]
+Test Error: 
+MSE: 2.788678
+RMSE: 1.669933
+MAE: 1.125454
+R^2: -0.17554483971694346
+loss: 0.032106  [    0/  147]
+Test Error: 
+MSE: 2.788920
+RMSE: 1.670006
+MAE: 1.125902
+R^2: -0.17564692154809847
+loss: 0.033171  [    0/  147]
+Test Error: 
+MSE: 2.784879
+RMSE: 1.668796
+MAE: 1.124729
+R^2: -0.17394354044755134
+loss: 0.023624  [    0/  147]
+Test Error: 
+MSE: 2.781340
+RMSE: 1.667735
+MAE: 1.123475
+R^2: -0.17245162529737934
+loss: 0.026329  [    0/  147]
+Test Error: 
+MSE: 2.786816
+RMSE: 1.669376
+MAE: 1.125258
+R^2: -0.17475998713801721
+loss: 0.029331  [    0/  147]
+Test Error: 
+MSE: 2.786027
+RMSE: 1.669140
+MAE: 1.125040
+R^2: -0.17442739887300518
+loss: 0.031529  [    0/  147]
+Test Error: 
+MSE: 2.788222
+RMSE: 1.669797
+MAE: 1.126149
+R^2: -0.1753528192207361
+loss: 0.037458  [    0/  147]
+Test Error: 
+MSE: 2.788356
+RMSE: 1.669837
+MAE: 1.126650
+R^2: -0.17540920037855967
+loss: 0.044262  [    0/  147]
+Test Error: 
+MSE: 2.791155
+RMSE: 1.670675
+MAE: 1.127682
+R^2: -0.17658918677893598
+loss: 0.044318  [    0/  147]
+Test Error: 
+MSE: 2.792951
+RMSE: 1.671212
+MAE: 1.128078
+R^2: -0.17734609291548908
+loss: 0.039672  [    0/  147]
+Test Error: 
+MSE: 2.794871
+RMSE: 1.671787
+MAE: 1.128562
+R^2: -0.17815554427153368
+loss: 0.045146  [    0/  147]
+Test Error: 
+MSE: 2.796587
+RMSE: 1.672300
+MAE: 1.129061
+R^2: -0.1788790993022853
+loss: 0.033768  [    0/  147]
+Test Error: 
+MSE: 2.793361
+RMSE: 1.671335
+MAE: 1.128220
+R^2: -0.17751883015507275
+loss: 0.044608  [    0/  147]
+Test Error: 
+MSE: 2.794730
+RMSE: 1.671745
+MAE: 1.128606
+R^2: -0.17809613771717436
+loss: 0.032052  [    0/  147]
+Test Error: 
+MSE: 2.792468
+RMSE: 1.671068
+MAE: 1.128351
+R^2: -0.1771425523232093
+loss: 0.030969  [    0/  147]
+Test Error: 
+MSE: 2.792119
+RMSE: 1.670963
+MAE: 1.128272
+R^2: -0.17699538517445412
+loss: 0.038881  [    0/  147]
+Test Error: 
+MSE: 2.791022
+RMSE: 1.670635
+MAE: 1.128158
+R^2: -0.17653287814365992
+loss: 0.040877  [    0/  147]
+Test Error: 
+MSE: 2.791862
+RMSE: 1.670886
+MAE: 1.128537
+R^2: -0.17688699966150634
+loss: 0.022439  [    0/  147]
+Test Error: 
+MSE: 2.794128
+RMSE: 1.671564
+MAE: 1.129142
+R^2: -0.17784226678307524
+loss: 0.034139  [    0/  147]
+Test Error: 
+MSE: 2.798266
+RMSE: 1.672802
+MAE: 1.130320
+R^2: -0.17958679264906996
+loss: 0.030232  [    0/  147]
+Test Error: 
+MSE: 2.799861
+RMSE: 1.673278
+MAE: 1.130827
+R^2: -0.18025892746305328
+loss: 0.035212  [    0/  147]
+Test Error: 
+MSE: 2.802033
+RMSE: 1.673928
+MAE: 1.131362
+R^2: -0.18117485486482576
+loss: 0.041489  [    0/  147]
+Test Error: 
+MSE: 2.806648
+RMSE: 1.675305
+MAE: 1.132653
+R^2: -0.18311990076850315
+loss: 0.026334  [    0/  147]
+Test Error: 
+MSE: 2.801289
+RMSE: 1.673705
+MAE: 1.131108
+R^2: -0.18086092619496164
+loss: 0.041517  [    0/  147]
+Test Error: 
+MSE: 2.797102
+RMSE: 1.672454
+MAE: 1.130123
+R^2: -0.17909608373575536
+loss: 0.035560  [    0/  147]
+Test Error: 
+MSE: 2.792668
+RMSE: 1.671128
+MAE: 1.128685
+R^2: -0.17722697414268263
+loss: 0.040190  [    0/  147]
+Test Error: 
+MSE: 2.789099
+RMSE: 1.670059
+MAE: 1.126836
+R^2: -0.17572221609441563
+loss: 0.033729  [    0/  147]
+Test Error: 
+MSE: 2.789136
+RMSE: 1.670071
+MAE: 1.126805
+R^2: -0.1757379158430996
+loss: 0.044138  [    0/  147]
+Test Error: 
+MSE: 2.792616
+RMSE: 1.671112
+MAE: 1.128037
+R^2: -0.1772051985873968
+loss: 0.042761  [    0/  147]
+Test Error: 
+MSE: 2.793111
+RMSE: 1.671260
+MAE: 1.128553
+R^2: -0.17741353724325304
+loss: 0.027125  [    0/  147]
+Test Error: 
+MSE: 2.793376
+RMSE: 1.671340
+MAE: 1.128558
+R^2: -0.1775252712425086
+loss: 0.030484  [    0/  147]
+Test Error: 
+MSE: 2.792545
+RMSE: 1.671091
+MAE: 1.128220
+R^2: -0.17717485924898502
+loss: 0.031038  [    0/  147]
+Test Error: 
+MSE: 2.792384
+RMSE: 1.671043
+MAE: 1.127720
+R^2: -0.1771071755772784
+loss: 0.027269  [    0/  147]
+Test Error: 
+MSE: 2.794602
+RMSE: 1.671706
+MAE: 1.128314
+R^2: -0.1780420254254529
+loss: 0.033012  [    0/  147]
+Test Error: 
+MSE: 2.796753
+RMSE: 1.672349
+MAE: 1.128883
+R^2: -0.17894873171508419
+loss: 0.029757  [    0/  147]
+Test Error: 
+MSE: 2.796431
+RMSE: 1.672253
+MAE: 1.128880
+R^2: -0.17881317374152483
+loss: 0.029954  [    0/  147]
+Test Error: 
+MSE: 2.795910
+RMSE: 1.672097
+MAE: 1.128592
+R^2: -0.17859338081522957
+loss: 0.022776  [    0/  147]
+Test Error: 
+MSE: 2.798072
+RMSE: 1.672744
+MAE: 1.129209
+R^2: -0.17950482935598644
+loss: 0.039207  [    0/  147]
+Test Error: 
+MSE: 2.802194
+RMSE: 1.673976
+MAE: 1.130730
+R^2: -0.18124252736402324
+loss: 0.027359  [    0/  147]
+Test Error: 
+MSE: 2.805611
+RMSE: 1.674996
+MAE: 1.132625
+R^2: -0.18268303600289348
+loss: 0.030106  [    0/  147]
+Test Error: 
+MSE: 2.803969
+RMSE: 1.674505
+MAE: 1.132561
+R^2: -0.1819905798745678
+loss: 0.031948  [    0/  147]
+Test Error: 
+MSE: 2.798071
+RMSE: 1.672743
+MAE: 1.131087
+R^2: -0.17950430506933612
+loss: 0.034199  [    0/  147]
+Test Error: 
+MSE: 2.794971
+RMSE: 1.671817
+MAE: 1.130062
+R^2: -0.17819756718194313
+loss: 0.041167  [    0/  147]
+Test Error: 
+MSE: 2.793382
+RMSE: 1.671341
+MAE: 1.129414
+R^2: -0.1775276817845819
+loss: 0.028641  [    0/  147]
+Test Error: 
+MSE: 2.794345
+RMSE: 1.671629
+MAE: 1.130111
+R^2: -0.17793374182921884
+loss: 0.035628  [    0/  147]
+Test Error: 
+MSE: 2.798071
+RMSE: 1.672744
+MAE: 1.131429
+R^2: -0.17950446941909037
+loss: 0.029534  [    0/  147]
+Test Error: 
+MSE: 2.798145
+RMSE: 1.672766
+MAE: 1.132251
+R^2: -0.17953572062061585
+loss: 0.032716  [    0/  147]
+Test Error: 
+MSE: 2.798580
+RMSE: 1.672896
+MAE: 1.132147
+R^2: -0.17971895865614607
+loss: 0.028523  [    0/  147]
+Test Error: 
+MSE: 2.798384
+RMSE: 1.672837
+MAE: 1.132647
+R^2: -0.1796364838374449
+loss: 0.026870  [    0/  147]
+Test Error: 
+MSE: 2.800789
+RMSE: 1.673556
+MAE: 1.133969
+R^2: -0.18065032388988178
+loss: 0.022874  [    0/  147]
+Test Error: 
+MSE: 2.794415
+RMSE: 1.671650
+MAE: 1.132085
+R^2: -0.17796330086105527
+loss: 0.037837  [    0/  147]
+Test Error: 
+MSE: 2.790162
+RMSE: 1.670378
+MAE: 1.130527
+R^2: -0.17617073435260844
+loss: 0.038337  [    0/  147]
+Test Error: 
+MSE: 2.788656
+RMSE: 1.669927
+MAE: 1.129800
+R^2: -0.17553556901697998
+loss: 0.040027  [    0/  147]
+Test Error: 
+MSE: 2.787335
+RMSE: 1.669531
+MAE: 1.129450
+R^2: -0.17497885948758007
+loss: 0.025512  [    0/  147]
+Test Error: 
+MSE: 2.787141
+RMSE: 1.669473
+MAE: 1.129752
+R^2: -0.1748970280325144
+loss: 0.025002  [    0/  147]
+Test Error: 
+MSE: 2.790757
+RMSE: 1.670556
+MAE: 1.131499
+R^2: -0.17642115615009724
+loss: 0.024028  [    0/  147]
+Test Error: 
+MSE: 2.792881
+RMSE: 1.671192
+MAE: 1.132203
+R^2: -0.17731685210678028
+loss: 0.037588  [    0/  147]
+Test Error: 
+MSE: 2.791742
+RMSE: 1.670851
+MAE: 1.132535
+R^2: -0.17683644440936108
+loss: 0.032923  [    0/  147]
+Test Error: 
+MSE: 2.789494
+RMSE: 1.670178
+MAE: 1.132211
+R^2: -0.1758889951489191
+loss: 0.036836  [    0/  147]
+Test Error: 
+MSE: 2.785504
+RMSE: 1.668983
+MAE: 1.130669
+R^2: -0.17420677352359326
+loss: 0.030111  [    0/  147]
+Test Error: 
+MSE: 2.786151
+RMSE: 1.669177
+MAE: 1.130983
+R^2: -0.17447988801471626
+loss: 0.033302  [    0/  147]
+Test Error: 
+MSE: 2.786587
+RMSE: 1.669307
+MAE: 1.131815
+R^2: -0.17466337237319918
+loss: 0.024254  [    0/  147]
+Test Error: 
+MSE: 2.786556
+RMSE: 1.669298
+MAE: 1.131601
+R^2: -0.17465032060081875
+loss: 0.027303  [    0/  147]
+Test Error: 
+MSE: 2.786582
+RMSE: 1.669306
+MAE: 1.131902
+R^2: -0.17466127770397244
+loss: 0.032368  [    0/  147]
+Test Error: 
+MSE: 2.786930
+RMSE: 1.669410
+MAE: 1.132242
+R^2: -0.17480800150781106
+loss: 0.024622  [    0/  147]
+Test Error: 
+MSE: 2.788366
+RMSE: 1.669840
+MAE: 1.132928
+R^2: -0.17541362182366216
+loss: 0.040492  [    0/  147]
+Test Error: 
+MSE: 2.785895
+RMSE: 1.669100
+MAE: 1.132125
+R^2: -0.17437201372179878
+loss: 0.028465  [    0/  147]
+Test Error: 
+MSE: 2.786023
+RMSE: 1.669138
+MAE: 1.131681
+R^2: -0.1744258060225672
+loss: 0.029591  [    0/  147]
+Test Error: 
+MSE: 2.786000
+RMSE: 1.669131
+MAE: 1.131671
+R^2: -0.17441601931139172
+loss: 0.033493  [    0/  147]
+Test Error: 
+MSE: 2.787851
+RMSE: 1.669686
+MAE: 1.131996
+R^2: -0.17519634447060306
+loss: 0.025979  [    0/  147]
+Test Error: 
+MSE: 2.791602
+RMSE: 1.670809
+MAE: 1.133440
+R^2: -0.17677770472377463
+loss: 0.035630  [    0/  147]
+Test Error: 
+MSE: 2.795286
+RMSE: 1.671911
+MAE: 1.135118
+R^2: -0.17833030935035743
+loss: 0.032288  [    0/  147]
+Test Error: 
+MSE: 2.797821
+RMSE: 1.672669
+MAE: 1.135452
+R^2: -0.17939922363266425
+loss: 0.029326  [    0/  147]
+Test Error: 
+MSE: 2.794377
+RMSE: 1.671639
+MAE: 1.133914
+R^2: -0.17794715120463334
+loss: 0.044701  [    0/  147]
+Test Error: 
+MSE: 2.793311
+RMSE: 1.671320
+MAE: 1.133719
+R^2: -0.1774979182600056
+loss: 0.032782  [    0/  147]
+Test Error: 
+MSE: 2.789996
+RMSE: 1.670328
+MAE: 1.132498
+R^2: -0.17610046775487853
+loss: 0.024181  [    0/  147]
+Test Error: 
+MSE: 2.789616
+RMSE: 1.670214
+MAE: 1.131888
+R^2: -0.17594033617025762
+loss: 0.035835  [    0/  147]
+Test Error: 
+MSE: 2.789692
+RMSE: 1.670237
+MAE: 1.131263
+R^2: -0.17597231716519812
+loss: 0.034385  [    0/  147]
+Test Error: 
+MSE: 2.793317
+RMSE: 1.671322
+MAE: 1.133186
+R^2: -0.177500406114238
+loss: 0.040114  [    0/  147]
+Test Error: 
+MSE: 2.792251
+RMSE: 1.671003
+MAE: 1.132755
+R^2: -0.17705128191810515
+loss: 0.029830  [    0/  147]
+Test Error: 
+MSE: 2.796544
+RMSE: 1.672287
+MAE: 1.134059
+R^2: -0.17886071376063684
+loss: 0.032777  [    0/  147]
+Test Error: 
+MSE: 2.799903
+RMSE: 1.673291
+MAE: 1.134776
+R^2: -0.18027656584598106
+loss: 0.033223  [    0/  147]
+Test Error: 
+MSE: 2.803993
+RMSE: 1.674513
+MAE: 1.136123
+R^2: -0.18200102414924513
+loss: 0.026028  [    0/  147]
+Test Error: 
+MSE: 2.802497
+RMSE: 1.674066
+MAE: 1.136622
+R^2: -0.18137011392227698
+loss: 0.032922  [    0/  147]
+Test Error: 
+MSE: 2.802163
+RMSE: 1.673966
+MAE: 1.137398
+R^2: -0.18122932637763922
+loss: 0.040972  [    0/  147]
+Test Error: 
+MSE: 2.800236
+RMSE: 1.673391
+MAE: 1.137070
+R^2: -0.1804172415267533
+loss: 0.036218  [    0/  147]
+Test Error: 
+MSE: 2.800055
+RMSE: 1.673336
+MAE: 1.137773
+R^2: -0.1803406544651016
+loss: 0.037468  [    0/  147]
+Test Error: 
+MSE: 2.799024
+RMSE: 1.673028
+MAE: 1.137757
+R^2: -0.1799062002517695
+loss: 0.034373  [    0/  147]
+Test Error: 
+MSE: 2.794207
+RMSE: 1.671588
+MAE: 1.135654
+R^2: -0.1778757686785457
+loss: 0.035007  [    0/  147]
+Test Error: 
+MSE: 2.788761
+RMSE: 1.669958
+MAE: 1.134157
+R^2: -0.17557991367048986
+loss: 0.036535  [    0/  147]
+Test Error: 
+MSE: 2.785430
+RMSE: 1.668961
+MAE: 1.132931
+R^2: -0.17417568956820717
+loss: 0.027831  [    0/  147]
+Test Error: 
+MSE: 2.781349
+RMSE: 1.667738
+MAE: 1.131416
+R^2: -0.1724556599180409
+loss: 0.029763  [    0/  147]
+Test Error: 
+MSE: 2.778890
+RMSE: 1.667000
+MAE: 1.131433
+R^2: -0.1714187323774432
+loss: 0.031773  [    0/  147]
+Test Error: 
+MSE: 2.780079
+RMSE: 1.667357
+MAE: 1.132758
+R^2: -0.17192025327697102
+loss: 0.026056  [    0/  147]
+Test Error: 
+MSE: 2.781043
+RMSE: 1.667646
+MAE: 1.132506
+R^2: -0.17232660341760342
+loss: 0.028114  [    0/  147]
+Test Error: 
+MSE: 2.780396
+RMSE: 1.667452
+MAE: 1.132264
+R^2: -0.1720536553573231
+loss: 0.024375  [    0/  147]
+Test Error: 
+MSE: 2.780832
+RMSE: 1.667583
+MAE: 1.132988
+R^2: -0.17223746988072053
+loss: 0.029296  [    0/  147]
+Test Error: 
+MSE: 2.782236
+RMSE: 1.668004
+MAE: 1.133101
+R^2: -0.17282944950999624
+loss: 0.032544  [    0/  147]
+Test Error: 
+MSE: 2.781467
+RMSE: 1.667773
+MAE: 1.133163
+R^2: -0.17250526257596777
+loss: 0.021890  [    0/  147]
+Test Error: 
+MSE: 2.781428
+RMSE: 1.667761
+MAE: 1.133782
+R^2: -0.17248891128429467
+loss: 0.032805  [    0/  147]
+Test Error: 
+MSE: 2.782428
+RMSE: 1.668061
+MAE: 1.134254
+R^2: -0.17291037995767855
+loss: 0.038986  [    0/  147]
+Test Error: 
+MSE: 2.783830
+RMSE: 1.668481
+MAE: 1.134673
+R^2: -0.1735012829631284
+loss: 0.025083  [    0/  147]
+Test Error: 
+MSE: 2.784906
+RMSE: 1.668804
+MAE: 1.134028
+R^2: -0.17395498561919842
+loss: 0.026820  [    0/  147]
+Test Error: 
+MSE: 2.784680
+RMSE: 1.668736
+MAE: 1.133747
+R^2: -0.17385969018662295
+loss: 0.035857  [    0/  147]
+Test Error: 
+MSE: 2.786736
+RMSE: 1.669352
+MAE: 1.134437
+R^2: -0.17472617290428283
+loss: 0.037346  [    0/  147]
+Test Error: 
+MSE: 2.787281
+RMSE: 1.669515
+MAE: 1.134774
+R^2: -0.17495608894440862
+loss: 0.027217  [    0/  147]
+Test Error: 
+MSE: 2.786099
+RMSE: 1.669161
+MAE: 1.134725
+R^2: -0.17445785859317642
+loss: 0.031261  [    0/  147]
+Test Error: 
+MSE: 2.781813
+RMSE: 1.667877
+MAE: 1.134062
+R^2: -0.17265123990918552
+loss: 0.030339  [    0/  147]
+Test Error: 
+MSE: 2.782429
+RMSE: 1.668062
+MAE: 1.134790
+R^2: -0.17291088210674865
+loss: 0.023764  [    0/  147]
+Test Error: 
+MSE: 2.786628
+RMSE: 1.669320
+MAE: 1.137105
+R^2: -0.17468079562466876
+loss: 0.025143  [    0/  147]
+Test Error: 
+MSE: 2.783927
+RMSE: 1.668511
+MAE: 1.135868
+R^2: -0.1735423472669917
+loss: 0.031367  [    0/  147]
+Test Error: 
+MSE: 2.781369
+RMSE: 1.667744
+MAE: 1.135104
+R^2: -0.17246378172945387
+loss: 0.023562  [    0/  147]
+Test Error: 
+MSE: 2.779364
+RMSE: 1.667142
+MAE: 1.133086
+R^2: -0.17161870365944099
+loss: 0.021533  [    0/  147]
+Test Error: 
+MSE: 2.780180
+RMSE: 1.667387
+MAE: 1.133140
+R^2: -0.17196279389870472
+loss: 0.028575  [    0/  147]
+Test Error: 
+MSE: 2.783577
+RMSE: 1.668406
+MAE: 1.134492
+R^2: -0.17339486155671247
+loss: 0.031671  [    0/  147]
+Test Error: 
+MSE: 2.781071
+RMSE: 1.667654
+MAE: 1.134274
+R^2: -0.17233836017026127
+loss: 0.039825  [    0/  147]
+Test Error: 
+MSE: 2.782982
+RMSE: 1.668227
+MAE: 1.135223
+R^2: -0.17314393536939265
+loss: 0.025567  [    0/  147]
+Test Error: 
+MSE: 2.781657
+RMSE: 1.667830
+MAE: 1.134297
+R^2: -0.17258539229662873
+loss: 0.026030  [    0/  147]
+Test Error: 
+MSE: 2.780628
+RMSE: 1.667522
+MAE: 1.134237
+R^2: -0.17215172125368428
+loss: 0.023925  [    0/  147]
+Test Error: 
+MSE: 2.785694
+RMSE: 1.669040
+MAE: 1.137032
+R^2: -0.17428691146255249
+loss: 0.035705  [    0/  147]
+Test Error: 
+MSE: 2.786794
+RMSE: 1.669369
+MAE: 1.137225
+R^2: -0.1747509069146187
+loss: 0.033144  [    0/  147]
+Test Error: 
+MSE: 2.789471
+RMSE: 1.670171
+MAE: 1.137957
+R^2: -0.17587904369616547
+loss: 0.034044  [    0/  147]
+Test Error: 
+MSE: 2.787496
+RMSE: 1.669580
+MAE: 1.137219
+R^2: -0.1750466571935141
+loss: 0.022735  [    0/  147]
+Test Error: 
+MSE: 2.785486
+RMSE: 1.668978
+MAE: 1.136171
+R^2: -0.17419947332463126
+loss: 0.026453  [    0/  147]
+Test Error: 
+MSE: 2.786418
+RMSE: 1.669257
+MAE: 1.136315
+R^2: -0.17459218104646346
+loss: 0.036485  [    0/  147]
+Test Error: 
+MSE: 2.782532
+RMSE: 1.668092
+MAE: 1.135698
+R^2: -0.172954104795213
+loss: 0.027789  [    0/  147]
+Test Error: 
+MSE: 2.779482
+RMSE: 1.667178
+MAE: 1.135079
+R^2: -0.1716685005609826
+loss: 0.045393  [    0/  147]
+Test Error: 
+MSE: 2.778887
+RMSE: 1.666999
+MAE: 1.135190
+R^2: -0.17141768089797393
+loss: 0.026653  [    0/  147]
+Test Error: 
+MSE: 2.777543
+RMSE: 1.666596
+MAE: 1.134771
+R^2: -0.17085121594249375
+loss: 0.023547  [    0/  147]
+Test Error: 
+MSE: 2.780390
+RMSE: 1.667450
+MAE: 1.135261
+R^2: -0.17205108060715757
+loss: 0.028881  [    0/  147]
+Test Error: 
+MSE: 2.781844
+RMSE: 1.667886
+MAE: 1.135698
+R^2: -0.17266404413964653
+loss: 0.028627  [    0/  147]
+Test Error: 
+MSE: 2.781068
+RMSE: 1.667654
+MAE: 1.136103
+R^2: -0.17233713008164542
+loss: 0.024165  [    0/  147]
+Test Error: 
+MSE: 2.785572
+RMSE: 1.669003
+MAE: 1.137997
+R^2: -0.1742358192308271
+loss: 0.032823  [    0/  147]
+Test Error: 
+MSE: 2.791252
+RMSE: 1.670704
+MAE: 1.140355
+R^2: -0.1766299998225398
+loss: 0.023696  [    0/  147]
+Test Error: 
+MSE: 2.786257
+RMSE: 1.669209
+MAE: 1.138634
+R^2: -0.17452454176066423
+loss: 0.024533  [    0/  147]
+Test Error: 
+MSE: 2.782759
+RMSE: 1.668160
+MAE: 1.137535
+R^2: -0.173050016092978
+loss: 0.023778  [    0/  147]
+Test Error: 
+MSE: 2.781229
+RMSE: 1.667702
+MAE: 1.137203
+R^2: -0.172404707162648
+loss: 0.019219  [    0/  147]
+Test Error: 
+MSE: 2.780825
+RMSE: 1.667580
+MAE: 1.137555
+R^2: -0.1722343961876387
+loss: 0.028495  [    0/  147]
+Test Error: 
+MSE: 2.781060
+RMSE: 1.667651
+MAE: 1.137952
+R^2: -0.1723337161051135
+loss: 0.030824  [    0/  147]
+Test Error: 
+MSE: 2.779365
+RMSE: 1.667143
+MAE: 1.137426
+R^2: -0.17161920748632298
+loss: 0.031915  [    0/  147]
+Test Error: 
+MSE: 2.777059
+RMSE: 1.666451
+MAE: 1.136468
+R^2: -0.17064701678072858
+loss: 0.024364  [    0/  147]
+Test Error: 
+MSE: 2.774167
+RMSE: 1.665583
+MAE: 1.135338
+R^2: -0.16942804688725221
+loss: 0.033780  [    0/  147]
+Test Error: 
+MSE: 2.777870
+RMSE: 1.666694
+MAE: 1.136686
+R^2: -0.17098901624994522
+loss: 0.019615  [    0/  147]
+Test Error: 
+MSE: 2.778761
+RMSE: 1.666962
+MAE: 1.136444
+R^2: -0.17136452891720944
+loss: 0.036644  [    0/  147]
+Test Error: 
+MSE: 2.776475
+RMSE: 1.666276
+MAE: 1.136275
+R^2: -0.17040100961490623
+loss: 0.034088  [    0/  147]
+Test Error: 
+MSE: 2.772746
+RMSE: 1.665156
+MAE: 1.134751
+R^2: -0.1688289228270845
+loss: 0.025542  [    0/  147]
+Test Error: 
+MSE: 2.774191
+RMSE: 1.665590
+MAE: 1.135477
+R^2: -0.169437988894795
+loss: 0.030092  [    0/  147]
+Test Error: 
+MSE: 2.780247
+RMSE: 1.667407
+MAE: 1.137723
+R^2: -0.17199089790933897
+loss: 0.037344  [    0/  147]
+Test Error: 
+MSE: 2.781457
+RMSE: 1.667770
+MAE: 1.138302
+R^2: -0.172500953347535
+loss: 0.029774  [    0/  147]
+Test Error: 
+MSE: 2.785585
+RMSE: 1.669007
+MAE: 1.139614
+R^2: -0.17424118530526078
+loss: 0.031825  [    0/  147]
+Test Error: 
+MSE: 2.787213
+RMSE: 1.669495
+MAE: 1.139598
+R^2: -0.17492751864374645
+loss: 0.022424  [    0/  147]
+Test Error: 
+MSE: 2.786812
+RMSE: 1.669375
+MAE: 1.139210
+R^2: -0.17475828366410573
+loss: 0.036626  [    0/  147]
+Test Error: 
+MSE: 2.786170
+RMSE: 1.669182
+MAE: 1.138933
+R^2: -0.17448756842113222
+loss: 0.028613  [    0/  147]
+Test Error: 
+MSE: 2.784829
+RMSE: 1.668781
+MAE: 1.138192
+R^2: -0.17392259410809463
+loss: 0.022799  [    0/  147]
+Test Error: 
+MSE: 2.786100
+RMSE: 1.669161
+MAE: 1.138288
+R^2: -0.17445801812501216
+loss: 0.037459  [    0/  147]
+Test Error: 
+MSE: 2.782149
+RMSE: 1.667978
+MAE: 1.135964
+R^2: -0.17279279421292415
+loss: 0.031156  [    0/  147]
+Test Error: 
+MSE: 2.780831
+RMSE: 1.667582
+MAE: 1.135411
+R^2: -0.1722371093120778
+loss: 0.022761  [    0/  147]
+Test Error: 
+MSE: 2.780694
+RMSE: 1.667541
+MAE: 1.136512
+R^2: -0.17217956510371613
+loss: 0.025186  [    0/  147]
+Test Error: 
+MSE: 2.783153
+RMSE: 1.668278
+MAE: 1.138216
+R^2: -0.1732157714566287
+loss: 0.035083  [    0/  147]
+Test Error: 
+MSE: 2.784691
+RMSE: 1.668739
+MAE: 1.139114
+R^2: -0.17386421963998067
+loss: 0.021367  [    0/  147]
+Test Error: 
+MSE: 2.786813
+RMSE: 1.669375
+MAE: 1.139722
+R^2: -0.17475870122592574
+loss: 0.032780  [    0/  147]
+Test Error: 
+MSE: 2.790720
+RMSE: 1.670545
+MAE: 1.141228
+R^2: -0.17640581243219833
+loss: 0.034567  [    0/  147]
+Test Error: 
+MSE: 2.790705
+RMSE: 1.670540
+MAE: 1.141455
+R^2: -0.17639924770872684
+loss: 0.031456  [    0/  147]
+Test Error: 
+MSE: 2.790083
+RMSE: 1.670354
+MAE: 1.141437
+R^2: -0.17613742830142587
+loss: 0.027703  [    0/  147]
+Test Error: 
+MSE: 2.790301
+RMSE: 1.670419
+MAE: 1.141472
+R^2: -0.1762290135337763
+loss: 0.027301  [    0/  147]
+Test Error: 
+MSE: 2.787910
+RMSE: 1.669704
+MAE: 1.140554
+R^2: -0.17522130499501687
+loss: 0.023921  [    0/  147]
+Test Error: 
+MSE: 2.784284
+RMSE: 1.668617
+MAE: 1.139215
+R^2: -0.17369252548825354
+loss: 0.026632  [    0/  147]
+Test Error: 
+MSE: 2.782900
+RMSE: 1.668203
+MAE: 1.138872
+R^2: -0.1731091582646611
+loss: 0.028628  [    0/  147]
+Test Error: 
+MSE: 2.783243
+RMSE: 1.668305
+MAE: 1.140281
+R^2: -0.17325383834335728
+loss: 0.024761  [    0/  147]
+Test Error: 
+MSE: 2.785112
+RMSE: 1.668866
+MAE: 1.140851
+R^2: -0.17404179954098864
+loss: 0.033540  [    0/  147]
+Test Error: 
+MSE: 2.784689
+RMSE: 1.668739
+MAE: 1.140360
+R^2: -0.17386326541909658
+loss: 0.032042  [    0/  147]
+Test Error: 
+MSE: 2.785337
+RMSE: 1.668933
+MAE: 1.140266
+R^2: -0.17413665450901283
+loss: 0.029678  [    0/  147]
+Test Error: 
+MSE: 2.785008
+RMSE: 1.668834
+MAE: 1.140375
+R^2: -0.17399778651223285
+loss: 0.027533  [    0/  147]
+Test Error: 
+MSE: 2.782609
+RMSE: 1.668115
+MAE: 1.140119
+R^2: -0.1729866233777475
+loss: 0.033531  [    0/  147]
+Test Error: 
+MSE: 2.783601
+RMSE: 1.668413
+MAE: 1.140636
+R^2: -0.1734046959557769
+loss: 0.030227  [    0/  147]
+Test Error: 
+MSE: 2.786030
+RMSE: 1.669140
+MAE: 1.141652
+R^2: -0.17442868717723137
+loss: 0.033344  [    0/  147]
+Test Error: 
+MSE: 2.783592
+RMSE: 1.668410
+MAE: 1.140825
+R^2: -0.17340114903164827
+loss: 0.027635  [    0/  147]
+Test Error: 
+MSE: 2.785728
+RMSE: 1.669050
+MAE: 1.141647
+R^2: -0.17430130214967843
+loss: 0.025504  [    0/  147]
+Test Error: 
+MSE: 2.783277
+RMSE: 1.668316
+MAE: 1.141091
+R^2: -0.1732680723789637
+loss: 0.027087  [    0/  147]
+Test Error: 
+MSE: 2.781449
+RMSE: 1.667768
+MAE: 1.140175
+R^2: -0.1724976573443191
+loss: 0.029779  [    0/  147]
+Test Error: 
+MSE: 2.780953
+RMSE: 1.667619
+MAE: 1.140533
+R^2: -0.17228841842141973
+loss: 0.026565  [    0/  147]
+Test Error: 
+MSE: 2.782281
+RMSE: 1.668017
+MAE: 1.141069
+R^2: -0.172848416633254
+loss: 0.022613  [    0/  147]
+Test Error: 
+MSE: 2.780516
+RMSE: 1.667488
+MAE: 1.140487
+R^2: -0.17210443090340344
+loss: 0.027808  [    0/  147]
+Test Error: 
+MSE: 2.779079
+RMSE: 1.667057
+MAE: 1.139898
+R^2: -0.17149877084724352
+loss: 0.034526  [    0/  147]
+Test Error: 
+MSE: 2.775048
+RMSE: 1.665847
+MAE: 1.137988
+R^2: -0.16979917876293316
+loss: 0.026067  [    0/  147]
+Test Error: 
+MSE: 2.773133
+RMSE: 1.665273
+MAE: 1.137251
+R^2: -0.1689922017508294
+loss: 0.037644  [    0/  147]
+Test Error: 
+MSE: 2.773581
+RMSE: 1.665407
+MAE: 1.137985
+R^2: -0.16918087845615215
+loss: 0.025643  [    0/  147]
+Test Error: 
+MSE: 2.775970
+RMSE: 1.666124
+MAE: 1.139274
+R^2: -0.17018795607031123
+loss: 0.019747  [    0/  147]
+Test Error: 
+MSE: 2.774251
+RMSE: 1.665608
+MAE: 1.139651
+R^2: -0.1694633890524706
+loss: 0.031974  [    0/  147]
+Test Error: 
+MSE: 2.775367
+RMSE: 1.665943
+MAE: 1.140138
+R^2: -0.16993378829413475
+loss: 0.034798  [    0/  147]
+Test Error: 
+MSE: 2.773310
+RMSE: 1.665326
+MAE: 1.140388
+R^2: -0.16906689617522486
+loss: 0.025709  [    0/  147]
+Test Error: 
+MSE: 2.773282
+RMSE: 1.665317
+MAE: 1.140601
+R^2: -0.16905501278275836
+loss: 0.025497  [    0/  147]
+Test Error: 
+MSE: 2.770765
+RMSE: 1.664561
+MAE: 1.139763
+R^2: -0.16799377264307802
+loss: 0.029986  [    0/  147]
+Test Error: 
+MSE: 2.768052
+RMSE: 1.663746
+MAE: 1.139694
+R^2: -0.16685037843906558
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.023155  [    0/  147]
+Test Error: 
+MSE: 2.766709
+RMSE: 1.663343
+MAE: 1.138899
+R^2: -0.16628396051468441
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.034466  [    0/  147]
+Test Error: 
+MSE: 2.766724
+RMSE: 1.663347
+MAE: 1.138721
+R^2: -0.16629044035089802
+loss: 0.032581  [    0/  147]
+Test Error: 
+MSE: 2.767096
+RMSE: 1.663459
+MAE: 1.138901
+R^2: -0.1664471111646475
+loss: 0.030545  [    0/  147]
+Test Error: 
+MSE: 2.769782
+RMSE: 1.664266
+MAE: 1.140590
+R^2: -0.1675796002140808
+loss: 0.024673  [    0/  147]
+Test Error: 
+MSE: 2.770261
+RMSE: 1.664410
+MAE: 1.141641
+R^2: -0.16778129965057342
+loss: 0.027167  [    0/  147]
+Test Error: 
+MSE: 2.768906
+RMSE: 1.664003
+MAE: 1.141667
+R^2: -0.16721002684370823
+loss: 0.025427  [    0/  147]
+Test Error: 
+MSE: 2.767711
+RMSE: 1.663644
+MAE: 1.141816
+R^2: -0.1667066672859281
+loss: 0.020873  [    0/  147]
+Test Error: 
+MSE: 2.765918
+RMSE: 1.663105
+MAE: 1.141869
+R^2: -0.16595058719311062
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.037151  [    0/  147]
+Test Error: 
+MSE: 2.764910
+RMSE: 1.662802
+MAE: 1.141588
+R^2: -0.1655258197326439
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.025355  [    0/  147]
+Test Error: 
+MSE: 2.763007
+RMSE: 1.662230
+MAE: 1.140857
+R^2: -0.1647235942938785
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.027411  [    0/  147]
+Test Error: 
+MSE: 2.762267
+RMSE: 1.662007
+MAE: 1.140461
+R^2: -0.16441153183561763
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.032186  [    0/  147]
+Test Error: 
+MSE: 2.763746
+RMSE: 1.662452
+MAE: 1.140670
+R^2: -0.16503497872322792
+loss: 0.033862  [    0/  147]
+Test Error: 
+MSE: 2.762551
+RMSE: 1.662092
+MAE: 1.139886
+R^2: -0.1645312934958043
+loss: 0.023659  [    0/  147]
+Test Error: 
+MSE: 2.761807
+RMSE: 1.661869
+MAE: 1.138785
+R^2: -0.16421769064221703
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.025336  [    0/  147]
+Test Error: 
+MSE: 2.760224
+RMSE: 1.661392
+MAE: 1.138135
+R^2: -0.16355025034279502
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.023387  [    0/  147]
+Test Error: 
+MSE: 2.763503
+RMSE: 1.662379
+MAE: 1.139674
+R^2: -0.16493264968798615
+loss: 0.023086  [    0/  147]
+Test Error: 
+MSE: 2.769757
+RMSE: 1.664259
+MAE: 1.141695
+R^2: -0.16756875139265892
+loss: 0.025697  [    0/  147]
+Test Error: 
+MSE: 2.774079
+RMSE: 1.665557
+MAE: 1.143272
+R^2: -0.1693908573732581
+loss: 0.033420  [    0/  147]
+Test Error: 
+MSE: 2.780084
+RMSE: 1.667358
+MAE: 1.145338
+R^2: -0.17192228642978113
+loss: 0.022758  [    0/  147]
+Test Error: 
+MSE: 2.778487
+RMSE: 1.666879
+MAE: 1.144846
+R^2: -0.1712489247748188
+loss: 0.025045  [    0/  147]
+Test Error: 
+MSE: 2.780165
+RMSE: 1.667383
+MAE: 1.145881
+R^2: -0.17195638178052763
+loss: 0.026687  [    0/  147]
+Test Error: 
+MSE: 2.775880
+RMSE: 1.666097
+MAE: 1.144523
+R^2: -0.17014987279653204
+loss: 0.031456  [    0/  147]
+Test Error: 
+MSE: 2.773227
+RMSE: 1.665301
+MAE: 1.144009
+R^2: -0.16903179222241804
+loss: 0.016745  [    0/  147]
+Test Error: 
+MSE: 2.769656
+RMSE: 1.664228
+MAE: 1.143133
+R^2: -0.16752640779652217
+loss: 0.034023  [    0/  147]
+Test Error: 
+MSE: 2.767792
+RMSE: 1.663668
+MAE: 1.142375
+R^2: -0.16674064503529573
+loss: 0.035712  [    0/  147]
+Test Error: 
+MSE: 2.767439
+RMSE: 1.663562
+MAE: 1.141972
+R^2: -0.16659176511606333
+loss: 0.021855  [    0/  147]
+Test Error: 
+MSE: 2.764284
+RMSE: 1.662614
+MAE: 1.141179
+R^2: -0.16526191492909015
+loss: 0.041045  [    0/  147]
+Test Error: 
+MSE: 2.764058
+RMSE: 1.662545
+MAE: 1.141366
+R^2: -0.16516638365376557
+loss: 0.020985  [    0/  147]
+Test Error: 
+MSE: 2.761618
+RMSE: 1.661812
+MAE: 1.140548
+R^2: -0.1641380820315168
+loss: 0.030002  [    0/  147]
+Test Error: 
+MSE: 2.764231
+RMSE: 1.662598
+MAE: 1.140758
+R^2: -0.16523960326570308
+loss: 0.015842  [    0/  147]
+Test Error: 
+MSE: 2.765853
+RMSE: 1.663085
+MAE: 1.140129
+R^2: -0.16592330008918554
+loss: 0.023998  [    0/  147]
+Test Error: 
+MSE: 2.766236
+RMSE: 1.663201
+MAE: 1.140345
+R^2: -0.166084714027795
+loss: 0.024619  [    0/  147]
+Test Error: 
+MSE: 2.765957
+RMSE: 1.663117
+MAE: 1.140931
+R^2: -0.1659670398941877
+loss: 0.028360  [    0/  147]
+Test Error: 
+MSE: 2.766727
+RMSE: 1.663348
+MAE: 1.142477
+R^2: -0.1662917844489602
+loss: 0.027156  [    0/  147]
+Test Error: 
+MSE: 2.769006
+RMSE: 1.664033
+MAE: 1.143769
+R^2: -0.16725250348587561
+loss: 0.022353  [    0/  147]
+Test Error: 
+MSE: 2.765077
+RMSE: 1.662852
+MAE: 1.142820
+R^2: -0.1655960308905109
+loss: 0.026474  [    0/  147]
+Test Error: 
+MSE: 2.767242
+RMSE: 1.663503
+MAE: 1.143790
+R^2: -0.1665086484149021
+loss: 0.025440  [    0/  147]
+Test Error: 
+MSE: 2.765017
+RMSE: 1.662834
+MAE: 1.143282
+R^2: -0.1655708651630372
+loss: 0.037116  [    0/  147]
+Test Error: 
+MSE: 2.759692
+RMSE: 1.661232
+MAE: 1.141893
+R^2: -0.1633260203649085
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.025905  [    0/  147]
+Test Error: 
+MSE: 2.760514
+RMSE: 1.661480
+MAE: 1.142338
+R^2: -0.16367279775967747
+loss: 0.020007  [    0/  147]
+Test Error: 
+MSE: 2.764771
+RMSE: 1.662760
+MAE: 1.143504
+R^2: -0.16546696181179743
+loss: 0.022327  [    0/  147]
+Test Error: 
+MSE: 2.765765
+RMSE: 1.663059
+MAE: 1.143866
+R^2: -0.16588620597452053
+loss: 0.034265  [    0/  147]
+Test Error: 
+MSE: 2.764549
+RMSE: 1.662693
+MAE: 1.142902
+R^2: -0.16537338008541913
+loss: 0.023712  [    0/  147]
+Test Error: 
+MSE: 2.763250
+RMSE: 1.662303
+MAE: 1.142609
+R^2: -0.1648260513509161
+loss: 0.025879  [    0/  147]
+Test Error: 
+MSE: 2.762755
+RMSE: 1.662154
+MAE: 1.142519
+R^2: -0.16461729690031057
+loss: 0.022023  [    0/  147]
+Test Error: 
+MSE: 2.764629
+RMSE: 1.662717
+MAE: 1.142972
+R^2: -0.16540724586134692
+loss: 0.033168  [    0/  147]
+Test Error: 
+MSE: 2.766287
+RMSE: 1.663216
+MAE: 1.144030
+R^2: -0.16610601054065555
+loss: 0.017143  [    0/  147]
+Test Error: 
+MSE: 2.766010
+RMSE: 1.663132
+MAE: 1.144923
+R^2: -0.16598923426888068
+loss: 0.021832  [    0/  147]
+Test Error: 
+MSE: 2.764643
+RMSE: 1.662721
+MAE: 1.144774
+R^2: -0.16541303344698322
+loss: 0.023508  [    0/  147]
+Test Error: 
+MSE: 2.761848
+RMSE: 1.661881
+MAE: 1.144385
+R^2: -0.1642350124614571
+loss: 0.026776  [    0/  147]
+Test Error: 
+MSE: 2.759731
+RMSE: 1.661244
+MAE: 1.144900
+R^2: -0.16334266816650267
+loss: 0.019244  [    0/  147]
+Test Error: 
+MSE: 2.756479
+RMSE: 1.660265
+MAE: 1.144013
+R^2: -0.16197174357184485
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.025441  [    0/  147]
+Test Error: 
+MSE: 2.755300
+RMSE: 1.659910
+MAE: 1.144524
+R^2: -0.16147459659247976
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.018975  [    0/  147]
+Test Error: 
+MSE: 2.754365
+RMSE: 1.659628
+MAE: 1.144009
+R^2: -0.16108049390284496
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.024682  [    0/  147]
+Test Error: 
+MSE: 2.750637
+RMSE: 1.658505
+MAE: 1.141630
+R^2: -0.1595091853983719
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.025538  [    0/  147]
+Test Error: 
+MSE: 2.748107
+RMSE: 1.657741
+MAE: 1.141373
+R^2: -0.1584424973441223
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.024104  [    0/  147]
+Test Error: 
+MSE: 2.749504
+RMSE: 1.658163
+MAE: 1.141468
+R^2: -0.15903132225440464
+loss: 0.020385  [    0/  147]
+Test Error: 
+MSE: 2.748725
+RMSE: 1.657928
+MAE: 1.143073
+R^2: -0.1587029427542277
+loss: 0.020738  [    0/  147]
+Test Error: 
+MSE: 2.746868
+RMSE: 1.657368
+MAE: 1.143615
+R^2: -0.15792040882385683
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.028353  [    0/  147]
+Test Error: 
+MSE: 2.750174
+RMSE: 1.658365
+MAE: 1.143591
+R^2: -0.15931400350446245
+loss: 0.031078  [    0/  147]
+Test Error: 
+MSE: 2.748833
+RMSE: 1.657960
+MAE: 1.141931
+R^2: -0.1587484807091426
+loss: 0.021158  [    0/  147]
+Test Error: 
+MSE: 2.752301
+RMSE: 1.659006
+MAE: 1.141164
+R^2: -0.16021069553688982
+loss: 0.018444  [    0/  147]
+Test Error: 
+MSE: 2.752614
+RMSE: 1.659100
+MAE: 1.140924
+R^2: -0.16034237486882041
+loss: 0.022177  [    0/  147]
+Test Error: 
+MSE: 2.752523
+RMSE: 1.659073
+MAE: 1.141453
+R^2: -0.16030427970493566
+loss: 0.026585  [    0/  147]
+Test Error: 
+MSE: 2.752681
+RMSE: 1.659121
+MAE: 1.141626
+R^2: -0.1603707484594461
+loss: 0.027096  [    0/  147]
+Test Error: 
+MSE: 2.752588
+RMSE: 1.659093
+MAE: 1.141293
+R^2: -0.16033163058703392
+loss: 0.022246  [    0/  147]
+Test Error: 
+MSE: 2.754777
+RMSE: 1.659752
+MAE: 1.143180
+R^2: -0.16125437050738634
+loss: 0.031274  [    0/  147]
+Test Error: 
+MSE: 2.757173
+RMSE: 1.660474
+MAE: 1.144920
+R^2: -0.16226415836358088
+loss: 0.025715  [    0/  147]
+Test Error: 
+MSE: 2.760262
+RMSE: 1.661404
+MAE: 1.146759
+R^2: -0.16356626291816778
+loss: 0.021897  [    0/  147]
+Test Error: 
+MSE: 2.761068
+RMSE: 1.661646
+MAE: 1.147015
+R^2: -0.1639061492327598
+loss: 0.026573  [    0/  147]
+Test Error: 
+MSE: 2.757899
+RMSE: 1.660692
+MAE: 1.146026
+R^2: -0.16257017229778015
+loss: 0.027129  [    0/  147]
+Test Error: 
+MSE: 2.755781
+RMSE: 1.660055
+MAE: 1.143700
+R^2: -0.1616776384271923
+loss: 0.028371  [    0/  147]
+Test Error: 
+MSE: 2.752799
+RMSE: 1.659156
+MAE: 1.142944
+R^2: -0.16042056541560612
+loss: 0.023679  [    0/  147]
+Test Error: 
+MSE: 2.748671
+RMSE: 1.657912
+MAE: 1.142258
+R^2: -0.15868044948249138
+loss: 0.026881  [    0/  147]
+Test Error: 
+MSE: 2.748573
+RMSE: 1.657882
+MAE: 1.142138
+R^2: -0.1586389189383519
+loss: 0.018320  [    0/  147]
+Test Error: 
+MSE: 2.750471
+RMSE: 1.658455
+MAE: 1.144110
+R^2: -0.15943926100692196
+loss: 0.019206  [    0/  147]
+Test Error: 
+MSE: 2.747478
+RMSE: 1.657552
+MAE: 1.143696
+R^2: -0.1581774723307876
+loss: 0.023720  [    0/  147]
+Test Error: 
+MSE: 2.745922
+RMSE: 1.657082
+MAE: 1.143862
+R^2: -0.1575213680062637
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.021976  [    0/  147]
+Test Error: 
+MSE: 2.744863
+RMSE: 1.656763
+MAE: 1.144820
+R^2: -0.15707503253690036
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.017391  [    0/  147]
+Test Error: 
+MSE: 2.743897
+RMSE: 1.656471
+MAE: 1.143801
+R^2: -0.15666782658989797
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.025068  [    0/  147]
+Test Error: 
+MSE: 2.743724
+RMSE: 1.656419
+MAE: 1.144580
+R^2: -0.15659493832738747
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.019662  [    0/  147]
+Test Error: 
+MSE: 2.746178
+RMSE: 1.657160
+MAE: 1.145970
+R^2: -0.1576294840758079
+loss: 0.025260  [    0/  147]
+Test Error: 
+MSE: 2.746772
+RMSE: 1.657339
+MAE: 1.146681
+R^2: -0.15787974137769578
+loss: 0.034917  [    0/  147]
+Test Error: 
+MSE: 2.741803
+RMSE: 1.655839
+MAE: 1.144842
+R^2: -0.15578511594116828
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.029844  [    0/  147]
+Test Error: 
+MSE: 2.738876
+RMSE: 1.654955
+MAE: 1.143663
+R^2: -0.15455132802445282
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.024806  [    0/  147]
+Test Error: 
+MSE: 2.734840
+RMSE: 1.653735
+MAE: 1.141812
+R^2: -0.15285014911651595
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.023869  [    0/  147]
+Test Error: 
+MSE: 2.736796
+RMSE: 1.654326
+MAE: 1.141345
+R^2: -0.15367443672503156
+loss: 0.020646  [    0/  147]
+Test Error: 
+MSE: 2.739573
+RMSE: 1.655166
+MAE: 1.142652
+R^2: -0.1548451665813544
+loss: 0.023519  [    0/  147]
+Test Error: 
+MSE: 2.738302
+RMSE: 1.654782
+MAE: 1.142944
+R^2: -0.1543093449045465
+loss: 0.021875  [    0/  147]
+Test Error: 
+MSE: 2.743934
+RMSE: 1.656482
+MAE: 1.146100
+R^2: -0.15668340182474805
+loss: 0.027939  [    0/  147]
+Test Error: 
+MSE: 2.743678
+RMSE: 1.656405
+MAE: 1.145208
+R^2: -0.15657573155699245
+loss: 0.021213  [    0/  147]
+Test Error: 
+MSE: 2.742451
+RMSE: 1.656035
+MAE: 1.144158
+R^2: -0.15605819711566382
+loss: 0.020209  [    0/  147]
+Test Error: 
+MSE: 2.740922
+RMSE: 1.655573
+MAE: 1.143477
+R^2: -0.1554138164831207
+loss: 0.022369  [    0/  147]
+Test Error: 
+MSE: 2.741791
+RMSE: 1.655835
+MAE: 1.143961
+R^2: -0.1557799649299001
+loss: 0.028124  [    0/  147]
+Test Error: 
+MSE: 2.745277
+RMSE: 1.656888
+MAE: 1.145142
+R^2: -0.15724966330536483
+loss: 0.024175  [    0/  147]
+Test Error: 
+MSE: 2.743476
+RMSE: 1.656344
+MAE: 1.143982
+R^2: -0.15649057698645086
+loss: 0.024994  [    0/  147]
+Test Error: 
+MSE: 2.741383
+RMSE: 1.655712
+MAE: 1.143555
+R^2: -0.15560793549848628
+loss: 0.025116  [    0/  147]
+Test Error: 
+MSE: 2.738292
+RMSE: 1.654778
+MAE: 1.142822
+R^2: -0.15430498858905684
+loss: 0.018570  [    0/  147]
+Test Error: 
+MSE: 2.738084
+RMSE: 1.654716
+MAE: 1.143743
+R^2: -0.1542175795747014
+loss: 0.018629  [    0/  147]
+Test Error: 
+MSE: 2.734995
+RMSE: 1.653782
+MAE: 1.144535
+R^2: -0.15291542895241572
+loss: 0.029294  [    0/  147]
+Test Error: 
+MSE: 2.737390
+RMSE: 1.654506
+MAE: 1.145511
+R^2: -0.153924868584008
+loss: 0.022530  [    0/  147]
+Test Error: 
+MSE: 2.736791
+RMSE: 1.654325
+MAE: 1.146015
+R^2: -0.1536724864851109
+loss: 0.028050  [    0/  147]
+Test Error: 
+MSE: 2.732448
+RMSE: 1.653012
+MAE: 1.144221
+R^2: -0.15184165029034924
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.024016  [    0/  147]
+Test Error: 
+MSE: 2.734701
+RMSE: 1.653693
+MAE: 1.146269
+R^2: -0.15279149089113164
+loss: 0.030893  [    0/  147]
+Test Error: 
+MSE: 2.732310
+RMSE: 1.652970
+MAE: 1.144750
+R^2: -0.15178330812778862
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.023418  [    0/  147]
+Test Error: 
+MSE: 2.730665
+RMSE: 1.652472
+MAE: 1.143268
+R^2: -0.15109013067693322
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.024760  [    0/  147]
+Test Error: 
+MSE: 2.729436
+RMSE: 1.652101
+MAE: 1.142606
+R^2: -0.1505720167293385
+Saved PyTorch Model State to dimension_models/model_objects/IADS2007_pleasure_wav2vec2_base_1664364868_BEST.pt
+loss: 0.029737  [    0/  147]
+Test Error: 
+MSE: 2.731020
+RMSE: 1.652580
+MAE: 1.142524
+R^2: -0.1512395480184976
+loss: 0.029786  [    0/  147]
+Test Error: 
+MSE: 2.734823
+RMSE: 1.653730
+MAE: 1.144247
+R^2: -0.15284279489246422
+loss: 0.021774  [    0/  147]
+Test Error: 
+MSE: 2.736966
+RMSE: 1.654378
+MAE: 1.145845
+R^2: -0.15374598244921533
+loss: 0.026793  [    0/  147]
+Test Error: 
+MSE: 2.735200
+RMSE: 1.653844
+MAE: 1.146558
+R^2: -0.15300179405026193
+loss: 0.028754  [    0/  147]
+Test Error: 
+MSE: 2.738651
+RMSE: 1.654887
+MAE: 1.147295
+R^2: -0.1544565763654555
+loss: 0.023111  [    0/  147]
+Test Error: 
+MSE: 2.740280
+RMSE: 1.655379
+MAE: 1.147952
+R^2: -0.15514309478737753
+loss: 0.023331  [    0/  147]
+Test Error: 
+MSE: 2.741875
+RMSE: 1.655861
+MAE: 1.148107
+R^2: -0.15581538308138665
+loss: 0.020125  [    0/  147]
+Test Error: 
+MSE: 2.739247
+RMSE: 1.655067
+MAE: 1.148151
+R^2: -0.15470758918989191
+loss: 0.021291  [    0/  147]
+Test Error: 
+MSE: 2.738282
+RMSE: 1.654775
+MAE: 1.147222
+R^2: -0.15430087479333388
+loss: 0.024219  [    0/  147]
+Test Error: 
+MSE: 2.737855
+RMSE: 1.654647
+MAE: 1.145861
+R^2: -0.1541209902852998
+loss: 0.019109  [    0/  147]
+Test Error: 
+MSE: 2.740589
+RMSE: 1.655472
+MAE: 1.146402
+R^2: -0.1552734231592774
+loss: 0.021032  [    0/  147]
+Test Error: 
+MSE: 2.740562
+RMSE: 1.655464
+MAE: 1.147436
+R^2: -0.1552622060453901
+loss: 0.013655  [    0/  147]
+Test Error: 
+MSE: 2.743549
+RMSE: 1.656366
+MAE: 1.147494
+R^2: -0.1565210907199852
+loss: 0.027785  [    0/  147]
+Test Error: 
+MSE: 2.744602
+RMSE: 1.656684
+MAE: 1.147578
+R^2: -0.1569649289044044
+loss: 0.023495  [    0/  147]
+Test Error: 
+MSE: 2.745878
+RMSE: 1.657069
+MAE: 1.147299
+R^2: -0.15750291981609799
+loss: 0.034486  [    0/  147]
+Test Error: 
+MSE: 2.747308
+RMSE: 1.657500
+MAE: 1.149343
+R^2: -0.15810571060377576
+loss: 0.026711  [    0/  147]
+Test Error: 
+MSE: 2.749883
+RMSE: 1.658277
+MAE: 1.150647
+R^2: -0.1591910527374334
+loss: 0.019860  [    0/  147]
+Test Error: 
+MSE: 2.749257
+RMSE: 1.658088
+MAE: 1.149859
+R^2: -0.15892727418107278
+loss: 0.018851  [    0/  147]
+Test Error: 
+MSE: 2.746933
+RMSE: 1.657387
+MAE: 1.149014
+R^2: -0.15794774787418353
+loss: 0.020919  [    0/  147]
+Test Error: 
+MSE: 2.747387
+RMSE: 1.657524
+MAE: 1.150195
+R^2: -0.15813892123775197
+loss: 0.020486  [    0/  147]
+Test Error: 
+MSE: 2.743727
+RMSE: 1.656420
+MAE: 1.151193
+R^2: -0.156596297180863
+loss: 0.019029  [    0/  147]
+Test Error: 
+MSE: 2.738057
+RMSE: 1.654708
+MAE: 1.149477
+R^2: -0.15420611277967655
+loss: 0.021106  [    0/  147]
+Test Error: 
+MSE: 2.736236
+RMSE: 1.654157
+MAE: 1.148765
+R^2: -0.1534385011110284
+loss: 0.028717  [    0/  147]
+Test Error: 
+MSE: 2.731496
+RMSE: 1.652724
+MAE: 1.147899
+R^2: -0.1514404296647751

@@ -1,0 +1,6 @@
+axes.titlesize : 6
+axes.labelsize : 6
+xtick.labelsize : 6
+ytick.labelsize : 6
+font.family : serif
+text.usetex : true

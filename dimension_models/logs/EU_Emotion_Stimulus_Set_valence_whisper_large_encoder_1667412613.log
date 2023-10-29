@@ -1,0 +1,345 @@
+Using learning rate: 1e-05
+Using sequence aggregation method: mean
+Using optimizer: adam
+Using cpu device
+DimensionPredictor(
+  (softmax): Softmax(dim=0)
+  (first_projection): Linear(in_features=1280, out_features=256, bias=True)
+  (second_projection): Linear(in_features=256, out_features=1, bias=True)
+)
+loss: 0.030074  [    0/  385]
+loss: 0.040481  [  160/  385]
+loss: 0.034712  [  320/  385]
+Test Error: 
+MSE: 0.336874
+RMSE: 0.580409
+MAE: 0.698135
+R^2: -0.1522567026369861
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.028640  [    0/  385]
+loss: 0.014851  [  160/  385]
+loss: 0.023408  [  320/  385]
+Test Error: 
+MSE: 0.364020
+RMSE: 0.603341
+MAE: 0.713728
+R^2: -0.2451071113479264
+loss: 0.026115  [    0/  385]
+loss: 0.041894  [  160/  385]
+loss: 0.035564  [  320/  385]
+Test Error: 
+MSE: 0.333782
+RMSE: 0.577739
+MAE: 0.681588
+R^2: -0.1416812112426864
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.037283  [    0/  385]
+loss: 0.030137  [  160/  385]
+loss: 0.034207  [  320/  385]
+Test Error: 
+MSE: 0.301736
+RMSE: 0.549305
+MAE: 0.675597
+R^2: -0.032069590234623746
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.027455  [    0/  385]
+loss: 0.033738  [  160/  385]
+loss: 0.017810  [  320/  385]
+Test Error: 
+MSE: 0.302752
+RMSE: 0.550229
+MAE: 0.673982
+R^2: -0.035544474034314266
+loss: 0.023744  [    0/  385]
+loss: 0.029299  [  160/  385]
+loss: 0.025513  [  320/  385]
+Test Error: 
+MSE: 0.306274
+RMSE: 0.553420
+MAE: 0.680300
+R^2: -0.04759020453609275
+loss: 0.025631  [    0/  385]
+loss: 0.020421  [  160/  385]
+loss: 0.028330  [  320/  385]
+Test Error: 
+MSE: 0.418106
+RMSE: 0.646611
+MAE: 0.743663
+R^2: -0.4301053166868263
+loss: 0.032959  [    0/  385]
+loss: 0.021322  [  160/  385]
+loss: 0.036540  [  320/  385]
+Test Error: 
+MSE: 0.303139
+RMSE: 0.550580
+MAE: 0.671047
+R^2: -0.03686694473391272
+loss: 0.027085  [    0/  385]
+loss: 0.029617  [  160/  385]
+loss: 0.031742  [  320/  385]
+Test Error: 
+MSE: 0.296889
+RMSE: 0.544875
+MAE: 0.670423
+R^2: -0.015489280502924974
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.030712  [    0/  385]
+loss: 0.020388  [  160/  385]
+loss: 0.015240  [  320/  385]
+Test Error: 
+MSE: 0.304357
+RMSE: 0.551686
+MAE: 0.680426
+R^2: -0.04103510704108526
+loss: 0.027845  [    0/  385]
+loss: 0.032958  [  160/  385]
+loss: 0.034898  [  320/  385]
+Test Error: 
+MSE: 0.294640
+RMSE: 0.542807
+MAE: 0.668591
+R^2: -0.007796422102038569
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.022672  [    0/  385]
+loss: 0.028635  [  160/  385]
+loss: 0.030389  [  320/  385]
+Test Error: 
+MSE: 0.295053
+RMSE: 0.543188
+MAE: 0.667784
+R^2: -0.009209876511825366
+loss: 0.021899  [    0/  385]
+loss: 0.033738  [  160/  385]
+loss: 0.023657  [  320/  385]
+Test Error: 
+MSE: 0.331270
+RMSE: 0.575560
+MAE: 0.679114
+R^2: -0.13308728352065824
+loss: 0.028028  [    0/  385]
+loss: 0.036891  [  160/  385]
+loss: 0.028119  [  320/  385]
+Test Error: 
+MSE: 0.367079
+RMSE: 0.605870
+MAE: 0.717332
+R^2: -0.2555691149199575
+loss: 0.027325  [    0/  385]
+loss: 0.020605  [  160/  385]
+loss: 0.031669  [  320/  385]
+Test Error: 
+MSE: 0.313457
+RMSE: 0.559872
+MAE: 0.671335
+R^2: -0.07215982214160865
+loss: 0.023554  [    0/  385]
+loss: 0.021725  [  160/  385]
+loss: 0.028099  [  320/  385]
+Test Error: 
+MSE: 0.290726
+RMSE: 0.539190
+MAE: 0.674350
+R^2: 0.0055894556479408886
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.033776  [    0/  385]
+loss: 0.030267  [  160/  385]
+loss: 0.021646  [  320/  385]
+Test Error: 
+MSE: 0.301933
+RMSE: 0.549485
+MAE: 0.681278
+R^2: -0.03274352152891735
+loss: 0.028928  [    0/  385]
+loss: 0.023807  [  160/  385]
+loss: 0.014178  [  320/  385]
+Test Error: 
+MSE: 0.283872
+RMSE: 0.532797
+MAE: 0.663245
+R^2: 0.029032953484057544
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.031875  [    0/  385]
+loss: 0.025738  [  160/  385]
+loss: 0.025380  [  320/  385]
+Test Error: 
+MSE: 0.284178
+RMSE: 0.533083
+MAE: 0.662802
+R^2: 0.027987359437983916
+loss: 0.025706  [    0/  385]
+loss: 0.031924  [  160/  385]
+loss: 0.026435  [  320/  385]
+Test Error: 
+MSE: 0.279832
+RMSE: 0.528991
+MAE: 0.666468
+R^2: 0.04285419509275368
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.027141  [    0/  385]
+loss: 0.026811  [  160/  385]
+loss: 0.018520  [  320/  385]
+Test Error: 
+MSE: 0.278151
+RMSE: 0.527400
+MAE: 0.664512
+R^2: 0.04860186935707178
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.022572  [    0/  385]
+loss: 0.025976  [  160/  385]
+loss: 0.020579  [  320/  385]
+Test Error: 
+MSE: 0.337518
+RMSE: 0.580963
+MAE: 0.699655
+R^2: -0.15445746224825707
+loss: 0.022417  [    0/  385]
+loss: 0.026590  [  160/  385]
+loss: 0.039660  [  320/  385]
+Test Error: 
+MSE: 0.276560
+RMSE: 0.525889
+MAE: 0.664771
+R^2: 0.05404538937273251
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.024912  [    0/  385]
+loss: 0.038719  [  160/  385]
+loss: 0.027790  [  320/  385]
+Test Error: 
+MSE: 0.353045
+RMSE: 0.594176
+MAE: 0.685356
+R^2: -0.2075684239680493
+loss: 0.032421  [    0/  385]
+loss: 0.023322  [  160/  385]
+loss: 0.018659  [  320/  385]
+Test Error: 
+MSE: 0.294802
+RMSE: 0.542956
+MAE: 0.661795
+R^2: -0.008350041780195161
+loss: 0.020035  [    0/  385]
+loss: 0.016850  [  160/  385]
+loss: 0.021555  [  320/  385]
+Test Error: 
+MSE: 0.293831
+RMSE: 0.542062
+MAE: 0.677632
+R^2: -0.005029271759840803
+loss: 0.018448  [    0/  385]
+loss: 0.013508  [  160/  385]
+loss: 0.028501  [  320/  385]
+Test Error: 
+MSE: 0.319222
+RMSE: 0.564997
+MAE: 0.691114
+R^2: -0.09187737516166683
+loss: 0.027288  [    0/  385]
+loss: 0.025377  [  160/  385]
+loss: 0.027647  [  320/  385]
+Test Error: 
+MSE: 0.298453
+RMSE: 0.546308
+MAE: 0.662188
+R^2: -0.020838162830870477
+loss: 0.021072  [    0/  385]
+loss: 0.023832  [  160/  385]
+loss: 0.026107  [  320/  385]
+Test Error: 
+MSE: 0.275630
+RMSE: 0.525005
+MAE: 0.666167
+R^2: 0.05722452613434237
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.023232  [    0/  385]
+loss: 0.022258  [  160/  385]
+loss: 0.023552  [  320/  385]
+Test Error: 
+MSE: 0.283509
+RMSE: 0.532456
+MAE: 0.672057
+R^2: 0.030274062748676278
+loss: 0.019334  [    0/  385]
+loss: 0.017141  [  160/  385]
+loss: 0.016190  [  320/  385]
+Test Error: 
+MSE: 0.270601
+RMSE: 0.520193
+MAE: 0.661870
+R^2: 0.07442611482979833
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.025141  [    0/  385]
+loss: 0.025629  [  160/  385]
+loss: 0.023722  [  320/  385]
+Test Error: 
+MSE: 0.273670
+RMSE: 0.523135
+MAE: 0.657581
+R^2: 0.06392848356083969
+loss: 0.018393  [    0/  385]
+loss: 0.018639  [  160/  385]
+loss: 0.025850  [  320/  385]
+Test Error: 
+MSE: 0.302027
+RMSE: 0.549570
+MAE: 0.682841
+R^2: -0.03306353929446271
+loss: 0.021611  [    0/  385]
+loss: 0.016946  [  160/  385]
+loss: 0.027238  [  320/  385]
+Test Error: 
+MSE: 0.271203
+RMSE: 0.520772
+MAE: 0.657104
+R^2: 0.07236652786274689
+loss: 0.019797  [    0/  385]
+loss: 0.021229  [  160/  385]
+loss: 0.024100  [  320/  385]
+Test Error: 
+MSE: 0.266872
+RMSE: 0.516596
+MAE: 0.660834
+R^2: 0.08718264805378628
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.024045  [    0/  385]
+loss: 0.028587  [  160/  385]
+loss: 0.020476  [  320/  385]
+Test Error: 
+MSE: 0.341269
+RMSE: 0.584182
+MAE: 0.704030
+R^2: -0.1672871656239181
+loss: 0.016026  [    0/  385]
+loss: 0.021513  [  160/  385]
+loss: 0.020451  [  320/  385]
+Test Error: 
+MSE: 0.311997
+RMSE: 0.558567
+MAE: 0.665883
+R^2: -0.06716466029111756
+loss: 0.022465  [    0/  385]
+loss: 0.022816  [  160/  385]
+loss: 0.018481  [  320/  385]
+Test Error: 
+MSE: 0.287816
+RMSE: 0.536485
+MAE: 0.676040
+R^2: 0.015542637863160791
+loss: 0.019486  [    0/  385]
+loss: 0.027169  [  160/  385]
+loss: 0.018115  [  320/  385]
+Test Error: 
+MSE: 0.266311
+RMSE: 0.516053
+MAE: 0.655727
+R^2: 0.08910107303219772
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.013123  [    0/  385]
+loss: 0.026345  [  160/  385]
+loss: 0.013933  [  320/  385]
+Test Error: 
+MSE: 0.265659
+RMSE: 0.515421
+MAE: 0.655123
+R^2: 0.09132963538291838
+Saved PyTorch Model State to dimension_models/model_objects/EU_Emotion_Stimulus_Set_valence_whisper_large_encoder_1667412613_BEST.pt
+loss: 0.022147  [    0/  385]

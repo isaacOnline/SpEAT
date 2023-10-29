@@ -1,0 +1,3 @@
+Using learning rate: 5e-05
+Using sequence aggregation method: max
+Using optimizer: adam

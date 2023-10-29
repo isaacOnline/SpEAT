@@ -1,0 +1,3 @@
+Using learning rate: 0.001
+Using sequence aggregation method: mean
+Using optimizer: adam

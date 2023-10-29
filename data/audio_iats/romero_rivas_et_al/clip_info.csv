@@ -1,0 +1,129 @@
+speaker_type,stimuli_type,word,background_noise,original_path,new_path,clip_name,sample_length
+foreign,negative,fear,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/fear_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/fear_foreign_Noise.wav,fear_foreign_Noise,8701
+native,negative,fear,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/fear_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/fear_native_Noise.wav,fear_native_Noise,9621
+foreign,negative,hate,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/hate_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/hate_foreign_Noise.wav,hate_foreign_Noise,11056
+native,negative,hate,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/hate_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/hate_native_Noise.wav,hate_native_Noise,9185
+foreign,negative,rage,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/rage_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/rage_foreign_Noise.wav,rage_foreign_Noise,9670
+native,negative,rage,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/rage_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/rage_native_Noise.wav,rage_native_Noise,13481
+foreign,negative,fury,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/fury_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/fury_foreign_Noise.wav,fury_foreign_Noise,8112
+native,negative,fury,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/fury_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/fury_native_Noise.wav,fury_native_Noise,11482
+foreign,negative,wrath,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/wrath_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/wrath_foreign_Noise.wav,wrath_foreign_Noise,10410
+native,negative,wrath,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/wrath_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/wrath_native_Noise.wav,wrath_native_Noise,10056
+foreign,negative,fight,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/fight_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/fight_foreign_Noise.wav,fight_foreign_Noise,10506
+native,negative,fight,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/fight_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/fight_native_Noise.wav,fight_native_Noise,9205
+foreign,negative,hatred,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/hatred_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/hatred_foreign_Noise.wav,hatred_foreign_Noise,10620
+native,negative,hatred,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/hatred_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/hatred_native_Noise.wav,hatred_native_Noise,9779
+foreign,negative,sick,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/sick_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/sick_foreign_Noise.wav,sick_foreign_Noise,5707
+native,negative,sick,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/sick_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/sick_native_Noise.wav,sick_native_Noise,8672
+foreign,positive,happy,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/happy_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/happy_foreign_Noise.wav,happy_foreign_Noise,7428
+native,positive,happy,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/happy_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/happy_native_Noise.wav,happy_native_Noise,8156
+foreign,positive,art,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/art_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/art_foreign_Noise.wav,art_foreign_Noise,8182
+native,positive,art,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/art_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/art_native_Noise.wav,art_native_Noise,7854
+foreign,positive,smooth,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/smooth_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/smooth_foreign_Noise.wav,smooth_foreign_Noise,8975
+native,positive,smooth,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/smooth_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/smooth_native_Noise.wav,smooth_native_Noise,11461
+foreign,positive,dream,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/dream_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/dream_foreign_Noise.wav,dream_foreign_Noise,6166
+native,positive,dream,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/dream_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/dream_native_Noise.wav,dream_native_Noise,8069
+foreign,positive,peace,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/peace_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/peace_foreign_Noise.wav,peace_foreign_Noise,7207
+native,positive,peace,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/peace_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/peace_native_Noise.wav,peace_native_Noise,8314
+foreign,positive,rose,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/rose_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/rose_foreign_Noise.wav,rose_foreign_Noise,9516
+native,positive,rose,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/rose_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/rose_native_Noise.wav,rose_native_Noise,10891
+foreign,positive,good,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/good_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/good_foreign_Noise.wav,good_foreign_Noise,8834
+native,positive,good,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/good_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/good_native_Noise.wav,good_native_Noise,5326
+foreign,positive,heart,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/heart_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/heart_foreign_Noise.wav,heart_foreign_Noise,7524
+native,positive,heart,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/heart_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/heart_native_Noise.wav,heart_native_Noise,7521
+foreign,neutral,table,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/table_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/table_foreign_Noise.wav,table_foreign_Noise,7699
+native,neutral,table,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/table_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/table_native_Noise.wav,table_native_Noise,8826
+foreign,neutral,desk,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/desk_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/desk_foreign_Noise.wav,desk_foreign_Noise,8754
+native,neutral,desk,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/desk_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/desk_native_Noise.wav,desk_native_Noise,7807
+foreign,neutral,recliner,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/recliner_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/recliner_foreign_Noise.wav,recliner_foreign_Noise,11784
+native,neutral,recliner,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/recliner_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/recliner_native_Noise.wav,recliner_native_Noise,11172
+foreign,neutral,bench,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/bench_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/bench_foreign_Noise.wav,bench_foreign_Noise,8151
+native,neutral,bench,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/bench_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/bench_native_Noise.wav,bench_native_Noise,9711
+foreign,neutral,weather,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/weather_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/weather_foreign_Noise.wav,weather_foreign_Noise,6973
+native,neutral,weather,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/weather_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/weather_native_Noise.wav,weather_native_Noise,7719
+foreign,neutral,coaster,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/coaster_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/coaster_foreign_Noise.wav,coaster_foreign_Noise,8603
+native,neutral,coaster,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/coaster_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/coaster_native_Noise.wav,coaster_native_Noise,9073
+foreign,neutral,straw,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/straw_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/straw_foreign_Noise.wav,straw_foreign_Noise,7971
+native,neutral,straw,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/straw_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/straw_native_Noise.wav,straw_native_Noise,9525
+foreign,neutral,plastic,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/plastic_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/plastic_foreign_Noise.wav,plastic_foreign_Noise,9700
+native,neutral,plastic,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/plastic_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/plastic_native_Noise.wav,plastic_native_Noise,11614
+foreign,neutral,note,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/note_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/note_foreign_Noise.wav,note_foreign_Noise,8732
+native,neutral,note,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/note_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/note_native_Noise.wav,note_native_Noise,10432
+foreign,neutral,horn,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/horn_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/horn_foreign_Noise.wav,horn_foreign_Noise,8004
+native,neutral,horn,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/horn_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/horn_native_Noise.wav,horn_native_Noise,7280
+foreign,neutral,eye,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/eye_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/eye_foreign_Noise.wav,eye_foreign_Noise,7318
+native,neutral,eye,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/eye_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/eye_native_Noise.wav,eye_native_Noise,6767
+foreign,neutral,point,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/point_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/point_foreign_Noise.wav,point_foreign_Noise,9471
+native,neutral,point,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/point_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/point_native_Noise.wav,point_native_Noise,8536
+foreign,neutral,road,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/road_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/road_foreign_Noise.wav,road_foreign_Noise,8481
+native,neutral,road,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/road_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/road_native_Noise.wav,road_native_Noise,8518
+foreign,neutral,sand,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/sand_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/sand_foreign_Noise.wav,sand_foreign_Noise,8842
+native,neutral,sand,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/sand_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/sand_native_Noise.wav,sand_native_Noise,6505
+foreign,neutral,ground,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/ground_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/ground_foreign_Noise.wav,ground_foreign_Noise,10401
+native,neutral,ground,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/ground_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/ground_native_Noise.wav,ground_native_Noise,10551
+foreign,neutral,nose,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/nose_foreign_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/nose_foreign_Noise.wav,nose_foreign_Noise,11022
+native,neutral,nose,noise,data/audio_iats/romero_rivas_et_al/IAT_Stimuli - noise/nose_native_Noise.wav,data/audio_iats/romero_rivas_et_al/all_clips/nose_native_Noise.wav,nose_native_Noise,11422
+foreign,negative,fear,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/fear_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/fear_foreign.wav,fear_foreign,8701
+native,negative,fear,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/fear_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/fear_native.wav,fear_native,9621
+foreign,negative,hate,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/hate_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/hate_foreign.wav,hate_foreign,11056
+native,negative,hate,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/hate_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/hate_native.wav,hate_native,9185
+foreign,negative,rage,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/rage_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/rage_foreign.wav,rage_foreign,9670
+native,negative,rage,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/rage_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/rage_native.wav,rage_native,13481
+foreign,negative,fury,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/fury_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/fury_foreign.wav,fury_foreign,8112
+native,negative,fury,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/fury_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/fury_native.wav,fury_native,11482
+foreign,negative,wrath,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/wrath_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/wrath_foreign.wav,wrath_foreign,10410
+native,negative,wrath,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/wrath_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/wrath_native.wav,wrath_native,10056
+foreign,negative,fight,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/fight_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/fight_foreign.wav,fight_foreign,10506
+native,negative,fight,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/fight_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/fight_native.wav,fight_native,9205
+foreign,negative,hatred,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/hatred_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/hatred_foreign.wav,hatred_foreign,10620
+native,negative,hatred,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/hatred_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/hatred_native.wav,hatred_native,9779
+foreign,negative,sick,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/sick_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/sick_foreign.wav,sick_foreign,5707
+native,negative,sick,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/sick_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/sick_native.wav,sick_native,8672
+foreign,positive,happy,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/happy_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/happy_foreign.wav,happy_foreign,7428
+native,positive,happy,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/happy_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/happy_native.wav,happy_native,8156
+foreign,positive,art,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/art_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/art_foreign.wav,art_foreign,8182
+native,positive,art,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/art_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/art_native.wav,art_native,7854
+foreign,positive,smooth,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/smooth_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/smooth_foreign.wav,smooth_foreign,8975
+native,positive,smooth,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/smooth_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/smooth_native.wav,smooth_native,11461
+foreign,positive,dream,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/dream_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/dream_foreign.wav,dream_foreign,6166
+native,positive,dream,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/dream_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/dream_native.wav,dream_native,8069
+foreign,positive,peace,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/peace_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/peace_foreign.wav,peace_foreign,7207
+native,positive,peace,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/peace_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/peace_native.wav,peace_native,8314
+foreign,positive,rose,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/rose_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/rose_foreign.wav,rose_foreign,9516
+native,positive,rose,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/rose_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/rose_native.wav,rose_native,10891
+foreign,positive,good,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/good_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/good_foreign.wav,good_foreign,8834
+native,positive,good,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/good_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/good_native.wav,good_native,5326
+foreign,positive,heart,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/heart_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/heart_foreign.wav,heart_foreign,7524
+native,positive,heart,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/heart_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/heart_native.wav,heart_native,7521
+foreign,neutral,table,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/table_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/table_foreign.wav,table_foreign,7699
+native,neutral,table,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/table_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/table_native.wav,table_native,8826
+foreign,neutral,desk,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/desk_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/desk_foreign.wav,desk_foreign,8754
+native,neutral,desk,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/desk_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/desk_native.wav,desk_native,7807
+foreign,neutral,recliner,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/recliner_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/recliner_foreign.wav,recliner_foreign,11784
+native,neutral,recliner,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/recliner_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/recliner_native.wav,recliner_native,11172
+foreign,neutral,bench,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/bench_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/bench_foreign.wav,bench_foreign,8151
+native,neutral,bench,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/bench_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/bench_native.wav,bench_native,9711
+foreign,neutral,weather,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/weather_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/weather_foreign.wav,weather_foreign,6973
+native,neutral,weather,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/weather_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/weather_native.wav,weather_native,7719
+foreign,neutral,coaster,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/coaster_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/coaster_foreign.wav,coaster_foreign,8603
+native,neutral,coaster,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/coaster_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/coaster_native.wav,coaster_native,9073
+foreign,neutral,straw,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/straw_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/straw_foreign.wav,straw_foreign,7971
+native,neutral,straw,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/straw_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/straw_native.wav,straw_native,9525
+foreign,neutral,plastic,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/plastic_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/plastic_foreign.wav,plastic_foreign,9700
+native,neutral,plastic,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/plastic_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/plastic_native.wav,plastic_native,11614
+foreign,neutral,note,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/note_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/note_foreign.wav,note_foreign,8732
+native,neutral,note,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/note_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/note_native.wav,note_native,10432
+foreign,neutral,horn,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/horn_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/horn_foreign.wav,horn_foreign,8004
+native,neutral,horn,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/horn_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/horn_native.wav,horn_native,7280
+foreign,neutral,eye,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/eye_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/eye_foreign.wav,eye_foreign,7318
+native,neutral,eye,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/eye_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/eye_native.wav,eye_native,6767
+foreign,neutral,point,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/point_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/point_foreign.wav,point_foreign,9471
+native,neutral,point,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/point_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/point_native.wav,point_native,8536
+foreign,neutral,road,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/road_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/road_foreign.wav,road_foreign,8481
+native,neutral,road,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/road_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/road_native.wav,road_native,8518
+foreign,neutral,sand,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/sand_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/sand_foreign.wav,sand_foreign,8842
+native,neutral,sand,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/sand_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/sand_native.wav,sand_native,6505
+foreign,neutral,ground,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/ground_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/ground_foreign.wav,ground_foreign,10401
+native,neutral,ground,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/ground_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/ground_native.wav,ground_native,10551
+foreign,neutral,nose,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/nose_foreign.wav,data/audio_iats/romero_rivas_et_al/all_clips/nose_foreign.wav,nose_foreign,11022
+native,neutral,nose,quiet,data/audio_iats/romero_rivas_et_al/IAT_Stimuli/nose_native.wav,data/audio_iats/romero_rivas_et_al/all_clips/nose_native.wav,nose_native,11422
