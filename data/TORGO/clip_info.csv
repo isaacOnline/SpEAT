@@ -1,0 +1,121 @@
+uid,id,head_mic_fp,text,num_words,speaker,dysarthric,gender,session,sample_length,pair_id
+0005_FC03_Session2,0005,data/TORGO/FC/FC03/Session2/wav_headMic/0005.wav,"Although always alone, we survive",5.0,FC03,control,female,Session2,64400,158
+0060_FC03_Session2,0060,data/TORGO/FC/FC03/Session2/wav_headMic/0060.wav,I'm willing to experiment for the first time,8.0,FC03,control,female,Session2,72720,102
+0114_FC03_Session2,0114,data/TORGO/FC/FC03/Session2/wav_headMic/0114.wav,The prospect of cutting back spending is an unpleasant one for any governor,13.0,FC03,control,female,Session2,118720,138
+0051_FC03_Session2,0051,data/TORGO/FC/FC03/Session2/wav_headMic/0051.wav,Being able to dance can help too,7.0,FC03,control,female,Session2,49920,106
+0095_FC03_Session2,0095,data/TORGO/FC/FC03/Session2/wav_headMic/0095.wav,Each one volunteered to jump first,6.0,FC03,control,female,Session2,76960,85
+0146_FC03_Session2,0146,data/TORGO/FC/FC03/Session2/wav_headMic/0146.wav,The results were very disappointing,5.0,FC03,control,female,Session2,67360,92
+0195_FC03_Session2,0195,data/TORGO/FC/FC03/Session2/wav_headMic/0195.wav,There was only one decision to be made,8.0,FC03,control,female,Session2,63280,88
+0372_FC03_Session1,0372,data/TORGO/FC/FC03/Session1/wav_headMic/0372.wav,"She wore warm, fleecy, woolen overalls",6.0,FC03,control,female,Session1,53280,101
+0272_FC03_Session1,0272,data/TORGO/FC/FC03/Session1/wav_headMic/0272.wav,Alfalfa is healthy for you,5.0,FC03,control,female,Session1,49040,154
+0300_FC03_Session1,0300,data/TORGO/FC/FC03/Session1/wav_headMic/0300.wav,We rode horseback to the farm,6.0,FC03,control,female,Session1,60800,141
+0318_FC03_Session1,0318,data/TORGO/FC/FC03/Session1/wav_headMic/0318.wav,Aluminum silverware can often be flimsy,6.0,FC03,control,female,Session1,64640,157
+0132_FC03_Session1,0132,data/TORGO/FC/FC03/Session1/wav_headMic/0132.wav,I tried to tell people in the community,8.0,FC03,control,female,Session1,58240,142
+0187_FC03_Session1,0187,data/TORGO/FC/FC03/Session1/wav_headMic/0187.wav,Where were you while we were away?,7.0,FC03,control,female,Session1,51920,111
+0355_FC03_Session1,0355,data/TORGO/FC/FC03/Session1/wav_headMic/0355.wav,This is not a program of socialized medicine,8.0,FC03,control,female,Session1,87360,164
+0341_FC03_Session1,0341,data/TORGO/FC/FC03/Session1/wav_headMic/0341.wav,The job provides many benefits,5.0,FC03,control,female,Session1,62400,132
+0356_FC03_Session1,0356,data/TORGO/FC/FC03/Session1/wav_headMic/0356.wav,This is not a program of socialized medicine,8.0,FC03,control,female,Session1,79600,167
+0155_FC03_Session1,0155,data/TORGO/FC/FC03/Session1/wav_headMic/0155.wav,Two other cases were also under advisement.,7.0,FC03,control,female,Session1,93360,120
+0167_FC02_Session3,0167,data/TORGO/FC/FC02/Session3/wav_headMic/0167.wav,The pair of shoes was new,6.0,FC02,control,female,Session3,55920,95
+0201_FC02_Session3,0201,data/TORGO/FC/FC02/Session3/wav_headMic/0201.wav,He is definitely a notch above us,7.0,FC02,control,female,Session3,64480,91
+0107_FC02_Session3,0107,data/TORGO/FC/FC02/Session3/wav_headMic/0107.wav,He further proposed grants of an unspecified sum for experimental hospitals,11.0,FC02,control,female,Session3,114000,170
+0329_FC02_Session3,0329,data/TORGO/FC/FC02/Session3/wav_headMic/0329.wav,The results were very disappointing,5.0,FC02,control,female,Session3,59520,94
+0240_FC02_Session3,0240,data/TORGO/FC/FC02/Session3/wav_headMic/0240.wav,Did dad do academic bidding,5.0,FC02,control,female,Session3,56640,130
+0122_FC02_Session3,0122,data/TORGO/FC/FC02/Session3/wav_headMic/0122.wav,Aluminum silverware can often be flimsy,6.0,FC02,control,female,Session3,91600,89
+0218_FC02_Session3,0218,data/TORGO/FC/FC02/Session3/wav_headMic/0218.wav,We have an excellent team,5.0,FC02,control,female,Session3,53200,151
+0142_FC02_Session3,0142,data/TORGO/FC/FC02/Session3/wav_headMic/0142.wav,The prospect of cutting back spending is an unpleasant one for any governor,13.0,FC02,control,female,Session3,102480,93
+0169_FC02_Session3,0169,data/TORGO/FC/FC02/Session3/wav_headMic/0169.wav,The hotel owner shrugged,4.0,FC02,control,female,Session3,50240,140
+0343_FC02_Session3,0343,data/TORGO/FC/FC02/Session3/wav_headMic/0343.wav,There was only one decision to be made,8.0,FC02,control,female,Session3,61840,86
+0046_FC01_Session1,0046,data/TORGO/FC/FC01/Session1/wav_headMic/0046.wav,"We have often urged him to walk more and smoke less,",11.0,FC01,control,female,Session1,102240,171
+0130_FC01_Session1,0130,data/TORGO/FC/FC01/Session1/wav_headMic/0130.wav,Mother sews yellow gingham aprons,5.0,FC01,control,female,Session1,68481,119
+0150_FC01_Session1,0150,data/TORGO/FC/FC01/Session1/wav_headMic/0150.wav,Their house is grey and white,6.0,FC01,control,female,Session1,64080,149
+0058_F03_Session3,0058,data/TORGO/F/F03/Session3/wav_headMic/0058.wav,Each one volunteered to jump first,6.0,F03,dysarthric,female,Session3,44000,85
+0065_F03_Session3,0065,data/TORGO/F/F03/Session3/wav_headMic/0065.wav,There was only one decision to be made,8.0,F03,dysarthric,female,Session3,41680,86
+0084_F03_Session3,0084,data/TORGO/F/F03/Session3/wav_headMic/0084.wav,There was only one decision to be made,8.0,F03,dysarthric,female,Session3,75680,88
+0090_F03_Session3,0090,data/TORGO/F/F03/Session3/wav_headMic/0090.wav,Aluminum silverware can often be flimsy,6.0,F03,dysarthric,female,Session3,66640,89
+0118_F03_Session3,0118,data/TORGO/F/F03/Session3/wav_headMic/0118.wav,He is definitely a notch above us,7.0,F03,dysarthric,female,Session3,64160,91
+0130_F03_Session3,0130,data/TORGO/F/F03/Session3/wav_headMic/0130.wav,The results were very disappointing,5.0,F03,dysarthric,female,Session3,49600,92
+0134_F03_Session3,0134,data/TORGO/F/F03/Session3/wav_headMic/0134.wav,The prospect of cutting back spending is an unpleasant one for any governor,13.0,F03,dysarthric,female,Session3,95521,93
+0055_F03_Session3,0055,data/TORGO/F/F03/Session3/wav_headMic/0055.wav,The results were very disappointing,5.0,F03,dysarthric,female,Session3,59200,94
+0121_F03_Session3,0121,data/TORGO/F/F03/Session3/wav_headMic/0121.wav,The pair of shoes was new,6.0,F03,dysarthric,female,Session3,36560,95
+0192_F03_Session3,0192,data/TORGO/F/F03/Session3/wav_headMic/0192.wav,"She wore warm, fleecy, woolen overalls",6.0,F03,dysarthric,female,Session3,71200,101
+0030_F03_Session3,0030,data/TORGO/F/F03/Session3/wav_headMic/0030.wav,I'm willing to experiment for the first time,8.0,F03,dysarthric,female,Session3,68240,102
+0197_F03_Session3,0197,data/TORGO/F/F03/Session3/wav_headMic/0197.wav,Being able to dance can help too,7.0,F03,dysarthric,female,Session3,48240,106
+0028_F03_Session2,0028,data/TORGO/F/F03/Session2/wav_headMic/0028.wav,Where were you while we were away?,7.0,F03,dysarthric,female,Session2,53920,111
+0055_F03_Session2,0055,data/TORGO/F/F03/Session2/wav_headMic/0055.wav,Mother sews yellow gingham aprons,5.0,F03,dysarthric,female,Session2,92801,119
+0033_F03_Session2,0033,data/TORGO/F/F03/Session2/wav_headMic/0033.wav,Two other cases were also under advisement.,7.0,F03,dysarthric,female,Session2,78640,120
+0207_F04_Session2,0207,data/TORGO/F/F04/Session2/wav_headMic/0207.wav,Did dad do academic bidding,5.0,F04,dysarthric,female,Session2,76000,130
+0159_F04_Session2,0159,data/TORGO/F/F04/Session2/wav_headMic/0159.wav,The job provides many benefits,5.0,F04,dysarthric,female,Session2,112240,132
+0214_F04_Session2,0214,data/TORGO/F/F04/Session2/wav_headMic/0214.wav,The prospect of cutting back spending is an unpleasant one for any governor,13.0,F04,dysarthric,female,Session2,122401,138
+0217_F04_Session2,0217,data/TORGO/F/F04/Session2/wav_headMic/0217.wav,The hotel owner shrugged,4.0,F04,dysarthric,female,Session2,54880,140
+0203_F04_Session2,0203,data/TORGO/F/F04/Session2/wav_headMic/0203.wav,We rode horseback to the farm,6.0,F04,dysarthric,female,Session2,59600,141
+0028_F04_Session2,0028,data/TORGO/F/F04/Session2/wav_headMic/0028.wav,I tried to tell people in the community,8.0,F04,dysarthric,female,Session2,73121,142
+0052_F04_Session2,0052,data/TORGO/F/F04/Session2/wav_headMic/0052.wav,Their house is grey and white,6.0,F04,dysarthric,female,Session2,74160,149
+0244_F04_Session2,0244,data/TORGO/F/F04/Session2/wav_headMic/0244.wav,We have an excellent team,5.0,F04,dysarthric,female,Session2,61120,151
+0079_F04_Session2,0079,data/TORGO/F/F04/Session2/wav_headMic/0079.wav,Alfalfa is healthy for you,5.0,F04,dysarthric,female,Session2,75440,154
+0120_F04_Session2,0120,data/TORGO/F/F04/Session2/wav_headMic/0120.wav,Aluminum silverware can often be flimsy,6.0,F04,dysarthric,female,Session2,85600,157
+0243_F04_Session2,0243,data/TORGO/F/F04/Session2/wav_headMic/0243.wav,"Although always alone, we survive",5.0,F04,dysarthric,female,Session2,117440,158
+0144_F04_Session2,0144,data/TORGO/F/F04/Session2/wav_headMic/0144.wav,This is not a program of socialized medicine,8.0,F04,dysarthric,female,Session2,103521,164
+0143_F04_Session2,0143,data/TORGO/F/F04/Session2/wav_headMic/0143.wav,This is not a program of socialized medicine,8.0,F04,dysarthric,female,Session2,118400,167
+0183_F04_Session2,0183,data/TORGO/F/F04/Session2/wav_headMic/0183.wav,He further proposed grants of an unspecified sum for experimental hospitals,11.0,F04,dysarthric,female,Session2,159200,170
+0036_F01_Session1,0036,data/TORGO/F/F01/Session1/wav_headMic/0036.wav,"We have often urged him to walk more and smoke less,",11.0,F01,dysarthric,female,Session1,101109,171
+0170_MC02_Session1,0170,data/TORGO/MC/MC02/Session1/wav_headMic/0170.wav,You'd be better off taking a cold shower,8.0,MC02,control,male,Session1,76080,207
+0239_MC02_Session1,0239,data/TORGO/MC/MC02/Session1/wav_headMic/0239.wav,Mother sews yellow gingham aprons,5.0,MC02,control,male,Session1,79280,341
+0263_MC02_Session1,0263,data/TORGO/MC/MC02/Session1/wav_headMic/0263.wav,He further proposed grants of an unspecified sum for experimental hospitals,11.0,MC02,control,male,Session1,105680,347
+0088_MC02_Session1,0088,data/TORGO/MC/MC02/Session1/wav_headMic/0088.wav,"Well, he is nearly ninety-three years old;",7.0,MC02,control,male,Session1,68640,228
+0137_MC02_Session1,0137,data/TORGO/MC/MC02/Session1/wav_headMic/0137.wav,Why yell or worry over silly items?,7.0,MC02,control,male,Session1,68080,200
+0320_MC02_Session1,0320,data/TORGO/MC/MC02/Session1/wav_headMic/0320.wav,The dolphins swam around our boat,6.0,MC02,control,male,Session1,74480,188
+0225_MC02_Session1,0225,data/TORGO/MC/MC02/Session1/wav_headMic/0225.wav,One validated acts of school districts.,6.0,MC02,control,male,Session1,82720,201
+0235_MC02_Session1,0235,data/TORGO/MC/MC02/Session1/wav_headMic/0235.wav,I feel I can play this weekend,7.0,MC02,control,male,Session1,68240,300
+0022_MC02_Session1,0022,data/TORGO/MC/MC02/Session1/wav_headMic/0022.wav,"but he always answers, ""Banana oil!""",6.0,MC02,control,male,Session1,76240,175
+0415_MC04_Session1,0415,data/TORGO/MC/MC04/Session1/wav_headMic/0415.wav,"Although always alone, we survive",5.0,MC04,control,male,Session1,61600,350
+0167_MC04_Session1,0167,data/TORGO/MC/MC04/Session1/wav_headMic/0167.wav,One validated acts of school districts.,6.0,MC04,control,male,Session1,61200,322
+0012_MC04_Session1,0012,data/TORGO/MC/MC04/Session1/wav_headMic/0012.wav,Don't ask me to carry an oily rag like that,10.0,MC04,control,male,Session1,65920,253
+0200_MC04_Session1,0200,data/TORGO/MC/MC04/Session1/wav_headMic/0200.wav,Are your grades higher or lower than Nancy's?,8.0,MC04,control,male,Session1,61680,211
+0072_MC04_Session1,0072,data/TORGO/MC/MC04/Session1/wav_headMic/0072.wav,"he dresses himself in an ancient black frock coat,",9.0,MC04,control,male,Session1,72880,310
+0310_MC04_Session1,0310,data/TORGO/MC/MC04/Session1/wav_headMic/0310.wav,Day after day some new episode is reported,8.0,MC04,control,male,Session1,58080,348
+0105_MC04_Session1,0105,data/TORGO/MC/MC04/Session1/wav_headMic/0105.wav,"Well, he is nearly ninety-three years old;",7.0,MC04,control,male,Session1,65280,235
+0466_MC04_Session1,0466,data/TORGO/MC/MC04/Session1/wav_headMic/0466.wav,Beg that guard for one gallon of gas,8.0,MC04,control,male,Session1,69680,340
+0249_MC04_Session1,0249,data/TORGO/MC/MC04/Session1/wav_headMic/0249.wav,"If you destroy confidence in banks, you do something to the economy, he said",14.0,MC04,control,male,Session1,91520,255
+0498_MC04_Session1,0498,data/TORGO/MC/MC04/Session1/wav_headMic/0498.wav,Only lawyers love millionaires,4.0,MC04,control,male,Session1,49360,234
+0333_MC04_Session1,0333,data/TORGO/MC/MC04/Session1/wav_headMic/0333.wav,The job provides many benefits,5.0,MC04,control,male,Session1,44800,281
+0327_MC04_Session1,0327,data/TORGO/MC/MC04/Session1/wav_headMic/0327.wav,This is a period of transition for me,8.0,MC04,control,male,Session1,57840,187
+0326_MC04_Session1,0326,data/TORGO/MC/MC04/Session1/wav_headMic/0326.wav,Aluminum silverware can often be flimsy,6.0,MC04,control,male,Session1,61360,288
+0030_MC04_Session1,0030,data/TORGO/MC/MC04/Session1/wav_headMic/0030.wav,Grandfather likes to be modern in his language,8.0,MC04,control,male,Session1,63520,178
+0178_MC04_Session1,0178,data/TORGO/MC/MC04/Session1/wav_headMic/0178.wav,Mother sews yellow gingham aprons,5.0,MC04,control,male,Session1,64080,313
+0436_MC04_Session1,0436,data/TORGO/MC/MC04/Session1/wav_headMic/0436.wav,Each one volunteered to jump first,6.0,MC04,control,male,Session1,60560,226
+0027_MC04_Session1,0027,data/TORGO/MC/MC04/Session1/wav_headMic/0027.wav,"When he speaks, his voice is just a bit cracked and quivers a trifle",14.0,MC04,control,male,Session1,87360,172
+0036_MC04_Session1,0036,data/TORGO/MC/MC04/Session1/wav_headMic/0036.wav,The quick brown fox jumps over the lazy dog,9.0,MC04,control,male,Session1,74320,182
+0361_MC03_Session1,0361,data/TORGO/MC/MC03/Session1/wav_headMic/0361.wav,The job provides many benefits,5.0,MC03,control,male,Session1,49360,280
+0216_MC03_Session1,0216,data/TORGO/MC/MC03/Session1/wav_headMic/0216.wav,All the big baseball players get traded,7.0,MC03,control,male,Session1,60000,206
+0064_MC03_Session1,0064,data/TORGO/MC/MC03/Session1/wav_headMic/0064.wav,usually minus several buttons;,4.0,MC03,control,male,Session1,55760,264
+0005_M01_Session1,0005,data/TORGO/M/M01/Session1/wav_headMic/0005.wav,"When he speaks, his voice is just a bit cracked and quivers a trifle",14.0,M01,dysarthric,male,Session1,193201,172
+0040_M01_Session1,0040,data/TORGO/M/M01/Session1/wav_headMic/0040.wav,"but he always answers, ""Banana oil!""",6.0,M01,dysarthric,male,Session1,121680,175
+0009_M01_Session1,0009,data/TORGO/M/M01/Session1/wav_headMic/0009.wav,Grandfather likes to be modern in his language,8.0,M01,dysarthric,male,Session1,136640,178
+0013_M01_Session2_3,0013,data/TORGO/M/M01/Session2_3/wav_headMic/0013.wav,The quick brown fox jumps over the lazy dog,9.0,M01,dysarthric,male,Session2_3,125801,182
+0202_M01_Session2_3,0202,data/TORGO/M/M01/Session2_3/wav_headMic/0202.wav,This is a period of transition for me,8.0,M01,dysarthric,male,Session2_3,116741,187
+0174_M01_Session2_3,0174,data/TORGO/M/M01/Session2_3/wav_headMic/0174.wav,The dolphins swam around our boat,6.0,M01,dysarthric,male,Session2_3,105646,188
+0127_M01_Session2_3,0127,data/TORGO/M/M01/Session2_3/wav_headMic/0127.wav,Why yell or worry over silly items?,7.0,M01,dysarthric,male,Session2_3,100246,200
+0045_M01_Session2_3,0045,data/TORGO/M/M01/Session2_3/wav_headMic/0045.wav,One validated acts of school districts.,6.0,M01,dysarthric,male,Session2_3,118741,201
+0121_M01_Session2_3,0121,data/TORGO/M/M01/Session2_3/wav_headMic/0121.wav,All the big baseball players get traded,7.0,M01,dysarthric,male,Session2_3,106673,206
+0109_M01_Session2_3,0109,data/TORGO/M/M01/Session2_3/wav_headMic/0109.wav,You'd be better off taking a cold shower,8.0,M01,dysarthric,male,Session2_3,128671,207
+0056_M01_Session2_3,0056,data/TORGO/M/M01/Session2_3/wav_headMic/0056.wav,Are your grades higher or lower than Nancy's?,8.0,M01,dysarthric,male,Session2_3,112068,211
+0398_M03_Session2,0398,data/TORGO/M/M03/Session2/wav_headMic/0398.wav,Each one volunteered to jump first,6.0,M03,dysarthric,male,Session2,60000,226
+0013_M03_Session2,0013,data/TORGO/M/M03/Session2/wav_headMic/0013.wav,"Well, he is nearly ninety-three years old;",7.0,M03,dysarthric,male,Session2,61360,228
+0388_M03_Session2,0388,data/TORGO/M/M03/Session2/wav_headMic/0388.wav,Only lawyers love millionaires,4.0,M03,dysarthric,male,Session2,55200,234
+0014_M03_Session2,0014,data/TORGO/M/M03/Session2/wav_headMic/0014.wav,"Well, he is nearly ninety-three years old;",7.0,M03,dysarthric,male,Session2,74800,235
+0117_M03_Session2,0117,data/TORGO/M/M03/Session2/wav_headMic/0117.wav,Don't ask me to carry an oily rag like that,10.0,M03,dysarthric,male,Session2,66560,253
+0244_M03_Session2,0244,data/TORGO/M/M03/Session2/wav_headMic/0244.wav,"If you destroy confidence in banks, you do something to the economy, he said",14.0,M03,dysarthric,male,Session2,103520,255
+0057_M03_Session2,0057,data/TORGO/M/M03/Session2/wav_headMic/0057.wav,usually minus several buttons;,4.0,M03,dysarthric,male,Session2,59680,264
+0212_M02_Session2,0212,data/TORGO/M/M02/Session2/wav_headMic/0212.wav,The job provides many benefits,5.0,M02,dysarthric,male,Session2,104160,280
+0213_M02_Session2,0213,data/TORGO/M/M02/Session2/wav_headMic/0213.wav,The job provides many benefits,5.0,M02,dysarthric,male,Session2,126400,281
+0098_M02_Session2,0098,data/TORGO/M/M02/Session2/wav_headMic/0098.wav,Aluminum silverware can often be flimsy,6.0,M02,dysarthric,male,Session2,152240,288
+0173_M02_Session1,0173,data/TORGO/M/M02/Session1/wav_headMic/0173.wav,I feel I can play this weekend,7.0,M02,dysarthric,male,Session1,72007,300
+0044_M02_Session1,0044,data/TORGO/M/M02/Session1/wav_headMic/0044.wav,"he dresses himself in an ancient black frock coat,",9.0,M02,dysarthric,male,Session1,161923,310
+0226_M02_Session1,0226,data/TORGO/M/M02/Session1/wav_headMic/0226.wav,Mother sews yellow gingham aprons,5.0,M02,dysarthric,male,Session1,124309,313
+0222_M02_Session1,0222,data/TORGO/M/M02/Session1/wav_headMic/0222.wav,One validated acts of school districts.,6.0,M02,dysarthric,male,Session1,131726,322
+0321_M05_Session2,0321,data/TORGO/M/M05/Session2/wav_headMic/0321.wav,Beg that guard for one gallon of gas,8.0,M05,dysarthric,male,Session2,154160,340
+0043_M05_Session2,0043,data/TORGO/M/M05/Session2/wav_headMic/0043.wav,Mother sews yellow gingham aprons,5.0,M05,dysarthric,male,Session2,133920,341
+0146_M05_Session2,0146,data/TORGO/M/M05/Session2/wav_headMic/0146.wav,He further proposed grants of an unspecified sum for experimental hospitals,11.0,M05,dysarthric,male,Session2,307760,347
+0219_M05_Session2,0219,data/TORGO/M/M05/Session2/wav_headMic/0219.wav,Day after day some new episode is reported,8.0,M05,dysarthric,male,Session2,218480,348
+0382_M05_Session2,0382,data/TORGO/M/M05/Session2/wav_headMic/0382.wav,"Although always alone, we survive",5.0,M05,dysarthric,male,Session2,127840,350
